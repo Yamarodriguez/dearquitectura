@@ -31,4 +31,4 @@ Regenerar: `npm run generar`. Agentes: PROHIBIDO escribir ficheros.
 Fase actual: 4 hecha (informes/fase4.md). Siguiente: Fase 5 (formulario).
 Cambios aprobados por Yama: src/data/cambios-aprobados.json (se aplican al regenerar).
 Regenerar: `npm run generar` y `npm run todo`. Fallos del original: src/data/fallos-original.json.
-Pendiente de Yama: mensaje de privacidad de Google en AdSense (antes de lanzar), contacto, palabras prohibidas, diseño, GitHub. Ver informes/inventario.md.
+Pendiente de Yama: mensaje de privacidad de Google en AdSense (antes de lanzar), teléfono o WhatsApp si los quiere en la web, palabras prohibidas, GitHub.
