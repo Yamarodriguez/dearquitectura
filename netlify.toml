@@ -1,0 +1,67 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# --- Caché: estilos, tipografías y fotos no cambian de nombre al cambiar de contenido ---
+[[headers]]
+  for = "/estilos/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+[[headers]]
+  for = "/img/*"
+  [headers.values]
+    Cache-Control = "public, max-age=2592000"
+
+# --- Fase 7 (día del cambio de DNS): descomentar para que la copia de pruebas en
+# netlify.app redirija al dominio y Google no la vea como duplicada. Antes de ese día
+# NO: mandaría a la web vieja de WordPress.
+# [[redirects]]
+#   from = "https://NOMBRE-DEL-SITIO.netlify.app/*"
+#   to = "https://dearquitectura.info/:splat"
+#   status = 301
+#   force = true
+
+# --- Direcciones de la web antigua en WordPress ---
+# Las fotos tenían la ruta /wp-content/uploads/AAAA/MM/foto.jpg y ahora están en /img/AAAA/MM/.
+# Conserva el posicionamiento en Google Imágenes y los enlaces de otras webs.
+[[redirects]]
+  from = "/wp-content/uploads/*"
+  to = "/img/:splat"
+  status = 301
+
+# Mapas del sitio de Yoast que Google ya conoce -> el mapa nuevo.
+[[redirects]]
+  from = "/sitemap_index.xml"
+  to = "/sitemap.xml"
+  status = 301
+[[redirects]]
+  from = "/page-sitemap.xml"
+  to = "/sitemap.xml"
+  status = 301
+[[redirects]]
+  from = "/bppiv-image-viewer-sitemap.xml"
+  to = "/sitemap.xml"
+  status = 301
+
+# El visor 360 tenía su propia página en el plugin Panorama -> la página del tour virtual.
+[[redirects]]
+  from = "/panorama/salon/"
+  to = "/tour-virtual/"
+  status = 301
+[[redirects]]
+  from = "/panorama-viewer/salon/"
+  to = "/tour-virtual/"
+  status = 301
+
+# Feed de WordPress (no hay blog) -> portada.
+[[redirects]]
+  from = "/feed/*"
+  to = "/"
+  status = 301
+[[redirects]]
+  from = "/comments/feed/*"
+  to = "/"
+  status = 301
