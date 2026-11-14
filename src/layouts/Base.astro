@@ -21,8 +21,10 @@ interface Props {
   datos?: Record<string, unknown>[];
   migas?: Miga[];
   indexar?: boolean;
+  fechas?: { publicada?: string; modificada?: string }; // de WordPress, para WebPage
 }
-const { title, description = '', canonical, menu, logo, idPagina, imagen, ogTitulo, ogDescripcion, datos = [], migas = [], indexar = true } = Astro.props as Props;
+const { title, description = '', canonical, menu, logo, idPagina, imagen, ogTitulo, ogDescripcion, datos = [], migas = [], indexar = true, fechas } = Astro.props as Props;
+const iso = (f?: string) => (f && /^\d{4}-\d\d-\d\d/.test(f) ? f.replace(' ', 'T') + 'Z' : undefined);
 const dominio = `https://${site.dominio}`;
 const ruta = canonical.replace(/^https?:\/\/[^/]+/, '') || '/';
 const imagenAbsoluta = imagen ? (imagen.startsWith('http') ? imagen : `${dominio}${imagen}`) : '';
@@ -43,7 +45,7 @@ const empresa: Record<string, unknown> = {
 const grafo: Record<string, unknown>[] = [
   empresa,
   { '@type': 'WebSite', '@id': `${dominio}/#web`, url: `${dominio}/`, name: site.nombre, inLanguage: 'es', publisher: { '@id': `${dominio}/#empresa` } },
-  { '@type': 'WebPage', '@id': `${canonical}#pagina`, url: canonical, name: title, ...(description ? { description } : {}), isPartOf: { '@id': `${dominio}/#web` }, inLanguage: 'es', ...(migas.length > 1 ? { breadcrumb: { '@id': `${canonical}#migas` } } : {}) },
+  { '@type': 'WebPage', '@id': `${canonical}#pagina`, url: canonical, name: title, ...(description ? { description } : {}), isPartOf: { '@id': `${dominio}/#web` }, inLanguage: 'es', ...(iso(fechas?.publicada) ? { datePublished: iso(fechas?.publicada) } : {}), ...(iso(fechas?.modificada) ? { dateModified: iso(fechas?.modificada) } : {}), ...(migas.length > 1 ? { breadcrumb: { '@id': `${canonical}#migas` } } : {}) },
   ...(migas.length > 1 ? [{ '@type': 'BreadcrumbList', '@id': `${canonical}#migas`, itemListElement: migas.map((m, i) => ({ '@type': 'ListItem', position: i + 1, name: m.nombre, item: m.url })) }] : []),
   ...datos,
 ];

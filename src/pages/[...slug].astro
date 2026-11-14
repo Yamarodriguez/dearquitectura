@@ -7,6 +7,8 @@ import Nodo from '../components/elementor/Nodo.astro';
 import Resumen from '../components/Resumen.astro';
 import { seoDe } from '../lib/seo';
 import { migasDe } from '../lib/migas';
+import { faqDe, faqJsonLd } from '../lib/faq';
+import { textoLegal } from '../lib/legales';
 
 export async function getStaticPaths() {
   const files = import.meta.glob('../content/pages/*.json', { eager: true });
@@ -21,7 +23,9 @@ const seo = seoDe(data.slug);
 const h1 = data.blocks.find((b: any) => b.type === 'heading' && b.tag === 'h1');
 const nombre = (h1?.text || data.title).replace(/<[^>]+>/g, '');
 const r = data.resumen;
-const datos = r ? [{ '@type': 'Service', serviceType: r.tipo, areaServed: r.area, description: r.descripcion, provider: { '@id': 'https://dearquitectura.info/#empresa' }, ...(r.imagen ? { image: `https://dearquitectura.info${r.imagen}` } : {}) }] : [];
+const legal = data.legal ? textoLegal(data.slug) : null;
+const servicio = r ? [{ '@type': 'Service', serviceType: r.tipo, areaServed: r.area, description: r.descripcion, provider: { '@id': 'https://dearquitectura.info/#empresa' }, ...(r.imagen ? { image: `https://dearquitectura.info${r.imagen}` } : {}) }] : [];
+const datos = [...servicio, ...faqJsonLd(faqDe(data.blocks), data.url)];
 ---
 <Base
   title={seo.titulo || data.title}
@@ -33,15 +37,16 @@ const datos = r ? [{ '@type': 'Service', serviceType: r.tipo, areaServed: r.area
   imagen={seo.imagen}
   ogTitulo={seo.ogTitulo}
   ogDescripcion={seo.ogDescripcion}
-  migas={migasDe(data.url, nombre)}
+  migas={migasDe(data.url, nombre, data.menu)}
+  fechas={{ publicada: data.fecha_gmt, modificada: data.modificada_gmt }}
   indexar={!seo.noindex}
   datos={datos}
 >
   {data.h1_es_titulo && <h1 class="h1-titulo">{data.title}</h1>}
   {data.legal ? (
     <>
-      <h1 class="h1-titulo">{data.title}</h1>
-      {data.html ? <Fragment set:html={data.html} /> : <p class="pendiente">Texto pendiente (Fase 4: se redacta con los datos reales del titular).</p>}
+      <h1 class={legal ? undefined : 'h1-titulo'}>{data.title}</h1>
+      {legal ? <Fragment set:html={legal} /> : <p class="pendiente">Texto pendiente: se publica en cuanto estén los datos del titular.</p>}
     </>
   ) : (
     <div data-elementor-type="wp-page" data-elementor-id={data.id} class={`elementor elementor-${data.id}`}>

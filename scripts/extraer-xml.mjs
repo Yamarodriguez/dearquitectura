@@ -71,6 +71,7 @@ for (const it of items) {
     logo: meta.ocean_custom_logo && adjuntos[meta.ocean_custom_logo] ? foto(adjuntos[meta.ocean_custom_logo]) : '',
     foto_destacada: meta._thumbnail_id && adjuntos[meta._thumbnail_id] ? foto(adjuntos[meta._thumbnail_id]) : '',
     fecha: tag(it, 'wp:post_date'), modificada: tag(it, 'wp:post_modified'),
+    fecha_gmt: tag(it, 'wp:post_date_gmt'), modificada_gmt: tag(it, 'wp:post_modified_gmt'), // en hora UTC, para los datos estructurados
   };
   if (base.foto_destacada) fotos.add(base.foto_destacada);
   if (base.logo) fotos.add(base.logo);

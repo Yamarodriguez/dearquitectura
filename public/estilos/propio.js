@@ -43,6 +43,15 @@
     fondos.forEach(function (f) { obs.observe(f); });
   } else fondos.forEach(function (f) { f.classList.add('e-lazyloaded'); });
 
+  // «Personalizar cookies»: vuelve a abrir el mensaje de privacidad de Google (cuando esté activo)
+  document.querySelectorAll('[data-revisar-cookies]').forEach(function (b) {
+    b.addEventListener('click', function () {
+      window.googlefc = window.googlefc || {}; window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
+      if (window.googlefc.showRevocationMessage) window.googlefc.callbackQueue.push(window.googlefc.showRevocationMessage);
+      else alert('El mensaje de privacidad aún no está disponible. Puedes gestionar las cookies desde los ajustes de tu navegador.');
+    });
+  });
+
   // Botón de subir arriba
   var arriba = document.getElementById('scroll-top');
   if (arriba) {

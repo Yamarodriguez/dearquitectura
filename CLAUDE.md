@@ -10,7 +10,7 @@ Cada informe dice el estado (local / commit / main desplegado).
 - D3 Diseño: COPIA EXACTA del original (Yama: «cópiala igual»). Estilos de OceanWP + Elementor bajados (public/estilos/), árbol de Elementor por página. Ver informes/fase3.md.
 - D4 DNS: se quedan en OVH; el correo (OVH) no se toca.
 - D5 Países: todo en la raíz y en castellano, como ahora; ninguna URL se mueve.
-- D6 Páginas de ciudad: no se fusionan ni se redirigen (revisar en Fase 4 por la caída de tráfico).
+- D6 Páginas de ciudad: de momento no se tocan. OJO: las 241 renders-* comparten el 84 % del texto (probable causa de la caída); decide Yama.
 - D7 H1: si Elementor no tiene H1, el H1 es el título (17 páginas), oculto a la vista para no cambiar el diseño.
 - D8 Fotos: a `/img/` solo con 301 desde `/wp-content/uploads/`.
 
@@ -28,6 +28,6 @@ Nada inventado. Lo nuevo desde src/data/. `npm run todo` y `todo:visual` a 0.
 Regenerar: `npm run generar`. Agentes: PROHIBIDO escribir ficheros.
 
 ## Estado
-Fase actual: 3 hecha (copia exacta, `npm run todo` y `todo:visual` a 0). Siguiente: Fase 4 (contenido nuevo y SEO).
+Fase actual: 4 a medias (informes/fase4.md): FAQ, migas, fechas, llms.txt y legales (sin publicar hasta tener titular) hechos. Esperando decisiones de Yama.
 Regenerar: `npm run generar` y `npm run todo`. Fallos del original: src/data/fallos-original.json.
 Pendiente de Yama: botones rotos (5), titular legales, contacto, palabras prohibidas, diseño, GitHub. Ver informes/inventario.md.
