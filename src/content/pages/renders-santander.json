@@ -444,7 +444,7 @@
   {
    "type": "image",
    "src": "/img/2024/01/precio-render.jpg",
-   "alt": "",
+   "alt": "precio-render",
    "href": "/precio-render/",
    "s": 21
   },
@@ -544,7 +544,7 @@
   {
    "type": "image",
    "src": "/img/2024/05/curso-de-renders.webp",
-   "alt": "curso-de-renders",
+   "alt": "",
    "href": "/cursos-de-renders/",
    "s": 25
   },
@@ -617,7 +617,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-y-diseno.jpg",
-   "alt": "",
+   "alt": "arquitectura-y-diseño",
    "s": 29
   },
   {
@@ -769,7 +769,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Construccion-arquitectura.jpg",
-   "alt": "",
+   "alt": "Construcción-arquitectura",
    "href": "/construccion/",
    "s": 43
   },
@@ -794,7 +794,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/reforma.jpg",
-   "alt": "",
+   "alt": "reforma",
    "href": "/reformas/",
    "s": 43
   },
@@ -819,7 +819,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Disenos-arquitectonicos.jpg",
-   "alt": "",
+   "alt": "Diseños-arquitectónicos",
    "href": "/disenos-arquitectonicos/",
    "s": 43
   },
@@ -844,7 +844,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/interiorismo-y-decoracion.jpg",
-   "alt": "",
+   "alt": "interiorismo-y-decoración",
    "href": "/interiorismo/",
    "s": 43
   },
@@ -863,7 +863,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/empresa-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "empresa-de-arquitectura",
    "href": "/empresas/",
    "s": 45
   },
@@ -950,7 +950,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/curso-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "curso-de-arquitectura",
    "href": "/cursos-de-arquitectura/",
    "s": 51
   },
@@ -994,7 +994,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-roma.jpg",
-   "alt": "",
+   "alt": "arquitectura-roma",
    "href": "/arquitectura-romana/",
    "s": 55
   },
@@ -1008,7 +1008,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-del-barroco.jpg",
-   "alt": "",
+   "alt": "arquitectura-del-barroco",
    "href": "/arquitectura-Barroca/",
    "s": 55
   },
@@ -1022,7 +1022,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Arquitectura-grecia.jpg",
-   "alt": "",
+   "alt": "Arquitectura-grecia",
    "href": "/arquitectura-griega/",
    "s": 55
   },
@@ -1036,7 +1036,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Gotica-arquitectura.jpg",
-   "alt": "",
+   "alt": "Gótica-arquitectura",
    "href": "/arquitectura-gotica/",
    "s": 55
   },
@@ -1050,7 +1050,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Moderna-arquitectura.jpg",
-   "alt": "",
+   "alt": "Moderna-arquitectura",
    "href": "/arquitectura-moderna/",
    "s": 55
   },
@@ -1064,7 +1064,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/neoclasica-arquitectura.jpg",
-   "alt": "",
+   "alt": "neoclásica-arquitectura",
    "href": "/arquitectura-neoclasica/",
    "s": 55
   },
@@ -1078,7 +1078,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/renacentista-arquitectura.jpg",
-   "alt": "",
+   "alt": "renacentista-arquitectura",
    "href": "/arquitectura-renacentista/",
    "s": 57
   },
@@ -1092,7 +1092,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-mayas.jpg",
-   "alt": "",
+   "alt": "arquitectura-mayas",
    "href": "/arquitectura-maya/",
    "s": 57
   },
@@ -1106,7 +1106,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arte-y-arquitectura-egipcia.jpg",
-   "alt": "",
+   "alt": "arte-y-arquitectura-egipcia",
    "href": "/arquitectura-egipcia/",
    "s": 57
   },
@@ -1119,7 +1119,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arte-y-arquitectura-azteca.jpg",
-   "alt": "",
+   "alt": "arte-y-arquitectura-azteca",
    "href": "/arquitectura-azteca/",
    "s": 57
   },
@@ -1133,7 +1133,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-incas.jpg",
-   "alt": "",
+   "alt": "arquitectura-incas",
    "href": "/arquitectura-incaica/",
    "s": 57
   },
@@ -1175,7 +1175,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/brutalismo-arquitectura.jpg",
-   "alt": "",
+   "alt": "brutalismo-arquitectura",
    "href": "/arquitectura-brutalista/",
    "s": 59
   },
@@ -1189,7 +1189,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/bizantino-arquitectura.jpg",
-   "alt": "",
+   "alt": "bizantino-arquitectura",
    "href": "/arquitectura-bizantina/",
    "s": 59
   },
@@ -1250,7 +1250,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Dibujo-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "Dibujo-de-arquitectura",
    "href": "/dibujos-de-arquitectura/",
    "s": 62
   },
@@ -1300,7 +1300,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/maqueta-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "maqueta-de-arquitectura",
    "href": "/maquetas-de-arquitectura/",
    "s": 68
   },
@@ -1425,7 +1425,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Programa-de-arquitectura.png",
-   "alt": "",
+   "alt": "Programa-de-arquitectura",
    "href": "/programas-de-arquitectura/",
    "s": 79
   },
@@ -1450,7 +1450,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/proyectos-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "proyectos-de-arquitectura",
    "href": "/proyectos-de-arquitectura/",
    "s": 81
   },
@@ -1475,7 +1475,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/ia-arquitectura.jpg",
-   "alt": "",
+   "alt": "ia-arquitectura",
    "href": "/inteligencia-artificial-arquitectura/",
    "s": 83
   },

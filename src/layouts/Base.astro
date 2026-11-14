@@ -1,0 +1,81 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import site from '../data/site.json';
+import type { Miga } from '../lib/migas';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  canonical: string;
+  menu?: string;
+  imagen?: string;
+  ogTitulo?: string;
+  ogDescripcion?: string;
+  datos?: Record<string, unknown>[];
+  migas?: Miga[];
+  indexar?: boolean; // false en las que no deben salir en Google (legales como en el original, gracias, 404)
+}
+const { title, description = '', canonical, menu, imagen, ogTitulo, ogDescripcion, datos = [], migas = [], indexar = true } = Astro.props as Props;
+const dominio = `https://${site.dominio}`;
+const imagenAbsoluta = imagen ? (imagen.startsWith('http') ? imagen : `${dominio}${imagen}`) : '';
+// Hasta la Fase 7 (site.indexar = false) ninguna página sale en Google.
+const noindex = !indexar || !site.indexar;
+
+const empresa: Record<string, unknown> = {
+  '@type': 'Organization', '@id': `${dominio}/#empresa`, name: site.nombre, url: `${dominio}/`,
+  logo: { '@type': 'ImageObject', url: `${dominio}${site.logo.src}`, width: site.logo.w, height: site.logo.h },
+  description: site.descripcion,
+  ...(site.correo ? { email: site.correo } : {}),
+  ...(site.telefono ? { telephone: site.telefono } : {}),
+};
+const grafo: Record<string, unknown>[] = [
+  empresa,
+  { '@type': 'WebSite', '@id': `${dominio}/#web`, url: `${dominio}/`, name: site.nombre, inLanguage: 'es', publisher: { '@id': `${dominio}/#empresa` } },
+  { '@type': 'WebPage', '@id': `${canonical}#pagina`, url: canonical, name: title, ...(description ? { description } : {}), isPartOf: { '@id': `${dominio}/#web` }, inLanguage: 'es', ...(migas.length > 1 ? { breadcrumb: { '@id': `${canonical}#migas` } } : {}) },
+  ...(migas.length > 1 ? [{ '@type': 'BreadcrumbList', '@id': `${canonical}#migas`, itemListElement: migas.map((m, i) => ({ '@type': 'ListItem', position: i + 1, name: m.nombre, item: m.url })) }] : []),
+  ...datos,
+];
+const jsonld = JSON.stringify({ '@context': 'https://schema.org', '@graph': grafo });
+---
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {site.analytics.ga4 && <script async src={`https://www.googletagmanager.com/gtag/js?id=${site.analytics.ga4}`}></script>}
+    {site.analytics.ga4 && <script is:inline set:html={`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${site.analytics.ga4}');`} />}
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="canonical" href={canonical} />
+    {site.bing && <meta name="msvalidate.01" content={site.bing} />}
+    {site.analytics.adsense && <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.analytics.adsense}`} crossorigin="anonymous"></script>}
+    {noindex && <meta name="robots" content="noindex, follow" />}
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="es_ES" />
+    <meta property="og:site_name" content={site.nombre} />
+    <meta property="og:title" content={ogTitulo || title} />
+    {(ogDescripcion || description) && <meta property="og:description" content={ogDescripcion || description} />}
+    <meta property="og:url" content={canonical} />
+    {imagenAbsoluta && <meta property="og:image" content={imagenAbsoluta} />}
+    <meta name="twitter:card" content={imagenAbsoluta ? 'summary_large_image' : 'summary'} />
+    <script type="application/ld+json" set:html={jsonld} />
+  </head>
+  <body>
+    <Header menu={menu} />
+    {migas.length > 1 && (
+      <nav class="migas" aria-label="Estás en">
+        <ol>
+          {migas.map((m, i) => i < migas.length - 1
+            ? <li><a href={m.url.replace(/^https?:\/\/[^/]+/, '')}>{m.nombre}</a></li>
+            : <li aria-current="page">{m.nombre}</li>)}
+        </ol>
+      </nav>
+    )}
+    <main id="contenido">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

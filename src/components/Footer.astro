@@ -1,0 +1,16 @@
+---
+// Pie: los mismos enlaces que el pie de la web original (src/data/menus.json → pie),
+// en el mismo orden. Diseño provisional de la Fase 2.
+import menusData from '../data/menus.json';
+import site from '../data/site.json';
+const pie = ((menusData as Record<string, any[]>).pie ?? []);
+const year = new Date().getFullYear();
+---
+<footer class="pie">
+  <div class="pie-in">
+    <ul class="pie-enlaces">
+      {pie.map((i: any) => <li><a href={i.url}>{i.label}</a></li>)}
+    </ul>
+    <p class="pie-base">© {year} {site.nombre}{site.correo && <> · <a href={`mailto:${site.correo}`}>{site.correo}</a></>}</p>
+  </div>
+</footer>

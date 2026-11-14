@@ -1,0 +1,60 @@
+---
+// Cabecera: logo, menú real de cada página (src/data/menus.json, con sus
+// submenús anidados) y correo de la barra superior, como en el original.
+// Va dentro de un shadow DOM declarativo: es HTML normal (Google lo lee y los
+// enlaces funcionan), pero los anuncios automáticos de AdSense no pueden
+// meterse entre el logo y el menú (lo que pasó en contenedoresmaritimos).
+import menusData from '../data/menus.json';
+import site from '../data/site.json';
+import estilos from '../styles/cabecera.css?raw';
+
+interface Props { menu?: string }
+const { menu } = Astro.props as Props;
+const menus = menusData as Record<string, any[]>;
+const items = menus[menu || 'principal'] ?? menus.principal;
+const esc = (t = '') => String(t).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+const lista = (arr: any[], nivel: number): string => arr.map((i) => {
+  const sub = i.children?.length ? `<ul class="sub sub-${nivel}">${lista(i.children, nivel + 1)}</ul>` : '';
+  return `<li${sub ? ' class="con-sub"' : ''}><a href="${esc(i.url)}">${esc(i.label)}</a>${sub}</li>`;
+}).join('');
+const interior = `<style>${estilos}</style>
+<div class="fila">
+  <a href="/" class="logo" aria-label="${esc(site.nombre)}"><img src="${site.logo.src}" alt="${esc(site.logo.alt)}" width="${site.logo.w}" height="${site.logo.h}" /></a>
+  <button class="boton-menu" aria-expanded="false" aria-controls="site-navigation" aria-label="Abrir menú"><span></span><span></span><span></span></button>
+  <nav aria-label="Menú principal" id="site-navigation" class="nav">
+    <ul class="menu">${lista(items, 1)}</ul>
+  </nav>
+</div>`;
+---
+{site.correo && (
+  <div class="barra-sup"><div class="barra-sup-in"><a href={`mailto:${site.correo}`}>{site.correo}</a></div></div>
+)}
+<header class="cabecera">
+  <template shadowrootmode="open" set:html={interior}></template>
+</header>
+<script is:inline>
+  (function () {
+    var host = document.querySelector('.cabecera');
+    if (!host) return;
+    if (!host.shadowRoot) {
+      var t = host.querySelector('template[shadowrootmode]');
+      if (t) { host.attachShadow({ mode: 'open' }).appendChild(t.content); t.remove(); }
+    }
+    var raiz = host.shadowRoot;
+    if (!raiz) return;
+    var boton = raiz.querySelector('.boton-menu');
+    var nav = raiz.querySelector('.nav');
+    if (boton && nav) boton.addEventListener('click', function () {
+      var abierto = nav.classList.toggle('abierto');
+      boton.setAttribute('aria-expanded', abierto ? 'true' : 'false');
+    });
+    // En móvil, un submenú se abre tocando el padre en vez de con :hover
+    raiz.querySelectorAll('li.con-sub > a').forEach(function (a) {
+      a.addEventListener('click', function (e) {
+        if (!window.matchMedia('(max-width: 1100px)').matches) return;
+        var li = a.parentElement;
+        if (li && !li.classList.contains('abierto')) { e.preventDefault(); li.classList.add('abierto'); }
+      });
+    });
+  })();
+</script>

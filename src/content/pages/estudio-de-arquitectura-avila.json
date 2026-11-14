@@ -13,6 +13,13 @@
  "modificada": "2025-06-01 16:06:26",
  "h1_es_titulo": false,
  "fondos": [],
+ "resumen": {
+  "imagen": "/img/2024/03/estudio-de-arquitectura-avila.webp",
+  "tipo": "Estudio de Arquitectura en Ávila",
+  "proveedor": "Arquitectura Ávila",
+  "area": "Ávila",
+  "descripcion": "estudio de arquitectura Ávila e interiorismo que ofrece una plataforma online donde podrás encontrar arquitectos e interioristas profesionales. Nuestros servicios incluyen diseño 3D, renderizado, planificación, anteproyectos, proyectos, reforma y construcción. Además, contamos con un blog donde podrás consultar ideas y noticias arquitectónicas."
+ },
  "blocks": [
   {
    "type": "heading",
@@ -41,7 +48,7 @@
   {
    "type": "image",
    "src": "/img/2024/03/estudio-de-arquitectura-avila.webp",
-   "alt": "estudio-de-arquitectura-Ávila",
+   "alt": "estudio-de-arquitectura-avila",
    "s": 0
   },
   {
@@ -92,7 +99,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/renders-arquitectura.jpg",
-   "alt": "",
+   "alt": "renders-arquitectura",
    "href": "/renders/",
    "s": 5
   },
@@ -106,7 +113,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Arquitectura-Planos.jpg",
-   "alt": "",
+   "alt": "Arquitectura-Planos",
    "href": "/planos/",
    "s": 5
   },
@@ -120,7 +127,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/modelado-3D-arquitectura.jpg",
-   "alt": "",
+   "alt": "modelado-3D-arquitectura",
    "href": "/modelado-3d/",
    "s": 5
   },
@@ -217,7 +224,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Construccion-arquitectura.jpg",
-   "alt": "",
+   "alt": "Construcción-arquitectura",
    "href": "/construccion/",
    "s": 9
   },
@@ -242,7 +249,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/reforma.jpg",
-   "alt": "",
+   "alt": "reforma",
    "href": "/reformas/",
    "s": 9
   },
@@ -267,7 +274,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Disenos-arquitectonicos.jpg",
-   "alt": "",
+   "alt": "Diseños-arquitectónicos",
    "href": "/disenos-arquitectonicos/",
    "s": 9
   },
@@ -292,7 +299,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/interiorismo-y-decoracion.jpg",
-   "alt": "",
+   "alt": "interiorismo-y-decoración",
    "href": "/interiorismo/",
    "s": 9
   },
@@ -428,7 +435,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-roma.jpg",
-   "alt": "",
+   "alt": "arquitectura-roma",
    "href": "/arquitectura-romana/",
    "s": 22
   },
@@ -442,7 +449,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-del-barroco.jpg",
-   "alt": "",
+   "alt": "arquitectura-del-barroco",
    "href": "/arquitectura-Barroca/",
    "s": 22
   },
@@ -456,7 +463,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Arquitectura-grecia.jpg",
-   "alt": "",
+   "alt": "Arquitectura-grecia",
    "href": "/arquitectura-griega/",
    "s": 22
   },
@@ -470,7 +477,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Gotica-arquitectura.jpg",
-   "alt": "",
+   "alt": "Gótica-arquitectura",
    "href": "/arquitectura-gotica/",
    "s": 22
   },
@@ -484,7 +491,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Moderna-arquitectura.jpg",
-   "alt": "",
+   "alt": "Moderna-arquitectura",
    "href": "/arquitectura-moderna/",
    "s": 22
   },
@@ -498,7 +505,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/neoclasica-arquitectura.jpg",
-   "alt": "",
+   "alt": "neoclásica-arquitectura",
    "href": "/arquitectura-neoclasica/",
    "s": 22
   },
@@ -512,7 +519,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/renacentista-arquitectura.jpg",
-   "alt": "",
+   "alt": "renacentista-arquitectura",
    "href": "/arquitectura-renacentista/",
    "s": 24
   },
@@ -526,7 +533,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-mayas.jpg",
-   "alt": "",
+   "alt": "arquitectura-mayas",
    "href": "/arquitectura-maya/",
    "s": 24
   },
@@ -540,7 +547,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arte-y-arquitectura-egipcia.jpg",
-   "alt": "",
+   "alt": "arte-y-arquitectura-egipcia",
    "href": "/arquitectura-egipcia/",
    "s": 24
   },
@@ -553,7 +560,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arte-y-arquitectura-azteca.jpg",
-   "alt": "",
+   "alt": "arte-y-arquitectura-azteca",
    "href": "/arquitectura-azteca/",
    "s": 24
   },
@@ -567,7 +574,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-incas.jpg",
-   "alt": "",
+   "alt": "arquitectura-incas",
    "href": "/arquitectura-incaica/",
    "s": 24
   },
@@ -609,7 +616,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/brutalismo-arquitectura.jpg",
-   "alt": "",
+   "alt": "brutalismo-arquitectura",
    "href": "/arquitectura-brutalista/",
    "s": 26
   },
@@ -623,7 +630,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/bizantino-arquitectura.jpg",
-   "alt": "",
+   "alt": "bizantino-arquitectura",
    "href": "/arquitectura-bizantina/",
    "s": 26
   },
@@ -721,7 +728,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Dibujo-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "Dibujo-de-arquitectura",
    "href": "/dibujos-de-arquitectura/",
    "s": 32
   },
@@ -864,7 +871,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/maqueta-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "maqueta-de-arquitectura",
    "href": "/maquetas-de-arquitectura/",
    "s": 42
   },
@@ -889,7 +896,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/empresa-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "empresa-de-arquitectura",
    "href": "/empresas/",
    "s": 44
   },
@@ -1001,7 +1008,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/curso-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "curso-de-arquitectura",
    "href": "/cursos-de-arquitectura/",
    "s": 53
   },
@@ -1063,7 +1070,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Programa-de-arquitectura.png",
-   "alt": "",
+   "alt": "Programa-de-arquitectura",
    "href": "/programas-de-arquitectura/",
    "s": 57
   },
@@ -1088,7 +1095,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/proyectos-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "proyectos-de-arquitectura",
    "href": "/proyectos-de-arquitectura/",
    "s": 59
   },
@@ -1113,7 +1120,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/ia-arquitectura.jpg",
-   "alt": "",
+   "alt": "ia-arquitectura",
    "s": 61
   },
   {

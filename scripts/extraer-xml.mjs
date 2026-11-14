@@ -35,7 +35,15 @@ const items = xml.split('<item>').slice(1).map((r) => r.slice(0, r.indexOf('</it
 const menuPorId = {};
 for (const m of xml.matchAll(/<wp:term><wp:term_id>(\d+)<\/wp:term_id><wp:term_taxonomy>nav_menu<\/wp:term_taxonomy><wp:term_slug><!\[CDATA\[([^\]]*)\]\]>/g)) menuPorId[m[1]] = m[2];
 const adjuntos = {};
-for (const it of items) if (tag(it, 'wp:post_type') === 'attachment') adjuntos[tag(it, 'wp:post_id')] = tag(it, 'wp:attachment_url');
+// El alt que pinta WordPress es el de la biblioteca de medios (_wp_attachment_image_alt),
+// no el que guarda el bloque de Elementor (casi siempre vacío).
+const altDe = {};
+for (const it of items) if (tag(it, 'wp:post_type') === 'attachment') {
+  const id = tag(it, 'wp:post_id');
+  adjuntos[id] = tag(it, 'wp:attachment_url');
+  altDe[id] = ent(metas(it)._wp_attachment_image_alt || '');
+}
+const alt = (img = {}) => (img.id && altDe[img.id] !== undefined ? altDe[img.id] : ent(img.alt || ''));
 
 const outDir = 'src/content/pages';
 fs.rmSync(outDir, { recursive: true, force: true });
@@ -43,6 +51,7 @@ fs.mkdirSync(outDir, { recursive: true });
 fs.mkdirSync('informes', { recursive: true });
 
 const estructura = {}, contenido = {}, legales = {};
+const resumen_otros = {};
 const desconocidos = {}, fotos = new Set(), resumen = { paginas: 0, bloques: {}, sinH1: [], variosH1: [], vacias: [] };
 
 for (const it of items) {
@@ -99,7 +108,7 @@ for (const it of items) {
       }
       case 'image': {
         const u = st.image?.url; if (!u) break;
-        const b = { type: 'image', src: foto(u), alt: ent(st.image.alt || '') };
+        const b = { type: 'image', src: foto(u), alt: alt(st.image) };
         fotos.add(b.src);
         if (st.link_to === 'custom') { const href = enlace(st.link?.url); if (href) b.href = href; }
         else if (st.link_to === 'file') b.href = foto(u);
@@ -118,11 +127,15 @@ for (const it of items) {
       case 'google_maps': add({ type: 'map', address: st.address || '' }, s); break;
       case 'video': {
         const tipo = st.video_type || 'youtube';
+        if (tipo === 'hosted') { // vídeo subido a la propia web (mp4): se copia como las fotos
+          const u = foto(st.hosted_url?.url || ''); if (u) fotos.add(u);
+          add({ type: 'video', proveedor: 'hosted', url: u }, s); break;
+        }
         const u = st[`${tipo}_url`] || st.youtube_url || '';
-        add({ type: 'video', proveedor: tipo, url: u }, s); break;
+        add({ type: 'video', proveedor: tipo, url: typeof u === 'string' ? u : '' }, s); break;
       }
       case 'image-gallery': {
-        const imgs = (st.wp_gallery || []).map((g) => ({ src: foto(g.url) }));
+        const imgs = (st.wp_gallery || []).map((g) => ({ src: foto(g.url), alt: alt(g) }));
         imgs.forEach((g) => fotos.add(g.src));
         if (imgs.length) add({ type: 'gallery', images: imgs }, s); break;
       }
@@ -140,7 +153,14 @@ for (const it of items) {
   const h1 = blocks.filter((b) => b.type === 'heading' && b.tag === 'h1').length;
   if (!h1) resumen.sinH1.push(ruta);
   if (h1 > 1) resumen.variosH1.push(ruta);
-  const pag = { ...base, h1_es_titulo: !h1, fondos, blocks };
+  // Caja «Resumen» del plugin de fichas (All In One Schema, tipo 11 = servicio):
+  // en la web viva sale al final del contenido en 7 páginas de estudio por ciudad.
+  let ficha;
+  if (meta._bsf_post_type === '11' && meta._bsf_service_type) {
+    ficha = { imagen: foto(meta._bsf_service_image || ''), tipo: ent(meta._bsf_service_type), proveedor: ent(meta._bsf_service_provider || ''), area: ent(meta._bsf_service_area || ''), descripcion: ent(meta._bsf_service_desc || '') };
+    if (ficha.imagen) fotos.add(ficha.imagen);
+  } else if (meta._bsf_post_type && meta._bsf_post_type !== '0') resumen_otros[meta._bsf_post_type] = (resumen_otros[meta._bsf_post_type] || 0) + 1;
+  const pag = { ...base, h1_es_titulo: !h1, fondos, ...(ficha ? { resumen: ficha } : {}), blocks };
   fs.writeFileSync(path.join(outDir, slug + '.json'), JSON.stringify(pag, null, 1) + '\n');
   estructura[slug] = { title, url, headings: blocks.filter((b) => b.type === 'heading').map((b) => ({ tag: b.tag, text: b.text })) };
   contenido[slug] = { title, url, blocks };
@@ -160,6 +180,7 @@ Fichero: ${path.basename(XML)}
 - Sin H1 (D7, el H1 será el título): ${resumen.sinH1.length} → ${resumen.sinH1.join(' ')}
 - Con más de un H1: ${resumen.variosH1.join(' ') || 'ninguna'}
 - Widgets desconocidos: ${JSON.stringify(desconocidos)}
+- Cajas «Resumen» (servicio): ${Object.values(contenido).length ? fs.readdirSync(outDir).filter((f) => JSON.parse(fs.readFileSync(path.join(outDir, f), 'utf8')).resumen).length : 0} · otros tipos de ficha sin pintar: ${JSON.stringify(resumen_otros)}
 - Fotos distintas usadas: ${fotos.size}
 `;
 fs.writeFileSync('informes/extraccion.md', md);

@@ -13,7 +13,7 @@ const ORIGEN = 'https://dearquitectura.info/wp-content/uploads/';
 const rutas = new Set();
 const anadir = (u) => {
   if (!u) return;
-  const m = u.replace(/&amp;/g, '&').match(/(?:https?:)?\/\/(?:www\.)?dearquitectura\.info\/wp-content\/uploads\/([^"'\s?#)]+\.(?:jpe?g|png|webp|gif|svg|avif))/i)
+  const m = u.replace(/&amp;/g, '&').match(/(?:https?:)?\/\/(?:www\.)?dearquitectura\.info\/wp-content\/uploads\/([^"'\s?#)]+\.(?:jpe?g|png|webp|gif|svg|avif|mp4|webm))/i)
     || u.match(/^\/img\/([^"'\s?#)]+)$/);
   if (m) rutas.add(decodeURIComponent(m[1]));
 };

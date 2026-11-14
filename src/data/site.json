@@ -1,0 +1,20 @@
+{
+  "nombre": "DE Arquitectura",
+  "dominio": "dearquitectura.info",
+  "descripcion": "Estudio de arquitectura e interiorismo y plataforma online de arquitectos, renders y diseño 3D.",
+  "logo": { "src": "/img/2023/12/dearquitectura.jpg", "w": 810, "h": 450, "alt": "de-arquitectura" },
+  "correo": "Arquitectura@dearquitectura.info",
+  "telefono": "",
+  "whatsapp": "",
+  "horario": "",
+  "titular": { "nombre": "", "nif": "", "direccion": "" },
+  "analytics": {
+    "ga4": "",
+    "adsense": "",
+    "_pendiente": "En la web viva: GA4 G-SWJY3P4YRP y AdSense ca-pub-7333712322602518. Se activan en la Fase 3 (AdSense, para probar el diseño) y la Fase 7 (GA4), cuando Yama los confirme."
+  },
+  "indexar": false,
+  "_indexar": "false hasta la Fase 7: mientras se prepara, ninguna página sale en Google.",
+  "_nota": "El correo es el que la web viva enseña en la barra superior. Lo vacío está pendiente de Yama; no se inventa nada.",
+  "bing": ""
+}

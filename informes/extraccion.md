@@ -6,4 +6,5 @@ Fichero: dearquitecturainfo.WordPress.2026-11-14.xml
 - Sin H1 (D7, el H1 será el título): 17 → /arquitectos/ /arquitecto-tecnico/ /arquitecto-moderno/ /arquitectos-famosos/ /arquitecto-disenador/ /renderista/ /arquitecto-urbano/ /interiorista/ /paisajista/ /decorador/ /calculista/ /tipos-de-arquitectura/ /aparejadores/ /plataforma-arquitectura/ /arquitectos-de-interiores/ /despacho/ /oficina-de-arquitectura/
 - Con más de un H1: /agencia-de-diseno/
 - Widgets desconocidos: {}
-- Fotos distintas usadas: 807
+- Cajas «Resumen» (servicio): 7 · otros tipos de ficha sin pintar: {}
+- Fotos distintas usadas: 809

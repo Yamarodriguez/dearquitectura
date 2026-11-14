@@ -78,7 +78,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/renders-arquitectura.jpg",
-   "alt": "",
+   "alt": "renders-arquitectura",
    "href": "/renders/",
    "s": 3
   },
@@ -92,7 +92,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Arquitectura-Planos.jpg",
-   "alt": "",
+   "alt": "Arquitectura-Planos",
    "href": "/planos/",
    "s": 3
   },
@@ -106,7 +106,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/modelado-3D-arquitectura.jpg",
-   "alt": "",
+   "alt": "modelado-3D-arquitectura",
    "href": "/modelado-3d/",
    "s": 3
   },
@@ -346,7 +346,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-y-diseno.jpg",
-   "alt": "",
+   "alt": "arquitectura-y-diseño",
    "s": 19
   },
   {
@@ -397,7 +397,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-roma.jpg",
-   "alt": "",
+   "alt": "arquitectura-roma",
    "href": "/arquitectura-romana/",
    "s": 25
   },
@@ -410,7 +410,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-del-barroco.jpg",
-   "alt": "",
+   "alt": "arquitectura-del-barroco",
    "s": 25
   },
   {
@@ -422,7 +422,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Arquitectura-grecia.jpg",
-   "alt": "",
+   "alt": "Arquitectura-grecia",
    "s": 25
   },
   {
@@ -434,7 +434,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Gotica-arquitectura.jpg",
-   "alt": "",
+   "alt": "Gótica-arquitectura",
    "s": 25
   },
   {
@@ -446,7 +446,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Moderna-arquitectura.jpg",
-   "alt": "",
+   "alt": "Moderna-arquitectura",
    "s": 25
   },
   {
@@ -458,7 +458,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/neoclasica-arquitectura.jpg",
-   "alt": "",
+   "alt": "neoclásica-arquitectura",
    "s": 25
   },
   {
@@ -470,7 +470,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/renacentista-arquitectura.jpg",
-   "alt": "",
+   "alt": "renacentista-arquitectura",
    "s": 27
   },
   {
@@ -482,7 +482,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-mayas.jpg",
-   "alt": "",
+   "alt": "arquitectura-mayas",
    "s": 27
   },
   {
@@ -494,7 +494,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arte-y-arquitectura-egipcia.jpg",
-   "alt": "",
+   "alt": "arte-y-arquitectura-egipcia",
    "s": 27
   },
   {
@@ -506,7 +506,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arte-y-arquitectura-azteca.jpg",
-   "alt": "",
+   "alt": "arte-y-arquitectura-azteca",
    "s": 27
   },
   {
@@ -518,7 +518,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-incas.jpg",
-   "alt": "",
+   "alt": "arquitectura-incas",
    "s": 27
   },
   {
@@ -542,7 +542,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/brutalismo-arquitectura.jpg",
-   "alt": "",
+   "alt": "brutalismo-arquitectura",
    "s": 29
   },
   {
@@ -554,7 +554,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/bizantino-arquitectura.jpg",
-   "alt": "",
+   "alt": "bizantino-arquitectura",
    "s": 29
   },
   {
@@ -584,7 +584,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Dibujo-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "Dibujo-de-arquitectura",
    "href": "/dibujos-de-arquitectura/",
    "s": 31
   },
@@ -719,7 +719,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/maqueta-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "maqueta-de-arquitectura",
    "href": "/maquetas-de-arquitectura/",
    "s": 41
   },
@@ -744,7 +744,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/empresa-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "empresa-de-arquitectura",
    "href": "/empresas/",
    "s": 43
   },
@@ -844,7 +844,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/curso-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "curso-de-arquitectura",
    "href": "/cursos-de-arquitectura/",
    "s": 51
   },
@@ -894,7 +894,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Programa-de-arquitectura.png",
-   "alt": "",
+   "alt": "Programa-de-arquitectura",
    "href": "/programas-de-arquitectura/",
    "s": 55
   },
@@ -919,7 +919,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/ia-arquitectura.jpg",
-   "alt": "",
+   "alt": "ia-arquitectura",
    "s": 57
   },
   {

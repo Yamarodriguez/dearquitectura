@@ -78,88 +78,116 @@
    "type": "gallery",
    "images": [
     {
-     "src": "/img/2024/07/renders-habitacion-matrimonial.jpg"
+     "src": "/img/2024/07/renders-habitacion-matrimonial.jpg",
+     "alt": "renders-habitación-matrimonial"
     },
     {
-     "src": "/img/2024/07/renders-de-habitacion-moderna.jpg"
+     "src": "/img/2024/07/renders-de-habitacion-moderna.jpg",
+     "alt": "renders-de-habitación-moderna"
     },
     {
-     "src": "/img/2024/07/renders-habitacion-2-personas.jpg"
+     "src": "/img/2024/07/renders-habitacion-2-personas.jpg",
+     "alt": "renders-habitación-2-personas"
     },
     {
-     "src": "/img/2024/07/renders-habitacion-2-camas.jpg"
+     "src": "/img/2024/07/renders-habitacion-2-camas.jpg",
+     "alt": "renders-habitación-2-camas"
     },
     {
-     "src": "/img/2024/07/render-habitaciones.jpg"
+     "src": "/img/2024/07/render-habitaciones.jpg",
+     "alt": "render-habitaciones"
     },
     {
-     "src": "/img/2024/07/render-de-habitacion.jpg"
+     "src": "/img/2024/07/render-de-habitacion.jpg",
+     "alt": "render-de-habitación"
     },
     {
-     "src": "/img/2024/07/renders-de-habitacion.jpg"
+     "src": "/img/2024/07/renders-de-habitacion.jpg",
+     "alt": "renders-de-habitacion"
     },
     {
-     "src": "/img/2024/07/renders-de-habitaciones.jpg"
+     "src": "/img/2024/07/renders-de-habitaciones.jpg",
+     "alt": "renders-de-habitaciones"
     },
     {
-     "src": "/img/2024/07/render-habitacion-simple.jpg"
+     "src": "/img/2024/07/render-habitacion-simple.jpg",
+     "alt": "render-habitación-simple"
     },
     {
-     "src": "/img/2024/07/renders-de-casa-habitacion.jpg"
+     "src": "/img/2024/07/renders-de-casa-habitacion.jpg",
+     "alt": "renders-de casa-habitacion"
     },
     {
-     "src": "/img/2024/07/habitaciones-renders.jpg"
+     "src": "/img/2024/07/habitaciones-renders.jpg",
+     "alt": "habitaciones-renders"
     },
     {
-     "src": "/img/2024/07/habitaciones-render.jpg"
+     "src": "/img/2024/07/habitaciones-render.jpg",
+     "alt": "habitaciones-render"
     },
     {
-     "src": "/img/2024/07/render-diseno-habitaciones.jpg"
+     "src": "/img/2024/07/render-diseno-habitaciones.jpg",
+     "alt": "render-diseño-habitaciones"
     },
     {
-     "src": "/img/2024/07/renders-de-habitacion-lujosa.jpg"
+     "src": "/img/2024/07/renders-de-habitacion-lujosa.jpg",
+     "alt": "renders-de-habitacion-lujosa"
     },
     {
-     "src": "/img/2024/07/render-de-una-habitacion.jpg"
+     "src": "/img/2024/07/render-de-una-habitacion.jpg",
+     "alt": "render-de-una-habitacion"
     },
     {
-     "src": "/img/2024/07/renders-de-habitacion-grande.jpg"
+     "src": "/img/2024/07/renders-de-habitacion-grande.jpg",
+     "alt": "renders-de-habitacion-grande"
     },
     {
-     "src": "/img/2024/07/render-de-habitacion-dos-camas.jpg"
+     "src": "/img/2024/07/render-de-habitacion-dos-camas.jpg",
+     "alt": "render-de-habitacion-dos-camas"
     },
     {
-     "src": "/img/2024/07/render-habitaciones-modernas.jpg"
+     "src": "/img/2024/07/render-habitaciones-modernas.jpg",
+     "alt": "render-habitaciones-modernas"
     },
     {
-     "src": "/img/2024/07/render-habitacion-lujosa.jpg"
+     "src": "/img/2024/07/render-habitacion-lujosa.jpg",
+     "alt": "render-habitacion-lujosa"
     },
     {
-     "src": "/img/2024/07/habitacion-render.jpg"
+     "src": "/img/2024/07/habitacion-render.jpg",
+     "alt": "habitacion-render"
     },
     {
-     "src": "/img/2024/07/diseno-de-renders-habitaciones.jpg"
+     "src": "/img/2024/07/diseno-de-renders-habitaciones.jpg",
+     "alt": "diseño-de-renders-habitaciones"
     },
     {
-     "src": "/img/2024/07/renders-para-habitacion-dos-plazas.jpg"
+     "src": "/img/2024/07/renders-para-habitacion-dos-plazas.jpg",
+     "alt": "renders-para-habitacion-dos-plazas"
     },
     {
-     "src": "/img/2024/07/render-habitacion-de-lujo.jpg"
+     "src": "/img/2024/07/render-habitacion-de-lujo.jpg",
+     "alt": "render-habitacion-de-lujo"
     },
     {
-     "src": "/img/2024/07/renders-habitaciones-disenos.jpg"
+     "src": "/img/2024/07/renders-habitaciones-disenos.jpg",
+     "alt": "renders-habitaciones-diseños"
     },
     {
-     "src": "/img/2024/07/render-habitaciones-grandes.jpg"
+     "src": "/img/2024/07/render-habitaciones-grandes.jpg",
+     "alt": "render-habitaciones-grandes"
     },
     {
-     "src": "/img/2024/07/renders-dormitorio.jpg"
+     "src": "/img/2024/07/renders-dormitorio.jpg",
+     "alt": "renders-dormitorio"
     },
     {
-     "src": "/img/2024/07/renders-dormitorios-lujosos.jpg"
+     "src": "/img/2024/07/renders-dormitorios-lujosos.jpg",
+     "alt": "renders-dormitorios-lujosos"
     },
     {
-     "src": "/img/2024/07/render-de-habitaciones-grandes.jpg"
+     "src": "/img/2024/07/render-de-habitaciones-grandes.jpg",
+     "alt": "render-de-habitaciones-grandes"
     }
    ],
    "s": 6
@@ -326,7 +354,7 @@
   {
    "type": "image",
    "src": "/img/2024/01/render-realistas.jpg",
-   "alt": "",
+   "alt": "render-realistas",
    "href": "/renders-realistas/",
    "s": 13
   },
@@ -340,7 +368,7 @@
   {
    "type": "image",
    "src": "/img/2024/01/render-cocinas.jpg",
-   "alt": "",
+   "alt": "render-cocinas",
    "href": "/renders-de-cocinas/",
    "s": 13
   },
@@ -354,7 +382,7 @@
   {
    "type": "image",
    "src": "/img/2024/01/renders-nocturnos.jpg",
-   "alt": "",
+   "alt": "renders-nocturnos",
    "href": "/renders-nocturnos/",
    "s": 13
   },
@@ -368,7 +396,7 @@
   {
    "type": "image",
    "src": "/img/2024/01/renders-parques.jpg",
-   "alt": "",
+   "alt": "renders-parques",
    "href": "/renders-de-parques/",
    "s": 15
   },
@@ -382,7 +410,7 @@
   {
    "type": "image",
    "src": "/img/2024/01/render-oficina.jpg",
-   "alt": "",
+   "alt": "render-oficina",
    "href": "/renders-oficinas/",
    "s": 15
   },
@@ -396,7 +424,7 @@
   {
    "type": "image",
    "src": "/img/2024/01/renders-360.jpg",
-   "alt": "",
+   "alt": "renders-360",
    "href": "/render-360/",
    "s": 15
   },
@@ -410,7 +438,7 @@
   {
    "type": "image",
    "src": "/img/2024/01/render-piscina.jpg",
-   "alt": "",
+   "alt": "render-piscina",
    "href": "/renders-piscinas/",
    "s": 15
   },
@@ -424,7 +452,7 @@
   {
    "type": "image",
    "src": "/img/2024/01/render-banos.jpg",
-   "alt": "",
+   "alt": "render-banos",
    "href": "/renders-baños/",
    "s": 17
   },
@@ -438,7 +466,7 @@
   {
    "type": "image",
    "src": "/img/2024/01/renders-de-salas.jpg",
-   "alt": "",
+   "alt": "renders-de-salas",
    "href": "/render-sala/",
    "s": 17
   },
@@ -452,7 +480,7 @@
   {
    "type": "image",
    "src": "/img/2024/01/renders-antes-y-despues.jpg",
-   "alt": "",
+   "alt": "renders-antes-y-despues",
    "href": "/render-antes-y-despues/",
    "s": 17
   },
@@ -466,7 +494,7 @@
   {
    "type": "image",
    "src": "/img/2024/05/sofa-render-3d-1024x727.jpg.webp",
-   "alt": "sofa-render-3d-1024x727.jpg",
+   "alt": "sofa-render-3d.jpg",
    "href": "/sofa-render/",
    "s": 17
   },
@@ -480,7 +508,7 @@
   {
    "type": "image",
    "src": "/img/2024/01/render-logos.jpg",
-   "alt": "",
+   "alt": "render-logos",
    "href": "/render-logo/",
    "s": 17
   },
@@ -508,7 +536,7 @@
   {
    "type": "image",
    "src": "/img/2024/01/renders-marketing.jpg",
-   "alt": "",
+   "alt": "renders-marketing",
    "href": "/renders-marketing/",
    "s": 19
   },
@@ -865,7 +893,7 @@
   {
    "type": "image",
    "src": "/img/2024/01/precio-render.jpg",
-   "alt": "",
+   "alt": "precio-render",
    "href": "/precio-render/",
    "s": 31
   },
@@ -965,7 +993,7 @@
   {
    "type": "image",
    "src": "/img/2024/05/curso-de-renders.webp",
-   "alt": "curso-de-renders",
+   "alt": "",
    "href": "/cursos-de-renders/",
    "s": 35
   },
@@ -1038,7 +1066,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-y-diseno.jpg",
-   "alt": "",
+   "alt": "arquitectura-y-diseño",
    "s": 39
   },
   {
@@ -1190,7 +1218,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Construccion-arquitectura.jpg",
-   "alt": "",
+   "alt": "Construcción-arquitectura",
    "href": "/construccion/",
    "s": 53
   },
@@ -1215,7 +1243,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/reforma.jpg",
-   "alt": "",
+   "alt": "reforma",
    "href": "/reformas/",
    "s": 53
   },
@@ -1240,7 +1268,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Disenos-arquitectonicos.jpg",
-   "alt": "",
+   "alt": "Diseños-arquitectónicos",
    "href": "/disenos-arquitectonicos/",
    "s": 53
   },
@@ -1265,7 +1293,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/interiorismo-y-decoracion.jpg",
-   "alt": "",
+   "alt": "interiorismo-y-decoración",
    "href": "/interiorismo/",
    "s": 53
   },
@@ -1284,7 +1312,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/empresa-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "empresa-de-arquitectura",
    "href": "/empresas/",
    "s": 55
   },
@@ -1371,7 +1399,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/curso-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "curso-de-arquitectura",
    "href": "/cursos-de-arquitectura/",
    "s": 61
   },
@@ -1415,7 +1443,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-roma.jpg",
-   "alt": "",
+   "alt": "arquitectura-roma",
    "href": "/arquitectura-romana/",
    "s": 65
   },
@@ -1429,7 +1457,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-del-barroco.jpg",
-   "alt": "",
+   "alt": "arquitectura-del-barroco",
    "href": "/arquitectura-Barroca/",
    "s": 65
   },
@@ -1443,7 +1471,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Arquitectura-grecia.jpg",
-   "alt": "",
+   "alt": "Arquitectura-grecia",
    "href": "/arquitectura-griega/",
    "s": 65
   },
@@ -1457,7 +1485,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Gotica-arquitectura.jpg",
-   "alt": "",
+   "alt": "Gótica-arquitectura",
    "href": "/arquitectura-gotica/",
    "s": 65
   },
@@ -1471,7 +1499,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Moderna-arquitectura.jpg",
-   "alt": "",
+   "alt": "Moderna-arquitectura",
    "href": "/arquitectura-moderna/",
    "s": 65
   },
@@ -1485,7 +1513,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/neoclasica-arquitectura.jpg",
-   "alt": "",
+   "alt": "neoclásica-arquitectura",
    "href": "/arquitectura-neoclasica/",
    "s": 65
   },
@@ -1499,7 +1527,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/renacentista-arquitectura.jpg",
-   "alt": "",
+   "alt": "renacentista-arquitectura",
    "href": "/arquitectura-renacentista/",
    "s": 67
   },
@@ -1513,7 +1541,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-mayas.jpg",
-   "alt": "",
+   "alt": "arquitectura-mayas",
    "href": "/arquitectura-maya/",
    "s": 67
   },
@@ -1527,7 +1555,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arte-y-arquitectura-egipcia.jpg",
-   "alt": "",
+   "alt": "arte-y-arquitectura-egipcia",
    "href": "/arquitectura-egipcia/",
    "s": 67
   },
@@ -1540,7 +1568,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arte-y-arquitectura-azteca.jpg",
-   "alt": "",
+   "alt": "arte-y-arquitectura-azteca",
    "href": "/arquitectura-azteca/",
    "s": 67
   },
@@ -1554,7 +1582,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/arquitectura-incas.jpg",
-   "alt": "",
+   "alt": "arquitectura-incas",
    "href": "/arquitectura-incaica/",
    "s": 67
   },
@@ -1596,7 +1624,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/brutalismo-arquitectura.jpg",
-   "alt": "",
+   "alt": "brutalismo-arquitectura",
    "href": "/arquitectura-brutalista/",
    "s": 69
   },
@@ -1610,7 +1638,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/bizantino-arquitectura.jpg",
-   "alt": "",
+   "alt": "bizantino-arquitectura",
    "href": "/arquitectura-bizantina/",
    "s": 69
   },
@@ -1671,7 +1699,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Dibujo-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "Dibujo-de-arquitectura",
    "href": "/dibujos-de-arquitectura/",
    "s": 72
   },
@@ -1721,7 +1749,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/maqueta-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "maqueta-de-arquitectura",
    "href": "/maquetas-de-arquitectura/",
    "s": 78
   },
@@ -1846,7 +1874,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/Programa-de-arquitectura.png",
-   "alt": "",
+   "alt": "Programa-de-arquitectura",
    "href": "/programas-de-arquitectura/",
    "s": 89
   },
@@ -1871,7 +1899,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/proyectos-de-arquitectura.jpg",
-   "alt": "",
+   "alt": "proyectos-de-arquitectura",
    "href": "/proyectos-de-arquitectura/",
    "s": 91
   },
@@ -1896,7 +1924,7 @@
   {
    "type": "image",
    "src": "/img/2023/12/ia-arquitectura.jpg",
-   "alt": "",
+   "alt": "ia-arquitectura",
    "href": "/inteligencia-artificial-arquitectura/",
    "s": 93
   },

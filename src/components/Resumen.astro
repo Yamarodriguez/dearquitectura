@@ -1,0 +1,20 @@
+---
+// Caja «Resumen» del original (plugin All In One Schema, ficha de servicio) en las
+// páginas de estudio por ciudad. Mismos textos y etiquetas que en la web viva;
+// los datos estructurados (Service) van en el JSON-LD de la página.
+import Foto from './Foto.astro';
+interface Props { r: { imagen: string; tipo: string; proveedor: string; area: string; descripcion: string } }
+const { r } = Astro.props as Props;
+---
+<aside class="resumen-ficha" aria-label="Resumen">
+  <p class="resumen-ficha-titulo">Resumen</p>
+  <div class="resumen-ficha-cuerpo">
+    {r.imagen && <div class="resumen-ficha-foto"><Foto src={r.imagen} alt={r.tipo} sizes="180px" /></div>}
+    <dl>
+      <dt>Service Type</dt><dd>{r.tipo}</dd>
+      {r.proveedor && <><dt>Provider Name</dt><dd>{r.proveedor} ,</dd></>}
+      {r.area && <><dt>Area</dt><dd>{r.area}</dd></>}
+      {r.descripcion && <><dt>Descripción</dt><dd>{r.descripcion}</dd></>}
+    </dl>
+  </div>
+</aside>

@@ -10,7 +10,13 @@
     "astro": "astro",
     "extraer": "node --max-old-space-size=4096 scripts/extraer-xml.mjs",
     "bajar:referencia": "node scripts/bajar-referencia.mjs",
-    "bajar:fotos": "node scripts/bajar-fotos.mjs"
+    "bajar:fotos": "node scripts/bajar-fotos.mjs",
+    "medidas": "node scripts/medidas-imagenes.mjs",
+    "menus": "node scripts/menus-desde-referencia.mjs",
+    "seo": "node scripts/seo-desde-referencia.mjs",
+    "generar": "npm run extraer && npm run menus && npm run seo",
+    "todo": "node scripts/todo.mjs",
+    "todo:visual": "node scripts/visual.mjs"
   },
   "dependencies": {
     "astro": "4.16.7"

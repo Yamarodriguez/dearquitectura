@@ -28,5 +28,6 @@ Nada inventado. Lo nuevo desde src/data/. `npm run todo` y `todo:visual` a 0.
 Regenerar: `npm run generar`. Agentes: PROHIBIDO escribir ficheros.
 
 ## Estado
-Fase actual: 1 hecha (informes/fase1.md). Siguiente: Fase 2.
+Fase actual: 2 hecha (informes/fase2.md, `npm run todo` a 0). Siguiente: Fase 3 (diseño).
+Regenerar: `npm run generar` y `npm run todo`. Fallos del original: src/data/fallos-original.json.
 Pendiente de Yama: botones rotos (5), titular legales, contacto, palabras prohibidas, diseño, GitHub. Ver informes/inventario.md.

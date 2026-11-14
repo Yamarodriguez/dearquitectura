@@ -1,0 +1,23 @@
+---
+// Una foto con su versión webp a varios tamaños (<picture>) y el original como
+// src: quien no entienda webp sigue viendo la misma imagen. Medidas de
+// src/data/imagenes.json (scripts/medidas-imagenes.mjs).
+import medidas from '../data/imagenes.json';
+
+interface Props { src: string; alt?: string; sizes?: string; prioridad?: boolean; class?: string }
+const { src, alt = '', sizes = '(max-width: 860px) 95vw, 820px', prioridad = false, class: clase } = Astro.props as Props;
+const m = (medidas as Record<string, { w: number; h: number; ws: number[] }>)[src];
+const base = src.replace(/\.(jpe?g|png|webp)$/i, '');
+const srcset = m?.ws?.length ? m.ws.map((w) => `${base}-${w}.webp ${w}w`).join(', ') : '';
+// Foto que ya no existe en el servidor (fallo del original, ver fallos-original.json):
+// no se pinta un hueco roto.
+const existe = !!m;
+---
+{!existe ? null : srcset ? (
+  <picture>
+    <source type="image/webp" srcset={srcset} sizes={sizes} />
+    <img src={src} alt={alt} loading={prioridad ? 'eager' : 'lazy'} fetchpriority={prioridad ? 'high' : undefined} decoding="async" width={m?.w} height={m?.h} class={clase} />
+  </picture>
+) : (
+  <img src={src} alt={alt} loading={prioridad ? 'eager' : 'lazy'} decoding="async" width={m?.w} height={m?.h} class={clase} />
+)}

@@ -1,0 +1,54 @@
+---
+// Formulario de contacto: los mismos campos y textos que el Contact Form 7 del
+// original (nombre, correo, teléfono, zona, mensaje opcional y aceptación de la
+// privacidad, con sus textos tal cual). Fase 5: se envía con Netlify Forms sin salir de la página; el
+// aviso por correo (a arquitectura@dearquitectura.info) se configura en Netlify.
+---
+<div class="formulario-caja">
+<form class="formulario" name="contacto" method="POST" action="/gracias/" data-netlify="true" netlify-honeypot="campo-trampa" data-formulario>
+  <input type="hidden" name="form-name" value="contacto" />
+  <input type="hidden" name="pagina" value="" data-pagina />
+  <p class="campo-trampa" aria-hidden="true"><input name="campo-trampa" tabindex="-1" autocomplete="off" /></p>
+  <label for="f-nombre">Tu nombre</label>
+  <input id="f-nombre" name="nombre" type="text" autocomplete="name" required />
+  <label for="f-correo">Tu correo electrónico</label>
+  <input id="f-correo" name="correo" type="email" autocomplete="email" required />
+  <label for="f-telefono">Telefono</label>
+  <input id="f-telefono" name="telefono" type="tel" autocomplete="tel" required />
+  <label for="f-zona">Zona, Lugar, Provincia</label>
+  <input id="f-zona" name="zona" type="text" required />
+  <label for="f-mensaje">Tu mensaje (opcional)</label>
+  <textarea id="f-mensaje" name="mensaje" rows="5"></textarea>
+  <label class="casilla"><input type="checkbox" name="acepta-privacidad" required /> He leido y acepto la <a href="/politica-de-privacidad/">politica de privacidad</a></label>
+  <button type="submit">Enviar</button>
+</form>
+<div class="formulario-aviso" role="status" aria-live="polite" hidden></div>
+</div>
+<script>
+  document.querySelectorAll<HTMLFormElement>('form[data-formulario]').forEach((form) => {
+    const aviso = form.parentElement?.querySelector<HTMLElement>('.formulario-aviso');
+    const pagina = form.querySelector<HTMLInputElement>('[data-pagina]');
+    if (pagina) pagina.value = location.href;
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const boton = form.querySelector<HTMLButtonElement>('button[type="submit"]');
+      if (boton) { boton.disabled = true; boton.textContent = 'Enviando…'; }
+      const mostrar = (texto: string, error = false) => {
+        if (!aviso) return;
+        aviso.hidden = false;
+        aviso.className = 'formulario-aviso ' + (error ? 'formulario-aviso--error' : 'formulario-aviso--ok');
+        aviso.textContent = texto;
+      };
+      try {
+        const datos = new URLSearchParams(new FormData(form) as unknown as Record<string, string>);
+        const r = await fetch('/', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body: datos.toString() });
+        if (!r.ok) throw new Error(String(r.status));
+        form.reset(); form.hidden = true;
+        mostrar('Mensaje enviado. Gracias: te responderemos lo antes posible.');
+      } catch {
+        mostrar('No se ha podido enviar el mensaje. Inténtalo de nuevo o escríbenos por correo.', true);
+        if (boton) { boton.disabled = false; boton.textContent = 'Enviar'; }
+      }
+    });
+  });
+</script>

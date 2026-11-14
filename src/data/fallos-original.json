@@ -1,0 +1,89 @@
+{
+ "_nota": "Fallos de la web original. Ninguno se cambia sin el visto bueno de Yama; los comprobadores los conocen para no contarlos como fallos de la migración. Si Yama aprueba un cambio, se anota aquí con la fecha y la regla va en scripts/erratas.mjs.",
+ "paginas_con_error_500": {
+  "descripcion": "Páginas que dan «error crítico» de WordPress en la web viva (14-11-2026), también para Google. Su contenido sale del XML; no hay HTML vivo con el que compararlas. En la web nueva salen bien.",
+  "paginas": [
+   "renders",
+   "render-casa",
+   "renders-guatemala",
+   "renders-paraguay",
+   "renders-costa-rica",
+   "renders-nicaragua",
+   "renders-italia",
+   "renders-portugal",
+   "renders-edificios",
+   "renders-brasil",
+   "renders-france",
+   "renders-el-salvador",
+   "renders-honduras",
+   "renders-puerto-rico",
+   "renders-estados-unidos",
+   "renders-australia",
+   "renders-republica-dominicana"
+  ]
+ },
+ "varios_h1": {
+  "descripcion": "Páginas con más de un H1 en el original. Se dejan así hasta que Yama decida.",
+  "paginas": {
+   "/agencia-de-diseno/": "2 H1"
+  }
+ },
+ "botones_a_paginas_que_no_existen": {
+  "descripcion": "Botones que llevan a páginas que no existen (404 en la web viva). Pendiente de Yama: quitarlos, mandarlos a otra página o crear esas páginas.",
+  "botones": {
+   "Construcción": "/construccion/",
+   "Reformas": "/reformas/",
+   "Diseños": "/disenos-arquitectonicos/",
+   "Interiorismo": "/interiorismo/",
+   "IA": "/inteligencia-artificial-arquitectura/"
+  },
+  "paginas_aprox": 269
+ },
+ "fotos_que_no_existen": {
+  "descripcion": "Fotos que usa el contenido pero ya no están en el servidor (salen rotas en la web viva). Mientras Yama decide, en la web nueva no se pintan (un hueco roto no sirve a nadie).",
+  "fotos": [
+   "2023/12/La-arquitectura-bioclimatica.jpg",
+   "2023/12/porfolio-de-arquitectura.jpg",
+   "2023/12/sadsa-3.jpg",
+   "2024/12/arquitectura-barroca-caracteristicas-6.jpg",
+   "2025/03/render-de-casa-exterior-planos-1.webp",
+   "2025/03/renders-para-casas-exteriores-1.webp",
+   "2025/03/renders-vivienda-exterior-plano-1.webp"
+  ]
+ },
+ "enlace_sin_barra_en_el_pie": {
+  "descripcion": "El enlace «Arquitectos» del pie va a /arquitectos sin la barra final (WordPress lo redirige). Se deja igual hasta que Yama decida.",
+  "enlace": "/arquitectos"
+ },
+ "lista_de_entradas_vacia": {
+  "descripcion": "Un bloque de «Content Views» que dice «No se han encontrado entradas.» (la web no tiene entradas de blog). Se deja igual hasta que Yama decida.",
+  "paginas": [
+   "renders-ferrol",
+   "renders-irun"
+  ]
+ },
+ "botones_sin_destino": {
+  "descripcion": "Botones del original que no llevan a ninguna página (enlace «#»): sobre todo «Haz clic aquí» y algunos de la fila de botones (IA, Renders…). En la web nueva se pintan como botón sin enlace (no como enlace muerto). Pendiente de Yama: a qué página debe llevar cada uno.",
+  "botones": 644,
+  "paginas": 65
+ },
+ "form_pegado_de_chatgpt": {
+  "descripcion": "En /arquitecto-urbano/ y /dibujos-de-arquitectura/ el texto trae restos de HTML de la web de ChatGPT (un <form> vacío). No se ve; en la web nueva se quita.",
+  "paginas": [
+   "arquitecto-urbano",
+   "dibujos-de-arquitectura"
+  ]
+ },
+ "resumen_en_ingles": {
+  "descripcion": "La caja «Resumen» de 7 páginas de estudio por ciudad tiene etiquetas en inglés (Service Type, Provider Name, Area). Se dejan igual hasta que Yama decida.",
+  "paginas": [
+   "arquitectura-elche",
+   "estudio-de-arquitectura-avila",
+   "gandia",
+   "pamplona",
+   "sagunto",
+   "santa-fe",
+   "valencia"
+  ]
+ }
+}

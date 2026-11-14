@@ -1,0 +1,36 @@
+---
+// El contenido de una página, en el orden del original. Se respeta la
+// división en secciones de Elementor (campo «s» de cada bloque) y se agrupan
+// los botones seguidos (fila de botones) y las fotos seguidas (rejilla).
+import Bloque from './Bloque.astro';
+
+interface Props { blocks: any[] }
+const { blocks } = Astro.props as Props;
+
+type Grupo = { tipo: 'botones' | 'fotos' | 'uno'; bloques: any[] };
+const secciones: Grupo[][] = [];
+let actual = -1;
+for (const b of blocks) {
+  if (b.s !== actual || !secciones.length) { secciones.push([]); actual = b.s; }
+  const sec = secciones[secciones.length - 1];
+  const tipo = b.type === 'button' ? 'botones' : b.type === 'image' ? 'fotos' : 'uno';
+  const ult = sec[sec.length - 1];
+  if (ult && tipo !== 'uno' && ult.tipo === tipo) ult.bloques.push(b);
+  else sec.push({ tipo, bloques: [b] });
+}
+---
+{secciones.map((sec) => (
+  <section class="sec">
+    <div class="sec-in">
+      {sec.map((g) => (
+        g.tipo === 'botones' ? (
+          <div class="botones">{g.bloques.map((b) => <Bloque block={b} />)}</div>
+        ) : g.tipo === 'fotos' && g.bloques.length > 1 ? (
+          <div class="fotos">{g.bloques.map((b) => <figure><Bloque block={b} sizes="(max-width: 700px) 45vw, 360px" /></figure>)}</div>
+        ) : (
+          g.bloques.map((b) => <Bloque block={b} />)
+        )
+      ))}
+    </div>
+  </section>
+))}

@@ -1,0 +1,48 @@
+---
+// Visor 360 (sustituye al plugin «Panorama» de WordPress, shortcode [panorama id=N]).
+// Se carga el visor solo cuando la foto entra en pantalla; sin JavaScript se ve la
+// foto panorámica plana.
+import panoramas from '../data/panoramas.json';
+import Foto from './Foto.astro';
+
+interface Props { id: string }
+const p = (panoramas as Record<string, any>)[Astro.props.id];
+---
+{p && (
+  <div class="panorama" data-panorama={p.src} data-giro={p.giro ? '1' : ''} style={`height:${p.alto}px`}>
+    <Foto src={p.src} alt={p.titulo} />
+  </div>
+)}
+<script is:inline>
+  (function () {
+    var cajas = document.querySelectorAll('[data-panorama]');
+    if (!cajas.length || !('IntersectionObserver' in window)) return;
+    var cargado = null;
+    function cargar() {
+      if (cargado) return cargado;
+      cargado = new Promise(function (ok) {
+        var css = document.createElement('link');
+        css.rel = 'stylesheet';
+        css.href = 'https://cdnjs.cloudflare.com/ajax/libs/pannellum/2.5.6/pannellum.css';
+        document.head.appendChild(css);
+        var js = document.createElement('script');
+        js.src = 'https://cdnjs.cloudflare.com/ajax/libs/pannellum/2.5.6/pannellum.js';
+        js.onload = ok;
+        document.head.appendChild(js);
+      });
+      return cargado;
+    }
+    var obs = new IntersectionObserver(function (entradas) {
+      entradas.forEach(function (e) {
+        if (!e.isIntersecting) return;
+        obs.unobserve(e.target);
+        cargar().then(function () {
+          var caja = e.target;
+          caja.innerHTML = '';
+          window.pannellum.viewer(caja, { type: 'equirectangular', panorama: caja.dataset.panorama, autoLoad: true, autoRotate: caja.dataset.giro ? -2 : 0, showControls: true });
+        });
+      });
+    }, { rootMargin: '200px' });
+    cajas.forEach(function (c) { obs.observe(c); });
+  })();
+</script>

@@ -1,0 +1,56 @@
+---
+// Un bloque de contenido sacado de Elementor (scripts/extraer-xml.mjs).
+// Se pinta tal cual el original: mismo texto, mismo nivel de encabezado,
+// mismos enlaces. Las cabeceras marcadas como «p» o «div» se dejan así.
+import Formulario from './Formulario.astro';
+import Foto from './Foto.astro';
+import Panorama from './Panorama.astro';
+import { limpiar, htmlTexto, interno } from '../lib/html';
+
+interface Props { block: any; sizes?: string }
+const { block, sizes } = Astro.props as Props;
+const enlace = block.href ? interno(block.href) : '';
+const Tag = block.tag && /^(h[1-6]|p|div|span)$/.test(block.tag) ? block.tag : 'p';
+const titular = limpiar(block.html || block.text || '');
+const panorama = block.type === 'text' ? (block.text || '').trim().match(/^\[panorama id=(\d+)\]$/)?.[1] : undefined;
+const yt = (u = '') => u.match(/(?:youtu\.be\/|v=|embed\/|shorts\/)([\w-]{11})/)?.[1];
+---
+{block.type === 'heading' && enlace && <Tag><a href={enlace} set:html={titular} /></Tag>}
+{block.type === 'heading' && !enlace && <Tag set:html={titular} />}
+{panorama && <Panorama id={panorama} />}
+{block.type === 'text' && !panorama && <div class="texto" set:html={htmlTexto(block.html || block.text)} />}
+{block.type === 'button' && (enlace ? <a class="boton" href={enlace}>{block.text}</a> : <span class="boton">{block.text}</span>)}
+{block.type === 'image' && enlace && <a href={enlace} class="foto-enlace"><Foto src={block.src} alt={block.alt} sizes={sizes} /></a>}
+{block.type === 'image' && !enlace && <Foto src={block.src} alt={block.alt} sizes={sizes} />}
+{block.type === 'image' && block.caption && <p class="pie-foto">{block.caption}</p>}
+{block.type === 'toggle' && (
+  <div class="desplegables">
+    {block.items.map((it: any) => (
+      <details class="desplegable">
+        <summary>{it.title}</summary>
+        <div class="texto" set:html={htmlTexto(it.html)} />
+      </details>
+    ))}
+  </div>
+)}
+{block.type === 'map' && (
+  <div class="mapa">
+    <iframe loading="lazy" src={`https://maps.google.com/maps?q=${encodeURIComponent(block.address || '')}&t=m&z=10&output=embed&iwloc=near`} title={block.address} aria-label={block.address}></iframe>
+  </div>
+)}
+{block.type === 'video' && yt(block.url) && (
+  <div class="video">
+    <iframe loading="lazy" src={`https://www.youtube-nocookie.com/embed/${yt(block.url)}`} title="Vídeo" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+)}
+{block.type === 'video' && block.proveedor === 'hosted' && block.url && (
+  <div class="video video--propio"><video src={block.url} controls preload="none" playsinline></video></div>
+)}
+{block.type === 'gallery' && (
+  <div class="galeria">
+    {block.images.map((g: any) => <Foto src={g.src} alt={g.alt || ''} sizes="(max-width: 700px) 45vw, 300px" />)}
+  </div>
+)}
+{block.type === 'lista_paginas' && <p class="lista-vacia">No se han encontrado entradas.</p>}
+{block.type === 'shortcode' && null}
+{block.type === 'contact_form' && <Formulario />}
