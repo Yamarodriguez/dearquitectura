@@ -1,0 +1,22 @@
+{
+ "aviso-legal": {
+  "title": "Aviso Legal",
+  "url": "https://dearquitectura.info/aviso-legal/",
+  "html": ""
+ },
+ "politica-de-privacidad": {
+  "title": "Política de Privacidad",
+  "url": "https://dearquitectura.info/politica-de-privacidad/",
+  "html": ""
+ },
+ "politica-de-cookies": {
+  "title": "Política de Cookies",
+  "url": "https://dearquitectura.info/politica-de-cookies/",
+  "html": ""
+ },
+ "personalizar-cookies": {
+  "title": "Personalizar Cookies",
+  "url": "https://dearquitectura.info/personalizar-cookies/",
+  "html": ""
+ }
+}

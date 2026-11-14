@@ -1,0 +1,1764 @@
+{
+ "slug": "renders-tucuman",
+ "slug_wp": "renders-tucuman",
+ "id": "6136",
+ "title": "Renders Tucumán",
+ "url": "https://dearquitectura.info/renders-tucuman/",
+ "meta_title_yoast": "Renders Tucumán %%sep%% Render Tucumán %%sep%% Renders en Tucumán%%sep%% Renders",
+ "meta_description": "Renders Tucumán, Argentina, Renders De arquitectura, renderista Tucumán, Render, estudio de render, ¿Qué es un renders? render Tucumán",
+ "palabra_clave": "Renders Tucumán",
+ "menu": "renders-argentina",
+ "foto_destacada": "/img/2024/06/renders-Tucuman.webp",
+ "fecha": "2024-06-13 08:53:42",
+ "modificada": "2024-07-25 14:39:30",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "RENDERS TUCUMAN",
+   "s": 0
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/06/renders-Tucuman.webp",
+   "alt": "renders-Tucumán",
+   "s": 0
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Renders en Tucumán, Argentina, render de arquitectura y diseño",
+   "s": 0
+  },
+  {
+   "type": "text",
+   "text": "Realizamos todo tipo de renders Tucumán 3D, ¿Qué son los Render de arquitectura? Tipos de render, render de interiores, renders de casas, Render online, edificios y locales comerciales, Ideas, imágenes y decoración. Renders profesionales",
+   "html": "<p>Realizamos todo tipo de <strong>renders Tucumán 3D</strong>, <strong>¿Qué son los Render de arquitectura?</strong> <strong>Tipos de render</strong>, <strong>render de interiores</strong>, renders<strong> de casas, Render online, edificios y locales comerciales,</strong> Ideas, imágenes y <strong>decoración. Renders profesionales </strong></p>",
+   "s": 0
+  },
+  {
+   "type": "text",
+   "text": "Si necesitas realizar render Tucumán 3D ponte en contacto con nosotros.",
+   "html": "<p>Si necesitas realizar <strong>render Tucumán </strong>3D ponte en contacto con nosotros.</p>",
+   "s": 1
+  },
+  {
+   "type": "button",
+   "text": "Contactenos",
+   "href": "/contacto/",
+   "s": 2
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Que es un render y como se realizan?",
+     "html": "<div id=\"cc-m-9791684519\" class=\"j-module n j-text \"><p>El significado de la palabra \"<strong>Render</strong>\" se traduce como: <strong>Representar</strong> o <strong>Retratar</strong></p></div><p>Un render es una imagen digital que simula la apariencia de un proyecto arquitectónico o de diseño en tres dimensiones. Se utiliza para mostrar el aspecto realista y detallado del proyecto antes de que se construya o se fabrique. </p><p>Los renders se crean mediante software especializado que permite modelar, texturizar, iluminar y renderizar el escenario o el objeto. Los renders tienen muchos usos en diferentes campos, como la arquitectura, el diseño, la publicidad, el cine, los videojuegos, etc. Los renders pueden ser desde simples vistas en blanco y negro hasta imágenes fotorrealistas que parecen fotografías. Los renders son una herramienta poderosa para transmitir la visión de un proyecto y para influir en la toma de decisiones</p>"
+    }
+   ],
+   "s": 4
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Que programas se utilizan para realizar renders?",
+     "html": "<p>El mundo del renderizado se apoya en un dúo dinámico: el software de modelado 3D y los motores de renderizado. Estas dos piezas fundamentales se combinan para dar vida a los mundos digitales y las imágenes realistas que maravillan a la vista.</p><h4><strong>Programas de Modelado 3D:</strong></h4><h4><strong>Autodesk 3ds Max:</strong></h4><p>Ofrece una gama completa de herramientas para modelado, animación y renderizado.</p><h4><strong>Maya:</strong></h4><p>Ampliamente usado en la industria del entretenimiento para animación, efectos visuales y modelado.</p><h4><strong>Blender:</strong></h4><p>Gratuito y de código abierto, potente y versátil, es ideal para principiantes y profesionales.</p><h4><strong>SketchUp:</strong></h4><p>Destacado por su facilidad de uso en el diseño arquitectónico y la creación de modelos simples.</p><h4><strong>Modo:</strong></h4><p>Con herramientas intuitivas y potentes para diseño y modelado de productos.</p><h4><strong>Motores de Render:</strong></h4><h4><strong>Vray:</strong></h4><p>Renombrado por su calidad fotorrealista y versatilidad en configuraciones de luces y materiales.</p><h4><strong>Corona:</strong></h4><p>Con énfasis en la facilidad de uso y resultados rápidos, es popular entre los artistas 3D.</p><h4><strong>Octane:</strong></h4><p>Utiliza el poder de las tarjetas gráficas para acelerar el proceso de renderizado.</p><h4><strong>Renderman:</strong></h4><p>Ampliamente usado en la industria del cine por su capacidad de gestionar grandes proyectos.</p><h4><strong>Arnold:</strong></h4><p>Reconocido por su eficiencia y calidad, es utilizado en producciones de animación y efectos visuales.</p><p>Estos programas se unen para tejer el tapiz visual de nuestros sueños, desde escenas cinematográficas hasta diseños arquitectónicos y creatividades publicitarias, ofreciendo herramientas poderosas para los artistas 3D en su búsqueda de la perfección visual.</p>"
+    },
+    {
+     "title": "¿Por qué Usar Render?",
+     "html": "<h4><strong>Visualización Realista:</strong></h4><p>Los renders brindan una representación visual precisa y realista de cómo se verá el proyecto final. Esto permite tomar decisiones informadas y prever el resultado antes de la construcción real.</p><h4><strong>Presentación y Marketing:</strong></h4><p>Son una herramienta invaluable para presentar diseños a clientes, inversores o público en general. Ayudan a comprender mejor la visión del proyecto y atraer interés.</p><h4><strong>Identificación de Problemas:</strong></h4><p>Los renders revelan posibles problemas de diseño, permitiendo corregirlos antes de la ejecución física, lo que ahorra tiempo y recursos.</p>"
+    },
+    {
+     "title": "Tipos de Renderizado",
+     "html": "<h4><strong>Fotorrealista:</strong></h4><p>Busca imitar fotografías reales, incorporando detalles precisos y realismo en texturas, iluminación y sombras.</p><h4><strong>No Fotorrealista:</strong></h4><p>Ofrece estilos artísticos, como dibujos, ilustraciones o estilos gráficos particulares.</p><h4><strong>Animados:</strong></h4><p>Muestran el diseño en movimiento, a través de recorridos virtuales o animaciones interactivas.</p><h4><strong>Técnicos:</strong></h4><p>Se enfocan en detalles específicos, como aspectos estructurales o constructivos.</p>"
+    },
+    {
+     "title": "Ventajas de Usar Renders en Proyectos",
+     "html": "<h4><strong>Comunicación Efectiva:</strong></h4><p>Simplifican la comunicación entre arquitectos, clientes y equipos de construcción al proporcionar una representación visual clara.</p><h4><strong>Toma de Decisiones Informada:</strong></h4><p>Permiten realizar cambios y ajustes antes de la ejecución, mejorando la toma de decisiones y evitando costosos errores.</p><h4><strong>Atracción de Inversores o Compradores:</strong></h4><p>Facilitan la comercialización al mostrar el potencial y la estética del proyecto de manera atractiva.</p><h4><strong>Optimización del Diseño:</strong></h4><p>Revelan problemas de diseño y permiten ajustes para optimizar el proyecto antes de la construcción real.</p>"
+    },
+    {
+     "title": "Contratar Servicios de Render en Tucumán online: Una Guía para Clientes",
+     "html": "<p>Si estás considerando contratar servicios de renders para tu proyecto arquitectónico, es esencial entender el proceso para garantizar resultados exitosos y satisfactorios. Aquí tienes una guía detallada para contratar este servicio:</p><ol><li><strong>Paso 1: Definir tus Necesidades: </strong>Antes de buscar un proveedor de servicios de renders, clarifica tus necesidades y objetivos. Define el tipo de render que requieres (interiores, exteriores, animaciones, etc.) y los detalles específicos del proyecto.</li><li><strong>Paso 2: Investigación y Elección de Proveedores: </strong>Investiga diferentes estudios o profesionales especializados en renders. Revisa su portafolio, experiencias anteriores, y lee reseñas o testimonios de clientes previos para evaluar su calidad y fiabilidad.</li><li><strong>Paso 3: Comunicación y Acuerdo: </strong>Contacta a los proveedores que mejor se ajusten a tus necesidades y agenda reuniones o llamadas para discutir tu proyecto. Durante estas interacciones, aclara tus expectativas, plazos, costos y cualquier requisito específico.</li><li><strong>Paso 4: Entrega de Información: </strong>Una vez seleccionado el proveedor, proporciona toda la información relevante sobre tu proyecto. Esto puede incluir planos, bocetos, materiales, y cualquier detalle crucial para la representación precisa del diseño.</li><li><strong>Paso 5: Revisión y Feedback: </strong>El proveedor enviará avances del trabajo para su revisión. Revisa los renders proporcionados, asegurándote de que se ajusten a tus expectativas y requerimientos. Proporciona feedback detallado para los ajustes necesarios.</li><li><strong>Paso 6: Entrega Final: </strong>Una vez que estés satisfecho con los renders finales y se hayan realizado las correcciones necesarias, aprueba la versión final. Asegúrate de recibir todos los archivos y formatos acordados para su uso futuro.</li><li><strong>Paso 7: Pago y Evaluación: </strong>Realiza el pago según lo acordado en el contrato. Además, proporciona una evaluación honesta sobre la calidad del servicio recibido. Esto no solo beneficia a otros clientes potenciales, sino que también ayuda a los proveedores a mejorar.</li></ol><h4>Consejos Importantes:</h4><ul><li><strong>Comunicación Clara:</strong> Mantén una comunicación abierta y clara con el proveedor en todo momento para evitar malentendidos.</li><li><strong>Tiempo de Entrega:</strong> Establece plazos realistas y acuerda un calendario de entregas para mantener el proyecto en marcha.</li><li><strong>Presupuesto Realista:</strong> Asegúrate de discutir y acordar los costos por adelantado para evitar sorpresas financieras.</li></ul><p>Siguiendo estos pasos, podrás contratar servicios de renders de manera efectiva, asegurándote de obtener representaciones visuales de alta calidad para tu proyecto arquitectónico.</p>"
+    }
+   ],
+   "s": 4
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Renders Arquitectura Tucumán",
+   "href": "/renders-arquitectura/",
+   "s": 6
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/renders-de-arquitectura.jpg",
+   "alt": "renders-de-arquitectura",
+   "href": "/renders-arquitectura/",
+   "s": 6
+  },
+  {
+   "type": "text",
+   "text": "Los renders de arquitectura son herramientas indispensables que permiten visualizar y presentar proyectos de manera atractiva y efectiva. Ofrecen una vista previa detallada y realista que facilita la toma de decisiones y la promoción de diseños arquitectónicos.",
+   "html": "<p>Los <strong>renders de arquitectura</strong> son<strong> herramientas</strong> indispensables que permiten <strong>visualizar y presentar proyectos</strong> de manera atractiva y efectiva. Ofrecen una <strong>vista previa detallada y realista</strong> que facilita la toma de decisiones y la <strong>promoción de diseños arquitectónicos</strong>.</p>",
+   "s": 6
+  },
+  {
+   "type": "button",
+   "text": "Render arquitectura",
+   "href": "/renders-arquitectura/",
+   "s": 6
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Render interiores Tucumán",
+   "href": "/renders-interiores/",
+   "s": 6
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-de-interiores.jpg",
+   "alt": "renders-de-interiores",
+   "href": "/renders-interiores/",
+   "s": 6
+  },
+  {
+   "type": "text",
+   "text": "El render de interiores es una técnica que permite crear representaciones visuales realistas y detalladas de los espacios internos de una construcción. muestra con precisión los elementos decorativos, la distribución del mobiliario, la iluminación y los acabados internos.",
+   "html": "<p>El <strong>render de interiores</strong> es una <strong>técnica que permite crear representaciones visuales realistas y detalladas de los espacios internos de una construcción</strong>. muestra con precisión los elementos <strong>decorativos</strong>, la <strong>distribución</strong> del <strong>mobiliario</strong>, la<strong> iluminación y los acabados internos.</strong></p>",
+   "s": 6
+  },
+  {
+   "type": "button",
+   "text": "Renders Interiores",
+   "href": "/renders-interiores/",
+   "s": 6
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Render Online Tucumán",
+   "href": "/render-online/",
+   "s": 6
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/Renders-online.jpg",
+   "alt": "Renders-online",
+   "href": "/render-online/",
+   "s": 6
+  },
+  {
+   "type": "text",
+   "text": "Los renders online ofrecen una manera efectiva y eficiente de visualizar proyectos arquitectónicos antes de que se materialicen. Utilizando software avanzado de modelado 3D y renderizado, los profesionales pueden transformar planos y conceptos en imágenes...",
+   "html": "<p>Los <strong>renders online</strong> ofrecen una manera efectiva y eficiente de <strong>visualizar proyectos arquitectónicos antes de que se materialicen</strong>. Utilizando <strong>software avanzado de modelado 3D y renderizad</strong>o, los profesionales pueden transformar <strong>planos</strong> y conceptos en imágenes...</p>",
+   "s": 6
+  },
+  {
+   "type": "button",
+   "text": "Renders online",
+   "href": "/render-online/",
+   "s": 6
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Tipos de renders Tucumán y renderings",
+   "s": 9
+  },
+  {
+   "type": "text",
+   "text": "Los tipos de renders en el campo de la arquitectura y el diseño abarcan diversas técnicas para crear representaciones visuales. Entre los más comunes se encuentran, render de alta calidad renderizado en 4K y rendrings en 8K (UHD)",
+   "html": "<p>Los tipos de renders en el campo de la arquitectura y el diseño abarcan diversas técnicas para crear representaciones visuales. Entre los más comunes se encuentran, <strong>render de alta calidad</strong> <strong>renderizado en 4K y rendrings en 8K</strong> (UHD)</p>",
+   "s": 9
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/tipos-de-render.jpg",
+   "alt": "tipos-de-render",
+   "s": 9
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Productos",
+   "href": "/render-de-producto/",
+   "s": 11
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-de-productos.jpg",
+   "alt": "render-de-productos",
+   "href": "/render-de-producto/",
+   "s": 11
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Locales",
+   "href": "/renders-locales-comerciales/",
+   "s": 11
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-local-comercial.jpg",
+   "alt": "render-local-comercial",
+   "href": "/renders-locales-comerciales/",
+   "s": 11
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Realistas",
+   "href": "/renders-realistas/",
+   "s": 11
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-realistas.jpg",
+   "alt": "",
+   "href": "/renders-realistas/",
+   "s": 11
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Cocinas",
+   "href": "/renders-de-cocinas/",
+   "s": 11
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-cocinas.jpg",
+   "alt": "",
+   "href": "/renders-de-cocinas/",
+   "s": 11
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Nocturnos",
+   "href": "/renders-nocturnos/",
+   "s": 11
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-nocturnos.jpg",
+   "alt": "",
+   "href": "/renders-nocturnos/",
+   "s": 11
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Parques",
+   "href": "/renders-de-parques/",
+   "s": 13
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-parques.jpg",
+   "alt": "",
+   "href": "/renders-de-parques/",
+   "s": 13
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Oficinas",
+   "href": "/renders-oficinas/",
+   "s": 13
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-oficina.jpg",
+   "alt": "",
+   "href": "/renders-oficinas/",
+   "s": 13
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Render 360",
+   "href": "/render-360/",
+   "s": 13
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-360.jpg",
+   "alt": "",
+   "href": "/render-360/",
+   "s": 13
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Piscinas",
+   "href": "/renders-piscinas/",
+   "s": 13
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-piscina.jpg",
+   "alt": "",
+   "href": "/renders-piscinas/",
+   "s": 13
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Habitaciones",
+   "href": "/renders-habitaciones/",
+   "s": 13
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-habitaciones.jpg",
+   "alt": "",
+   "href": "/renders-habitaciones/",
+   "s": 13
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Baños",
+   "href": "/renders-baños/",
+   "s": 15
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-banos.jpg",
+   "alt": "",
+   "href": "/renders-baños/",
+   "s": 15
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Salas",
+   "href": "/render-sala/",
+   "s": 15
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-de-salas.jpg",
+   "alt": "",
+   "href": "/render-sala/",
+   "s": 15
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Antes y después",
+   "href": "/render-antes-y-despues/",
+   "s": 15
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-antes-y-despues.jpg",
+   "alt": "",
+   "href": "/render-antes-y-despues/",
+   "s": 15
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Sofa",
+   "href": "/sofa-render/",
+   "s": 15
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/sofa-render-3d-1024x727.jpg.webp",
+   "alt": "sofa-render-3d-1024x727.jpg",
+   "href": "/sofa-render/",
+   "s": 15
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Logos",
+   "href": "/render-logo/",
+   "s": 15
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-logos.jpg",
+   "alt": "",
+   "href": "/render-logo/",
+   "s": 15
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Renders para inmobiliarias",
+   "href": "/renders-para-inmobiliarias/",
+   "s": 17
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-para-inmobiliarias.jpg",
+   "alt": "renders-para-inmobiliarias",
+   "href": "/renders-para-inmobiliarias/",
+   "s": 17
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Renders marketing",
+   "href": "/renders-marketing/",
+   "s": 17
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-marketing.jpg",
+   "alt": "",
+   "href": "/renders-marketing/",
+   "s": 17
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Renders",
+   "href": "/renders/",
+   "s": 17
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/renders.jpg",
+   "alt": "renders",
+   "href": "/renders/",
+   "s": 17
+  },
+  {
+   "type": "text",
+   "text": "Ver todos los",
+   "html": "<p>Ver todos los</p>",
+   "s": 18
+  },
+  {
+   "type": "button",
+   "text": "Tipos de renders",
+   "href": "/tipos-de-renders/",
+   "s": 18
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "SERVICIOS DE RENDERS TUCUMAN Y RENDERIZADO PROFESIONAL",
+   "s": 19
+  },
+  {
+   "type": "text",
+   "text": "¡Descubre nuestros servicios de renders y arquitectura! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.",
+   "html": "<p>¡Descubre nuestros<strong> servicios de renders y arquitectura</strong>! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.</p>",
+   "s": 19
+  },
+  {
+   "type": "button",
+   "text": "Servicios",
+   "href": "/servicios-de-renders/",
+   "s": 19
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Modelado 3D",
+   "href": "/modelado-3d/",
+   "s": 20
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/modelado-3d.jpg",
+   "alt": "modelado-3d",
+   "href": "/modelado-3d/",
+   "s": 20
+  },
+  {
+   "type": "text",
+   "text": "El modelado 3D es el proceso de creación de objetos tridimensionales utilizando software especializado. Permite construir estructuras, paisajes, mobiliario y elementos arquitectónicos con gran detalle y realismo.",
+   "html": "<p>El <strong>modelado 3D</strong> es el proceso de<strong> creación de objetos tridimensionales utilizando software especializado</strong>. Permite construir <strong>estructuras</strong>, <strong>paisajes</strong>, <strong>mobiliario</strong> y <strong>elementos arquitectónicos</strong> con gran <strong>detalle</strong> y <strong>realismo</strong>. </p>",
+   "s": 20
+  },
+  {
+   "type": "button",
+   "text": "Modelado 3D",
+   "href": "/modelado-3d/",
+   "s": 20
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Planos 3D y 2D",
+   "href": "/planos/",
+   "s": 20
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Planos.jpg",
+   "alt": "Planos",
+   "href": "/planos/",
+   "s": 20
+  },
+  {
+   "type": "text",
+   "text": "Realizamos todo tipo de planos, Plano de situación, Plano de planta, El alzado, Plano de emplazamiento, vista de secciones, perspectiva arquitectónicas, planos de casas y edificios, Ideas, imágenes y decoración",
+   "html": "<p>Realizamos todo tipo de <strong>planos</strong>, <strong>Plano de situación</strong>,&nbsp;<strong>Plano de planta</strong>, <strong>El alzado</strong>,&nbsp; <strong>Plano de emplazamiento</strong>, <strong>vista de secciones</strong>, <strong>perspectiva arquitectónicas</strong>, <strong>planos de casas y edificios</strong>,&nbsp; Ideas, imágenes y <strong>decoración&nbsp;</strong></p>",
+   "s": 20
+  },
+  {
+   "type": "button",
+   "text": "Planos",
+   "href": "/planos/",
+   "s": 20
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Home Staging",
+   "href": "/home-staging/",
+   "s": 20
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/home-staging.jpg",
+   "alt": "home-staging",
+   "href": "/home-staging/",
+   "s": 20
+  },
+  {
+   "type": "text",
+   "text": "El Home Staging Virtual es una técnica para transformar digitalmente espacios inmobiliarios. Esta estrategia ofrece una visión realista y atractiva de un inmueble, facilitando la venta o alquiler para los posibles compradores o inquilinos.",
+   "html": "<p>El <strong>Home Staging Virtual</strong> es una <strong>técnica para transformar digitalmente espacios inmobiliarios</strong>. Esta estrategia ofrece una<strong> visión realista y atractiva de un inmueble</strong>, facilitando la venta o alquiler para los posibles compradores o inquilinos.</p>",
+   "s": 20
+  },
+  {
+   "type": "button",
+   "text": "Home Staging",
+   "href": "/home-staging/",
+   "s": 20
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Realidad Virtual",
+   "href": "/realidad-virtual/",
+   "s": 20
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Realidad-virtual.jpg",
+   "alt": "Realidad-virtual",
+   "href": "/realidad-virtual/",
+   "s": 20
+  },
+  {
+   "type": "text",
+   "text": "Realidad Virtual (RV) entornos interactivos, experiencia inmersiva. Ofrece recorridos virtuales, permitiendo a los clientes explorar e interactuar y experimentar la sensación de estar dentro de un entorno antes de su construcción.",
+   "html": "<p><strong>Realidad Virtual (RV)</strong> <strong>entornos interactivos, experiencia inmersiva.</strong> Ofrece <strong>recorridos virtuales</strong>, permitiendo a los clientes explorar e interactuar y experimentar la sensación de estar dentro de un entorno antes de su construcción.</p>",
+   "s": 20
+  },
+  {
+   "type": "button",
+   "text": "Realidad Virtual",
+   "href": "/realidad-virtual/",
+   "s": 20
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Infografías",
+   "href": "/infografias/",
+   "s": 22
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/infografias-de-arquitectura.jpg",
+   "alt": "infografías-de-arquitectura",
+   "href": "/infografias/",
+   "s": 22
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Catálogos",
+   "href": "/catalogo/",
+   "s": 22
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/catalogos-de-arquitectura.jpg",
+   "alt": "catálogos-de-arquitectura",
+   "href": "/catalogo/",
+   "s": 22
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Tour virtual 3D",
+   "href": "/tour-virtual/",
+   "s": 22
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/tour-360-virtual-de-arquitectura.jpg",
+   "alt": "tour-360-virtual-de-arquitectura",
+   "href": "/tour-virtual/",
+   "s": 22
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Proyectos Render Tucumán",
+   "html": "Proyectos Render Tucumán<br>",
+   "href": "/proyecto-render/",
+   "s": 22
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/render-proyecto.webp",
+   "alt": "render-proyecto",
+   "href": "/proyecto-render/",
+   "s": 22
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Renderista Tucumán",
+   "s": 24
+  },
+  {
+   "type": "text",
+   "text": "Ya sea que busques a un renderista o arquitectos renderistas, aparejadores o arquitectos técnicos, estamos aquí para ofrecerte respuestas a tus problemas o dudas de diseño. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus proyectos y consultas relacionadas con la arquitectura.",
+   "html": "<p>Ya sea que busques a un <strong>renderista</strong> o <strong>arquitectos renderistas</strong>, <strong>aparejadores</strong> o <strong>arquitectos técnicos</strong>, estamos aquí para ofrecerte respuestas a tus problemas o dudas <strong>de diseño</strong>. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus <strong>proyectos y consultas relacionadas con la arquitectura</strong>.</p>",
+   "s": 24
+  },
+  {
+   "type": "button",
+   "text": "Renderista",
+   "href": "/renderista/",
+   "s": 24
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/renderista.jpg",
+   "alt": "renderista",
+   "href": "/renderista/",
+   "s": 24
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Renderizado 3D y Renderización Tucumán",
+   "s": 25
+  },
+  {
+   "type": "text",
+   "text": "El renderizado 3D es el proceso de transformar modelos tridimensionales en imágenes bidimensionales o videos. Utiliza la iluminación, texturas y cámaras virtuales para crear representaciones visuales realistas y detalladas de diseños arquitectónicos. Esta técnica ofrece una vista final de cómo se verá un proyecto una vez construido, mostrando detalles, texturas y efectos visuales para una presentación impactante y precisa.",
+   "html": "<p>El renderizado 3D es el proceso de transformar modelos tridimensionales en imágenes bidimensionales o videos. Utiliza la iluminación, texturas y cámaras virtuales para crear representaciones visuales realistas y detalladas de diseños arquitectónicos. Esta técnica ofrece una vista final de cómo se verá un proyecto una vez construido, mostrando detalles, texturas y efectos visuales para una presentación impactante y precisa.</p>",
+   "s": 25
+  },
+  {
+   "type": "button",
+   "text": "Renderizado",
+   "href": "/renderizado/",
+   "s": 25
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renderizado-3d.jpg",
+   "alt": "renderizado-3d",
+   "href": "/renderizado/",
+   "s": 25
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Precio de render Tucumán",
+   "s": 26
+  },
+  {
+   "type": "text",
+   "text": "Los precios de render varían según el proyecto a realizar. Conoce la tabla de precios renders, para que puedas tener una aproximación de los precio render 3D, precio por render para tu proyecto",
+   "html": "<p>Los&nbsp;<strong>precios de render&nbsp;</strong>varían según el proyecto a realizar. Conoce la <strong>tabla de precios renders, </strong>para que puedas tener una aproximación&nbsp;<strong>de los&nbsp;</strong><strong>precio render 3D, precio por render&nbsp;</strong>para tu proyecto</p>",
+   "s": 26
+  },
+  {
+   "type": "button",
+   "text": "Precios",
+   "href": "/precio-render/",
+   "s": 26
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/precio-render.jpg",
+   "alt": "",
+   "href": "/precio-render/",
+   "s": 26
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Video Render Tucumán",
+   "s": 27
+  },
+  {
+   "type": "text",
+   "text": "Los videos render son una herramienta versátil y efectiva para comunicar, promocionar y mejorar proyectos, ofreciendo una representación dinámica y detallada que va más allá de las imágenes estáticas. recorridos virtuales. Conoce algunos de nuestros proyectos.",
+   "html": "<p>Los <strong>videos render</strong> son una<strong> herramienta versátil y efectiva</strong> para <strong>comunicar</strong>, <strong>promocionar</strong> y<strong> mejorar proyectos</strong>, ofreciendo una r<strong>epresentación dinámica y detallada</strong> que va más allá de las imágenes estáticas. <strong>recorridos virtuales</strong>. Conoce algunos de nuestros <strong>proyectos</strong>.</p>",
+   "s": 27
+  },
+  {
+   "type": "button",
+   "text": "Video render",
+   "href": "/video-render/",
+   "s": 27
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/Video-renders.jpg",
+   "alt": "Video-renders",
+   "href": "/video-render/",
+   "s": 27
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Empresas de renders Tucumán",
+   "s": 28
+  },
+  {
+   "type": "text",
+   "text": "Descubre nuestra empresa de renders, donde ofrecemos soluciones avanzadas para estudios de arquitectura, arquitectos y diseñadores. Nuestros equipos multidisciplinarios están preparados para abordar una amplia gama de proyectos arquitectónicos, garantizando resultados precisos y de alta calidad.",
+   "html": "<p>Descubre nuestra <strong>empresa de renders</strong>, donde ofrecemos soluciones avanzadas para <strong>estudios de arquitectura</strong>, <strong>arquitectos</strong> y <strong>diseñadores</strong>. Nuestros <strong>equipos multidisciplinarios</strong> están preparados para abordar una amplia gama de <strong>proyectos arquitectónicos</strong>, garantizando resultados precisos y de alta calidad.</p>",
+   "s": 28
+  },
+  {
+   "type": "button",
+   "text": "Empresa",
+   "href": "/empresa-de-renders/",
+   "s": 28
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/empresa-de-render.jpg",
+   "alt": "empresa-de-render",
+   "href": "/empresa-de-renders/",
+   "s": 28
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Renders Freelance Tucumán",
+   "s": 29
+  },
+  {
+   "type": "text",
+   "text": "Nuestros servicios de renders freelance están diseñados para satisfacer las necesidades específicas de cada cliente. Utilizamos la última tecnología para crear visualizaciones 3D detalladas y realistas que reflejan fielmente los diseños arquitectónicos. Trabajamos para todo el mundo y en estrecha colaboración con los estudios para asegurar que cada render cumpla con sus estándares de calidad y precisión.",
+   "html": "<p>Nuestros servicios de<strong> renders freelance</strong> están diseñados para satisfacer las necesidades específicas de cada cliente. Utilizamos la última tecnología para crear <strong>visualizaciones 3D</strong> detalladas y realistas que reflejan fielmente los <strong>diseños arquitectónicos</strong>. Trabajamos para todo el mundo y en estrecha colaboración con los estudios para asegurar que cada render cumpla con sus estándares de calidad y precisión.</p>",
+   "s": 29
+  },
+  {
+   "type": "button",
+   "text": "Freelance",
+   "href": "/renders-freelance/",
+   "s": 29
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/render-freelance.jpg",
+   "alt": "render-freelance",
+   "href": "/renders-freelance/",
+   "s": 29
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Cursos de renders Tucumán 3D",
+   "s": 30
+  },
+  {
+   "type": "text",
+   "text": "Descubre los mejores Cursos Online de renders, donde te mostramos formaciones a distancia en diversas áreas como estructuras, mediciones, instalaciones, dibujo 2D, modelado 3D, fotografía, vídeo y diseño. accede a cursos especializados en urbanismo y paisajismo. Aprende a redactar proyectos de edificación, instrumentos de planeamiento urbanístico y gestión, así como proyectos de urbanización desde cualquier lugar y a tu propio ritmo.",
+   "html": "<p>Descubre los mejores <strong>Cursos Online de renders</strong>, donde te mostramos <strong>formaciones</strong> a distancia en diversas áreas como <strong>estructuras</strong>, <strong>mediciones</strong>, <strong>instalaciones</strong>, <strong>dibujo 2D</strong>, <strong>modelado 3D</strong>, <strong>fotografía</strong>, <strong>vídeo</strong> y <strong>diseño</strong>. accede a <strong>cursos especializados en urbanismo y paisajismo</strong>. Aprende a redactar <strong>proyectos de edificación, instrumentos de planeamiento urbanístico y gestión</strong>, así como <strong>proyectos de urbanización</strong> desde cualquier lugar y a tu propio ritmo.</p>",
+   "s": 30
+  },
+  {
+   "type": "button",
+   "text": "Cursos",
+   "href": "/cursos-de-renders/",
+   "s": 30
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/curso-de-renders.webp",
+   "alt": "curso-de-renders",
+   "href": "/cursos-de-renders/",
+   "s": 30
+  },
+  {
+   "type": "heading",
+   "tag": "p",
+   "text": "Contáctenos",
+   "s": 32
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Render Studio Tucumán",
+   "s": 32
+  },
+  {
+   "type": "text",
+   "text": "¡Descubre nuestros servicios de Studio render y arquitectura! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.",
+   "html": "<p>¡Descubre nuestros<strong> servicios de Studio render y arquitectura</strong>! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.</p>",
+   "s": 32
+  },
+  {
+   "type": "button",
+   "text": "Studio",
+   "href": "/render-studio/",
+   "s": 32
+  },
+  {
+   "type": "heading",
+   "tag": "p",
+   "text": "Escríbenos",
+   "s": 32
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Render Profesionales Tucumán",
+   "s": 32
+  },
+  {
+   "type": "text",
+   "text": "¡Descubre nuestros servicios de render profesional y arquitectura! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.",
+   "html": "<p>¡Descubre nuestros<strong> servicios de render profesional y arquitectura</strong>! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.</p>",
+   "s": 32
+  },
+  {
+   "type": "button",
+   "text": "Profesional",
+   "href": "/render-profesionales/",
+   "s": 32
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Renders Tucumán Arquitectura y Diseño",
+   "s": 34
+  },
+  {
+   "type": "text",
+   "text": "Somos Arquitectura, estudio de arquitectura e interiorismo que ofrece una plataforma online donde podrás encontrar arquitectos e interioristas profesionales. Nuestros servicios incluyen diseño 3D, renderizado, planificación, anteproyectos, proyectos, reforma y construcción. Además, contamos con un blog donde podrás consultar ideas y noticias arquitectónicas. Nuestro objetivo es brindarte un servicio rápido, personalizado y eficiente, optimizando el tiempo y los recursos de tus proyectos. Estamos a tu disposición para resolver cualquier duda o consulta que tengas. ¡Te damos la bienvenida a Dearquitectura.info!",
+   "html": "<p>Somos <a href=\"https://dearquitectura.info/\"><strong>Arquitectura</strong></a>, <strong>estudio de arquitectura e interiorismo</strong> que ofrece una <strong>plataforma</strong> online donde podrás encontrar <strong>arquitectos</strong> e <strong>interioristas</strong> profesionales. Nuestros servicios incluyen <strong>diseño 3D, renderizado, planificación, anteproyectos, proyectos, reforma y construcción</strong>. Además, contamos con un blog donde podrás consultar <strong>ideas y noticias arquitectónicas</strong>.</p><p>Nuestro objetivo es brindarte un servicio rápido, personalizado y eficiente, optimizando el tiempo y los recursos de tus proyectos.</p><p>Estamos a tu disposición para resolver cualquier duda o consulta que tengas. ¡Te damos la bienvenida a <strong>Dearquitectura.info</strong>!</p>",
+   "s": 34
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/de-arquitectura.jpg",
+   "alt": "de-arquitectura",
+   "s": 34
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arquitectura-y-diseno.jpg",
+   "alt": "",
+   "s": 34
+  },
+  {
+   "type": "button",
+   "text": "Arquitectura",
+   "href": "/",
+   "s": 34
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "DE-arquitectura: Nuestra Mision",
+     "html": "<p>Nuestra misión es crear espacios que respondan a las necesidades, los deseos y los sueños de nuestros clientes, con un enfoque profesional, de solución de problemas, ecológico y de sustentabilidad, arte y diseño.</p><p>Creemos que la arquitectura es una forma de expresión artística que debe integrarse con el entorno natural y social, respetando los principios de eficiencia energética, accesibilidad, funcionalidad y estética.</p><p>Nuestro objetivo es ofrecer un servicio personalizado y de calidad, que se adapte a cada proyecto y presupuesto, y que supere las expectativas de nuestros clientes. Nos comprometemos a respetar los principios de eficiencia energética, accesibilidad, funcionalidad y estética que promuevan una arquitectura responsable e innovadora.</p><h4>Mirada Arquitectónica </h4><div class=\"flex flex-grow flex-col max-w-full\"><div class=\"min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto\" data-message-author-role=\"assistant\" data-message-id=\"e5d728e2-4c16-46fe-9ebd-34beea168a35\"><div class=\"markdown prose w-full break-words dark:prose-invert light\"><p>Nuestra web es un espacio integral para todo lo relacionado con la arquitectura: desde noticias, tendencias y proyectos hasta consejos, recursos y servicios profesionales de diseño y construcción. Concebida como un punto de encuentro para los amantes de esta disciplina, nuestra plataforma aspira a educar, inspirar, compartir y colaborar. Ofrece una visión global y diversa de la arquitectura, abarcando aspectos históricos, teóricos, críticos, así como prácticos, tecnológicos, innovadores y sostenibles. </p><p>A través de contenido riguroso y accesible, nuestra plataforma te sumerge en el fascinante mundo Arquitectónico, manteniéndote actualizado y ofreciéndote soluciones para tus proyectos. ¡Te invitamos a explorarla y descubrir todo lo que puede ofrecerte!\"</p></div></div></div><div class=\"mt-1 flex justify-start gap-3 empty:hidden\"><div class=\"text-gray-400 flex self-end lg:self-center justify-center lg:justify-start mt-0 gap-1 visible\"> </div></div>"
+    }
+   ],
+   "s": 35
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arquitecto.jpg",
+   "alt": "arquitecto",
+   "href": "/arquitectos/",
+   "s": 36
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "ARQUITECTOS RENDERISTAS EN TUCUMAN",
+   "s": 36
+  },
+  {
+   "type": "text",
+   "text": "Ya sea que busques arquitectos, aparejadores o arquitectos técnicos, estamos aquí para ofrecerte respuestas a tus problemas o dudas arquitectónicas. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus proyectos y consultas relacionadas con la arquitectura.",
+   "html": "<p>Ya sea que busques <strong>arquitectos</strong>, <strong>aparejadores</strong> o <strong>arquitectos técnicos</strong>, estamos aquí para ofrecerte respuestas a tus problemas o dudas <strong>arquitectónicas</strong>. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus <strong>proyectos y consultas relacionadas con la arquitectura</strong>.</p>",
+   "s": 36
+  },
+  {
+   "type": "text",
+   "text": "Arquitecto Arquitectos Famosos Arquitectos de interiores Arquitectos Modernos Arquitectos Delineantes Arquitectos Técnicos Arquitectos Diseñadores",
+   "html": "<h3><a href=\"https://dearquitectura.info/arquitectos/\"><span style=\"font-size: 18.72px;\">Arquitecto</span></a></h3><h3><a href=\"https://dearquitectura.info/arquitectos-famosos/\"><span style=\"font-size: 18.72px;\">Arquitectos</span><strong> Famosos</strong> </a></h3><h3><a href=\"https://dearquitectura.info/arquitectos-de-interiores/\">Arquitectos de interiores</a></h3><h3><a href=\"https://dearquitectura.info/arquitecto-moderno/\">Arquitectos Modernos</a></h3><h3><a href=\"https://dearquitectura.info/delineante/\">Arquitectos Delineantes </a></h3><h3><a href=\"https://dearquitectura.info/arquitecto-tecnico/\">Arquitectos Técnicos </a></h3><h3><a href=\"https://dearquitectura.info/arquitecto-disenador/\">Arquitectos Diseñadores</a></h3>",
+   "s": 37
+  },
+  {
+   "type": "text",
+   "text": "Arquitectos Urbano Arquitectos Proyectistas Arquitectos Interioristas Arquitectos Paisajistas Arquitectos Calculistas Arquitectos Decoradores Aparejadores",
+   "html": "<h3><a href=\"https://dearquitectura.info/arquitecto-urbano/\">Arquitectos Urbano </a></h3><h3><a href=\"https://dearquitectura.info/proyectista/\">Arquitectos Proyectistas </a></h3><h3><a href=\"https://dearquitectura.info/interiorista/\">Arquitectos Interioristas </a></h3><h3><a href=\"https://dearquitectura.info/paisajista/\">Arquitectos <strong>Paisajistas </strong></a></h3><h3><a href=\"https://dearquitectura.info/calculista/\">Arquitectos Calculistas </a></h3><div><h3><a href=\"https://dearquitectura.info/decorador/\">Arquitectos Decoradores</a></h3><h3><a href=\"https://dearquitectura.info/aparejadores/\">Aparejadores</a></h3></div>",
+   "s": 37
+  },
+  {
+   "type": "text",
+   "text": "Conoce todos los tipos de arquitectos aquí!",
+   "html": "<p>Conoce todos los <strong>tipos de arquitectos</strong> aquí!</p>",
+   "s": 37
+  },
+  {
+   "type": "button",
+   "text": "Arquitecto",
+   "href": "/arquitectos/",
+   "s": 37
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/plataforma-de-arquitectura.jpg",
+   "alt": "plataforma-de-arquitectura",
+   "href": "/plataforma-arquitectura/",
+   "s": 40
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "PLATAFORMA DE RENDERS TUCUMAN 3D",
+   "s": 40
+  },
+  {
+   "type": "heading",
+   "tag": "p",
+   "text": "PLATAFORMA DE ARQUITECTURA",
+   "s": 40
+  },
+  {
+   "type": "text",
+   "text": "Sumérgete en el mundo arquitectónico. Mas que una web somos una plataforma de arquitectura, aquí encontraras noticias, servicios, cursos, libros, proyectos y mucho mas, entra en el mundo arquitectónico y sorpréndete de todo lo que se puede lograr.",
+   "html": "<p>Sumérgete en el <strong>mundo arquitectónico</strong>. Mas que una web somos una <strong>plataforma de arquitectura</strong>, aquí encontraras <strong>noticias</strong>, <strong>servicios</strong>, <strong>cursos</strong>, <strong>libros</strong>, <strong>proyectos</strong> y mucho mas, entra en el mundo <strong>arquitectónico</strong> y sorpréndete de todo lo que se puede lograr.</p>",
+   "s": 40
+  },
+  {
+   "type": "button",
+   "text": "Plataforma",
+   "href": "/plataforma-arquitectura/",
+   "s": 40
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Estudios-de-arquitectura.jpg",
+   "alt": "Estudios-de-arquitectura",
+   "href": "/estudio-de-arquitectura/",
+   "s": 42
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "ESTUDIO DE RENDERS TUCUMAN",
+   "s": 42
+  },
+  {
+   "type": "text",
+   "text": "¿Tienes proyectos, diseños o ideas que ansías hacer realidad? Nuestro estudio de arquitectura e interiorismo está comprometido en ofrecerte soluciones creativas y funcionales. Desde el diseño conceptual hasta la ejecución, nos dedicamos a convertir tus visiones en estructuras concretas. Ponte en contacto con nuestra oficina de arquitectura",
+   "html": "<p>¿Tienes <strong>proyectos</strong>, <strong>diseños</strong> o ideas que ansías hacer realidad? <span style=\"font-size: 20px; letter-spacing: 0.1px; text-align: var(--text-align);\">Nuestro <strong>estudio de arquitectura e interiorismo</strong> está comprometido en ofrecerte <strong>soluciones creativas y funcionales</strong>. Desde el<strong> diseño conceptual</strong> hasta la ejecución, nos dedicamos a convertir tus visiones en <strong>estructuras concretas</strong>. Ponte en contacto con nuestra <strong>oficina de arquitectura</strong></span></p>",
+   "s": 42
+  },
+  {
+   "type": "button",
+   "text": "Estudio",
+   "href": "/estudio-de-arquitectura/",
+   "s": 42
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/Agencia-de-diseno.jpg",
+   "alt": "Agencia-de-diseño",
+   "href": "/agencia-de-diseno/",
+   "s": 44
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "AGENCIA DE DISEÑO RENDERS TUCUMAN",
+   "s": 44
+  },
+  {
+   "type": "text",
+   "text": "Nos dedicamos a transformar conceptos innovadores en soluciones de diseño impactantes. Agencia de diseño grafico y arquitectura ofrecemos servicios personalizados en identidad visual, diseño gráfico, diseño web y experiencias interactivas.",
+   "html": "<div class=\"flex flex-grow flex-col max-w-full\"><div class=\"min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-2\" dir=\"auto\" data-message-author-role=\"assistant\" data-message-id=\"f8892441-9d0e-4ee7-856e-e762d71b61a4\"><div class=\"flex w-full flex-col gap-1 juice:empty:hidden juice:first:pt-[3px]\"><div class=\"markdown prose w-full break-words dark:prose-invert light\"><div class=\"flex flex-grow flex-col max-w-full\"><div class=\"min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-2\" dir=\"auto\" data-message-author-role=\"assistant\" data-message-id=\"d01259ce-aaa0-4e41-9212-f34eee3bdb37\"><div class=\"flex w-full flex-col gap-1 juice:empty:hidden juice:first:pt-[3px]\"><div class=\"markdown prose w-full break-words dark:prose-invert light\"><p>Nos dedicamos a transformar conceptos innovadores en soluciones de diseño impactantes. <strong>Agencia de diseño grafico y arquitectura</strong> ofrecemos servicios personalizados en <strong>identidad visual, diseño gráfico, diseño web y experiencias interactivas. </strong></p></div></div></div></div></div></div></div></div>",
+   "s": 44
+  },
+  {
+   "type": "button",
+   "text": "Agencia",
+   "href": "/agencia-de-diseno/",
+   "s": 44
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Construcción Tucumán",
+   "s": 48
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Construccion-arquitectura.jpg",
+   "alt": "",
+   "href": "/construccion/",
+   "s": 48
+  },
+  {
+   "type": "text",
+   "text": "¿Buscas construir? ¿tienes dudas? Empresas de construcción, asesoramiento profesional para tus ideas y proyectos",
+   "html": "<p>¿Buscas <strong>construir</strong>? ¿tienes dudas? <strong>Empresas de construcción</strong>, asesoramiento profesional para tus <strong>ideas y proyectos</strong> </p>",
+   "s": 48
+  },
+  {
+   "type": "button",
+   "text": "Construcción",
+   "href": "/construccion/",
+   "s": 48
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Reformas Tucumán",
+   "s": 48
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/reforma.jpg",
+   "alt": "",
+   "href": "/reformas/",
+   "s": 48
+  },
+  {
+   "type": "text",
+   "text": "¿Estas pensando en reformar tu casa? Reformistas e interioristas dispuestos a analizar tu reforma. Obtiene asesoramiento ideas y precios.",
+   "html": "<p>¿Estas pensando en<strong> reformar tu casa</strong>? <strong>Reformistas</strong> e <strong>interioristas</strong> dispuestos a analizar tu <strong>reforma</strong>. Obtiene asesoramiento<strong> ideas y precios</strong>.</p>",
+   "s": 48
+  },
+  {
+   "type": "button",
+   "text": "Reformas",
+   "href": "/reformas/",
+   "s": 48
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Diseños renders",
+   "s": 48
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Disenos-arquitectonicos.jpg",
+   "alt": "",
+   "href": "/disenos-arquitectonicos/",
+   "s": 48
+  },
+  {
+   "type": "text",
+   "text": "Diseño arquitectónico. Diferentes propuestas arquitectónicas, siguiendo o proponiendo las nuevas tendencias de interiorismo y diseño arquitectónico.",
+   "html": "<p><strong>Diseño arquitectónico</strong>. Diferentes<strong> propuestas arquitectónicas</strong>, siguiendo o proponiendo las nuevas <strong>tendencias de interiorismo y diseño arquitectónico.</strong> </p>",
+   "s": 48
+  },
+  {
+   "type": "button",
+   "text": "Diseños",
+   "href": "/disenos-arquitectonicos/",
+   "s": 48
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Interiorismo y decoración",
+   "s": 48
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/interiorismo-y-decoracion.jpg",
+   "alt": "",
+   "href": "/interiorismo/",
+   "s": 48
+  },
+  {
+   "type": "text",
+   "text": "Renueva y Decora: Ideas para reformar y decorar un espacio, estudio de interiorismo por interioristas y decoradores profesionales",
+   "html": "<div class=\"flex-1 overflow-hidden\"><div class=\"react-scroll-to-bottom--css-zxvqf-79elbk h-full\"><div class=\"react-scroll-to-bottom--css-zxvqf-1n7m0yu\"><div class=\"flex flex-col pb-9 text-sm\"><div class=\"w-full text-token-text-primary\" data-testid=\"conversation-turn-259\"><div class=\"px-4 py-2 justify-center text-base md:gap-6 m-auto\"><div class=\"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] } group final-completion\"><div class=\"relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn\"><div class=\"flex-col gap-1 md:gap-3\"><div class=\"flex flex-grow flex-col max-w-full\"><div class=\"min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto\" data-message-author-role=\"assistant\" data-message-id=\"70b9b05a-0240-4569-a475-16d23390c118\"><div class=\"markdown prose w-full break-words dark:prose-invert light\"><p><strong>Renueva y Decora:</strong> <strong>Ideas para reformar y decorar  un espacio</strong>, <strong>estudio de interiorismo</strong> por <strong>interioristas</strong> y <strong>decoradores</strong> profesionales</p></div></div></div></div></div></div></div></div></div></div></div></div>",
+   "s": 48
+  },
+  {
+   "type": "button",
+   "text": "Interiorismo",
+   "href": "/interiorismo/",
+   "s": 48
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/empresa-de-arquitectura.jpg",
+   "alt": "",
+   "href": "/empresas/",
+   "s": 50
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Empresa de Arquitectura Tucumán y renders",
+   "s": 50
+  },
+  {
+   "type": "text",
+   "text": "Conoce las mejores empresas que trabajan con nosotros, estudios de arquitectura, arquitectos y diseñadores. Equipos multidisciplinario para dar respuestas a los diferentes tipos de proyectos arquitectónicos",
+   "html": "<p>Conoce las <strong>mejores empresas</strong> que trabajan con nosotros, <strong>estudios de arquitectura</strong>, <strong>arquitectos</strong> y <strong>diseñadores</strong>. <strong>Equipos multidisciplinario</strong> para dar respuestas a los diferentes tipos de <strong>proyectos arquitectónicos</strong></p>",
+   "s": 50
+  },
+  {
+   "type": "button",
+   "text": "Empresa",
+   "href": "/empresas/",
+   "s": 50
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/despachos-de-arquitectura-1.jpg",
+   "alt": "despachos-de-arquitectura",
+   "href": "/despacho/",
+   "s": 52
+  },
+  {
+   "type": "heading",
+   "tag": "p",
+   "text": "Contáctanos para analizar tu proyecto",
+   "s": 52
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Despacho de Render Tucumán",
+   "s": 52
+  },
+  {
+   "type": "text",
+   "text": "En nuestro despacho de arquitectura, convertimos tus ideas y emociones en proyectos tangibles. Te guiamos para materializar tu visión en el hogar o espacio que siempre has imaginado. Encargados en Diseñar los espacios, Interiorismos, Dirección de obra, Estudio de viabilidad, Rehabilitaciones, Gestión de proyectos. Planes, presupuesto, Supervisión",
+   "html": "<p>En nuestro <strong>despacho de arquitectura</strong>, convertimos tus ideas y emociones en proyectos tangibles. Te guiamos para materializar tu visión en el hogar o espacio que siempre has imaginado. Encargados en <strong>Diseñar los espacios</strong>, <strong>Interiorismos</strong>, <strong>Dirección de obra</strong>, <strong>Estudio de viabilidad</strong>, <strong>Rehabilitaciones</strong>, <strong>Gestión de proyectos</strong>. <strong>Planes</strong>, <strong>presupuesto</strong>, <strong>Supervisión</strong></p>",
+   "s": 52
+  },
+  {
+   "type": "button",
+   "text": "Despacho",
+   "href": "/despacho/",
+   "s": 52
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Trabajo-de-arquitectura.jpg",
+   "alt": "Trabajo-de-arquitectura",
+   "href": "/trabajos/",
+   "s": 54
+  },
+  {
+   "type": "heading",
+   "tag": "p",
+   "text": "¿Quieres trabajar con nosotros?",
+   "s": 54
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Trabajo de renderista Tucumán",
+   "s": 54
+  },
+  {
+   "type": "text",
+   "text": "¿Eres arquitecto, ingeniero. estudios arquitectónicos o empresa y quieres trabajar con nosotros? Trabajamos freelance y online, Contáctanos y organizaremos una Reunión. Conoce nuestros trabajos dearquitectura.",
+   "html": "<p>¿Eres <strong>arquitecto</strong>, <strong>ingeniero</strong>. <strong>estudios </strong><b>arquitectónicos</b> o<strong> empresa</strong> y quieres <strong>trabajar</strong> con nosotros? <strong>Trabajamos freelance</strong> y <strong>online</strong>, Contáctanos y organizaremos una Reunión. Conoce nuestros <strong>trabajos dearquitectura.</strong></p>",
+   "s": 54
+  },
+  {
+   "type": "button",
+   "text": "Trabajos",
+   "href": "/trabajos/",
+   "s": 54
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/curso-de-arquitectura.jpg",
+   "alt": "",
+   "href": "/cursos-de-arquitectura/",
+   "s": 56
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Cursos de arquitectura Tucumán",
+   "s": 56
+  },
+  {
+   "type": "text",
+   "text": "Descubre los mejores Cursos Online deArquitectura, donde te mostramos formaciones a distancia en diversas áreas como estructuras, mediciones, instalaciones, dibujo 2D, modelado 3D, fotografía, vídeo y diseño. accede a cursos especializados en urbanismo y paisajismo. Aprende a redactar proyectos de edificación, instrumentos de planeamiento urbanístico y gestión, así como proyectos de urbanización desde cualquier lugar y a tu propio ritmo.",
+   "html": "<p>Descubre los mejores <strong>Cursos Online deArquitectura</strong>, donde te mostramos <strong>formaciones</strong> a distancia en diversas áreas como <strong>estructuras</strong>, <strong>mediciones</strong>, <strong>instalaciones</strong>, <strong>dibujo 2D</strong>, <strong>modelado 3D</strong>, <strong>fotografía</strong>, <strong>vídeo</strong> y <strong>diseño</strong>. accede a <strong>cursos especializados en urbanismo y paisajismo</strong>. Aprende a redactar <strong>proyectos de edificación, instrumentos de planeamiento urbanístico y gestión</strong>, así como <strong>proyectos de urbanización</strong> desde cualquier lugar y a tu propio ritmo.</p>",
+   "s": 56
+  },
+  {
+   "type": "button",
+   "text": "Cursos",
+   "href": "/cursos-de-arquitectura/",
+   "s": 56
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "TIPOS DE ARQUITECTURA Y ESTILOS",
+   "s": 58
+  },
+  {
+   "type": "text",
+   "text": "Descubre los estilos arquitectónicos mas importante de la historia humana",
+   "html": "<p>Descubre los <strong>estilos arquitectónicos</strong> mas importante de la historia humana</p>",
+   "s": 58
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Romana",
+   "href": "/arquitectura-romana/",
+   "s": 60
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arquitectura-roma.jpg",
+   "alt": "",
+   "href": "/arquitectura-romana/",
+   "s": 60
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Barroca",
+   "href": "/arquitectura-Barroca/",
+   "s": 60
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arquitectura-del-barroco.jpg",
+   "alt": "",
+   "href": "/arquitectura-Barroca/",
+   "s": 60
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Griega",
+   "href": "/arquitectura-griega/",
+   "s": 60
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Arquitectura-grecia.jpg",
+   "alt": "",
+   "href": "/arquitectura-griega/",
+   "s": 60
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Gotica",
+   "href": "/arquitectura-gotica/",
+   "s": 60
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Gotica-arquitectura.jpg",
+   "alt": "",
+   "href": "/arquitectura-gotica/",
+   "s": 60
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Moderna",
+   "href": "/arquitectura-moderna/",
+   "s": 60
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Moderna-arquitectura.jpg",
+   "alt": "",
+   "href": "/arquitectura-moderna/",
+   "s": 60
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Neoclásica",
+   "href": "/arquitectura-neoclasica/",
+   "s": 60
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/neoclasica-arquitectura.jpg",
+   "alt": "",
+   "href": "/arquitectura-neoclasica/",
+   "s": 60
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Renacentista",
+   "href": "/arquitectura-renacentista/",
+   "s": 62
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/renacentista-arquitectura.jpg",
+   "alt": "",
+   "href": "/arquitectura-renacentista/",
+   "s": 62
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Maya",
+   "href": "/arquitectura-maya/",
+   "s": 62
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arquitectura-mayas.jpg",
+   "alt": "",
+   "href": "/arquitectura-maya/",
+   "s": 62
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Egipcia",
+   "href": "/arquitectura-egipcia/",
+   "s": 62
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arte-y-arquitectura-egipcia.jpg",
+   "alt": "",
+   "href": "/arquitectura-egipcia/",
+   "s": 62
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Azteca",
+   "s": 62
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arte-y-arquitectura-azteca.jpg",
+   "alt": "",
+   "href": "/arquitectura-azteca/",
+   "s": 62
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Incas",
+   "href": "/arquitectura-incaica/",
+   "s": 62
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arquitectura-incas.jpg",
+   "alt": "",
+   "href": "/arquitectura-incaica/",
+   "s": 62
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Bioclimática",
+   "href": "/arquitectura-bioclimatica/",
+   "s": 62
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/arquitecturas-bioclimaticas.webp",
+   "alt": "arquitecturas-bioclimaticas",
+   "href": "/arquitectura-bioclimatica/",
+   "s": 62
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Sustentable",
+   "href": "/arquitectura-sustentable/",
+   "s": 64
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/03/sustentable-arquitectura.jpg",
+   "alt": "sustentable-arquitectura",
+   "href": "/arquitectura-sustentable/",
+   "s": 64
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Brutalista",
+   "href": "/arquitectura-brutalista/",
+   "s": 64
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/brutalismo-arquitectura.jpg",
+   "alt": "",
+   "href": "/arquitectura-brutalista/",
+   "s": 64
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Bizantina",
+   "href": "/arquitectura-bizantina/",
+   "s": 64
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/bizantino-arquitectura.jpg",
+   "alt": "",
+   "href": "/arquitectura-bizantina/",
+   "s": 64
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Mediterránea",
+   "href": "/arquitectura-mediterranea/",
+   "s": 64
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Mediterranea-arquitectura.jpg",
+   "alt": "Mediterránea-arquitectura",
+   "href": "/arquitectura-mediterranea/",
+   "s": 64
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Urbana",
+   "href": "/arquitectura-urbana/",
+   "s": 64
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/06/arquitectura-urbanistica.jpg",
+   "alt": "arquitectura-urbanística",
+   "href": "/arquitectura-urbana/",
+   "s": 64
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Industrial",
+   "href": "/arquitectura-industrial/",
+   "s": 64
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/06/arquitectura-industriales.jpg",
+   "alt": "arquitectura-industriales",
+   "href": "/arquitectura-industrial/",
+   "s": 64
+  },
+  {
+   "type": "text",
+   "text": "Conoce todos los tipos y estilos arquitectónicos aquí!",
+   "html": "<p>Conoce todos los <strong>tipos y estilos arquitectónicos</strong> aquí!</p>",
+   "s": 65
+  },
+  {
+   "type": "button",
+   "text": "TIPOS DE ARQUITECTURA",
+   "href": "/tipos-de-arquitectura/",
+   "s": 65
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Dibujo-de-arquitectura.jpg",
+   "alt": "",
+   "href": "/dibujos-de-arquitectura/",
+   "s": 67
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Dibujos RENDERS Tucumán",
+   "s": 67
+  },
+  {
+   "type": "text",
+   "text": "Los mejores dibujos arquitectónicos, Croquis arquitectónicos, Diseños conceptuales, Collages e ilustraciones arquitectónicas, Diagramas",
+   "html": "<p>Los mejores <strong>dibujos arquitectónicos</strong>, <strong>Croquis arquitectónicos</strong>,  <strong>Diseños conceptuales</strong>, <strong>Collages</strong> e <strong>ilustraciones arquitectónicas</strong>, <strong>Diagramas</strong></p>",
+   "s": 67
+  },
+  {
+   "type": "button",
+   "text": "Dibujos",
+   "href": "/dibujos-de-arquitectura/",
+   "s": 67
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Planos-arquitectura.jpg",
+   "alt": "Planos-arquitectura",
+   "href": "/planos/",
+   "s": 69
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Planos de arquitectura Tucumán",
+   "s": 69
+  },
+  {
+   "type": "text",
+   "text": "Realizamos todo tipo de planos, ¿Qué son los planos de arquitectura? Tipos de planos, Plano de situación, Plano de planta, El alzado, Plano de emplazamiento, vista de secciones, perspectiva arquitectónicas, planos de casas y edificios, Ideas, imágenes y decoración",
+   "html": "<p>Realizamos todo tipo de <strong>planos</strong>, <strong>¿Qué son los planos de arquitectura?</strong> <strong>Tipos de planos</strong>, <strong>Plano de situación</strong>, <strong> Plano de planta</strong>, <strong>El alzado</strong>,  <strong>Plano de emplazamiento</strong>, <strong>vista de secciones</strong>, <strong>perspectiva arquitectónicas</strong>, <strong>planos de casas y edificios</strong>,  Ideas, imágenes y <strong>decoración </strong></p>",
+   "s": 69
+  },
+  {
+   "type": "button",
+   "text": "Planos",
+   "href": "/planos/",
+   "s": 69
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/maqueta-de-arquitectura.jpg",
+   "alt": "",
+   "href": "/maquetas-de-arquitectura/",
+   "s": 73
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Maquetas Tucumán",
+   "s": 73
+  },
+  {
+   "type": "text",
+   "text": "Maqueta de arquitectura, industriales, conceptuales y urbanísticas, creamos maquetas arquitectónicas de alta precisión y detalle utilizando tecnologías avanzadas como impresión 3D, CNC y corte láser. Trabajamos con arquitectos y constructoras, convirtiendo ideas en representaciones visuales reales y propositivas.",
+   "html": "<p><strong>Maqueta de arquitectura,</strong> <strong>industriales</strong>, <strong>conceptuales</strong> y <strong>urbanísticas</strong>,<strong> creamos maquetas arquitectónicas de alta precisión</strong> y detalle utilizando tecnologías avanzadas como <strong>impresión 3D</strong>, <strong>CNC</strong> y <strong>corte láser</strong>. Trabajamos con <strong>arquitectos</strong> y <strong>constructoras</strong>, convirtiendo ideas en<strong> representaciones visuales</strong> reales y propositivas.</p>",
+   "s": 73
+  },
+  {
+   "type": "button",
+   "text": "Maquetas",
+   "href": "/maquetas-de-arquitectura/",
+   "s": 73
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/portafolios-de-arquitectura.jpg",
+   "alt": "portafolios-de-arquitectura",
+   "href": "/portafolios-arquitectura/",
+   "s": 76
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Portafolios renders Tucumán",
+   "s": 76
+  },
+  {
+   "type": "text",
+   "text": "Maximiza la presentación de tus Plantillas para portafolio de arquitectura. Te ofrecemos la oportunidad de presentar tu obra de manera impactante, ya sea en formato impreso o en línea. Para que tu portafolio destaque",
+   "html": "<p><strong>Maximiza la presentación de tus Plantillas</strong> para <strong>portafolio de arquitectura. T</strong>e ofrecemos la oportunidad de presentar tu <strong>obra</strong> de manera impactante, ya sea en formato impreso o en línea. Para que tu <strong>portafolio</strong> destaque</p>",
+   "s": 76
+  },
+  {
+   "type": "button",
+   "text": "Portafolios",
+   "href": "/portafolios-arquitectura/",
+   "s": 76
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/imagenes-de-arquitectura.jpg",
+   "alt": "imágenes-de-arquitectura",
+   "href": "/imagen-de-arquitectura/",
+   "s": 78
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Fotos e Imágenes de renders",
+   "s": 78
+  },
+  {
+   "type": "text",
+   "text": "Explora una amplia gama de imágenes sobre arquitectura, arquitectos y construcción, Descubre una colección de fotografías. impresionantes fotos urbanas, paisajes urbanos, arte conceptual, ilustraciones arquitectónicas y ciudades imaginarias. diversidad del diseño arquitectónico y la construcción.",
+   "html": "<p>Explora una amplia gama de<strong> imágenes sobre arquitectura</strong>, <strong>arquitectos</strong> y <strong>construcción</strong>, Descubre una <strong>colección de fotografías</strong>.  impresionantes fotos urbanas, paisajes urbanos, arte conceptual, ilustraciones arquitectónicas y ciudades imaginarias. diversidad del <strong>diseño arquitectónico y la construcción.</strong></p>",
+   "s": 78
+  },
+  {
+   "type": "button",
+   "text": "Imágenes",
+   "href": "/imagen-de-arquitectura/",
+   "s": 78
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Libros-de-arquitectura.jpg",
+   "alt": "Libros-de-arquitectura",
+   "href": "/libros-de-arquitectura/",
+   "s": 80
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Libros",
+   "s": 80
+  },
+  {
+   "type": "text",
+   "text": "Explora nuestra selección de libros dearquitectura, una recopilación ideal para aficionados a la historia, teoría y práctica. Desde manuales técnicos hasta ejemplares sobre diseño interior, regala conocimiento arquitectónico con los mejores libros en formato impreso y digital",
+   "html": "<p>Explora nuestra selección de<strong> libros dearquitectura</strong>, una recopilación ideal para aficionados a la <strong>historia</strong>, <strong>teoría</strong> y <strong>práctica</strong>. Desde <strong>manuales técnicos</strong> hasta ejemplares sobre <strong>diseño interior</strong>, regala conocimiento <strong>arquitectónico</strong> con los mejores <strong>libros en formato impreso y digital</strong></p>",
+   "s": 80
+  },
+  {
+   "type": "button",
+   "text": "Libros",
+   "href": "/libros-de-arquitectura/",
+   "s": 80
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/revista-de-arquitectura.jpg",
+   "alt": "revista-de-arquitectura",
+   "href": "/revistas-de-arquitectura/",
+   "s": 82
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Revistas",
+   "s": 82
+  },
+  {
+   "type": "text",
+   "text": "Revistas de arquitectura innovación y belleza en el mundo de la construcción! Exploramos los rincones más inspiradores del diseño arquitectónico, desde icónicos rascacielos hasta proyectos residenciales únicos y sostenibles. Sumérgete en análisis detallados de los estilos arquitectónicos, desde los clásicos hasta las tendencias contemporáneas más vanguardistas.",
+   "html": "<p><strong>Revistas de arquitectura innovación y belleza</strong> en el mundo de la <strong>construcción</strong>! Exploramos los rincones más inspiradores del <strong>diseño arquitectónico</strong>, desde icónicos rascacielos hasta <strong>proyectos residenciales únicos y sostenibles</strong>. Sumérgete en análisis detallados de los <strong>estilos arquitectónicos</strong>, desde los clásicos hasta las<strong> tendencias contemporáneas más vanguardistas</strong>.</p>",
+   "s": 82
+  },
+  {
+   "type": "button",
+   "text": "Revistas",
+   "href": "/revistas-de-arquitectura/",
+   "s": 82
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Programa-de-arquitectura.png",
+   "alt": "",
+   "href": "/programas-de-arquitectura/",
+   "s": 84
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Programas PARA RENDERS Tucumán",
+   "s": 84
+  },
+  {
+   "type": "text",
+   "text": "Conce los programas mas utilizados en arquitectura como AutoCAD, Revit, Archicad, Rhinoceros 3D, Sketchup, Vectorworks, V-Ray, Lumion. Postproducción y Visualización arquitectónica",
+   "html": "<p>Conce los<strong> programas mas utilizados en arquitectura</strong> como <strong>AutoCAD</strong>, <strong>Revit</strong>, <strong>Archicad</strong>, <strong>Rhinoceros 3D</strong>, <strong>Sketchup</strong>, <strong>Vectorworks</strong>,<strong> V-Ray</strong>, <strong>Lumion</strong>. <strong>Postproducción</strong> y <strong>Visualización arquitectónica</strong></p><div> </div>",
+   "s": 84
+  },
+  {
+   "type": "button",
+   "text": "Programas",
+   "href": "/programas-de-arquitectura/",
+   "s": 84
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/proyectos-de-arquitectura.jpg",
+   "alt": "",
+   "href": "/proyectos-de-arquitectura/",
+   "s": 86
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Proyectos de arquitectura Tucumán",
+   "s": 86
+  },
+  {
+   "type": "text",
+   "text": "Explora las últimas y más destacadas obras arquitectónicas, desde inspiradoras residencias hasta proyectos emblemáticos. Descubre los secretos para crear un proyecto arquitectónicos exitoso y cómo llevar a cabo su desarrollo. Sumérgete en nuestro portafolio para conocer algunos de los proyectos más destacados y visitados en el mundo",
+   "html": "<p>Explora las últimas y más destacadas obras arquitectónicas, desde inspiradoras residencias hasta proyectos emblemáticos. Descubre los secretos para crear un proyecto arquitectónicos exitoso y cómo llevar a cabo su desarrollo. Sumérgete en nuestro portafolio para conocer algunos de los proyectos más destacados y visitados en el mundo</p>",
+   "s": 86
+  },
+  {
+   "type": "button",
+   "text": "Proyectos",
+   "href": "/proyectos-de-arquitectura/",
+   "s": 86
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/ia-arquitectura.jpg",
+   "alt": "",
+   "href": "/inteligencia-artificial-arquitectura/",
+   "s": 88
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Renders y Inteligencia artificial (I.A)",
+   "s": 88
+  },
+  {
+   "type": "text",
+   "text": "La incursión de la inteligencia artificial en la industria arquitectónica ha sido significativa, ofreciendo a los arquitectos un aliado invaluable en el proceso de diseño, proyectos y obras. Explora cómo esta tecnología redefine la arquitectura y descubre sus ventajas, desventajas y ejemplos más relevantes. Desde el diseño asistido hasta la visualización en realidad virtual, la Inteligencia Artificial abre un abanico de aplicaciones para este campo",
+   "html": "<p>La incursión de la<strong> inteligencia artificial en la industria arquitectónica</strong> ha sido significativa, ofreciendo a los <strong>arquitectos</strong> un aliado invaluable en el <strong>proceso de diseño, proyectos y obras</strong>. Explora cómo esta <strong>tecnología</strong> redefine la <strong>arquitectura</strong> y descubre sus <strong>ventajas</strong>, <strong>desventajas</strong> y ejemplos más relevantes. Desde el <strong>diseño asistido</strong> hasta la v<strong>isualización en realidad virtual,</strong> la<strong> Inteligencia Artificial</strong> abre un abanico de aplicaciones para este campo</p>",
+   "s": 88
+  },
+  {
+   "type": "button",
+   "text": "IA",
+   "href": "/inteligencia-artificial-arquitectura/",
+   "s": 88
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Renders 3D Tucumán",
+   "s": 89
+  },
+  {
+   "type": "map",
+   "address": "Tucumán",
+   "s": 89
+  }
+ ]
+}
