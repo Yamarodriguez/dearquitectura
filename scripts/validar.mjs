@@ -7,6 +7,7 @@ import { variosH1Permitidos } from './erratas.mjs';
 
 const site = JSON.parse(fs.readFileSync('src/data/site.json', 'utf8'));
 const DOMINIO = `https://${site.dominio}`;
+const sinIndexar = new Set((JSON.parse(fs.readFileSync('src/data/cambios-aprobados.json', 'utf8')).paginas_sin_indexar?.paginas ?? []).map((s) => `/${s}/`));
 const legales = new Set(fs.readdirSync('src/content/pages').map((f) => JSON.parse(fs.readFileSync(path.join('src/content/pages', f), 'utf8'))).filter((p) => p.legal).map((p) => new URL(p.url).pathname));
 const fallos = [], avisos = [];
 const paginas = (dir) => fs.readdirSync(dir, { withFileTypes: true }).flatMap((e) => e.isDirectory() ? paginas(path.join(dir, e.name)) : e.name.endsWith('.html') ? [path.join(dir, e.name)] : []);
@@ -55,7 +56,7 @@ for (const f of ficheros) {
   }
   // Hasta la Fase 7 (site.indexar = false), todo con noindex. Después, solo legales, gracias y 404.
   const sinIndice = /<meta name="robots" content="noindex/.test(html);
-  const debeIndexarse = site.indexar && !es404 && url !== '/gracias/' && !legales.has(url);
+  const debeIndexarse = site.indexar && !es404 && url !== '/gracias/' && !legales.has(url) && !sinIndexar.has(url);
   if (debeIndexarse && sinIndice) fallos.push(`${rel}: lleva noindex y debería indexarse`);
   if (!debeIndexarse && !sinIndice) fallos.push(`${rel}: debería llevar noindex`);
   if (/contenedores ?mar[ií]timos|casascontenedores/i.test(texto)) {

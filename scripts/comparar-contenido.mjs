@@ -6,7 +6,7 @@
 // tienen con qué compararse: se avisan aparte (su contenido sale del XML).
 import fs from 'node:fs';
 import path from 'node:path';
-import { aplicarErratas, sinReferencia } from './erratas.mjs';
+import { aplicarErratas, aplicarCambios, sinReferencia } from './erratas.mjs';
 
 const viva = JSON.parse(fs.readFileSync('estructura-viva.json', 'utf8'));
 const norm = (s) =>
@@ -59,7 +59,7 @@ for (const p of Object.values(viva)) {
   if (!fs.existsSync(nueva)) { dif.push(`${p.url}: falta en dist`); continue; }
   if (!fs.existsSync(ref)) { if (sinReferencia.has(ruta)) sinRef.push(ruta); else dif.push(`${p.url}: falta referencia`); continue; }
   comparadas++;
-  const original = aplicarErratas(fs.readFileSync(ref, 'utf8'));
+  const original = aplicarCambios(aplicarErratas(fs.readFileSync(ref, 'utf8')), ruta);
   const nuevoHtml = fs.readFileSync(nueva, 'utf8');
   const b = bloquesDe(nuevoHtml).join(' | ');
   let pos = 0;

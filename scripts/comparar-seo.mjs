@@ -27,10 +27,11 @@ for (const p of paginas) {
   if ((s.descripcion || '') !== descripcion(b)) dif.push(`${p.url}: descripción distinta`);
   for (const t of ['og:title', 'og:url', 'og:type']) if (!b.includes(`property="${t}"`)) dif.push(`${p.url}: falta ${t}`);
 }
+const sinIndexar = new Set(JSON.parse(fs.readFileSync('src/data/cambios-aprobados.json', 'utf8')).paginas_sin_indexar?.paginas ?? []);
 const mapa = fs.readFileSync('dist/sitemap.xml', 'utf8');
 const enMapa = new Set([...mapa.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]));
 for (const p of paginas) {
-  const debe = !p.legal; // las legales llevan noindex en el original y no van al mapa
+  const debe = !p.legal && !sinIndexar.has(p.slug); // legales (noindex en el original) y las aprobadas sin indexar no van al mapa
   if (debe && !enMapa.has(p.url)) dif.push(`${p.url}: no está en sitemap.xml`);
   if (!debe && enMapa.has(p.url)) dif.push(`${p.url}: está en sitemap.xml y lleva noindex`);
 }

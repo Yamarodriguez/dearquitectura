@@ -1,6 +1,6 @@
 ---
 // Caja «Resumen» del original (plugin All In One Schema, ficha de servicio) en 7
-// páginas de estudio por ciudad: mismo marcado, textos y estilos que la web viva.
+// páginas de estudio por ciudad: mismo marcado y estilos que la web viva; las etiquetas, en español (aprobado por Yama).
 import medidas from '../data/imagenes.json';
 interface Props { r: { imagen: string; tipo: string; proveedor: string; area: string; descripcion: string } }
 const { r } = Astro.props as Props;
@@ -16,10 +16,10 @@ const alto = m ? Math.round((180 * m.h) / m.w) : undefined;
   <div class="snippet-title" style="background:#E4E4E4; color:#333333; border-bottom:1px solid #ACACAC;">Resumen</div>
   <div>
     {r.imagen && m && <div class="snippet-image"><img width="180" height={alto} src={r.imagen} alt={r.tipo} loading="lazy" decoding="async" /></div>}<div class="aio-info">
-      <span class="snippet-label-img">Service Type</span><div class="snippet-data-img"><span>{r.tipo}</span></div><div class="snippet-clear"></div>{r.proveedor && <><span class="snippet-label-img">Provider Name</span><div class="snippet-data-img"><span>{r.proveedor}</span>,</div></>}
+      <span class="snippet-label-img">Tipo de servicio</span><div class="snippet-data-img"><span>{r.tipo}</span></div><div class="snippet-clear"></div>{r.proveedor && <><span class="snippet-label-img">Proveedor</span><div class="snippet-data-img"><span>{r.proveedor}</span>,</div></>}
     </div>
     <div class="snippet-clear"></div>
-    {r.area && <><span class="snippet-label-img">Area</span><div class="snippet-data-img"><span>{r.area}</span></div><div class="snippet-clear"></div></>}
+    {r.area && <><span class="snippet-label-img">Zona</span><div class="snippet-data-img"><span>{r.area}</span></div><div class="snippet-clear"></div></>}
     {r.descripcion && <><span class="snippet-label-img">Descripción</span><div class="snippet-data-img"><span>{r.descripcion}</span></div><div class="snippet-clear"></div></>}
     <div class="snippet-data-img"></div><div class="snippet-clear"></div>
   </div>

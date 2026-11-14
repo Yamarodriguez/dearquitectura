@@ -2,16 +2,30 @@
   "nombre": "DE Arquitectura",
   "dominio": "dearquitectura.info",
   "descripcion": "Estudio de arquitectura e interiorismo y plataforma online de arquitectos, renders y diseño 3D.",
-  "logo": { "src": "/img/2023/12/dearquitectura.jpg", "w": 810, "h": 450, "alt": "de-arquitectura" },
+  "logo": {
+    "src": "/img/2023/12/dearquitectura.jpg",
+    "w": 810,
+    "h": 450,
+    "alt": "de-arquitectura"
+  },
   "correo": "Arquitectura@dearquitectura.info",
   "telefono": "",
   "whatsapp": "",
   "horario": "",
-  "titular": { "nombre": "", "nif": "", "direccion": "" },
+  "titular": {
+    "nombre": "Yamandu Rodriguez",
+    "nif": "Y8543818E",
+    "direccion": "Calle de Finestrat, Valencia",
+    "_origen": "Los mismos datos que en contenedoresmaritimos; Yama dio el visto bueno el 14-11-2026 («haz lo que recomiendas»)."
+  },
   "analytics": {
     "ga4": "",
     "adsense": "",
-    "_pendiente": "En la web viva: GA4 G-SWJY3P4YRP y AdSense ca-pub-7333712322602518. Se activan en la Fase 3 (AdSense, para probar el diseño) y la Fase 7 (GA4), cuando Yama los confirme."
+    "confirmados": {
+      "ga4": "G-SWJY3P4YRP",
+      "adsense": "ca-pub-7333712322602518"
+    },
+    "_pendiente": "Confirmados por Yama el 14-11-2026. Se activan en la Fase 7 (al lanzar): pasar los de «confirmados» a ga4 y adsense. Antes, Yama activa en AdSense el mensaje de privacidad de Google para Europa (Privacidad y mensajes)."
   },
   "indexar": false,
   "_indexar": "false hasta la Fase 7: mientras se prepara, ninguna página sale en Google.",

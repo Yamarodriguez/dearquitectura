@@ -376,7 +376,9 @@
    "type": "button",
    "text": "Haz clic aquí",
    "size": "sm",
-   "s": 22
+   "s": 22,
+   "href": "/contacto/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "heading",
@@ -402,7 +404,9 @@
    "type": "button",
    "text": "Haz clic aquí",
    "size": "sm",
-   "s": 22
+   "s": 22,
+   "href": "/contacto/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "heading",
@@ -428,7 +432,9 @@
    "type": "button",
    "text": "Haz clic aquí",
    "size": "sm",
-   "s": 22
+   "s": 22,
+   "href": "/contacto/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "heading",
@@ -454,7 +460,9 @@
    "type": "button",
    "text": "Haz clic aquí",
    "size": "sm",
-   "s": 22
+   "s": 22,
+   "href": "/contacto/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "button",
@@ -778,7 +786,9 @@
    "type": "button",
    "text": "Renders",
    "size": "sm",
-   "s": 37
+   "s": 37,
+   "href": "/renders/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -956,7 +966,9 @@
    "type": "button",
    "text": "Libros",
    "size": "sm",
-   "s": 49
+   "s": 49,
+   "href": "/libros-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -982,7 +994,9 @@
    "type": "button",
    "text": "Cursos",
    "size": "sm",
-   "s": 51
+   "s": 51,
+   "href": "/cursos-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -1008,7 +1022,9 @@
    "type": "button",
    "text": "Revistas",
    "size": "sm",
-   "s": 53
+   "s": 53,
+   "href": "/revistas-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -1034,7 +1050,9 @@
    "type": "button",
    "text": "Programas",
    "size": "sm",
-   "s": 55
+   "s": 55,
+   "href": "/programas-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -1060,7 +1078,9 @@
    "type": "button",
    "text": "Proyectos",
    "size": "sm",
-   "s": 57
+   "s": 57,
+   "href": "/proyectos-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -1086,7 +1106,9 @@
    "type": "button",
    "text": "IA",
    "size": "sm",
-   "s": 59
+   "s": 59,
+   "href": "/programas-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   }
  ],
  "elementor": [

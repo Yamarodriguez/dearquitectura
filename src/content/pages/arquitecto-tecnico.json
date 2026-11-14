@@ -248,7 +248,9 @@
    "type": "button",
    "text": "Haz clic aquí",
    "size": "sm",
-   "s": 9
+   "s": 9,
+   "href": "/contacto/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "heading",
@@ -274,7 +276,9 @@
    "type": "button",
    "text": "Haz clic aquí",
    "size": "sm",
-   "s": 9
+   "s": 9,
+   "href": "/contacto/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "heading",
@@ -300,7 +304,9 @@
    "type": "button",
    "text": "Haz clic aquí",
    "size": "sm",
-   "s": 9
+   "s": 9,
+   "href": "/contacto/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "heading",
@@ -326,13 +332,17 @@
    "type": "button",
    "text": "Haz clic aquí",
    "size": "sm",
-   "s": 9
+   "s": 9,
+   "href": "/contacto/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "button",
    "text": "Servicios",
    "size": "sm",
-   "s": 10
+   "s": 10,
+   "href": "/servicios-de-renders/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "heading",
@@ -762,7 +772,9 @@
    "type": "button",
    "text": "Dibujos",
    "size": "sm",
-   "s": 32
+   "s": 32,
+   "href": "/dibujos-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -788,7 +800,9 @@
    "type": "button",
    "text": "Planos",
    "size": "sm",
-   "s": 34
+   "s": 34,
+   "href": "/planos/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -814,7 +828,9 @@
    "type": "button",
    "text": "Renders",
    "size": "sm",
-   "s": 36
+   "s": 36,
+   "href": "/renders/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -880,7 +896,9 @@
    "type": "button",
    "text": "Trabajos",
    "size": "sm",
-   "s": 40
+   "s": 40,
+   "href": "/trabajos/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -906,7 +924,9 @@
    "type": "button",
    "text": "Maquetas",
    "size": "sm",
-   "s": 42
+   "s": 42,
+   "href": "/maquetas-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -932,7 +952,9 @@
    "type": "button",
    "text": "Empresa",
    "size": "sm",
-   "s": 44
+   "s": 44,
+   "href": "/empresas/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -958,7 +980,9 @@
    "type": "button",
    "text": "Libros",
    "size": "sm",
-   "s": 46
+   "s": 46,
+   "href": "/libros-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -984,7 +1008,9 @@
    "type": "button",
    "text": "Cursos",
    "size": "sm",
-   "s": 48
+   "s": 48,
+   "href": "/cursos-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -1010,7 +1036,9 @@
    "type": "button",
    "text": "Programas",
    "size": "sm",
-   "s": 50
+   "s": 50,
+   "href": "/programas-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -1036,7 +1064,9 @@
    "type": "button",
    "text": "Proyectos",
    "size": "sm",
-   "s": 52
+   "s": 52,
+   "href": "/proyectos-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -1062,7 +1092,9 @@
    "type": "button",
    "text": "IA",
    "size": "sm",
-   "s": 54
+   "s": 54,
+   "href": "/programas-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   }
  ],
  "elementor": [

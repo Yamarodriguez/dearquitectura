@@ -25,7 +25,7 @@ const idTab = (i: number) => `${n.id}${i + 1}`;
         ? <Tag class={`elementor-heading-title elementor-size-${n.size || 'default'}`}><a href={enlace} set:html={htmlTitular(b.html || b.text)} /></Tag>
         : <Tag class={`elementor-heading-title elementor-size-${n.size || 'default'}`} set:html={htmlTitular(b.html || b.text)} />
     )}
-    {n.wt === 'text-editor' && b && (panorama ? <Panorama id={panorama} /> : <Fragment set:html={htmlElementor(b.html)} />)}
+    {n.wt === 'text-editor' && b && !b.oculto && (panorama ? <Panorama id={panorama} /> : <Fragment set:html={htmlElementor(b.html)} />)}
     {n.wt === 'image' && b && (
       enlace
         ? <a href={enlace}><Foto src={b.src} alt={b.alt} class={claseFoto(b)} sizes="(max-width: 1024px) 100vw, 1024px" /></a>
@@ -85,9 +85,7 @@ const idTab = (i: number) => `${n.id}${i + 1}`;
         </div>
       </div>
     )}
-    {n.wt === 'contentviews_widget_list1' && (
-      <div class="pt-cv-wrapper"><div class="pt-cv-view pt-cv-blockgrid iscvblock iscvelementor list1 layout1"><div class="pt-cv-page cv-npf"><div class="pt-cv-content-item pt-cv-2-col"><div class="pt-cv-no-post">No se han encontrado entradas.</div></div></div></div></div>
-    )}
+    {/* contentviews_widget_list1: en el original decía «No se han encontrado entradas.»; se deja vacío (aprobado, cambios-aprobados.json) */}
     {n.wt === 'eael-contact-form-7' && (
       <div class="eael-contact-form-7-wrapper">
         <div class={`eael-contact-form eael-contact-form-7 eael-contact-form-${n.id} placeholder-show eael-contact-form-align-right`}>

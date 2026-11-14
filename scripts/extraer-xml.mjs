@@ -46,6 +46,27 @@ for (const it of items) if (tag(it, 'wp:post_type') === 'attachment') {
 }
 const alt = (img = {}) => (img.id && altDe[img.id] !== undefined ? altDe[img.id] : ent(img.alt || ''));
 
+// Cambios del original aprobados por Yama (src/data/cambios-aprobados.json): se aplican
+// al contenido que se publica (src/content/pages). estructura-viva.json y
+// contenido-vivo.json siguen siendo el original, para poder comparar.
+const CAMBIOS = fs.existsSync('src/data/cambios-aprobados.json') ? JSON.parse(fs.readFileSync('src/data/cambios-aprobados.json', 'utf8')) : null;
+const aplicarCambios = (slug, lista) => {
+  if (!CAMBIOS) return lista;
+  const rotos = CAMBIOS.enlaces_rotos?.cambios ?? {};
+  const porTexto = CAMBIOS.botones_sin_destino?.por_texto ?? {};
+  const quitar = (CAMBIOS.quitar_textos?.bloques ?? []).filter((q) => q.pagina === slug);
+  const enHtml = (h = '') => Object.entries(rotos).reduce((t, [de, a]) => t.split(`dearquitectura.info${de}`).join(`dearquitectura.info${a}`), h);
+  return lista.map((b0) => {
+    const b = structuredClone(b0);
+    if (b.href && rotos[b.href]) { b.href = rotos[b.href]; b.cambio = 'enlace_roto'; }
+    if (b.type === 'button' && !b.href && porTexto[b.text]) { b.href = porTexto[b.text]; b.cambio = 'boton_sin_destino'; }
+    if (b.html) b.html = enHtml(b.html);
+    if (b.items) b.items.forEach((it) => { it.html = enHtml(it.html); });
+    if (b.type === 'text' && quitar.some((q) => (b.text || '').startsWith(q.empieza))) { b.oculto = true; b.cambio = 'texto_quitado'; }
+    return b;
+  });
+};
+
 const outDir = 'src/content/pages';
 fs.rmSync(outDir, { recursive: true, force: true });
 fs.mkdirSync(outDir, { recursive: true });
@@ -201,7 +222,7 @@ for (const it of items) {
     ficha = { imagen: foto(meta._bsf_service_image || ''), tipo: ent(meta._bsf_service_type), proveedor: ent(meta._bsf_service_provider || ''), area: ent(meta._bsf_service_area || ''), descripcion: ent(meta._bsf_service_desc || '') };
     if (ficha.imagen) fotos.add(ficha.imagen);
   } else if (meta._bsf_post_type && meta._bsf_post_type !== '0') resumen_otros[meta._bsf_post_type] = (resumen_otros[meta._bsf_post_type] || 0) + 1;
-  const pag = { ...base, h1_es_titulo: !h1, fondos, ...(ficha ? { resumen: ficha } : {}), blocks, elementor };
+  const pag = { ...base, h1_es_titulo: !h1, fondos, ...(ficha ? { resumen: ficha } : {}), blocks: aplicarCambios(slug, blocks), elementor };
   fs.writeFileSync(path.join(outDir, slug + '.json'), JSON.stringify(pag, null, 1) + '\n');
   estructura[slug] = { title, url, headings: blocks.filter((b) => b.type === 'heading').map((b) => ({ tag: b.tag, text: b.text })) };
   contenido[slug] = { title, url, blocks };

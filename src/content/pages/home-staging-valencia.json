@@ -1305,7 +1305,9 @@
    "type": "button",
    "text": "IA",
    "size": "sm",
-   "s": 69
+   "s": 69,
+   "href": "/programas-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   }
  ],
  "elementor": [

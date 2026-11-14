@@ -1324,8 +1324,9 @@
    "alt": "Construcción-arquitectura",
    "size": "large",
    "wpid": 694,
-   "href": "/construccion/",
-   "s": 58
+   "href": "/proyectos-de-arquitectura/",
+   "s": 58,
+   "cambio": "enlace_roto"
   },
   {
    "type": "text",
@@ -1337,8 +1338,9 @@
    "type": "button",
    "text": "Construcción",
    "size": "sm",
-   "href": "/construccion/",
-   "s": 58
+   "href": "/proyectos-de-arquitectura/",
+   "s": 58,
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -1352,8 +1354,9 @@
    "alt": "reforma",
    "size": "large",
    "wpid": 696,
-   "href": "/reformas/",
-   "s": 58
+   "href": "/proyectos-de-arquitectura/",
+   "s": 58,
+   "cambio": "enlace_roto"
   },
   {
    "type": "text",
@@ -1365,8 +1368,9 @@
    "type": "button",
    "text": "Reformas",
    "size": "sm",
-   "href": "/reformas/",
-   "s": 58
+   "href": "/proyectos-de-arquitectura/",
+   "s": 58,
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -1380,8 +1384,9 @@
    "alt": "Diseños-arquitectónicos",
    "size": "large",
    "wpid": 685,
-   "href": "/disenos-arquitectonicos/",
-   "s": 58
+   "href": "/agencia-de-diseno/",
+   "s": 58,
+   "cambio": "enlace_roto"
   },
   {
    "type": "text",
@@ -1393,8 +1398,9 @@
    "type": "button",
    "text": "Diseños",
    "size": "sm",
-   "href": "/disenos-arquitectonicos/",
-   "s": 58
+   "href": "/agencia-de-diseno/",
+   "s": 58,
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -1408,8 +1414,9 @@
    "alt": "interiorismo-y-decoración",
    "size": "large",
    "wpid": 687,
-   "href": "/interiorismo/",
-   "s": 58
+   "href": "/interiorista/",
+   "s": 58,
+   "cambio": "enlace_roto"
   },
   {
    "type": "text",
@@ -1421,8 +1428,9 @@
    "type": "button",
    "text": "Interiorismo",
    "size": "sm",
-   "href": "/interiorismo/",
-   "s": 58
+   "href": "/interiorista/",
+   "s": 58,
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -2118,8 +2126,9 @@
    "alt": "ia-arquitectura",
    "size": "large",
    "wpid": 729,
-   "href": "/inteligencia-artificial-arquitectura/",
-   "s": 98
+   "href": "/programas-de-arquitectura/",
+   "s": 98,
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -2137,8 +2146,9 @@
    "type": "button",
    "text": "IA",
    "size": "sm",
-   "href": "/inteligencia-artificial-arquitectura/",
-   "s": 98
+   "href": "/programas-de-arquitectura/",
+   "s": 98,
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",

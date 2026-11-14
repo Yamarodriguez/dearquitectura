@@ -356,8 +356,9 @@
    "alt": "Construcción-arquitectura",
    "size": "large",
    "wpid": 694,
-   "href": "/construccion/",
-   "s": 19
+   "href": "/proyectos-de-arquitectura/",
+   "s": 19,
+   "cambio": "enlace_roto"
   },
   {
    "type": "text",
@@ -369,8 +370,9 @@
    "type": "button",
    "text": "Construcción",
    "size": "sm",
-   "href": "/construccion/",
-   "s": 19
+   "href": "/proyectos-de-arquitectura/",
+   "s": 19,
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -384,8 +386,9 @@
    "alt": "reforma",
    "size": "large",
    "wpid": 696,
-   "href": "/reformas/",
-   "s": 19
+   "href": "/proyectos-de-arquitectura/",
+   "s": 19,
+   "cambio": "enlace_roto"
   },
   {
    "type": "text",
@@ -397,8 +400,9 @@
    "type": "button",
    "text": "Reformas",
    "size": "sm",
-   "href": "/reformas/",
-   "s": 19
+   "href": "/proyectos-de-arquitectura/",
+   "s": 19,
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -412,8 +416,9 @@
    "alt": "Diseños-arquitectónicos",
    "size": "large",
    "wpid": 685,
-   "href": "/disenos-arquitectonicos/",
-   "s": 19
+   "href": "/agencia-de-diseno/",
+   "s": 19,
+   "cambio": "enlace_roto"
   },
   {
    "type": "text",
@@ -425,8 +430,9 @@
    "type": "button",
    "text": "Diseños",
    "size": "sm",
-   "href": "/disenos-arquitectonicos/",
-   "s": 19
+   "href": "/agencia-de-diseno/",
+   "s": 19,
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -440,8 +446,9 @@
    "alt": "interiorismo-y-decoración",
    "size": "large",
    "wpid": 687,
-   "href": "/interiorismo/",
-   "s": 19
+   "href": "/interiorista/",
+   "s": 19,
+   "cambio": "enlace_roto"
   },
   {
    "type": "text",
@@ -453,8 +460,9 @@
    "type": "button",
    "text": "Interiorismo",
    "size": "sm",
-   "href": "/interiorismo/",
-   "s": 19
+   "href": "/interiorista/",
+   "s": 19,
+   "cambio": "enlace_roto"
   },
   {
    "type": "button",
@@ -1231,7 +1239,9 @@
    "type": "button",
    "text": "IA",
    "size": "sm",
-   "s": 61
+   "s": 61,
+   "href": "/programas-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "heading",

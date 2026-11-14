@@ -843,7 +843,9 @@
    "type": "button",
    "text": "Haz clic aquí",
    "size": "sm",
-   "s": 48
+   "s": 48,
+   "href": "/contacto/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "heading",
@@ -869,7 +871,9 @@
    "type": "button",
    "text": "Haz clic aquí",
    "size": "sm",
-   "s": 48
+   "s": 48,
+   "href": "/contacto/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "heading",
@@ -895,7 +899,9 @@
    "type": "button",
    "text": "Haz clic aquí",
    "size": "sm",
-   "s": 48
+   "s": 48,
+   "href": "/contacto/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "heading",
@@ -921,7 +927,9 @@
    "type": "button",
    "text": "Haz clic aquí",
    "size": "sm",
-   "s": 48
+   "s": 48,
+   "href": "/contacto/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "button",
@@ -1327,7 +1335,9 @@
    "type": "button",
    "text": "IA",
    "size": "sm",
-   "s": 77
+   "s": 77,
+   "href": "/programas-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   }
  ],
  "elementor": [

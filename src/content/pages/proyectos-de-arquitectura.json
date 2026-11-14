@@ -733,7 +733,9 @@
    "type": "button",
    "text": "Renders",
    "size": "sm",
-   "s": 35
+   "s": 35,
+   "href": "/renders/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -1051,7 +1053,9 @@
    "type": "button",
    "text": "IA",
    "size": "sm",
-   "s": 57
+   "s": 57,
+   "href": "/programas-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   }
  ],
  "elementor": [

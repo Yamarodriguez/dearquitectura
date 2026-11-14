@@ -10,7 +10,7 @@ Cada informe dice el estado (local / commit / main desplegado).
 - D3 Diseño: COPIA EXACTA del original (Yama: «cópiala igual»). Estilos de OceanWP + Elementor bajados (public/estilos/), árbol de Elementor por página. Ver informes/fase3.md.
 - D4 DNS: se quedan en OVH; el correo (OVH) no se toca.
 - D5 Países: todo en la raíz y en castellano, como ahora; ninguna URL se mueve.
-- D6 Páginas de ciudad: de momento no se tocan. OJO: las 241 renders-* comparten el 84 % del texto (probable causa de la caída); decide Yama.
+- D6 Páginas de ciudad: no se fusionan ni se redirigen; las 86 renders-* sin clics llevan noindex y van fuera del sitemap (aprobado 14-11-2026).
 - D7 H1: si Elementor no tiene H1, el H1 es el título (17 páginas), oculto a la vista para no cambiar el diseño.
 - D8 Fotos: a `/img/` solo con 301 desde `/wp-content/uploads/`.
 
@@ -18,8 +18,8 @@ Cada informe dice el estado (local / commit / main desplegado).
 Sector: estudio de arquitectura (renders, planos, modelado 3D…) y web informativa, «todo sobre arquitectura» · Lectores: sobre todo Latinoamérica · Diseño: el mismo de WordPress, sin cambios
 
 ## Datos
-AdSense ca-pub-7333712322602518 · GA4 G-SWJY3P4YRP (vistos en la web; confirmar) · WhatsApp, teléfono, correo público, horario: [pendiente] · Formulario: CF7 → arquitectura@dearquitectura.info · DNS y correo: OVH · Repositorio: [pendiente] · Netlify: aún no
-Titular para legales: [pendiente] · Palabras prohibidas: [pendiente]
+AdSense ca-pub-7333712322602518 · GA4 G-SWJY3P4YRP (confirmados; se activan en Fase 7) · WhatsApp, teléfono, correo público, horario: [pendiente] · Formulario: CF7 → arquitectura@dearquitectura.info · DNS y correo: OVH · Repositorio: [pendiente] · Netlify: aún no
+Titular: Yamandu Rodriguez, Y8543818E, Calle de Finestrat, Valencia · Palabras prohibidas: [pendiente]
 Páginas con tráfico: arquitectura-bizantina, -incaica, -urbana, -maya; renders-guatemala, -paraguay, -uruguay (detalle en informes/inventario.md)
 
 ## Reglas
@@ -28,6 +28,7 @@ Nada inventado. Lo nuevo desde src/data/. `npm run todo` y `todo:visual` a 0.
 Regenerar: `npm run generar`. Agentes: PROHIBIDO escribir ficheros.
 
 ## Estado
-Fase actual: 4 a medias (informes/fase4.md): FAQ, migas, fechas, llms.txt y legales (sin publicar hasta tener titular) hechos. Esperando decisiones de Yama.
+Fase actual: 4 hecha (informes/fase4.md). Siguiente: Fase 5 (formulario).
+Cambios aprobados por Yama: src/data/cambios-aprobados.json (se aplican al regenerar).
 Regenerar: `npm run generar` y `npm run todo`. Fallos del original: src/data/fallos-original.json.
-Pendiente de Yama: botones rotos (5), titular legales, contacto, palabras prohibidas, diseño, GitHub. Ver informes/inventario.md.
+Pendiente de Yama: mensaje de privacidad de Google en AdSense (antes de lanzar), contacto, palabras prohibidas, diseño, GitHub. Ver informes/inventario.md.

@@ -206,7 +206,9 @@
    "type": "button",
    "text": "Haz clic aquí",
    "size": "sm",
-   "s": 9
+   "s": 9,
+   "href": "/contacto/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "heading",
@@ -232,7 +234,9 @@
    "type": "button",
    "text": "Haz clic aquí",
    "size": "sm",
-   "s": 9
+   "s": 9,
+   "href": "/contacto/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "heading",
@@ -258,7 +262,9 @@
    "type": "button",
    "text": "Haz clic aquí",
    "size": "sm",
-   "s": 9
+   "s": 9,
+   "href": "/contacto/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "heading",
@@ -284,13 +290,17 @@
    "type": "button",
    "text": "Haz clic aquí",
    "size": "sm",
-   "s": 9
+   "s": 9,
+   "href": "/contacto/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "button",
    "text": "Servicios",
    "size": "sm",
-   "s": 10
+   "s": 10,
+   "href": "/servicios-de-renders/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "heading",
@@ -387,7 +397,9 @@
    "type": "button",
    "text": "Plataforma",
    "size": "sm",
-   "s": 17
+   "s": 17,
+   "href": "/plataforma-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -413,7 +425,9 @@
    "type": "button",
    "text": "Estudio",
    "size": "sm",
-   "s": 19
+   "s": 19,
+   "href": "/estudio-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "heading",
@@ -633,7 +647,9 @@
    "type": "button",
    "text": "TIPOS",
    "size": "sm",
-   "s": 29
+   "s": 29,
+   "href": "/tipos-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -659,7 +675,9 @@
    "type": "button",
    "text": "Dibujos",
    "size": "sm",
-   "s": 31
+   "s": 31,
+   "href": "/dibujos-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -685,7 +703,9 @@
    "type": "button",
    "text": "Planos",
    "size": "sm",
-   "s": 33
+   "s": 33,
+   "href": "/planos/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -711,7 +731,9 @@
    "type": "button",
    "text": "Renders",
    "size": "sm",
-   "s": 35
+   "s": 35,
+   "href": "/renders/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -743,7 +765,9 @@
    "type": "button",
    "text": "Despacho",
    "size": "sm",
-   "s": 37
+   "s": 37,
+   "href": "/despacho/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -775,7 +799,9 @@
    "type": "button",
    "text": "Trabajos",
    "size": "sm",
-   "s": 39
+   "s": 39,
+   "href": "/trabajos/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -801,7 +827,9 @@
    "type": "button",
    "text": "Maquetas",
    "size": "sm",
-   "s": 41
+   "s": 41,
+   "href": "/maquetas-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -827,7 +855,9 @@
    "type": "button",
    "text": "Empresa",
    "size": "sm",
-   "s": 43
+   "s": 43,
+   "href": "/empresas/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -853,7 +883,9 @@
    "type": "button",
    "text": "Libros",
    "size": "sm",
-   "s": 45
+   "s": 45,
+   "href": "/libros-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -879,7 +911,9 @@
    "type": "button",
    "text": "Cursos",
    "size": "sm",
-   "s": 47
+   "s": 47,
+   "href": "/cursos-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -905,7 +939,9 @@
    "type": "button",
    "text": "Programas",
    "size": "sm",
-   "s": 49
+   "s": 49,
+   "href": "/programas-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -931,7 +967,9 @@
    "type": "button",
    "text": "Proyectos",
    "size": "sm",
-   "s": 51
+   "s": 51,
+   "href": "/proyectos-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   },
   {
    "type": "image",
@@ -957,7 +995,9 @@
    "type": "button",
    "text": "IA",
    "size": "sm",
-   "s": 53
+   "s": 53,
+   "href": "/programas-de-arquitectura/",
+   "cambio": "boton_sin_destino"
   }
  ],
  "elementor": [

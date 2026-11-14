@@ -16,3 +16,15 @@ Hecho sin cambiar nada de lo que se ve (la web es copia exacta):
 
 ## Pendiente de Yama (decisiones)
 Ver el mensaje de la sesión: titular, páginas de ciudad, botones rotos y sin destino, contenido visible nuevo, mensaje de cookies de AdSense, fallos pequeños del original.
+
+## Segunda parte (14-11-2026): «haz lo que recomiendas»
+Todo en `src/data/cambios-aprobados.json` (se aplica solo al regenerar; para deshacer algo, se quita de ahí):
+1. **Titular** en `site.json` (los mismos datos que en contenedoresmaritimos): las 4 legales ya se publican (con `noindex`, como en el original).
+2. **86 páginas de renders por ciudad sin ningún clic** en 16 meses: `noindex` y fuera del sitemap (siguen en la web y en el menú). El sitemap pasa de 326 a 240 URL. (/renders-hiperrealistas/ también tenía 0 clics, pero es un servicio, no una ciudad: se queda.)
+3. **5 botones rotos** → página más parecida (Construcción y Reformas → /proyectos-de-arquitectura/, Diseños → /agencia-de-diseno/, Interiorismo → /interiorista/, IA → /programas-de-arquitectura/): 2.674 enlaces arreglados (botones, titulares y fotos).
+4. **644 botones sin destino** → «Haz clic aquí» a /contacto/; los de la fila de botones (Planos, Renders, Cursos…) al mismo destino que tienen en el resto de la web.
+5. Sin contenido visible nuevo: primero se lanza la copia exacta.
+6. **AdSense y GA4 confirmados** (en `site.json` → `analytics.confirmados`); se activan en la Fase 7. `public/ads.txt` copiado del original. Pendiente de Yama: activar el mensaje de privacidad de Google para Europa en AdSense.
+7. **Fallos pequeños**: quitado el código pegado en /renders-viladecans/ («Construye tu Casa de Contenedores», que era una página HTML entera con un 2.º H1); «Arquitectos» del pie con barra final; «No se han encontrado entradas» vaciado; caja «Resumen» con etiquetas en español.
+
+`npm run todo` y `todo:visual` a 0.
