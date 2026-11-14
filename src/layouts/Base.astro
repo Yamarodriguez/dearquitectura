@@ -1,27 +1,37 @@
 ---
+// Plantilla de todas las páginas: el mismo esqueleto que pinta WordPress con el
+// tema OceanWP (barra superior, cabecera, <main>, <article>, pie) y los mismos
+// estilos, en el mismo orden: antes.css → post-<id>.css de la página → despues.css.
+// Lo propio de la web nueva (lo que en WordPress hacía JavaScript) va en propio.css.
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import site from '../data/site.json';
 import type { Miga } from '../lib/migas';
-import '../styles/global.css';
 
 interface Props {
   title: string;
   description?: string;
   canonical: string;
   menu?: string;
+  logo?: string;
+  idPagina?: string; // id de WordPress: elige el post-<id>.css de Elementor
   imagen?: string;
   ogTitulo?: string;
   ogDescripcion?: string;
   datos?: Record<string, unknown>[];
   migas?: Miga[];
-  indexar?: boolean; // false en las que no deben salir en Google (legales como en el original, gracias, 404)
+  indexar?: boolean;
 }
-const { title, description = '', canonical, menu, imagen, ogTitulo, ogDescripcion, datos = [], migas = [], indexar = true } = Astro.props as Props;
+const { title, description = '', canonical, menu, logo, idPagina, imagen, ogTitulo, ogDescripcion, datos = [], migas = [], indexar = true } = Astro.props as Props;
 const dominio = `https://${site.dominio}`;
+const ruta = canonical.replace(/^https?:\/\/[^/]+/, '') || '/';
 const imagenAbsoluta = imagen ? (imagen.startsWith('http') ? imagen : `${dominio}${imagen}`) : '';
-// Hasta la Fase 7 (site.indexar = false) ninguna página sale en Google.
 const noindex = !indexar || !site.indexar;
+const clasesBody = [
+  'wp-singular page-template-default page', ruta === '/' ? 'home' : '', idPagina ? `page-id-${idPagina}` : '',
+  'wp-custom-logo wp-embed-responsive wp-theme-oceanwp oceanwp-theme dropdown-mobile boxed-layout default-breakpoint content-full-width content-max-width has-topbar page-header-disabled has-breadcrumbs elementor-default elementor-kit-7',
+  idPagina ? `elementor-page elementor-page-${idPagina}` : '',
+].filter(Boolean).join(' ');
 
 const empresa: Record<string, unknown> = {
   '@type': 'Organization', '@id': `${dominio}/#empresa`, name: site.nombre, url: `${dominio}/`,
@@ -50,7 +60,6 @@ const jsonld = JSON.stringify({ '@context': 'https://schema.org', '@graph': graf
     {description && <meta name="description" content={description} />}
     <link rel="canonical" href={canonical} />
     {site.bing && <meta name="msvalidate.01" content={site.bing} />}
-    {site.analytics.adsense && <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.analytics.adsense}`} crossorigin="anonymous"></script>}
     {noindex && <meta name="robots" content="noindex, follow" />}
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="es_ES" />
@@ -60,22 +69,35 @@ const jsonld = JSON.stringify({ '@context': 'https://schema.org', '@graph': graf
     <meta property="og:url" content={canonical} />
     {imagenAbsoluta && <meta property="og:image" content={imagenAbsoluta} />}
     <meta name="twitter:card" content={imagenAbsoluta ? 'summary_large_image' : 'summary'} />
+    <link rel="stylesheet" href="/estilos/antes.css" />
+    {idPagina && <link rel="stylesheet" href={`/estilos/uploads/elementor/css/post-${idPagina}.css`} />}
+    <link rel="stylesheet" href="/estilos/despues.css" />
+    <link rel="stylesheet" href="/estilos/propio.css" />
+    {site.analytics.adsense && <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.analytics.adsense}`} crossorigin="anonymous"></script>}
     <script type="application/ld+json" set:html={jsonld} />
   </head>
-  <body>
-    <Header menu={menu} />
-    {migas.length > 1 && (
-      <nav class="migas" aria-label="Estás en">
-        <ol>
-          {migas.map((m, i) => i < migas.length - 1
-            ? <li><a href={m.url.replace(/^https?:\/\/[^/]+/, '')}>{m.nombre}</a></li>
-            : <li aria-current="page">{m.nombre}</li>)}
-        </ol>
-      </nav>
-    )}
-    <main id="contenido">
-      <slot />
-    </main>
-    <Footer />
+  <body class={clasesBody}>
+    <div id="outer-wrap" class="site clr">
+      <a class="skip-link screen-reader-text" href="#main">Ir al contenido</a>
+      <div id="wrap" class="clr">
+        <Header menu={menu} logo={logo} ruta={ruta} />
+        <main id="main" class="site-main clr" role="main">
+          <div id="content-wrap" class="container clr">
+            <div id="primary" class="content-area clr">
+              <div id="content" class="site-content clr">
+                <article class="single-page-article clr">
+                  <div class="entry clr">
+                    <slot />
+                  </div>
+                </article>
+              </div>
+            </div>
+          </div>
+        </main>
+        <Footer />
+      </div>
+    </div>
+    <a aria-label="Hacer scroll a la parte superior de la página" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
+    <script is:inline src="/estilos/propio.js" defer></script>
   </body>
 </html>

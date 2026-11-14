@@ -1,0 +1,39 @@
+/* Lo propio de la web nueva. En WordPress estas cosas las hacía JavaScript
+   (superfish, el menú de OceanWP, Elementor); aquí se hacen con CSS y con
+   propio.js. Todo lo demás son los estilos originales (antes.css, post-<id>.css,
+   despues.css). */
+
+/* Desplegables del menú de escritorio (superfish ponía visibility al pasar el ratón) */
+.sf-menu li:hover > ul.sub-menu,
+.sf-menu li:focus-within > ul.sub-menu { display: block; visibility: visible; }
+
+/* Menú de móvil abierto (OceanWP lo desplegaba con jQuery) */
+#mobile-dropdown.abierto { display: block; }
+#mobile-dropdown ul li.active > ul { display: block; }
+
+/* Desplegables de Elementor: el contenido se muestra al abrir */
+.elementor-toggle .elementor-tab-content { display: none; }
+.elementor-toggle .elementor-tab-title.elementor-active + .elementor-tab-content { display: block; }
+
+/* Vídeos de YouTube: Elementor metía el iframe con JavaScript */
+.elementor-widget-video .elementor-wrapper iframe.elementor-video { width: 100%; height: 100%; border: 0; }
+
+/* Botón para subir arriba */
+#scroll-top.visible { display: block; opacity: 1; }
+
+/* Las fotos con <picture> (webp) ocupan lo mismo que el <img> original */
+.elementor-widget-image picture, .gallery-icon picture { display: contents; }
+
+/* Visor 360 (sustituye al plugin Panorama) */
+.panorama { width: 100%; position: relative; overflow: hidden; }
+.panorama img { width: 100%; height: 100%; object-fit: cover; }
+
+/* H1 de las páginas que no lo tenían en Elementor (D7): está para Google y los
+   lectores de pantalla, sin cambiar cómo se ve la página. */
+.h1-titulo { position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+
+/* Formulario: el honeypot nunca se ve */
+.campo-trampa { display: none !important; }
+
+/* Legales pendientes de redactar (Fase 4) */
+.pendiente { font-style: italic; color: #595959; }

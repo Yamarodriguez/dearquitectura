@@ -1,0 +1,99 @@
+---
+// Un widget de Elementor con el mismo marcado que pinta WordPress.
+// El contenido (texto, fotos, enlaces) sale del bloque «b»; si un widget no tiene
+// bloque (separadores, espaciadores, titulares vacíos) se pinta solo su caja.
+import Foto from '../Foto.astro';
+import Panorama from '../Panorama.astro';
+import Formulario from '../Formulario.astro';
+import { htmlElementor, htmlTitular, enlaceInterno } from '../../lib/elementor';
+
+interface Props { n: any; b?: any }
+const { n, b } = Astro.props as Props;
+const clase = `elementor-element elementor-element-${n.id} ${n.cls}`;
+const enlace = b?.href ? enlaceInterno(b.href) : '';
+const Tag = n.tag && /^(h[1-6]|p|div|span)$/.test(n.tag) ? n.tag : 'div';
+const panorama = b?.type === 'text' ? (b.text || '').trim().match(/^\[panorama id=(\d+)\]$/)?.[1] : undefined;
+const yt = (u = '') => u.match(/(?:youtu\.be\/|v=|embed\/|shorts\/)([\w-]{11})/)?.[1];
+const claseFoto = (x: any) => `attachment-${x.size || 'large'} size-${x.size || 'large'}${x.wpid ? ` wp-image-${x.wpid}` : ''}`;
+// Los desplegables: el id de cada pestaña como lo numera Elementor (no tiene que coincidir, solo ser único)
+const idTab = (i: number) => `${n.id}${i + 1}`;
+---
+<div class={clase} data-id={n.id} data-element_type="widget" data-widget_type={`${n.wt}.default`}>
+  <div class="elementor-widget-container">
+    {n.wt === 'heading' && b && (
+      enlace
+        ? <Tag class={`elementor-heading-title elementor-size-${n.size || 'default'}`}><a href={enlace} set:html={htmlTitular(b.html || b.text)} /></Tag>
+        : <Tag class={`elementor-heading-title elementor-size-${n.size || 'default'}`} set:html={htmlTitular(b.html || b.text)} />
+    )}
+    {n.wt === 'text-editor' && b && (panorama ? <Panorama id={panorama} /> : <Fragment set:html={htmlElementor(b.html)} />)}
+    {n.wt === 'image' && b && (
+      enlace
+        ? <a href={enlace}><Foto src={b.src} alt={b.alt} class={claseFoto(b)} sizes="(max-width: 1024px) 100vw, 1024px" /></a>
+        : <Foto src={b.src} alt={b.alt} class={claseFoto(b)} sizes="(max-width: 1024px) 100vw, 1024px" />
+    )}
+    {n.wt === 'button' && b && (
+      <div class="elementor-button-wrapper">
+        {enlace
+          ? <a class={`elementor-button elementor-button-link elementor-size-${b.size || 'sm'}`} href={enlace}><span class="elementor-button-content-wrapper"><span class="elementor-button-text">{b.text}</span></span></a>
+          : <a class={`elementor-button elementor-size-${b.size || 'sm'}`} role="button" aria-disabled="true"><span class="elementor-button-content-wrapper"><span class="elementor-button-text">{b.text}</span></span></a>}
+      </div>
+    )}
+    {n.wt === 'spacer' && <div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div>}
+    {n.wt === 'divider' && <div class="elementor-divider"><span class="elementor-divider-separator"></span></div>}
+    {n.wt === 'toggle' && b && (
+      <div class="elementor-toggle">
+        {b.items.map((it: any, i: number) => (
+          <div class="elementor-toggle-item">
+            <Tag id={`elementor-tab-title-${idTab(i)}`} class="elementor-tab-title" data-tab={i + 1} role="button" aria-controls={`elementor-tab-content-${idTab(i)}`} aria-expanded="false" tabindex="0">
+              <span class="elementor-toggle-icon elementor-toggle-icon-left" aria-hidden="true">
+                <span class="elementor-toggle-icon-closed"><svg class="e-font-icon-svg e-fas-caret-right" viewBox="0 0 192 512" xmlns="http://www.w3.org/2000/svg"><path d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"></path></svg></span>
+                <span class="elementor-toggle-icon-opened"><svg class="elementor-toggle-icon-opened e-font-icon-svg e-fas-caret-up" viewBox="0 0 320 512" xmlns="http://www.w3.org/2000/svg"><path d="M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z"></path></svg></span>
+              </span>
+              <a class="elementor-toggle-title" tabindex="-1">{it.title}</a>
+            </Tag>
+            <div id={`elementor-tab-content-${idTab(i)}`} class="elementor-tab-content elementor-clearfix" data-tab={i + 1} role="region" aria-labelledby={`elementor-tab-title-${idTab(i)}`} set:html={htmlElementor(it.html)} />
+          </div>
+        ))}
+      </div>
+    )}
+    {n.wt === 'google_maps' && b && (
+      <div class="elementor-custom-embed">
+        <iframe loading="lazy" src={`https://maps.google.com/maps?q=${encodeURIComponent(b.address || '')}&t=m&z=10&output=embed&iwloc=near`} title={b.address} aria-label={b.address}></iframe>
+      </div>
+    )}
+    {n.wt === 'video' && b && b.proveedor === 'hosted' && b.url && (
+      <div class="e-hosted-video elementor-wrapper elementor-open-inline"><video class="elementor-video" src={b.url} controls preload="metadata" controlslist="nodownload"></video></div>
+    )}
+    {n.wt === 'video' && b && b.proveedor !== 'hosted' && yt(b.url) && (
+      <div class="elementor-wrapper elementor-open-inline">
+        <iframe class="elementor-video" loading="lazy" src={`https://www.youtube-nocookie.com/embed/${yt(b.url)}?controls=1&rel=0`} title="Vídeo" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+    )}
+    {n.wt === 'image-gallery' && b && (
+      <div class="elementor-image-gallery">
+        <div id={`gallery-${n.id}`} class={`gallery gallery-columns-${n.cols} gallery-size-${n.size}`}>
+          {b.images.map((g: any) => (
+            <figure class="gallery-item">
+              <div class="gallery-icon landscape">
+                {n.enlace === 'none'
+                  ? <Foto src={g.src} alt={g.alt} class={`attachment-${n.size} size-${n.size}`} sizes="(max-width: 700px) 50vw, 400px" />
+                  : <a data-elementor-open-lightbox="no" href={g.src}><Foto src={g.src} alt={g.alt} class={`attachment-${n.size} size-${n.size}`} sizes="(max-width: 700px) 50vw, 400px" /></a>}
+              </div>
+              {g.pie && <figcaption class="wp-caption-text gallery-caption">{g.pie}</figcaption>}
+            </figure>
+          ))}
+        </div>
+      </div>
+    )}
+    {n.wt === 'contentviews_widget_list1' && (
+      <div class="pt-cv-wrapper"><div class="pt-cv-view pt-cv-blockgrid iscvblock iscvelementor list1 layout1"><div class="pt-cv-page cv-npf"><div class="pt-cv-content-item pt-cv-2-col"><div class="pt-cv-no-post">No se han encontrado entradas.</div></div></div></div></div>
+    )}
+    {n.wt === 'eael-contact-form-7' && (
+      <div class="eael-contact-form-7-wrapper">
+        <div class={`eael-contact-form eael-contact-form-7 eael-contact-form-${n.id} placeholder-show eael-contact-form-align-right`}>
+          <Formulario />
+        </div>
+      </div>
+    )}
+  </div>
+</div>

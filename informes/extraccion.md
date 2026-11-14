@@ -7,4 +7,4 @@ Fichero: dearquitecturainfo.WordPress.2026-11-14.xml
 - Con más de un H1: /agencia-de-diseno/
 - Widgets desconocidos: {}
 - Cajas «Resumen» (servicio): 7 · otros tipos de ficha sin pintar: {}
-- Fotos distintas usadas: 809
+- Fotos distintas usadas: 810

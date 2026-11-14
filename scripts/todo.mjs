@@ -9,6 +9,7 @@ const pasos = [
   ['Encabezados (C1)', 'node', ['scripts/comparar-encabezados.mjs']],
   ['Contenido (C2)', 'node', ['scripts/comparar-contenido.mjs']],
   ['SEO (títulos, descripciones, mapa)', 'node', ['scripts/comparar-seo.mjs']],
+  ['Maquetación (igual que la web viva)', 'node', ['scripts/comparar-maquetacion.mjs']],
 ];
 
 pasos.forEach(([nombre, cmd, args], i) => {

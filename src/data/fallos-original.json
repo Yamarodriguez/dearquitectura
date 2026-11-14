@@ -25,7 +25,8 @@
  "varios_h1": {
   "descripcion": "Páginas con más de un H1 en el original. Se dejan así hasta que Yama decida.",
   "paginas": {
-   "/agencia-de-diseno/": "2 H1"
+   "/agencia-de-diseno/": "2 H1",
+   "/renders-viladecans/": "2 H1: el segundo es «Construye tu Casa de Contenedores», texto que parece de otra web (casas contenedores)"
   }
  },
  "botones_a_paginas_que_no_existen": {

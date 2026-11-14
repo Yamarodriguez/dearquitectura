@@ -29,6 +29,17 @@ if (fs.existsSync('referencia')) {
     deReferencia += rutas.size - antes;
   }
 }
+// 5. Las fotos de fondo que piden los estilos de Elementor de cada página (a veces un tamaño
+//    reducido distinto para el móvil). Hay que haber bajado los estilos (bajar-estilos.mjs).
+const dirCss = 'public/estilos/uploads/elementor/css';
+if (fs.existsSync(dirCss)) for (const f of fs.readdirSync(dirCss)) {
+  for (const m of fs.readFileSync(path.join(dirCss, f), 'utf8').matchAll(/url\(\s*['"]?(\/img\/[^'")]+)['"]?\s*\)/g)) anadir(m[1]);
+}
+// 4. Las fotos metidas dentro de los textos (también en las 17 páginas rotas en vivo, que no tienen referencia)
+for (const f of fs.readdirSync('src/content/pages')) {
+  const t = fs.readFileSync(path.join('src/content/pages', f), 'utf8').replace(/\\\//g, '/');
+  for (const m of t.matchAll(/https?:\/\/(?:www\.)?dearquitectura\.info\/wp-content\/uploads\/[^"'\s?#),\\]+/g)) anadir(m[0]);
+}
 const sc = fs.readdirSync('origen/sc').find((f) => /^P.*ginas\.csv$/.test(f));
 if (sc) fs.readFileSync(path.join('origen/sc', sc), 'utf8').split('\n').forEach((l) => anadir(l.split(',')[0]));
 

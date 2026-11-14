@@ -1,8 +1,9 @@
 ---
-// Todas las páginas (también la portada) salen de src/content/pages/*.json,
-// con la misma URL que en WordPress.
+// Todas las páginas (también la portada) salen de src/content/pages/*.json, con
+// la misma URL que en WordPress y el mismo aspecto: el árbol de Elementor se pinta
+// con sus clases y su fichero de estilos post-<id>.css.
 import Base from '../layouts/Base.astro';
-import Contenido from '../components/Contenido.astro';
+import Nodo from '../components/elementor/Nodo.astro';
 import Resumen from '../components/Resumen.astro';
 import { seoDe } from '../lib/seo';
 import { migasDe } from '../lib/migas';
@@ -27,6 +28,8 @@ const datos = r ? [{ '@type': 'Service', serviceType: r.tipo, areaServed: r.area
   description={seo.descripcion || data.meta_description}
   canonical={data.url}
   menu={data.menu}
+  logo={data.logo}
+  idPagina={data.legal ? undefined : data.id}
   imagen={seo.imagen}
   ogTitulo={seo.ogTitulo}
   ogDescripcion={seo.ogDescripcion}
@@ -34,13 +37,16 @@ const datos = r ? [{ '@type': 'Service', serviceType: r.tipo, areaServed: r.area
   indexar={!seo.noindex}
   datos={datos}
 >
-  {data.h1_es_titulo && <div class="sec sec-titulo"><div class="sec-in"><h1>{data.title}</h1></div></div>}
-  {data.legal && (
-    <div class="sec"><div class="sec-in">
-      <h1>{data.title}</h1>
-      {data.html ? <div class="texto" set:html={data.html} /> : <p class="pendiente">Texto pendiente (Fase 4: se redacta con los datos reales del titular).</p>}
-    </div></div>
+  {data.h1_es_titulo && <h1 class="h1-titulo">{data.title}</h1>}
+  {data.legal ? (
+    <>
+      <h1 class="h1-titulo">{data.title}</h1>
+      {data.html ? <Fragment set:html={data.html} /> : <p class="pendiente">Texto pendiente (Fase 4: se redacta con los datos reales del titular).</p>}
+    </>
+  ) : (
+    <div data-elementor-type="wp-page" data-elementor-id={data.id} class={`elementor elementor-${data.id}`}>
+      {data.elementor.map((n: any) => <Nodo n={n} blocks={data.blocks} />)}
+    </div>
   )}
-  <Contenido blocks={data.blocks} />
-  {r && <div class="sec"><div class="sec-in"><Resumen r={r} /></div></div>}
+  {r && <Resumen r={r} />}
 </Base>

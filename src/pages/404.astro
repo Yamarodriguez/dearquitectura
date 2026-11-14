@@ -3,9 +3,9 @@ import Base from '../layouts/Base.astro';
 import site from '../data/site.json';
 ---
 <Base indexar={false} title={`Página no encontrada - ${site.nombre}`} canonical={`https://${site.dominio}/404/`}>
-  <div class="sec"><div class="sec-in centrado">
+  <div style="text-align:center; padding: 60px 0;">
     <h1>Página no encontrada</h1>
     <p>La página que buscas no existe o se ha movido.</p>
-    <p><a class="boton" href="/">Volver al inicio</a></p>
-  </div></div>
+    <p><a class="elementor-button elementor-size-sm" href="/">Volver al inicio</a></p>
+  </div>
 </Base>

@@ -834,6 +834,14 @@
    1747
   ]
  },
+ "/img/2023/12/estilos-arquitectonicos-800x450.jpg": {
+  "w": 800,
+  "h": 450,
+  "ws": [
+   400,
+   800
+  ]
+ },
  "/img/2023/12/estilos-arquitectonicos.jpg": {
   "w": 1747,
   "h": 1240,
@@ -11347,6 +11355,15 @@
    400,
    800,
    1747
+  ]
+ },
+ "/img/2025/03/renders-de-casas-modernas-1024x572.jpg": {
+  "w": 1024,
+  "h": 572,
+  "ws": [
+   400,
+   800,
+   1024
   ]
  },
  "/img/2025/03/renders-de-casas-modernas.jpg": {

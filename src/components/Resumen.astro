@@ -1,20 +1,27 @@
 ---
-// Caja «Resumen» del original (plugin All In One Schema, ficha de servicio) en las
-// páginas de estudio por ciudad. Mismos textos y etiquetas que en la web viva;
-// los datos estructurados (Service) van en el JSON-LD de la página.
-import Foto from './Foto.astro';
+// Caja «Resumen» del original (plugin All In One Schema, ficha de servicio) en 7
+// páginas de estudio por ciudad: mismo marcado, textos y estilos que la web viva.
+import medidas from '../data/imagenes.json';
 interface Props { r: { imagen: string; tipo: string; proveedor: string; area: string; descripcion: string } }
 const { r } = Astro.props as Props;
+// Como en el original: la foto a 180 px de ancho (alto proporcional).
+const m = (medidas as Record<string, { w: number; h: number }>)[r.imagen];
+const alto = m ? Math.round((180 * m.h) / m.w) : undefined;
 ---
-<aside class="resumen-ficha" aria-label="Resumen">
-  <p class="resumen-ficha-titulo">Resumen</p>
-  <div class="resumen-ficha-cuerpo">
-    {r.imagen && <div class="resumen-ficha-foto"><Foto src={r.imagen} alt={r.tipo} sizes="180px" /></div>}
-    <dl>
-      <dt>Service Type</dt><dd>{r.tipo}</dd>
-      {r.proveedor && <><dt>Provider Name</dt><dd>{r.proveedor} ,</dd></>}
-      {r.area && <><dt>Area</dt><dd>{r.area}</dd></>}
-      {r.descripcion && <><dt>Descripción</dt><dd>{r.descripcion}</dd></>}
-    </dl>
+<!-- Ojo: el plugin original cierra la caja de datos («aio-info») justo después de
+     «Provider Name», así que «Area» y «Descripción» quedan a todo lo ancho. Se
+     reproduce igual para que se vea igual. -->
+<!-- Sin espacios entre la foto y los datos: son inline-block y un espacio los separaría de línea. -->
+<div id="snippet-box" class="snippet-type-11" style="background:#F5F5F5; color:#333333; border:1px solid #ACACAC;">
+  <div class="snippet-title" style="background:#E4E4E4; color:#333333; border-bottom:1px solid #ACACAC;">Resumen</div>
+  <div>
+    {r.imagen && m && <div class="snippet-image"><img width="180" height={alto} src={r.imagen} alt={r.tipo} loading="lazy" decoding="async" /></div>}<div class="aio-info">
+      <span class="snippet-label-img">Service Type</span><div class="snippet-data-img"><span>{r.tipo}</span></div><div class="snippet-clear"></div>{r.proveedor && <><span class="snippet-label-img">Provider Name</span><div class="snippet-data-img"><span>{r.proveedor}</span>,</div></>}
+    </div>
+    <div class="snippet-clear"></div>
+    {r.area && <><span class="snippet-label-img">Area</span><div class="snippet-data-img"><span>{r.area}</span></div><div class="snippet-clear"></div></>}
+    {r.descripcion && <><span class="snippet-label-img">Descripción</span><div class="snippet-data-img"><span>{r.descripcion}</span></div><div class="snippet-clear"></div></>}
+    <div class="snippet-data-img"></div><div class="snippet-clear"></div>
   </div>
-</aside>
+</div>
+<div class="snippet-clear"></div>

@@ -37,11 +37,12 @@ for (const m of xml.matchAll(/<wp:term><wp:term_id>(\d+)<\/wp:term_id><wp:term_t
 const adjuntos = {};
 // El alt que pinta WordPress es el de la biblioteca de medios (_wp_attachment_image_alt),
 // no el que guarda el bloque de Elementor (casi siempre vacío).
-const altDe = {};
+const altDe = {}, leyendaDe = {};
 for (const it of items) if (tag(it, 'wp:post_type') === 'attachment') {
   const id = tag(it, 'wp:post_id');
   adjuntos[id] = tag(it, 'wp:attachment_url');
   altDe[id] = ent(metas(it)._wp_attachment_image_alt || '');
+  leyendaDe[id] = ent(tag(it, 'excerpt:encoded'));
 }
 const alt = (img = {}) => (img.id && altDe[img.id] !== undefined ? altDe[img.id] : ent(img.alt || ''));
 
@@ -67,10 +68,12 @@ for (const it of items) {
     meta_title_yoast: meta._yoast_wpseo_title || '', meta_description: ent(meta._yoast_wpseo_metadesc || ''),
     palabra_clave: meta._yoast_wpseo_focuskw || '',
     menu: menuPorId[meta.ocean_header_custom_menu] || '',
+    logo: meta.ocean_custom_logo && adjuntos[meta.ocean_custom_logo] ? foto(adjuntos[meta.ocean_custom_logo]) : '',
     foto_destacada: meta._thumbnail_id && adjuntos[meta._thumbnail_id] ? foto(adjuntos[meta._thumbnail_id]) : '',
     fecha: tag(it, 'wp:post_date'), modificada: tag(it, 'wp:post_modified'),
   };
   if (base.foto_destacada) fotos.add(base.foto_destacada);
+  if (base.logo) fotos.add(base.logo);
 
   let arbol = [];
   try { arbol = JSON.parse(meta._elementor_data || '[]'); } catch { arbol = []; }
@@ -82,73 +85,110 @@ for (const it of items) {
     continue;
   }
 
+  // Fase 3 («cópiala igual»): además de la lista de bloques, se guarda el árbol de
+  // Elementor (contenedores y widgets con su id y sus clases exactas), para pintar
+  // la copia con la misma estructura y los mismos estilos (post-<id>.css).
   const blocks = [], fondos = [];
-  const add = (b, s) => { b.s = s; blocks.push(b); resumen.bloques[b.type] = (resumen.bloques[b.type] || 0) + 1; };
+  const add = (b, s) => { b.s = s; blocks.push(b); resumen.bloques[b.type] = (resumen.bloques[b.type] || 0) + 1; return blocks.length - 1; };
+  const ocultos = (st) => ['desktop', 'tablet', 'mobile'].filter((d) => st[`hide_${d}`] === `hidden-${d}`).map((d) => `elementor-hidden-${d}`);
+  const clasesContenedor = (e) => {
+    const st = e.settings || {};
+    const ancho = st.content_width || 'boxed'; // por defecto, encajado (también los interiores)
+    const tipo = st.container_type === 'grid' ? 'e-grid' : 'e-flex';
+    const extra = [st.css_classes].filter(Boolean);
+    return [...extra, ...ocultos(st), ...(ancho === 'full' ? ['e-con-full', tipo] : [tipo, 'e-con-boxed']), 'e-con', e.isInner ? 'e-child' : 'e-parent'].join(' ');
+  };
+  const clasesWidget = (e) => {
+    const st = e.settings || {}; const t = e.widgetType; const c = [];
+    if (st._css_classes) c.push(st._css_classes);
+    if (st._element_width) c.push(`elementor-widget__width-${st._element_width}`);
+    if (st._element_width_tablet) c.push(`elementor-widget-tablet__width-${st._element_width_tablet}`);
+    if (st._element_width_mobile) c.push(`elementor-widget-mobile__width-${st._element_width_mobile}`);
+    c.push(...ocultos(st));
+    if (t === 'button' && st.align) c.push(`elementor-align-${st.align}`);
+    if (t === 'divider') c.push(`elementor-widget-divider--view-${st.look || 'line'}`);
+    if (t === 'eael-contact-form-7') { // clases de Essential Addons (alineación y ancho del botón)
+      if (st.button_align_mobile) c.push(`eael-contact-form-7-button-align-${st.button_align_mobile}`);
+      c.push(`eael-contact-form-7-button-align-${st.button_align || 'left'}`, `eael-contact-form-7-button-${st.button_width_type || 'custom'}`);
+    }
+    if (t === 'image-gallery') c.push(`gallery-spacing-${st.image_spacing || ''}`.replace(/-$/, ''));
+    c.push('elementor-widget', `elementor-widget-${t}`);
+    return c.join(' ');
+  };
   const walk = (e, s) => {
     const st = e.settings || {};
     if (e.elType !== 'widget') {
       const bg = st.background_image?.url;
       if (bg) { fondos.push(foto(bg)); fotos.add(foto(bg)); }
-      for (const h of e.elements || []) walk(h, s);
-      return;
+      return { t: 'c', id: e.id, cls: clasesContenedor(e), hijos: (e.elements || []).map((h) => walk(h, s)) };
     }
+    const nodo = { t: 'w', id: e.id, wt: e.widgetType, cls: clasesWidget(e) };
     switch (e.widgetType) {
       case 'heading': {
         const html = st.title || '';
+        nodo.tag = st.header_size || 'h2'; nodo.size = st.size || 'default';
         if (!plano(html)) break;
-        const b = { type: 'heading', tag: st.header_size || 'h2', text: plano(html) };
+        const b = { type: 'heading', tag: nodo.tag, text: plano(html) };
         if (/<[a-z]/i.test(html)) b.html = html;
         const href = enlace(st.link?.url); if (href) b.href = href;
-        add(b, s); break;
+        nodo.b = add(b, s); break;
       }
       case 'text-editor': {
         const html = st.editor || '';
         if (!plano(html)) break;
-        add({ type: 'text', text: plano(html), html }, s); break;
+        nodo.b = add({ type: 'text', text: plano(html), html }, s); break;
       }
       case 'image': {
         const u = st.image?.url; if (!u) break;
-        const b = { type: 'image', src: foto(u), alt: alt(st.image) };
+        const b = { type: 'image', src: foto(u), alt: alt(st.image), size: st.image_size || 'large', wpid: st.image.id || '' };
         fotos.add(b.src);
         if (st.link_to === 'custom') { const href = enlace(st.link?.url); if (href) b.href = href; }
         else if (st.link_to === 'file') b.href = foto(u);
         if (st.caption_source === 'custom' && st.caption) b.caption = st.caption;
-        add(b, s); break;
+        nodo.b = add(b, s); break;
       }
       case 'button': {
-        const b = { type: 'button', text: plano(st.text || 'Click here') };
-        const href = enlace(st.link?.url); if (href) b.href = href;
-        add(b, s); break;
+        const b = { type: 'button', text: plano(st.text || 'Click here'), size: st.size || 'sm' };
+        const href = enlace(st.link?.url); if (href && href !== '#') b.href = href;
+        nodo.b = add(b, s); break;
       }
       case 'toggle': case 'accordion': {
         const items = (st.tabs || []).map((t) => ({ title: plano(t.tab_title || ''), html: t.tab_content || '' }));
-        if (items.length) add({ type: 'toggle', items }, s); break;
+        nodo.tag = st.title_html_tag || 'div';
+        if (items.length) nodo.b = add({ type: 'toggle', items }, s); break;
       }
-      case 'google_maps': add({ type: 'map', address: st.address || '' }, s); break;
+      case 'google_maps': nodo.b = add({ type: 'map', address: st.address || '' }, s); break;
       case 'video': {
         const tipo = st.video_type || 'youtube';
         if (tipo === 'hosted') { // vídeo subido a la propia web (mp4): se copia como las fotos
           const u = foto(st.hosted_url?.url || ''); if (u) fotos.add(u);
-          add({ type: 'video', proveedor: 'hosted', url: u }, s); break;
+          nodo.b = add({ type: 'video', proveedor: 'hosted', url: u }, s); break;
         }
         const u = st[`${tipo}_url`] || st.youtube_url || '';
-        add({ type: 'video', proveedor: tipo, url: typeof u === 'string' ? u : '' }, s); break;
+        nodo.b = add({ type: 'video', proveedor: tipo, url: typeof u === 'string' ? u : '' }, s); break;
       }
       case 'image-gallery': {
-        const imgs = (st.wp_gallery || []).map((g) => ({ src: foto(g.url), alt: alt(g) }));
+        const imgs = (st.wp_gallery || []).map((g) => ({ src: foto(g.url), alt: alt(g), pie: leyendaDe[g.id] || '', wpid: g.id }));
         imgs.forEach((g) => fotos.add(g.src));
-        if (imgs.length) add({ type: 'gallery', images: imgs }, s); break;
+        nodo.cols = st.gallery_columns || '4'; nodo.size = st.thumbnail_size || 'thumbnail'; nodo.enlace = st.gallery_link || 'file';
+        if (imgs.length) nodo.b = add({ type: 'gallery', images: imgs }, s); break;
       }
-      case 'eael-contact-form-7': add({ type: 'contact_form', cf7: st.contact_form_list || '' }, s); break;
-      case 'shortcode': add({ type: 'shortcode', code: st.shortcode || '' }, s); break;
-      case 'contentviews_widget_list1': add({ type: 'lista_paginas', widget: e.widgetType }, s); break;
-      case 'spacer': case 'divider': break; // solo decoración
+      case 'eael-contact-form-7': nodo.b = add({ type: 'contact_form', cf7: st.contact_form_list || '' }, s); break;
+      case 'shortcode': nodo.b = add({ type: 'shortcode', code: st.shortcode || '' }, s); break;
+      case 'contentviews_widget_list1': nodo.b = add({ type: 'lista_paginas', widget: e.widgetType }, s); break;
+      case 'spacer': // con altura 0 Elementor no lo pinta
+        if (st.space && (st.space.size === 0 || st.space.size === '')) nodo.nada = true; break;
+      case 'divider': break; // solo decoración: la pinta el árbol
       default:
         desconocidos[e.widgetType] = (desconocidos[e.widgetType] || 0) + 1;
-        add({ type: 'desconocido', widget: e.widgetType }, s);
+        nodo.b = add({ type: 'desconocido', widget: e.widgetType }, s);
     }
+    return nodo;
   };
-  arbol.forEach((e, i) => walk(e, i));
+  // Elementor no pinta un titular o texto vacío, una foto sin fichero ni un espaciador de altura 0: esos nodos se quitan
+  const vacio = (n) => n.t === 'w' && ((['heading', 'image', 'text-editor', 'image-gallery'].includes(n.wt) && n.b === undefined) || n.nada);
+  const podar = (n) => (n.t === 'c' ? { ...n, hijos: n.hijos.filter((h) => !vacio(h)).map(podar) } : n);
+  const elementor = arbol.map((e, i) => walk(e, i)).filter((n) => !vacio(n)).map(podar);
 
   const h1 = blocks.filter((b) => b.type === 'heading' && b.tag === 'h1').length;
   if (!h1) resumen.sinH1.push(ruta);
@@ -160,7 +200,7 @@ for (const it of items) {
     ficha = { imagen: foto(meta._bsf_service_image || ''), tipo: ent(meta._bsf_service_type), proveedor: ent(meta._bsf_service_provider || ''), area: ent(meta._bsf_service_area || ''), descripcion: ent(meta._bsf_service_desc || '') };
     if (ficha.imagen) fotos.add(ficha.imagen);
   } else if (meta._bsf_post_type && meta._bsf_post_type !== '0') resumen_otros[meta._bsf_post_type] = (resumen_otros[meta._bsf_post_type] || 0) + 1;
-  const pag = { ...base, h1_es_titulo: !h1, fondos, ...(ficha ? { resumen: ficha } : {}), blocks };
+  const pag = { ...base, h1_es_titulo: !h1, fondos, ...(ficha ? { resumen: ficha } : {}), blocks, elementor };
   fs.writeFileSync(path.join(outDir, slug + '.json'), JSON.stringify(pag, null, 1) + '\n');
   estructura[slug] = { title, url, headings: blocks.filter((b) => b.type === 'heading').map((b) => ({ tag: b.tag, text: b.text })) };
   contenido[slug] = { title, url, blocks };

@@ -5,9 +5,9 @@ import site from '../data/site.json';
 const d = `https://${site.dominio}`;
 ---
 <Base indexar={false} title={`Mensaje enviado - ${site.nombre}`} canonical={`${d}/gracias/`} migas={[{ nombre: 'Inicio', url: `${d}/` }, { nombre: 'Mensaje enviado', url: `${d}/gracias/` }]}>
-  <div class="sec"><div class="sec-in centrado">
+  <div style="text-align:center; padding: 60px 0;">
     <h1>Mensaje enviado</h1>
-    <p>Gracias: hemos recibido tu mensaje y te responderemos lo antes posible.</p>
-    <p><a class="boton" href="/">Volver al inicio</a></p>
-  </div></div>
+    <p>Gracias por tu mensaje. Ha sido enviado y te responderemos lo antes posible.</p>
+    <p><a class="elementor-button elementor-size-sm" href="/">Volver al inicio</a></p>
+  </div>
 </Base>

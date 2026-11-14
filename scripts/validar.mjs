@@ -63,6 +63,12 @@ for (const f of ficheros) {
     if (!(fs.existsSync(ref) && /contenedores ?mar[ií]timos|casascontenedores/i.test(fs.readFileSync(ref, 'utf8')))) fallos.push(`${rel}: resto de otra web (contenedores) que no estaba en el original`);
   }
 }
+// Fotos de fondo y tipografías que piden los estilos: tienen que existir.
+const hojas = ['dist/estilos/antes.css', 'dist/estilos/despues.css', ...fs.readdirSync('dist/estilos/uploads/elementor/css').map((f) => `dist/estilos/uploads/elementor/css/${f}`)];
+const pedidas = new Set();
+for (const h of hojas) for (const m of fs.readFileSync(h, 'utf8').matchAll(/url\(\s*['"]?(\/(?:img|estilos)\/[^'")?#]+)/g)) pedidas.add(m[1]);
+for (const u of pedidas) if (!existe(u)) fallos.push(`estilos: falta ${u}`);
+
 fs.mkdirSync('informes', { recursive: true });
 fs.writeFileSync('informes/validador.json', JSON.stringify({ paginas: ficheros.length, fallos, avisos }, null, 1));
 console.log(`Validador: ${ficheros.length} páginas, ${fallos.length} fallos, ${avisos.length} avisos`);
