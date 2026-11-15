@@ -18,7 +18,7 @@ Cada informe dice el estado (local / commit / main desplegado).
 Sector: estudio de arquitectura (renders, planos, modelado 3D…) y web informativa, «todo sobre arquitectura» · Lectores: sobre todo Latinoamérica · Diseño: el mismo de WordPress, sin cambios
 
 ## Datos
-AdSense ca-pub-7333712322602518 · GA4 G-SWJY3P4YRP (confirmados; se activan en Fase 7) · WhatsApp, teléfono, correo público, horario: [pendiente] · Formulario: CF7 → arquitectura@dearquitectura.info · DNS y correo: OVH · Repositorio: [pendiente] · Netlify: aún no
+AdSense ca-pub-7333712322602518 · GA4 G-SWJY3P4YRP (confirmados; se activan en Fase 7) · WhatsApp, teléfono, correo público, horario: [pendiente] · Formulario: CF7 → arquitectura@dearquitectura.info · DNS y correo: OVH · Repositorio: https://github.com/Yamarodriguez/dearquitectura (main; Netlify publica en cada push) · Netlify: aún no
 Titular: Yamandu Rodriguez, Y8543818E, Calle de Finestrat, Valencia · Palabras prohibidas: [pendiente]
 Páginas con tráfico: arquitectura-bizantina, -incaica, -urbana, -maya; renders-guatemala, -paraguay, -uruguay (detalle en informes/inventario.md)
 
@@ -31,4 +31,4 @@ Regenerar: `npm run generar`. Agentes: PROHIBIDO escribir ficheros.
 Fase actual: 5 a falta de la prueba real en Netlify (informes/fase5.md).
 Cambios aprobados por Yama: src/data/cambios-aprobados.json (se aplican al regenerar).
 Regenerar: `npm run generar` y `npm run todo`. Fallos del original: src/data/fallos-original.json.
-Pendiente de Yama: mensaje de privacidad de Google en AdSense (antes de lanzar), teléfono o WhatsApp si los quiere en la web, palabras prohibidas, GitHub.
+Pendiente de Yama: mensaje de privacidad de Google en AdSense (antes de lanzar), teléfono o WhatsApp si los quiere en la web, palabras prohibidas, conectar Netlify.
