@@ -70,6 +70,22 @@ const pedidas = new Set();
 for (const h of hojas) for (const m of fs.readFileSync(h, 'utf8').matchAll(/url\(\s*['"]?(\/(?:img|estilos)\/[^'")?#]+)/g)) pedidas.add(m[1]);
 for (const u of pedidas) if (!existe(u)) fallos.push(`estilos: falta ${u}`);
 
+// Lanzamiento (Fase 7): robots.txt con el mapa solo cuando se indexa; y nunca indexar
+// sin analítica ni anuncios (en contenedoresmaritimos se lanzó sin analítica).
+const robots = fs.existsSync('dist/robots.txt') ? fs.readFileSync('dist/robots.txt', 'utf8') : '';
+if (!robots) fallos.push('falta robots.txt');
+if (/^Disallow:\s*\/\s*$/m.test(robots.split(/User-agent: AdsBot/)[0])) fallos.push('robots.txt bloquea toda la web');
+const conMapa = robots.includes(`Sitemap: ${DOMINIO}/sitemap.xml`);
+if (site.indexar && !conMapa) fallos.push('robots.txt sin la línea del sitemap');
+if (!site.indexar && conMapa) fallos.push('robots.txt anuncia el sitemap antes del lanzamiento');
+const portada = fs.readFileSync('dist/index.html', 'utf8');
+if (site.indexar) {
+  if (!portada.includes(`gtag/js?id=${site.analytics.confirmados.ga4}`)) fallos.push('se indexa sin GA4 (pasar analytics.confirmados.ga4 a analytics.ga4)');
+  if (!portada.includes(`client=${site.analytics.confirmados.adsense}`)) fallos.push('se indexa sin AdSense (pasar analytics.confirmados.adsense a analytics.adsense)');
+}
+const adsTxt = fs.existsSync('dist/ads.txt') ? fs.readFileSync('dist/ads.txt', 'utf8') : '';
+if (!adsTxt.includes(site.analytics.confirmados.adsense.replace(/^ca-/, ''))) fallos.push('ads.txt no tiene la cuenta de AdSense');
+
 fs.mkdirSync('informes', { recursive: true });
 fs.writeFileSync('informes/validador.json', JSON.stringify({ paginas: ficheros.length, fallos, avisos }, null, 1));
 console.log(`Validador: ${ficheros.length} páginas, ${fallos.length} fallos, ${avisos.length} avisos`);

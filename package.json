@@ -17,7 +17,8 @@
     "generar": "npm run extraer && npm run menus && npm run seo && node scripts/unir-estilos.mjs",
     "todo": "node scripts/todo.mjs",
     "todo:visual": "node scripts/visual.mjs",
-    "estilos": "node scripts/bajar-estilos.mjs && node scripts/unir-estilos.mjs"
+    "estilos": "node scripts/bajar-estilos.mjs && node scripts/unir-estilos.mjs",
+    "comprobar:web": "node scripts/comprobar-web.mjs"
   },
   "dependencies": {
     "astro": "4.16.7"
