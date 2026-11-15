@@ -28,7 +28,7 @@ Nada inventado. Lo nuevo desde src/data/. `npm run todo` y `todo:visual` a 0.
 Regenerar: `npm run generar`. Agentes: PROHIBIDO escribir ficheros.
 
 ## Estado
-Fase actual: 5 a falta de la prueba real en Netlify (informes/fase5.md).
+Fase actual: 6 hecha (informes/fase6.md). Fase 5 a falta de la prueba real en Netlify (Yama aún no ha conectado Netlify). Siguiente: Fase 7 (lanzamiento).
 Cambios aprobados por Yama: src/data/cambios-aprobados.json (se aplican al regenerar).
 Regenerar: `npm run generar` y `npm run todo`. Fallos del original: src/data/fallos-original.json.
 Pendiente de Yama: mensaje de privacidad de Google en AdSense (antes de lanzar), teléfono o WhatsApp si los quiere en la web, palabras prohibidas, conectar Netlify.

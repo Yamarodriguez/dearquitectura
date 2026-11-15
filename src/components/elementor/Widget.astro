@@ -7,8 +7,8 @@ import Panorama from '../Panorama.astro';
 import Formulario from '../Formulario.astro';
 import { htmlElementor, htmlTitular, enlaceInterno } from '../../lib/elementor';
 
-interface Props { n: any; b?: any }
-const { n, b } = Astro.props as Props;
+interface Props { n: any; b?: any; prioridad?: boolean }
+const { n, b, prioridad = false } = Astro.props as Props;
 const clase = `elementor-element elementor-element-${n.id} ${n.cls}`;
 const enlace = b?.href ? enlaceInterno(b.href) : '';
 const Tag = n.tag && /^(h[1-6]|p|div|span)$/.test(n.tag) ? n.tag : 'div';
@@ -28,8 +28,8 @@ const idTab = (i: number) => `${n.id}${i + 1}`;
     {n.wt === 'text-editor' && b && !b.oculto && (panorama ? <Panorama id={panorama} /> : <Fragment set:html={htmlElementor(b.html)} />)}
     {n.wt === 'image' && b && (
       enlace
-        ? <a href={enlace}><Foto src={b.src} alt={b.alt} class={claseFoto(b)} sizes="(max-width: 1024px) 100vw, 1024px" /></a>
-        : <Foto src={b.src} alt={b.alt} class={claseFoto(b)} sizes="(max-width: 1024px) 100vw, 1024px" />
+        ? <a href={enlace}><Foto src={b.src} alt={b.alt} class={claseFoto(b)} sizes="(max-width: 1024px) 100vw, 1024px" prioridad={prioridad} /></a>
+        : <Foto src={b.src} alt={b.alt} class={claseFoto(b)} sizes="(max-width: 1024px) 100vw, 1024px" prioridad={prioridad} />
     )}
     {n.wt === 'button' && b && (
       <div class="elementor-button-wrapper">

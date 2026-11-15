@@ -25,6 +25,8 @@ const h1 = data.blocks.find((b: any) => b.type === 'heading' && b.tag === 'h1');
 const nombre = (h1?.text || data.title).replace(/<[^>]+>/g, '');
 const r = data.resumen;
 const legal = data.legal ? textoLegal(data.slug) : null;
+// La primera foto del contenido se carga con prioridad (suele ser lo más grande que se ve al entrar: LCP)
+const primeraFoto = data.blocks.findIndex((b: any) => b.type === 'image');
 const servicio = r ? [{ '@type': 'Service', serviceType: r.tipo, areaServed: r.area, description: r.descripcion, provider: { '@id': 'https://dearquitectura.info/#empresa' }, ...(r.imagen ? { image: `https://dearquitectura.info${r.imagen}` } : {}) }] : [];
 const datos = [...servicio, ...faqJsonLd(faqDe(data.blocks), data.url)];
 ---
@@ -51,7 +53,7 @@ const datos = [...servicio, ...faqJsonLd(faqDe(data.blocks), data.url)];
     </>
   ) : (
     <div data-elementor-type="wp-page" data-elementor-id={data.id} class={`elementor elementor-${data.id}`}>
-      {data.elementor.map((n: any) => <Nodo n={n} blocks={data.blocks} />)}
+      {data.elementor.map((n: any) => <Nodo n={n} blocks={data.blocks} primeraFoto={primeraFoto} />)}
     </div>
   )}
   {r && <Resumen r={r} />}

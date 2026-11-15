@@ -4,18 +4,18 @@
 // Elementor (post-<id>.css) se apliquen igual.
 import Widget from './Widget.astro';
 
-interface Props { n: any; blocks: any[] }
-const { n, blocks } = Astro.props as Props;
+interface Props { n: any; blocks: any[]; primeraFoto?: number }
+const { n, blocks, primeraFoto } = Astro.props as Props;
 const caja = n.t === 'c' && n.cls.includes('e-con-boxed');
 ---
 {n.t === 'c' ? (
   <div class={`elementor-element elementor-element-${n.id} ${n.cls}`} data-id={n.id} data-element_type="container">
     {caja ? (
-      <div class="e-con-inner">{n.hijos.map((h: any) => <Astro.self n={h} blocks={blocks} />)}</div>
+      <div class="e-con-inner">{n.hijos.map((h: any) => <Astro.self n={h} blocks={blocks} primeraFoto={primeraFoto} />)}</div>
     ) : (
-      n.hijos.map((h: any) => <Astro.self n={h} blocks={blocks} />)
+      n.hijos.map((h: any) => <Astro.self n={h} blocks={blocks} primeraFoto={primeraFoto} />)
     )}
   </div>
 ) : (
-  <Widget n={n} b={n.b !== undefined ? blocks[n.b] : undefined} />
+  <Widget n={n} b={n.b !== undefined ? blocks[n.b] : undefined} prioridad={n.b !== undefined && n.b === primeraFoto} />
 )}
