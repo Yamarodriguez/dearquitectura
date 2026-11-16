@@ -33,6 +33,14 @@ Yama pidió «rediseñar toda la web para que sea más linda y rápida» y que f
   - Títulos de las columnas del pie: «Arquitectura», «Renders y 3D», «Estudio».
   - Migas visibles.
 
+## Tarjetas (17-11-2026)
+Yama: «todos estos recuadros son feos, armar estilo casascontenedores.es pero estilo arquitectura».
+- La foto va arriba, a todo el ancho y con la misma proporción (4:3).
+- El título va debajo, a la izquierda, con una flecha «→».
+- Toda la tarjeta se puede pulsar.
+- Al pasar el ratón: sombra suave, la foto crece un poco y la flecha se pone de color terracota.
+- Hay poco hueco entre tarjetas y entre filas. También se encogen las secciones que solo eran espacio en blanco.
+
 ## Velocidad (móvil con 4G simulado, `scripts/velocidad.mjs`)
 
 | Página | LCP antes → ahora | Peso antes → ahora |

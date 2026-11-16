@@ -218,19 +218,53 @@ a.elementor-button:hover { background: var(--tinta); color: #fff; }
 .elementor-spacer-inner { height: min(var(--container-widget-height, var(--spacer-size, 0px)), 32px); }
 @media (max-width: 767px) { .elementor-spacer-inner { height: min(var(--container-widget-height, var(--spacer-size, 0px)), 16px); } }
 
-/* ---------- Tarjetas: foto con enlace + titular (las rejillas de páginas) ---------- */
+/* ---------- Tarjetas: foto con enlace + titular (las rejillas de páginas) ----------
+   Estilo de casascontenedores.es (pedido por Yama el 17-11-2026) con aire de estudio:
+   foto arriba a todo el ancho, título debajo a la izquierda con flecha, toda la tarjeta
+   se puede pulsar y poco hueco entre tarjetas y entre filas. */
 :is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) {
-  background: #fff; border: 1px solid var(--linea); border-radius: 6px; overflow: hidden; padding: 0 0 22px !important;
-  --row-gap: 14px; transition: box-shadow .25s, transform .25s, border-color .25s;
+  position: relative; display: flex; flex-direction: column; gap: 0 !important;
+  background: #fff; border: 1px solid var(--linea); border-radius: 4px; overflow: hidden; padding: 0 !important;
+  box-shadow: 0 1px 2px rgba(21, 24, 28, .04);
+  transition: box-shadow .3s, transform .3s, border-color .3s;
 }
-:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading):has(> :first-child:not(.elementor-widget-image)) { padding-top: 20px !important; }
-:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading):hover { box-shadow: var(--sombra); transform: translateY(-3px); border-color: transparent; }
-:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) > .elementor-widget:not(.elementor-widget-image) { padding-inline: 20px; }
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading):hover { box-shadow: 0 2px 4px rgba(21, 24, 28, .05), 0 14px 32px rgba(21, 24, 28, .10); transform: translateY(-3px); border-color: #d6d1c8; }
+/* La foto, siempre arriba y con la misma proporción */
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) > .elementor-widget-image { order: -1; width: 100%; }
 :is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) > .elementor-widget-image a, :is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) > .elementor-widget-image img { display: block; width: 100%; border-radius: 0; }
-:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) > .elementor-widget-image img { aspect-ratio: 16 / 10; object-fit: cover; }
-:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) .elementor-widget-text-editor { font-size: 15.5px; }
-:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) .elementor-widget-spacer { display: none; }
-:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) :is(h2, h3).elementor-heading-title { font-size: clamp(1.1rem, 1rem + .35vw, 1.3rem); line-height: 1.3; letter-spacing: -.01em; }
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) > .elementor-widget-image img { aspect-ratio: 4 / 3; object-fit: cover; transition: transform .6s cubic-bezier(.2, .7, .2, 1); }
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading):hover > .elementor-widget-image img { transform: scale(1.045); }
+/* Toda la tarjeta lleva al enlace de la foto */
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) > .elementor-widget-image a::after { content: ''; position: absolute; inset: 0; z-index: 1; }
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) .elementor-button, :is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) .elementor-widget-text-editor a, :is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) .elementor-heading-title a { position: relative; z-index: 2; }
+/* El título: a la izquierda, con flecha */
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) > .elementor-widget-heading { text-align: left !important; padding: 16px 18px; }
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) > .elementor-widget-heading .elementor-widget-container { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) :is(h2, h3, h4, p, div).elementor-heading-title { font-size: 16.5px; font-weight: 700; line-height: 1.3; letter-spacing: -.01em; text-transform: none; color: var(--tinta); }
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) > .elementor-widget-heading .elementor-widget-container::after { content: '→'; flex: 0 0 auto; color: var(--suave); font-size: 18px; transition: transform .25s, color .25s; }
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading):hover > .elementor-widget-heading .elementor-widget-container::after { color: var(--acento); transform: translateX(4px); }
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading):hover .elementor-heading-title { color: var(--acento); }
+/* Tarjetas con texto y botón (p. ej. Construcción, Reformas…) */
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) > .elementor-widget-text-editor { padding: 0 18px 4px; text-align: left !important; font-size: 15px; line-height: 1.6; }
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) > .elementor-widget-text-editor .elementor-widget-container { margin: 0; }
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) > .elementor-widget-button { padding: 14px 18px 20px; margin-top: auto; text-align: left !important; }
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) > .elementor-widget-button .elementor-button-wrapper { text-align: left; }
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) > .elementor-widget-spacer, :is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) > .elementor-widget-divider { display: none; }
+/* Rejilla: poco hueco entre tarjetas y entre filas seguidas de tarjetas
+   (sin :has() dentro de :has(), que los navegadores no admiten) */
+:is(.e-con, .e-con-inner):has(> .e-con:not(.e-parent) > .elementor-widget-image a) { gap: 20px !important; align-items: stretch; }
+.elementor > .e-con:has(> .e-con:not(.e-parent) > .elementor-widget-image a, > .e-con-inner > .e-con:not(.e-parent) > .elementor-widget-image a) { padding-bottom: 20px; }
+/* Secciones que solo tienen un espacio en blanco: casi sin altura */
+.elementor > .e-con:has(> .e-con-inner > .elementor-widget-spacer:only-child),
+.elementor > .e-con:has(> .elementor-widget-spacer:only-child) { padding-top: 0; padding-bottom: 0; }
+.elementor > .e-con:has(> .e-con-inner > .elementor-widget-spacer:only-child) .elementor-spacer-inner,
+.elementor > .e-con:has(> .elementor-widget-spacer:only-child) .elementor-spacer-inner { height: 12px; }
+@media (max-width: 767px) {
+  :is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) { flex-grow: 0 !important; }
+  :is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) > .elementor-widget-heading { padding: 12px 14px; }
+  :is(.e-con, .e-con-inner) > .e-con:not(.e-parent):has(> .elementor-widget-image a):has(> .elementor-widget-heading) :is(h2, h3, h4, p, div).elementor-heading-title { font-size: 15px; }
+  :is(.e-con, .e-con-inner):has(> .e-con:not(.e-parent) > .elementor-widget-image a) { gap: 14px !important; }
+}
 
 /* ---------- Desplegables (preguntas) ---------- */
 .elementor-toggle { border-top: 1px solid var(--linea); }
