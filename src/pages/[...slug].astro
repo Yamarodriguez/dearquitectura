@@ -5,11 +5,13 @@
 import Base from '../layouts/Base.astro';
 import Nodo from '../components/elementor/Nodo.astro';
 import Resumen from '../components/Resumen.astro';
+import Relacionadas from '../components/Relacionadas.astro';
 import { seoDe } from '../lib/seo';
 import { migasDe } from '../lib/migas';
 import { faqDe, faqJsonLd } from '../lib/faq';
 import { textoLegal } from '../lib/legales';
 import { sinIndexar } from '../lib/indexar';
+import articulos from '../data/articulos.json';
 
 export async function getStaticPaths() {
   const files = import.meta.glob('../content/pages/*.json', { eager: true });
@@ -28,7 +30,20 @@ const legal = data.legal ? textoLegal(data.slug) : null;
 // La primera foto del contenido se carga con prioridad (suele ser lo más grande que se ve al entrar: LCP)
 const primeraFoto = data.blocks.findIndex((b: any) => b.type === 'image');
 const servicio = r ? [{ '@type': 'Service', serviceType: r.tipo, areaServed: r.area, description: r.descripcion, provider: { '@id': 'https://dearquitectura.info/#empresa' }, ...(r.imagen ? { image: `https://dearquitectura.info${r.imagen}` } : {}) }] : [];
-const datos = [...servicio, ...faqJsonLd(faqDe(data.blocks), data.url)];
+// Artículos informativos (src/data/articulos.json): marcados como Article para Google,
+// con las fechas de WordPress, y con la fecha de actualización visible.
+const esArticulo = [...articulos.estilos, ...articulos.profesiones, ...articulos.otros].includes(data.slug);
+const iso = (f?: string) => (f && /^\d{4}-\d\d-\d\d/.test(f) ? f.replace(' ', 'T') + 'Z' : undefined);
+const fotoArticulo = seo.imagen || data.foto_destacada;
+const articulo = esArticulo ? [{
+  '@type': 'Article', '@id': `${data.url}#articulo`, headline: nombre.slice(0, 110), inLanguage: 'es',
+  mainEntityOfPage: { '@id': `${data.url}#pagina` },
+  ...(iso(data.fecha_gmt) ? { datePublished: iso(data.fecha_gmt) } : {}),
+  ...(iso(data.modificada_gmt) ? { dateModified: iso(data.modificada_gmt) } : {}),
+  author: { '@id': 'https://dearquitectura.info/#empresa' }, publisher: { '@id': 'https://dearquitectura.info/#empresa' },
+  ...(fotoArticulo ? { image: fotoArticulo.startsWith('http') ? fotoArticulo : `https://dearquitectura.info${fotoArticulo}` } : {}),
+}] : [];
+const datos = [...servicio, ...articulo, ...faqJsonLd(faqDe(data.blocks, data.slug), data.url)];
 ---
 <Base
   title={seo.titulo || data.title}
@@ -44,6 +59,7 @@ const datos = [...servicio, ...faqJsonLd(faqDe(data.blocks), data.url)];
   fechas={{ publicada: data.fecha_gmt, modificada: data.modificada_gmt }}
   indexar={!seo.noindex && !sinIndexar.has(data.slug)}
   datos={datos}
+  actualizada={esArticulo ? iso(data.modificada_gmt) : undefined}
 >
   {data.h1_es_titulo && <h1 class="h1-titulo">{data.title}</h1>}
   {data.legal ? (
@@ -56,5 +72,6 @@ const datos = [...servicio, ...faqJsonLd(faqDe(data.blocks), data.url)];
       {data.elementor.map((n: any) => <Nodo n={n} blocks={data.blocks} primeraFoto={primeraFoto} />)}
     </div>
   )}
+  {!data.legal && <Relacionadas slug={data.slug} />}
   {r && <Resumen r={r} />}
 </Base>

@@ -21,8 +21,10 @@ interface Props {
   migas?: Miga[];
   indexar?: boolean;
   fechas?: { publicada?: string; modificada?: string }; // de WordPress, para WebPage
+  actualizada?: string; // ISO: fecha de actualización visible (solo artículos)
 }
-const { title, description = '', canonical, menu, logo, idPagina, imagen, ogTitulo, ogDescripcion, datos = [], migas = [], indexar = true, fechas } = Astro.props as Props;
+const { title, description = '', canonical, menu, logo, idPagina, imagen, ogTitulo, ogDescripcion, datos = [], migas = [], indexar = true, fechas, actualizada } = Astro.props as Props;
+const fechaVisible = actualizada ? new Intl.DateTimeFormat('es-ES', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(actualizada)) : '';
 const iso = (f?: string) => (f && /^\d{4}-\d\d-\d\d/.test(f) ? f.replace(' ', 'T') + 'Z' : undefined);
 const dominio = `https://${site.dominio}`;
 const ruta = canonical.replace(/^https?:\/\/[^/]+/, '') || '/';
@@ -35,6 +37,7 @@ const empresa: Record<string, unknown> = {
   description: site.descripcion,
   ...(site.correo ? { email: site.correo } : {}),
   ...(site.telefono ? { telephone: site.telefono } : {}),
+  ...(site.localidad ? { address: { '@type': 'PostalAddress', addressLocality: site.localidad, addressCountry: site.pais } } : {}),
 };
 const grafo: Record<string, unknown>[] = [
   empresa,
@@ -77,6 +80,7 @@ const jsonld = JSON.stringify({ '@context': 'https://schema.org', '@graph': graf
     <main id="contenido" class="contenido">
       {migas.length > 1 && (
         <nav class="migas contenedor" aria-label="Estás en">
+          {fechaVisible && <p class="actualizada">Actualizado el <time datetime={actualizada}>{fechaVisible}</time></p>}
           <ol>{migas.map((m, i) => <li>{i < migas.length - 1 ? <a href={m.url.replace(/^https?:\/\/[^/]+/, '')}>{m.nombre}</a> : <span aria-current="page">{m.nombre}</span>}</li>)}</ol>
         </nav>
       )}

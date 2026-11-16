@@ -1,0 +1,24 @@
+---
+// Enlaces a páginas del mismo tema al final de la página (src/data/relacionadas.json).
+import relacionadas from '../data/relacionadas.json';
+import articulos from '../data/articulos.json';
+
+interface Props { slug: string }
+const { slug } = Astro.props as Props;
+const paginas = Object.values(import.meta.glob('../content/pages/*.json', { eager: true })).map((m: any) => m.default);
+const porSlug = new Map(paginas.map((p: any) => [p.slug, p]));
+const bloques: { titulo: string; enlaces: { url: string; nombre: string }[] }[] = [];
+const enlace = (s: string) => { const p: any = porSlug.get(s); return p ? { url: new URL(p.url).pathname, nombre: p.title } : null; };
+for (const g of relacionadas.grupos) {
+  const lista = (articulos as Record<string, any>)[g.de] as string[];
+  if (lista?.includes(slug)) bloques.push({ titulo: g.titulo, enlaces: lista.filter((s) => s !== slug).map(enlace).filter(Boolean) as any });
+}
+const extra = (relacionadas.extra as Record<string, { titulo: string; paginas: string[] }>)[slug];
+if (extra) bloques.push({ titulo: extra.titulo, enlaces: extra.paginas.map(enlace).filter(Boolean) as any });
+---
+{bloques.map((b) => (
+  <nav class="relacionadas" aria-label={b.titulo}>
+    <h2>{b.titulo}</h2>
+    <ul>{b.enlaces.map((e) => <li><a href={e.url}>{e.nombre}</a></li>)}</ul>
+  </nav>
+))}

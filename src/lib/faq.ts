@@ -8,7 +8,19 @@ const plano = (h = '') => h
   .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#0?39;|&#8217;/g, '’')
   .replace(/\s+/g, ' ').trim();
 
-export function faqDe(blocks: any[]): { pregunta: string; respuesta: string }[] {
+// Preguntas que se repiten en muchas páginas (p. ej. «¿Qué es un render y cómo se
+// realizan?» en 234): para Google serían la misma respuesta copiada por toda la web,
+// así que solo se marcan en la página principal de su tema (análisis del 16-11-2026, A1).
+const MAX_PAGINAS = 3;
+const DUENAS = new Set(['index', 'renders']);
+const paginas = Object.values(import.meta.glob('../content/pages/*.json', { eager: true })).map((m: any) => m.default);
+const enCuantas = new Map<string, number>();
+for (const p of paginas) {
+  const suyas = new Set<string>(p.blocks.filter((b: any) => b.type === 'toggle').flatMap((b: any) => b.items.map((it: any) => (it.title || '').trim())));
+  for (const t of suyas) enCuantas.set(t, (enCuantas.get(t) ?? 0) + 1);
+}
+
+export function faqDe(blocks: any[], slug = ''): { pregunta: string; respuesta: string }[] {
   const vistas = new Set<string>();
   const salida: { pregunta: string; respuesta: string }[] = [];
   for (const b of blocks) {
@@ -17,6 +29,7 @@ export function faqDe(blocks: any[]): { pregunta: string; respuesta: string }[] 
       const pregunta = (it.title || '').trim();
       const respuesta = plano(it.html);
       if (!/^¿|\?$/.test(pregunta) || respuesta.length < 20 || vistas.has(pregunta)) continue;
+      if ((enCuantas.get(pregunta) ?? 0) > MAX_PAGINAS && !DUENAS.has(slug)) continue;
       vistas.add(pregunta);
       salida.push({ pregunta, respuesta });
     }

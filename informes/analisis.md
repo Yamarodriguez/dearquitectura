@@ -120,3 +120,22 @@ Recuperar una web rebajada por Google lleva meses, no semanas, y no hay garantí
 
 ## Estado
 Solo análisis, sin cambios en la web. El informe está en la rama `rediseno` (local).
+
+## Hecho: A (16-11-2026, Yama eligió «a»)
+- **A1. Preguntas frecuentes:**
+  - Las preguntas que salen en más de 3 páginas solo se marcan en su página principal: «¿Qué es la arquitectura?» en la portada y las de renders en /renders/. Está en `src/lib/faq.ts`.
+  - Antes eran 325 páginas con la misma pregunta; ahora 68 páginas, cada una con las suyas.
+- **A2. Artículos para Google:**
+  - 33 páginas informativas van marcadas como artículo, con las fechas de WordPress y «DE Arquitectura» como autor y editor: los 13 estilos, las 15 profesiones y otras 5.
+  - La lista está en `src/data/articulos.json`.
+- **A3. Fecha visible:** esas mismas páginas enseñan «Actualizado el …» junto a las migas.
+- **A4. Datos de empresa:** se añade la ciudad, Valencia, España (en `site.json`: `localidad` y `pais`).
+- **A5. Páginas relacionadas** al final de la página (`src/data/relacionadas.json`):
+  - Los estilos enlazan entre sí y las profesiones también.
+  - Las 4 páginas a las que no llegaba ningún enlace, ni del texto ni del menú, se enlazan desde su página principal:
+    - Home staging Valencia ← Home staging.
+    - Mijas ← Málaga.
+    - Sant Cugat ← Barcelona.
+    - San Sebastián de los Reyes ← Madrid.
+  - Las otras 27 de la lista ya estaban en algún menú.
+- **Textos originales:** no se cambia ninguno. `npm run todo` y `todo:visual` siguen a 0.
