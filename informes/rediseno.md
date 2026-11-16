@@ -1,6 +1,6 @@
 # Rediseño (16-11-2026)
 
-Yama pidió «rediseñar toda la web para que sea más linda y rápida» y que fuera «profesional», con webs de referencia recomendadas por Claude. Está en la rama `rediseno` hasta que Yama lo apruebe; `main` sigue con la copia exacta.
+Yama pidió «rediseñar toda la web para que sea más linda y rápida» y que fuera «profesional», con webs de referencia recomendadas por Claude. Lo aprobó el mismo día («apruebo el diseño») y está en `main`.
 
 ## Referencias
 - Estudios con web sobria y fotos grandes: Snøhetta, BIG, Olson Kundig.
