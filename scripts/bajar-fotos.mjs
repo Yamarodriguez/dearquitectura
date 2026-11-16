@@ -31,7 +31,7 @@ if (fs.existsSync('referencia')) {
 }
 // 5. Las fotos de fondo que piden los estilos de Elementor de cada página (a veces un tamaño
 //    reducido distinto para el móvil). Hay que haber bajado los estilos (bajar-estilos.mjs).
-const dirCss = 'public/estilos/uploads/elementor/css';
+const dirCss = 'estilos-wordpress/uploads/elementor/css';
 if (fs.existsSync(dirCss)) for (const f of fs.readdirSync(dirCss)) {
   for (const m of fs.readFileSync(path.join(dirCss, f), 'utf8').matchAll(/url\(\s*['"]?(\/img\/[^'")]+)['"]?\s*\)/g)) anadir(m[1]);
 }

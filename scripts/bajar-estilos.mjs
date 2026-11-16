@@ -1,14 +1,14 @@
 // Fase 3 («cópiala igual»): baja los estilos de la web viva para pintar la copia
 // con los mismos: tema OceanWP, Elementor (general, widgets, kit post-7 y el
 // fichero propio de cada página post-<id>.css), tipografías locales e iconos.
-// Se guardan en public/estilos/ con la misma ruta que tenían bajo /wp-content/,
+// Se guardan en estilos-wordpress/ (no se publican; de ahí sale la colocación de cada página) con la misma ruta que tenían bajo /wp-content/,
 // para que las referencias relativas (../fonts/…) sigan funcionando.
-// También guarda los <style> en línea comunes en public/estilos/en-linea.css.
+// También guarda los <style> en línea comunes en estilos-wordpress/en-linea.css.
 import fs from 'node:fs';
 import path from 'node:path';
 
 const BASE = 'https://dearquitectura.info';
-const DEST = 'public/estilos';
+const DEST = 'estilos-wordpress';
 const fuera = /\/panorama\/|complianz|content-views|swiper|e-swiper|jquery\.rating/; // no hacen falta en la copia
 const pausa = (ms) => new Promise((r) => setTimeout(r, ms));
 const local = (ruta) => path.join(DEST, ruta.replace(/^\/wp-content\//, '').replace(/^\/wp-includes\//, 'includes/'));

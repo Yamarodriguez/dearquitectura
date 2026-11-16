@@ -1,27 +1,21 @@
 ---
-// Caja «Resumen» del original (plugin All In One Schema, ficha de servicio) en 7
-// páginas de estudio por ciudad: mismo marcado y estilos que la web viva; las etiquetas, en español (aprobado por Yama).
+// Ficha «Resumen» del servicio (la caja del plugin All In One Schema del original,
+// en las páginas de estudio por ciudad), con el diseño nuevo. Mismos datos y etiquetas.
 import medidas from '../data/imagenes.json';
 interface Props { r: { imagen: string; tipo: string; proveedor: string; area: string; descripcion: string } }
 const { r } = Astro.props as Props;
-// Como en el original: la foto a 180 px de ancho (alto proporcional).
 const m = (medidas as Record<string, { w: number; h: number }>)[r.imagen];
 const alto = m ? Math.round((180 * m.h) / m.w) : undefined;
 ---
-<!-- Ojo: el plugin original cierra la caja de datos («aio-info») justo después de
-     «Provider Name», así que «Area» y «Descripción» quedan a todo lo ancho. Se
-     reproduce igual para que se vea igual. -->
-<!-- Sin espacios entre la foto y los datos: son inline-block y un espacio los separaría de línea. -->
-<div id="snippet-box" class="snippet-type-11" style="background:#F5F5F5; color:#333333; border:1px solid #ACACAC;">
-  <div class="snippet-title" style="background:#E4E4E4; color:#333333; border-bottom:1px solid #ACACAC;">Resumen</div>
+<aside class="resumen" aria-labelledby="resumen-titulo">
   <div>
-    {r.imagen && m && <div class="snippet-image"><img width="180" height={alto} src={r.imagen} alt={r.tipo} loading="lazy" decoding="async" /></div>}<div class="aio-info">
-      <span class="snippet-label-img">Tipo de servicio</span><div class="snippet-data-img"><span>{r.tipo}</span></div><div class="snippet-clear"></div>{r.proveedor && <><span class="snippet-label-img">Proveedor</span><div class="snippet-data-img"><span>{r.proveedor}</span>,</div></>}
-    </div>
-    <div class="snippet-clear"></div>
-    {r.area && <><span class="snippet-label-img">Zona</span><div class="snippet-data-img"><span>{r.area}</span></div><div class="snippet-clear"></div></>}
-    {r.descripcion && <><span class="snippet-label-img">Descripción</span><div class="snippet-data-img"><span>{r.descripcion}</span></div><div class="snippet-clear"></div></>}
-    <div class="snippet-data-img"></div><div class="snippet-clear"></div>
+    <h2 id="resumen-titulo">Resumen</h2>
+    {r.imagen && m && <img width="180" height={alto} src={r.imagen} alt={r.tipo} loading="lazy" decoding="async" />}
+    <dl>
+      <dt>Tipo de servicio</dt><dd>{r.tipo}</dd>
+      {r.proveedor && <><dt>Proveedor</dt><dd>{r.proveedor}</dd></>}
+      {r.area && <><dt>Zona</dt><dd>{r.area}</dd></>}
+      {r.descripcion && <><dt>Descripción</dt><dd>{r.descripcion}</dd></>}
+    </dl>
   </div>
-</div>
-<div class="snippet-clear"></div>
+</aside>

@@ -65,9 +65,9 @@ for (const f of ficheros) {
   }
 }
 // Fotos de fondo y tipografías que piden los estilos: tienen que existir.
-const hojas = ['dist/estilos/antes.css', 'dist/estilos/despues.css', ...fs.readdirSync('dist/estilos/uploads/elementor/css').map((f) => `dist/estilos/uploads/elementor/css/${f}`)];
+const hojas = ['dist/diseno/base.css', ...fs.readdirSync('dist/diseno').filter((f) => /^post-\d+\.css$/.test(f)).map((f) => `dist/diseno/${f}`)];
 const pedidas = new Set();
-for (const h of hojas) for (const m of fs.readFileSync(h, 'utf8').matchAll(/url\(\s*['"]?(\/(?:img|estilos)\/[^'")?#]+)/g)) pedidas.add(m[1]);
+for (const h of hojas) for (const m of fs.readFileSync(h, 'utf8').matchAll(/url\(\s*['"]?(\/(?:img|estilos|diseno)\/[^'")?#]+)/g)) pedidas.add(m[1]);
 for (const u of pedidas) if (!existe(u)) fallos.push(`estilos: falta ${u}`);
 
 // Lanzamiento (Fase 7): robots.txt con el mapa solo cuando se indexa; y nunca indexar

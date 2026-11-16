@@ -1,13 +1,12 @@
-// Fase 3 («cópiala igual»): cada elemento de Elementor de la web viva (por su
-// data-id) tiene que estar en la nueva, en el mismo orden y con las mismas clases;
-// así los estilos de la página (post-<id>.css) se aplican igual. También mira que
-// el <body> lleve las mismas clases (las del tema OceanWP).
+// Cada elemento de Elementor de la web viva (por su data-id) tiene que estar en la
+// nueva, en el mismo orden y con las mismas clases: así la colocación de cada página
+// (public/diseno/post-<id>.css, sacada de Elementor) se aplica igual.
+// (Desde el rediseño del 16-11-2026 ya no se comparan las clases del <body> de OceanWP.)
 import fs from 'node:fs';
 import path from 'node:path';
 import { sinReferencia } from './erratas.mjs';
 
 const elementos = (h) => [...h.matchAll(/<div class="elementor-element elementor-element-([0-9a-f]+) ([^"]*)"/g)].map((m) => [m[1], m[2].trim().split(/\s+/).sort().join(' ')]);
-const body = (h) => ((h.match(/<body[^>]*class="([^"]*)"/) || [])[1] || '').split(/\s+/).filter((c) => !/^(modula-|wp-singular$)/.test(c)).sort().join(' ');
 const viva = JSON.parse(fs.readFileSync('estructura-viva.json', 'utf8'));
 const dif = []; let comparadas = 0, elementosOk = 0;
 for (const p of Object.values(viva)) {
@@ -28,8 +27,6 @@ for (const p of Object.values(viva)) {
     if (!mb.has(id)) continue;
     if (mb.get(id) !== cls) dif.push(`${p.url}: ${id} clases «${mb.get(id)}» (viva «${cls}»)`); else elementosOk++;
   }
-  const ba = body(a).replace(/\bpage-id-\d+|\belementor-page-\d+/g, ''), bb = body(b).replace(/\bpage-id-\d+|\belementor-page-\d+/g, '');
-  if (ba !== bb) dif.push(`${p.url}: clases del body distintas`);
 }
 fs.mkdirSync('informes', { recursive: true });
 fs.writeFileSync('informes/maquetacion.json', JSON.stringify({ comparadas, elementosOk, diferencias: dif }, null, 1));

@@ -45,7 +45,8 @@ const mapasDe = (html) => [...zona(html).matchAll(/<iframe\b[^>]*>/gi)].filter((
   return decodeURIComponent(q.replace(/\+/g, ' ')).trim();
 });
 const menuDe = (html) => {
-  const n = html.match(/<nav[^>]*id="site-navigation"[\s\S]*?<\/nav>/)?.[0] || '';
+  // Original: <nav id="site-navigation"> de OceanWP · diseño nuevo: <nav class="menu-principal">
+  const n = html.match(/<nav[^>]*(?:id="site-navigation"|class="menu-principal")[\s\S]*?<\/nav>/)?.[0] || '';
   return [...n.matchAll(/<a\b[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi)].map((m) => rel(m[1]) + ' | ' + norm(m[2])).filter((e) => !/b[uú]squeda/.test(e));
 };
 const enOrden = (a, b) => { let k = 0; for (const x of a) { const i = b.indexOf(x, k); if (i < 0) return x; k = i + 1; } return null; };

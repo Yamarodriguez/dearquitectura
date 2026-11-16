@@ -1,33 +1,32 @@
 ---
-// Pie de OceanWP con el mismo marcado y los mismos enlaces que la web viva:
-// logo, tres columnas de enlaces, menú del pie y «DeArquitectura.info».
-// (El enlace «Arquitectos» iba sin barra final en el original; arreglado con el visto bueno de Yama.)
-const col2 = [['/', 'Arquitectura '], ['/arquitectos/', 'Arquitectos'], ['/estudio-de-arquitectura/', 'Estudio de Arquitectura'], ['/plataforma-arquitectura/', 'Plataforma Arquitectura']];
-const col3 = [['/renders/', 'Renders'], ['/planos/', 'Planos '], ['/modelado-3d/', 'Modelado 3D'], ['/tour-virtual/', 'Tour Virtual']];
-const col4 = [['/proyectos-de-arquitectura/', 'Proyectos'], ['/servicios-de-arquitectura/', 'Servicios'], ['/contacto/', 'Contacto']];
-const pie = [['/', 'De Arquitectura'], ['/politica-de-cookies/', 'Política de Cookies'], ['/politica-de-privacidad/', 'Política de Privacidad'], ['/aviso-legal/', 'Aviso Legal']];
+// Pie: logo con la descripción del estudio, las tres columnas de enlaces del pie
+// original y los enlaces legales.
+import site from '../data/site.json';
+const columnas: [string, [string, string][]][] = [
+  ['Arquitectura', [['/', 'Arquitectura'], ['/arquitectos/', 'Arquitectos'], ['/estudio-de-arquitectura/', 'Estudio de Arquitectura'], ['/plataforma-arquitectura/', 'Plataforma Arquitectura']]],
+  ['Renders y 3D', [['/renders/', 'Renders'], ['/planos/', 'Planos'], ['/modelado-3d/', 'Modelado 3D'], ['/tour-virtual/', 'Tour Virtual']]],
+  ['Estudio', [['/proyectos-de-arquitectura/', 'Proyectos'], ['/servicios-de-arquitectura/', 'Servicios'], ['/contacto/', 'Contacto']]],
+];
+const legal = [['/politica-de-cookies/', 'Política de Cookies'], ['/politica-de-privacidad/', 'Política de Privacidad'], ['/aviso-legal/', 'Aviso Legal']];
 ---
-<footer id="footer" class="site-footer" role="contentinfo">
-  <div id="footer-inner" class="clr">
-    <div id="footer-widgets" class="oceanwp-row clr tablet-2-col mobile-1-col">
-      <div class="footer-widgets-inner container">
-        <div class="footer-box span_1_of_4 col col-1">
-          <div class="footer-widget widget_block widget_media_image clr">
-            <figure class="wp-block-image size-full"><a href="/"><img loading="lazy" decoding="async" width="670" height="372" src="/img/2023/12/de-arquitectura-.png" alt="" /></a></figure>
-          </div>
-        </div>
-        <div class="footer-box span_1_of_4 col col-2">{col2.map(([u, t]) => <div class="footer-widget widget_block widget_text clr"><p class="wp-block-paragraph"><a href={u}>{t}</a></p></div>)}<div class="footer-widget widget_block widget_text clr"><p class="wp-block-paragraph"></p></div></div>
-        <div class="footer-box span_1_of_4 col col-3 ">{col3.map(([u, t]) => <div class="footer-widget widget_block widget_text clr"><p class="wp-block-paragraph"><a href={u}>{t}</a></p></div>)}</div>
-        <div class="footer-box span_1_of_4 col col-4">{col4.map(([u, t]) => <div class="footer-widget widget_block widget_text clr"><p class="wp-block-paragraph"><a href={u}>{t}</a></p></div>)}</div>
-      </div>
+<footer class="pie">
+  <div class="contenedor">
+    <div>
+      <a href="/" class="logo-pie"><img loading="lazy" decoding="async" width="670" height="372" src="/img/2023/12/de-arquitectura-.png" alt={site.nombre} /></a>
+      <p>{site.descripcion}</p>
+      <p><a href={`mailto:${site.correo}`}>{site.correo}</a></p>
     </div>
-    <div id="footer-bottom" class="clr">
-      <div id="footer-bottom-inner" class="container clr">
-        <div id="footer-bottom-menu" class="navigation clr">
-          <div class="menu-pie-de-pagina-container"><ul id="menu-pie-de-pagina" class="menu">{pie.map(([u, t]) => <li class="menu-item"><a href={u}>{t}</a></li>)}</ul></div>
-        </div>
-        <div id="copyright" class="clr">DeArquitectura.info</div>
+    {columnas.map(([titulo, enlaces]) => (
+      <div>
+        <h2>{titulo}</h2>
+        <ul>{enlaces.map(([u, t]) => <li><a href={u}>{t}</a></li>)}</ul>
       </div>
+    ))}
+  </div>
+  <div class="legal">
+    <div class="contenedor">
+      <span>DeArquitectura.info</span>
+      <ul>{legal.map(([u, t]) => <li><a href={u}>{t}</a></li>)}</ul>
     </div>
   </div>
 </footer>

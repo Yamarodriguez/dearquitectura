@@ -14,10 +14,10 @@
     "medidas": "node scripts/medidas-imagenes.mjs",
     "menus": "node scripts/menus-desde-referencia.mjs",
     "seo": "node scripts/seo-desde-referencia.mjs",
-    "generar": "npm run extraer && npm run menus && npm run seo && node scripts/unir-estilos.mjs",
+    "generar": "npm run extraer && npm run menus && npm run seo && node scripts/estilos-diseno.mjs",
     "todo": "node scripts/todo.mjs",
     "todo:visual": "node scripts/visual.mjs",
-    "estilos": "node scripts/bajar-estilos.mjs && node scripts/unir-estilos.mjs",
+    "estilos": "node scripts/bajar-estilos.mjs && node scripts/estilos-diseno.mjs",
     "comprobar:web": "node scripts/comprobar-web.mjs"
   },
   "dependencies": {

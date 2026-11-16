@@ -47,10 +47,10 @@ const datos = [...servicio, ...faqJsonLd(faqDe(data.blocks), data.url)];
 >
   {data.h1_es_titulo && <h1 class="h1-titulo">{data.title}</h1>}
   {data.legal ? (
-    <>
+    <article class="pagina-simple">
       <h1 class={legal ? undefined : 'h1-titulo'}>{data.title}</h1>
       {legal ? <Fragment set:html={legal} /> : <p class="pendiente">Texto pendiente: se publica en cuanto estén los datos del titular.</p>}
-    </>
+    </article>
   ) : (
     <div data-elementor-type="wp-page" data-elementor-id={data.id} class={`elementor elementor-${data.id}`}>
       {data.elementor.map((n: any) => <Nodo n={n} blocks={data.blocks} primeraFoto={primeraFoto} />)}
