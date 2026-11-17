@@ -43,7 +43,7 @@ Yama: «todos estos recuadros son feos, armar estilo casascontenedores.es pero e
 
 ## Tarjetas con texto (17-11-2026)
 Yama: «hacer lo mismo con los otros, agregarle texto seo optimizado con palabras claves en negritas y hacerlo más bonito al recuadro».
-- **Textos:** 50 textos cortos con las palabras clave en negrita (`src/data/textos-tarjetas.json`).
+- **Textos:** 50 textos con las palabras clave en negrita (acortados el mismo día a una frase de unas 9 palabras, porque Yama dijo «son textos muy largos y queda feo») (`src/data/textos-tarjetas.json`).
   - 18 son de estilos, con datos comprobables: obras y siglos.
   - 9 son de servicios y 23 de tipos de render.
   - No se inventa nada: ni precios, ni plazos, ni promesas.
