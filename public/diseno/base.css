@@ -271,8 +271,27 @@ a.elementor-button:hover { background: var(--tinta); color: #fff; }
 /* Filas de tarjetas con texto: a todo el ancho de la página y repartidas por igual */
 .elementor > .e-con:has(> .e-con.con-texto), .elementor > .e-con:has(> .e-con-inner > .e-con.con-texto) { --width: 100%; max-width: calc(var(--ancho) + 2 * var(--margen)); }
 :is(.e-con, .e-con-inner):has(> .e-con.con-texto) { flex-wrap: wrap !important; justify-content: center; gap: 20px !important; align-items: stretch; }
-.e-con.con-texto { flex: 1 1 210px !important; width: auto !important; max-width: 300px !important; }
-@media (max-width: 767px) { .e-con.con-texto { flex-basis: calc(50% - 7px) !important; max-width: calc(50% - 7px) !important; } }
+/* Columnas según cuántas tarjetas lleva la fila, para que ninguna quede sola abajo
+   (--cols: ordenador; --cols-t: tableta). 6 o más: 6 en fila / 3 + 3. */
+:is(.e-con, .e-con-inner):has(> .e-con.con-texto) { --cols: 6; --cols-t: 3; --hueco: 20px; }
+:is(.e-con, .e-con-inner):has(> .con-texto:nth-child(1 of .con-texto):nth-last-child(1 of .con-texto)) { --cols: 1; --cols-t: 1; }
+:is(.e-con, .e-con-inner):has(> .con-texto:nth-child(2 of .con-texto):nth-last-child(1 of .con-texto)) { --cols: 2; --cols-t: 2; }
+:is(.e-con, .e-con-inner):has(> .con-texto:nth-child(3 of .con-texto):nth-last-child(1 of .con-texto)) { --cols: 3; --cols-t: 3; }
+:is(.e-con, .e-con-inner):has(> .con-texto:nth-child(4 of .con-texto):nth-last-child(1 of .con-texto)) { --cols: 4; --cols-t: 2; }
+:is(.e-con, .e-con-inner):has(> .con-texto:nth-child(5 of .con-texto):nth-last-child(1 of .con-texto)) { --cols: 5; --cols-t: 3; }
+.e-con.con-texto { flex: 0 0 min(300px, calc((100% - (var(--cols) - 1) * var(--hueco)) / var(--cols))) !important; width: auto !important; max-width: none !important; min-width: 0; }
+/* Filas de 6 en ordenador: tarjetas más estrechas, letra y márgenes algo menores */
+@media (min-width: 1100px) {
+  :is(.e-con, .e-con-inner):has(> .con-texto:nth-child(6 of .con-texto)) > .e-con.con-texto > .elementor-widget-text-editor { padding: 0 14px 4px; font-size: 14px; line-height: 1.55; }
+  :is(.e-con, .e-con-inner):has(> .con-texto:nth-child(6 of .con-texto)) > .e-con.con-texto > .tarjeta-etiqueta { padding: 14px 14px 0; font-size: 10.5px; letter-spacing: .1em; }
+  :is(.e-con, .e-con-inner):has(> .con-texto:nth-child(6 of .con-texto)) > .e-con.con-texto > .elementor-widget-heading { padding-left: 14px; padding-right: 14px; }
+  :is(.e-con, .e-con-inner):has(> .con-texto:nth-child(6 of .con-texto)) > .e-con.con-texto > .elementor-widget-button { padding: 12px 14px 18px; }
+}
+@media (max-width: 1099px) { .e-con.con-texto { flex-basis: min(300px, calc((100% - (var(--cols-t) - 1) * var(--hueco)) / var(--cols-t))) !important; } }
+@media (max-width: 767px) {
+  :is(.e-con, .e-con-inner):has(> .e-con.con-texto) { --hueco: 14px; }
+  .e-con.con-texto { flex-basis: calc(50% - 7px) !important; }
+}
 @media (max-width: 767px) {
   :is(.e-con, .e-con-inner) > .e-con:not(.e-parent):is(.con-texto, :has(> .elementor-widget-image):has(> .elementor-widget-heading):has(> .elementor-widget-image a, > .elementor-widget-heading a)) > .elementor-widget-text-editor { font-size: 13.5px; line-height: 1.55; padding: 0 12px 4px; }
   :is(.e-con, .e-con-inner) > .e-con:not(.e-parent):is(.con-texto, :has(> .elementor-widget-image):has(> .elementor-widget-heading):has(> .elementor-widget-image a, > .elementor-widget-heading a)) > .tarjeta-etiqueta { padding: 12px 12px 0; font-size: 10.5px; letter-spacing: .1em; }
