@@ -10,6 +10,7 @@ const DOMINIO = `https://${site.dominio}`;
 const sinIndexar = new Set((JSON.parse(fs.readFileSync('src/data/cambios-aprobados.json', 'utf8')).paginas_sin_indexar?.paginas ?? []).map((s) => `/${s}/`));
 const legales = new Set(fs.readdirSync('src/content/pages').map((f) => JSON.parse(fs.readFileSync(path.join('src/content/pages', f), 'utf8'))).filter((p) => p.legal).map((p) => new URL(p.url).pathname));
 const fallos = [], avisos = [];
+const enlacesRotos = new Map();
 const paginas = (dir) => fs.readdirSync(dir, { withFileTypes: true }).flatMap((e) => e.isDirectory() ? paginas(path.join(dir, e.name)) : e.name.endsWith('.html') ? [path.join(dir, e.name)] : []);
 
 const config = fs.readFileSync('astro.config.mjs', 'utf8');
@@ -18,6 +19,7 @@ if (!/format:\s*'directory'/.test(config)) fallos.push("astro.config.mjs sin bui
 const existe = (u) => fs.existsSync(path.join('dist', decodeURI(u.split('?')[0])));
 
 const ficheros = paginas('dist');
+const rutasPublicadas = new Set(ficheros.map((f) => { const r = path.relative('dist', f).replace(/\\/g, '/'); return r === 'index.html' ? '/' : '/' + r.replace(/index\.html$/, ''); }));
 for (const f of ficheros) {
   const rel = path.relative('dist', f).replace(/\\/g, '/');
   const url = rel === 'index.html' ? '/' : '/' + rel.replace(/index\.html$/, '');
@@ -54,8 +56,17 @@ for (const f of ficheros) {
       } catch { fallos.push(`${rel}: datos estructurados con JSON roto`); }
     }
   }
+  // Enlaces internos: cada página enlazada tiene que existir (17-11-2026: había 17 destinos
+  // rotos en las tarjetas, copiados del original, en unas 270 páginas cada uno)
+  for (const m of html.matchAll(/<a\b[^>]*href="(\/[^"#?]*)/g)) {
+    const u = m[1];
+    if (/^\/(img|diseno|estilos)\//.test(u) || /\.\w{2,4}$/.test(u)) { if (!existe(u)) fallos.push(`${rel}: enlace a un fichero que no existe ${u}`); continue; }
+    // Distinguiendo mayúsculas (en Windows /arquitectura-Barroca/ «existe»; en Netlify, no)
+    let ruta; try { ruta = decodeURI(u); } catch { ruta = u; }
+    if (!rutasPublicadas.has(ruta)) enlacesRotos.set(u, (enlacesRotos.get(u) ?? 0) + 1);
+  }
   // Hasta la Fase 7 (site.indexar = false), todo con noindex. Después, solo legales, gracias y 404.
-  const sinIndice = /<meta name="robots" content="noindex/.test(html);
+  const sinIndice =/<meta name="robots" content="noindex/.test(html);
   const debeIndexarse = site.indexar && !es404 && url !== '/gracias/' && !legales.has(url) && !sinIndexar.has(url);
   if (debeIndexarse && sinIndice) fallos.push(`${rel}: lleva noindex y debería indexarse`);
   if (!debeIndexarse && !sinIndice) fallos.push(`${rel}: debería llevar noindex`);
@@ -86,6 +97,7 @@ if (site.indexar) {
 const adsTxt = fs.existsSync('dist/ads.txt') ? fs.readFileSync('dist/ads.txt', 'utf8') : '';
 if (!adsTxt.includes(site.analytics.confirmados.adsense.replace(/^ca-/, ''))) fallos.push('ads.txt no tiene la cuenta de AdSense');
 
+for (const [u, n] of enlacesRotos) fallos.push(`enlace a una página que no existe: ${u} (en ${n} páginas)`);
 fs.mkdirSync('informes', { recursive: true });
 fs.writeFileSync('informes/validador.json', JSON.stringify({ paginas: ficheros.length, fallos, avisos }, null, 1));
 console.log(`Validador: ${ficheros.length} páginas, ${fallos.length} fallos, ${avisos.length} avisos`);

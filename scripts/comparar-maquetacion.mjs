@@ -6,7 +6,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { sinReferencia } from './erratas.mjs';
 
-const elementos = (h) => [...h.matchAll(/<div class="elementor-element elementor-element-([0-9a-f]+) ([^"]*)"/g)].map((m) => [m[1], m[2].trim().split(/\s+/).sort().join(' ')]);
+// «con-texto» es la marca propia de las tarjetas a las que se añadió texto (17-11-2026): no cuenta
+const elementos = (h) => [...h.matchAll(/<div class="elementor-element elementor-element-([0-9a-f]+) ([^"]*)"/g)].map((m) => [m[1], m[2].trim().split(/\s+/).filter((c) => c !== 'con-texto').sort().join(' ')]);
 const viva = JSON.parse(fs.readFileSync('estructura-viva.json', 'utf8'));
 const dif = []; let comparadas = 0, elementosOk = 0;
 for (const p of Object.values(viva)) {

@@ -368,6 +368,7 @@
    "wpid": 694,
    "href": "/proyectos-de-arquitectura/",
    "s": 19,
+   "href_original": "/construccion/",
    "cambio": "enlace_roto"
   },
   {
@@ -382,6 +383,7 @@
    "size": "sm",
    "href": "/proyectos-de-arquitectura/",
    "s": 19,
+   "href_original": "/construccion/",
    "cambio": "enlace_roto"
   },
   {
@@ -398,6 +400,7 @@
    "wpid": 696,
    "href": "/proyectos-de-arquitectura/",
    "s": 19,
+   "href_original": "/reformas/",
    "cambio": "enlace_roto"
   },
   {
@@ -412,6 +415,7 @@
    "size": "sm",
    "href": "/proyectos-de-arquitectura/",
    "s": 19,
+   "href_original": "/reformas/",
    "cambio": "enlace_roto"
   },
   {
@@ -428,6 +432,7 @@
    "wpid": 685,
    "href": "/agencia-de-diseno/",
    "s": 19,
+   "href_original": "/disenos-arquitectonicos/",
    "cambio": "enlace_roto"
   },
   {
@@ -442,6 +447,7 @@
    "size": "sm",
    "href": "/agencia-de-diseno/",
    "s": 19,
+   "href_original": "/disenos-arquitectonicos/",
    "cambio": "enlace_roto"
   },
   {
@@ -458,6 +464,7 @@
    "wpid": 687,
    "href": "/interiorista/",
    "s": 19,
+   "href_original": "/interiorismo/",
    "cambio": "enlace_roto"
   },
   {
@@ -472,6 +479,7 @@
    "size": "sm",
    "href": "/interiorista/",
    "s": 19,
+   "href_original": "/interiorismo/",
    "cambio": "enlace_roto"
   },
   {
@@ -513,8 +521,10 @@
    "type": "heading",
    "tag": "h3",
    "text": "Barroca",
-   "href": "/arquitectura-Barroca/",
-   "s": 24
+   "href": "/arquitectura-barroca/",
+   "s": 24,
+   "href_original": "/arquitectura-Barroca/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -522,8 +532,10 @@
    "alt": "arquitectura-del-barroco",
    "size": "large",
    "wpid": 615,
-   "href": "/arquitectura-Barroca/",
-   "s": 24
+   "href": "/arquitectura-barroca/",
+   "s": 24,
+   "href_original": "/arquitectura-Barroca/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -545,8 +557,10 @@
    "type": "heading",
    "tag": "h3",
    "text": "Gotica",
-   "href": "/arquitectura-gotica/",
-   "s": 24
+   "href": "/tipos-de-arquitectura/",
+   "s": 24,
+   "href_original": "/arquitectura-gotica/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -554,8 +568,10 @@
    "alt": "Gótica-arquitectura",
    "size": "large",
    "wpid": 626,
-   "href": "/arquitectura-gotica/",
-   "s": 24
+   "href": "/tipos-de-arquitectura/",
+   "s": 24,
+   "href_original": "/arquitectura-gotica/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -593,8 +609,10 @@
    "type": "heading",
    "tag": "h3",
    "text": "Renacentista",
-   "href": "/arquitectura-renacentista/",
-   "s": 26
+   "href": "/tipos-de-arquitectura/",
+   "s": 26,
+   "href_original": "/arquitectura-renacentista/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -602,8 +620,10 @@
    "alt": "renacentista-arquitectura",
    "size": "large",
    "wpid": 638,
-   "href": "/arquitectura-renacentista/",
-   "s": 26
+   "href": "/tipos-de-arquitectura/",
+   "s": 26,
+   "href_original": "/arquitectura-renacentista/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -625,8 +645,10 @@
    "type": "heading",
    "tag": "h3",
    "text": "Egipcia",
-   "href": "/arquitectura-egipcia/",
-   "s": 26
+   "href": "/tipos-de-arquitectura/",
+   "s": 26,
+   "href_original": "/arquitectura-egipcia/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -634,8 +656,10 @@
    "alt": "arte-y-arquitectura-egipcia",
    "size": "large",
    "wpid": 639,
-   "href": "/arquitectura-egipcia/",
-   "s": 26
+   "href": "/tipos-de-arquitectura/",
+   "s": 26,
+   "href_original": "/arquitectura-egipcia/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -649,8 +673,10 @@
    "alt": "arte-y-arquitectura-azteca",
    "size": "large",
    "wpid": 643,
-   "href": "/arquitectura-azteca/",
-   "s": 26
+   "href": "/tipos-de-arquitectura/",
+   "s": 26,
+   "href_original": "/arquitectura-azteca/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -704,8 +730,10 @@
    "type": "heading",
    "tag": "h3",
    "text": "Brutalista",
-   "href": "/arquitectura-brutalista/",
-   "s": 28
+   "href": "/tipos-de-arquitectura/",
+   "s": 28,
+   "href_original": "/arquitectura-brutalista/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -713,8 +741,10 @@
    "alt": "brutalismo-arquitectura",
    "size": "large",
    "wpid": 664,
-   "href": "/arquitectura-brutalista/",
-   "s": 28
+   "href": "/tipos-de-arquitectura/",
+   "s": 28,
+   "href_original": "/arquitectura-brutalista/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -1204,6 +1234,7 @@
    "wpid": 729,
    "href": "/programas-de-arquitectura/",
    "s": 60,
+   "href_original": "/inteligencia-artificial-arquitectura/",
    "cambio": "enlace_roto"
   },
   {
@@ -1224,6 +1255,7 @@
    "size": "sm",
    "href": "/programas-de-arquitectura/",
    "s": 60,
+   "href_original": "/inteligencia-artificial-arquitectura/",
    "cambio": "enlace_roto"
   }
  ],

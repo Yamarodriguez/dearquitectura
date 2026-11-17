@@ -1,19 +1,56 @@
 ---
 // Un elemento del árbol de Elementor: contenedor (con sus hijos) o widget.
-// Mismas clases y misma estructura que la web viva, para que los estilos de
-// Elementor (post-<id>.css) se apliquen igual.
+// Mismas clases y misma estructura que la web viva, para que la colocación de cada
+// página (public/diseno/post-<id>.css) se aplique igual.
+// Tarjetas (foto con enlace + título, sin texto): en las páginas de
+// src/data/textos-tarjetas.json se les añade una etiqueta, un texto y un enlace
+// (pedido por Yama el 17-11-2026). Lo añadido no lleva clases de Elementor.
 import Widget from './Widget.astro';
+import tarjetas from '../../data/textos-tarjetas.json';
+import { enlaceInterno } from '../../lib/elementor';
+import cambios from '../../data/cambios-aprobados.json';
+const rotos = cambios.enlaces_rotos.cambios;
 
-interface Props { n: any; blocks: any[]; primeraFoto?: number }
-const { n, blocks, primeraFoto } = Astro.props as Props;
+interface Props { n: any; blocks: any[]; primeraFoto?: number; pagina?: string }
+const { n, blocks, primeraFoto, pagina = '' } = Astro.props as Props;
 const caja = n.t === 'c' && n.cls.includes('e-con-boxed');
+
+let extra: { etiqueta: string; texto: string; enlace: string; titulo: string } | null = null;
+if (n.t === 'c' && n.cls.includes('e-child') && tarjetas.paginas.includes(pagina)) {
+  const ws = n.hijos.filter((h: any) => h.t === 'w');
+  const img = ws.find((w: any) => w.wt === 'image' && w.b !== undefined);
+  const tit = ws.find((w: any) => w.wt === 'heading' && w.b !== undefined);
+  if (img && tit && !ws.some((w: any) => w.wt === 'text-editor' || w.wt === 'button')) {
+    const titulo = (blocks[tit.b].text || '').replace(/<[^>]+>/g, '').trim();
+    // El enlace puede ir en la foto o en el título; si no lleva, se busca por el título
+    const conEnlace = [img, tit].find((w: any) => w && blocks[w.b]?.href);
+    const b = conEnlace ? blocks[conEnlace.b] : null;
+    const clave: string | undefined = b ? (b.href_original || b.href) : (tarjetas.sin_enlace as Record<string, string>)[titulo];
+    const texto = clave ? (tarjetas.textos as Record<string, string>)[clave] : undefined;
+    if (clave && texto) {
+      const etq = tarjetas.etiquetas as Record<string, string>;
+      const etiqueta = Object.entries(etq).find(([k]) => k !== '*' && clave.startsWith(k))?.[1] ?? etq['*'];
+      const destino = b ? enlaceInterno(b.href) : ((rotos as Record<string, string>)[clave] ?? clave);
+      // Sin enlace si lleva a la misma página en la que está la tarjeta
+      const aqui = pagina === 'index' ? '/' : `/${pagina}/`;
+      extra = { etiqueta, texto, enlace: destino === aqui ? '' : destino, titulo };
+    }
+  }
+}
 ---
 {n.t === 'c' ? (
-  <div class={`elementor-element elementor-element-${n.id} ${n.cls}`} data-id={n.id} data-element_type="container">
+  <div class={`elementor-element elementor-element-${n.id} ${n.cls}${extra ? ' con-texto' : ''}`} data-id={n.id} data-element_type="container">
     {caja ? (
-      <div class="e-con-inner">{n.hijos.map((h: any) => <Astro.self n={h} blocks={blocks} primeraFoto={primeraFoto} />)}</div>
+      <div class="e-con-inner">{n.hijos.map((h: any) => <Astro.self n={h} blocks={blocks} primeraFoto={primeraFoto} pagina={pagina} />)}</div>
     ) : (
-      n.hijos.map((h: any) => <Astro.self n={h} blocks={blocks} primeraFoto={primeraFoto} />)
+      n.hijos.map((h: any) => <Astro.self n={h} blocks={blocks} primeraFoto={primeraFoto} pagina={pagina} />)
+    )}
+    {extra && (
+      <>
+        <p class="tarjeta-etiqueta">{extra.etiqueta}</p>
+        <div class="tarjeta-extra elementor-widget-text-editor"><div class="elementor-widget-container"><p set:html={extra.texto} /></div></div>
+        {extra.enlace && <div class="tarjeta-extra elementor-widget-button"><div class="elementor-widget-container"><div class="elementor-button-wrapper"><a class="elementor-button" href={extra.enlace}><span class="elementor-button-text">{extra.titulo}</span></a></div></div></div>}
+      </>
     )}
   </div>
 ) : (

@@ -5,6 +5,7 @@
 import Foto from '../Foto.astro';
 import Panorama from '../Panorama.astro';
 import Formulario from '../Formulario.astro';
+import medidas from '../../data/imagenes.json';
 import { htmlElementor, htmlTitular, enlaceInterno } from '../../lib/elementor';
 
 interface Props { n: any; b?: any; prioridad?: boolean }
@@ -17,6 +18,8 @@ const yt = (u = '') => u.match(/(?:youtu\.be\/|v=|embed\/|shorts\/)([\w-]{11})/)
 const claseFoto = (x: any) => `attachment-${x.size || 'large'} size-${x.size || 'large'}${x.wpid ? ` wp-image-${x.wpid}` : ''}`;
 // Los desplegables: el id de cada pestaña como lo numera Elementor (no tiene que coincidir, solo ser único)
 const idTab = (i: number) => `${n.id}${i + 1}`;
+// Galerías: solo las fotos que existen (3 del original ya no estaban y salían como recuadro vacío con enlace roto)
+const fotosGaleria = (b?.images ?? []).filter((g: any) => (medidas as Record<string, unknown>)[g.src]);
 ---
 <div class={clase} data-id={n.id} data-element_type="widget" data-widget_type={`${n.wt}.default`}>
   <div class="elementor-widget-container">
@@ -72,7 +75,7 @@ const idTab = (i: number) => `${n.id}${i + 1}`;
     {n.wt === 'image-gallery' && b && (
       <div class="elementor-image-gallery">
         <div id={`gallery-${n.id}`} class={`gallery gallery-columns-${n.cols} gallery-size-${n.size}`}>
-          {b.images.map((g: any) => (
+          {fotosGaleria.map((g: any) => (
             <figure class="gallery-item">
               <div class="gallery-icon landscape">
                 {n.enlace === 'none'

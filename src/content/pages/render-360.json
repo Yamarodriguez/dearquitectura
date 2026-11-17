@@ -157,8 +157,10 @@
    "type": "heading",
    "tag": "h3",
    "text": "Render exteriores",
-   "href": "/renders-exteriores/",
-   "s": 10
+   "href": "/render-casa/",
+   "s": 10,
+   "href_original": "/renders-exteriores/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -166,8 +168,10 @@
    "alt": "render-exterior",
    "size": "large",
    "wpid": 2793,
-   "href": "/renders-exteriores/",
-   "s": 10
+   "href": "/render-casa/",
+   "s": 10,
+   "href_original": "/renders-exteriores/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -189,8 +193,10 @@
    "type": "heading",
    "tag": "h3",
    "text": "Render Fachadas",
-   "href": "/renders-de-fachadas/",
-   "s": 10
+   "href": "/renders-edificios/",
+   "s": 10,
+   "href_original": "/renders-de-fachadas/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -198,15 +204,19 @@
    "alt": "renders-fachada",
    "size": "large",
    "wpid": 2794,
-   "href": "/renders-de-fachadas/",
-   "s": 10
+   "href": "/renders-edificios/",
+   "s": 10,
+   "href_original": "/renders-de-fachadas/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Render Cafeterías",
-   "href": "/render-cafeteria/",
-   "s": 10
+   "href": "/tipos-de-renders/",
+   "s": 10,
+   "href_original": "/render-cafeteria/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -214,15 +224,19 @@
    "alt": "render-cafetería",
    "size": "large",
    "wpid": 2795,
-   "href": "/render-cafeteria/",
-   "s": 10
+   "href": "/tipos-de-renders/",
+   "s": 10,
+   "href_original": "/render-cafeteria/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Productos",
-   "href": "/render-de-producto/",
-   "s": 12
+   "href": "/tipos-de-renders/",
+   "s": 12,
+   "href_original": "/render-de-producto/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -230,15 +244,19 @@
    "alt": "render-de-productos",
    "size": "large",
    "wpid": 2800,
-   "href": "/render-de-producto/",
-   "s": 12
+   "href": "/tipos-de-renders/",
+   "s": 12,
+   "href_original": "/render-de-producto/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Locales",
-   "href": "/renders-locales-comerciales/",
-   "s": 12
+   "href": "/tipos-de-renders/",
+   "s": 12,
+   "href_original": "/renders-locales-comerciales/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -246,15 +264,19 @@
    "alt": "render-local-comercial",
    "size": "large",
    "wpid": 2801,
-   "href": "/renders-locales-comerciales/",
-   "s": 12
+   "href": "/tipos-de-renders/",
+   "s": 12,
+   "href_original": "/renders-locales-comerciales/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Realistas",
-   "href": "/renders-realistas/",
-   "s": 12
+   "href": "/renders-hiperrealistas/",
+   "s": 12,
+   "href_original": "/renders-realistas/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -262,8 +284,10 @@
    "alt": "render-realistas",
    "size": "large",
    "wpid": 2811,
-   "href": "/renders-realistas/",
-   "s": 12
+   "href": "/renders-hiperrealistas/",
+   "s": 12,
+   "href_original": "/renders-realistas/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -285,8 +309,10 @@
    "type": "heading",
    "tag": "h3",
    "text": "Nocturnos",
-   "href": "/renders-nocturnos/",
-   "s": 12
+   "href": "/tipos-de-renders/",
+   "s": 12,
+   "href_original": "/renders-nocturnos/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -294,8 +320,10 @@
    "alt": "renders-nocturnos",
    "size": "large",
    "wpid": 2817,
-   "href": "/renders-nocturnos/",
-   "s": 12
+   "href": "/tipos-de-renders/",
+   "s": 12,
+   "href_original": "/renders-nocturnos/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -365,8 +393,10 @@
    "type": "heading",
    "tag": "h3",
    "text": "Baños",
-   "href": "/renders-baños/",
-   "s": 16
+   "href": "/renders-banos/",
+   "s": 16,
+   "href_original": "/renders-baños/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -374,8 +404,10 @@
    "alt": "render-banos",
    "size": "large",
    "wpid": 2843,
-   "href": "/renders-baños/",
-   "s": 16
+   "href": "/renders-banos/",
+   "s": 16,
+   "href_original": "/renders-baños/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -429,8 +461,10 @@
    "type": "heading",
    "tag": "h3",
    "text": "Logos",
-   "href": "/render-logo/",
-   "s": 16
+   "href": "/tipos-de-renders/",
+   "s": 16,
+   "href_original": "/render-logo/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -438,8 +472,10 @@
    "alt": "render-logos",
    "size": "large",
    "wpid": 2821,
-   "href": "/render-logo/",
-   "s": 16
+   "href": "/tipos-de-renders/",
+   "s": 16,
+   "href_original": "/render-logo/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -779,8 +815,10 @@
    "type": "heading",
    "tag": "h3",
    "text": "Proyectos Render",
-   "href": "/proyecto-render/",
-   "s": 26
+   "href": "/servicios-de-renders/",
+   "s": 26,
+   "href_original": "/proyecto-render/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -788,8 +826,10 @@
    "alt": "render-proyecto",
    "size": "large",
    "wpid": 5032,
-   "href": "/proyecto-render/",
-   "s": 26
+   "href": "/servicios-de-renders/",
+   "s": 26,
+   "href_original": "/proyecto-render/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -866,8 +906,10 @@
    "type": "button",
    "text": "Precios",
    "size": "sm",
-   "href": "/precio-render/",
-   "s": 30
+   "href": "/renders-economicos/",
+   "s": 30,
+   "href_original": "/precio-render/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -875,8 +917,10 @@
    "alt": "precio-render",
    "size": "large",
    "wpid": 2707,
-   "href": "/precio-render/",
-   "s": 30
+   "href": "/renders-economicos/",
+   "s": 30,
+   "href_original": "/precio-render/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -895,8 +939,10 @@
    "type": "button",
    "text": "Video render",
    "size": "sm",
-   "href": "/video-render/",
-   "s": 31
+   "href": "/tipos-de-renders/",
+   "s": 31,
+   "href_original": "/video-render/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -904,8 +950,10 @@
    "alt": "Video-renders",
    "size": "large",
    "wpid": 2776,
-   "href": "/video-render/",
-   "s": 31
+   "href": "/tipos-de-renders/",
+   "s": 31,
+   "href_original": "/video-render/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -1017,8 +1065,10 @@
    "type": "button",
    "text": "Studio",
    "size": "sm",
-   "href": "/render-studio/",
-   "s": 36
+   "href": "/empresa-de-renders/",
+   "s": 36,
+   "href_original": "/render-studio/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -1043,8 +1093,10 @@
    "type": "button",
    "text": "Profesional",
    "size": "sm",
-   "href": "/render-profesionales/",
-   "s": 36
+   "href": "/renderista/",
+   "s": 36,
+   "href_original": "/render-profesionales/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -1245,6 +1297,7 @@
    "wpid": 694,
    "href": "/proyectos-de-arquitectura/",
    "s": 52,
+   "href_original": "/construccion/",
    "cambio": "enlace_roto"
   },
   {
@@ -1259,6 +1312,7 @@
    "size": "sm",
    "href": "/proyectos-de-arquitectura/",
    "s": 52,
+   "href_original": "/construccion/",
    "cambio": "enlace_roto"
   },
   {
@@ -1275,6 +1329,7 @@
    "wpid": 696,
    "href": "/proyectos-de-arquitectura/",
    "s": 52,
+   "href_original": "/reformas/",
    "cambio": "enlace_roto"
   },
   {
@@ -1289,6 +1344,7 @@
    "size": "sm",
    "href": "/proyectos-de-arquitectura/",
    "s": 52,
+   "href_original": "/reformas/",
    "cambio": "enlace_roto"
   },
   {
@@ -1305,6 +1361,7 @@
    "wpid": 685,
    "href": "/agencia-de-diseno/",
    "s": 52,
+   "href_original": "/disenos-arquitectonicos/",
    "cambio": "enlace_roto"
   },
   {
@@ -1319,6 +1376,7 @@
    "size": "sm",
    "href": "/agencia-de-diseno/",
    "s": 52,
+   "href_original": "/disenos-arquitectonicos/",
    "cambio": "enlace_roto"
   },
   {
@@ -1335,6 +1393,7 @@
    "wpid": 687,
    "href": "/interiorista/",
    "s": 52,
+   "href_original": "/interiorismo/",
    "cambio": "enlace_roto"
   },
   {
@@ -1349,6 +1408,7 @@
    "size": "sm",
    "href": "/interiorista/",
    "s": 52,
+   "href_original": "/interiorismo/",
    "cambio": "enlace_roto"
   },
   {
@@ -1511,8 +1571,10 @@
    "type": "heading",
    "tag": "h3",
    "text": "Barroca",
-   "href": "/arquitectura-Barroca/",
-   "s": 64
+   "href": "/arquitectura-barroca/",
+   "s": 64,
+   "href_original": "/arquitectura-Barroca/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -1520,8 +1582,10 @@
    "alt": "arquitectura-del-barroco",
    "size": "large",
    "wpid": 615,
-   "href": "/arquitectura-Barroca/",
-   "s": 64
+   "href": "/arquitectura-barroca/",
+   "s": 64,
+   "href_original": "/arquitectura-Barroca/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -1543,8 +1607,10 @@
    "type": "heading",
    "tag": "h3",
    "text": "Gotica",
-   "href": "/arquitectura-gotica/",
-   "s": 64
+   "href": "/tipos-de-arquitectura/",
+   "s": 64,
+   "href_original": "/arquitectura-gotica/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -1552,8 +1618,10 @@
    "alt": "Gótica-arquitectura",
    "size": "large",
    "wpid": 626,
-   "href": "/arquitectura-gotica/",
-   "s": 64
+   "href": "/tipos-de-arquitectura/",
+   "s": 64,
+   "href_original": "/arquitectura-gotica/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -1591,8 +1659,10 @@
    "type": "heading",
    "tag": "h3",
    "text": "Renacentista",
-   "href": "/arquitectura-renacentista/",
-   "s": 66
+   "href": "/tipos-de-arquitectura/",
+   "s": 66,
+   "href_original": "/arquitectura-renacentista/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -1600,8 +1670,10 @@
    "alt": "renacentista-arquitectura",
    "size": "large",
    "wpid": 638,
-   "href": "/arquitectura-renacentista/",
-   "s": 66
+   "href": "/tipos-de-arquitectura/",
+   "s": 66,
+   "href_original": "/arquitectura-renacentista/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -1623,8 +1695,10 @@
    "type": "heading",
    "tag": "h3",
    "text": "Egipcia",
-   "href": "/arquitectura-egipcia/",
-   "s": 66
+   "href": "/tipos-de-arquitectura/",
+   "s": 66,
+   "href_original": "/arquitectura-egipcia/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -1632,8 +1706,10 @@
    "alt": "arte-y-arquitectura-egipcia",
    "size": "large",
    "wpid": 639,
-   "href": "/arquitectura-egipcia/",
-   "s": 66
+   "href": "/tipos-de-arquitectura/",
+   "s": 66,
+   "href_original": "/arquitectura-egipcia/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -1647,8 +1723,10 @@
    "alt": "arte-y-arquitectura-azteca",
    "size": "large",
    "wpid": 643,
-   "href": "/arquitectura-azteca/",
-   "s": 66
+   "href": "/tipos-de-arquitectura/",
+   "s": 66,
+   "href_original": "/arquitectura-azteca/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -1702,8 +1780,10 @@
    "type": "heading",
    "tag": "h3",
    "text": "Brutalista",
-   "href": "/arquitectura-brutalista/",
-   "s": 68
+   "href": "/tipos-de-arquitectura/",
+   "s": 68,
+   "href_original": "/arquitectura-brutalista/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -1711,8 +1791,10 @@
    "alt": "brutalismo-arquitectura",
    "size": "large",
    "wpid": 664,
-   "href": "/arquitectura-brutalista/",
-   "s": 68
+   "href": "/tipos-de-arquitectura/",
+   "s": 68,
+   "href_original": "/arquitectura-brutalista/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -2057,6 +2139,7 @@
    "wpid": 729,
    "href": "/programas-de-arquitectura/",
    "s": 92,
+   "href_original": "/inteligencia-artificial-arquitectura/",
    "cambio": "enlace_roto"
   },
   {
@@ -2077,6 +2160,7 @@
    "size": "sm",
    "href": "/programas-de-arquitectura/",
    "s": 92,
+   "href_original": "/inteligencia-artificial-arquitectura/",
    "cambio": "enlace_roto"
   },
   {

@@ -41,6 +41,22 @@ Yama: «todos estos recuadros son feos, armar estilo casascontenedores.es pero e
 - Al pasar el ratón: sombra suave, la foto crece un poco y la flecha se pone de color terracota.
 - Hay poco hueco entre tarjetas y entre filas. También se encogen las secciones que solo eran espacio en blanco.
 
+## Tarjetas con texto (17-11-2026)
+Yama: «hacer lo mismo con los otros, agregarle texto seo optimizado con palabras claves en negritas y hacerlo más bonito al recuadro».
+- **Textos:** 50 textos cortos con las palabras clave en negrita (`src/data/textos-tarjetas.json`).
+  - 18 son de estilos, con datos comprobables: obras y siglos.
+  - 9 son de servicios y 23 de tipos de render.
+  - No se inventa nada: ni precios, ni plazos, ni promesas.
+- **Dónde salen:** solo en la portada y las 9 páginas principales de sección. Esas tarjetas se repiten en unas 300 páginas; con texto en todas, cada página sumaría más de 1.000 palabras iguales a las demás, que es el problema número 1 del análisis. Para ponerlo en todas basta con cambiar `paginas` en el JSON.
+- **El recuadro:**
+  - Etiqueta pequeña en terracota (Estilo arquitectónico, Renders 3D o Servicio), título, texto y un enlace «NOMBRE →».
+  - Raya terracota arriba al pasar el ratón.
+  - Las filas con texto ocupan todo el ancho.
+  - Las tarjetas que ya tenían texto y botón (Construcción…) usan el mismo enlace, en vez del botón con borde.
+- **Tarjetas sin enlace en el original** (las de estilos en Tipos de arquitectura y otras): se les pone el enlace a su página si existe.
+- **Enlaces rotos:** al revisarlas aparecieron 24 destinos que no existían, en hasta 540 páginas. Se cambiaron por la página más parecida (`cambios-aprobados.json`). Gótica, renacentista, egipcia, azteca y brutalista van a Tipos de arquitectura hasta que tengan página propia.
+- **Comprobador:** ahora revisa todos los enlaces internos y distingue mayúsculas.
+
 ## Velocidad (móvil con 4G simulado, `scripts/velocidad.mjs`)
 
 | Página | LCP antes → ahora | Peso antes → ahora |

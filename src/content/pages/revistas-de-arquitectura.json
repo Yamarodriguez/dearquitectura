@@ -906,8 +906,10 @@
    "alt": "portafolios-de-arquitectura",
    "size": "large",
    "wpid": 1809,
-   "href": "/porfolios-arquitectura/",
-   "s": 45
+   "href": "/portafolios-arquitectura/",
+   "s": 45,
+   "href_original": "/porfolios-arquitectura/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -925,8 +927,10 @@
    "type": "button",
    "text": "Portafolios",
    "size": "sm",
-   "href": "/porfolios-arquitectura/",
-   "s": 45
+   "href": "/portafolios-arquitectura/",
+   "s": 45,
+   "href_original": "/porfolios-arquitectura/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",
@@ -1105,7 +1109,7 @@
   {
    "type": "text",
    "text": "Arquitectura Ávila",
-   "html": "<p><a href=\"https://dearquitectura.info/avila/\">Arquitectura Ávila</a></p>",
+   "html": "<p><a href=\"https://dearquitectura.info/estudio-de-arquitectura-avila/\">Arquitectura Ávila</a></p>",
    "s": 59
   }
  ],

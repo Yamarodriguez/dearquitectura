@@ -938,8 +938,10 @@
    "alt": "portafolios-de-arquitectura",
    "size": "large",
    "wpid": 1809,
-   "href": "/porfolios-arquitectura/",
-   "s": 45
+   "href": "/portafolios-arquitectura/",
+   "s": 45,
+   "href_original": "/porfolios-arquitectura/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "heading",
@@ -957,8 +959,10 @@
    "type": "button",
    "text": "Portafolios",
    "size": "sm",
-   "href": "/porfolios-arquitectura/",
-   "s": 45
+   "href": "/portafolios-arquitectura/",
+   "s": 45,
+   "href_original": "/porfolios-arquitectura/",
+   "cambio": "enlace_roto"
   },
   {
    "type": "image",

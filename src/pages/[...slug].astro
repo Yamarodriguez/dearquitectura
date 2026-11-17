@@ -69,7 +69,7 @@ const datos = [...servicio, ...articulo, ...faqJsonLd(faqDe(data.blocks, data.sl
     </article>
   ) : (
     <div data-elementor-type="wp-page" data-elementor-id={data.id} class={`elementor elementor-${data.id}`}>
-      {data.elementor.map((n: any) => <Nodo n={n} blocks={data.blocks} primeraFoto={primeraFoto} />)}
+      {data.elementor.map((n: any) => <Nodo n={n} blocks={data.blocks} primeraFoto={primeraFoto} pagina={data.slug} />)}
     </div>
   )}
   {!data.legal && <Relacionadas slug={data.slug} />}

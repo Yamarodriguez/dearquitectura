@@ -139,3 +139,6 @@ Solo análisis, sin cambios en la web. El informe está en la rama `rediseno` (l
     - San Sebastián de los Reyes ← Madrid.
   - Las otras 27 de la lista ya estaban en algún menú.
 - **Textos originales:** no se cambia ninguno. `npm run todo` y `todo:visual` siguen a 0.
+
+## Arreglado: enlaces rotos (17-11-2026)
+Había 24 destinos rotos en tarjetas y textos copiados del original, enlazados desde hasta 540 páginas (por ejemplo /arquitectura-gotica/, /renders-exteriores/ o /arquitectura-Barroca/, con mayúscula). Ahora llevan a la página existente más parecida y `npm run todo` revisa todos los enlaces internos. Los estilos gótica, renacentista, egipcia, azteca y brutalista no tienen página; son buenos candidatos para el punto E.

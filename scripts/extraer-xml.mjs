@@ -55,10 +55,11 @@ const aplicarCambios = (slug, lista) => {
   const rotos = CAMBIOS.enlaces_rotos?.cambios ?? {};
   const porTexto = CAMBIOS.botones_sin_destino?.por_texto ?? {};
   const quitar = (CAMBIOS.quitar_textos?.bloques ?? []).filter((q) => q.pagina === slug);
-  const enHtml = (h = '') => Object.entries(rotos).reduce((t, [de, a]) => t.split(`dearquitectura.info${de}`).join(`dearquitectura.info${a}`), h);
+  // Solo el enlace exacto (con la comilla de cierre): «/arquitectos» no debe cambiar «/arquitectos-famosos/»
+  const enHtml = (h = '') => Object.entries(rotos).reduce((t, [de, a]) => t.split(`dearquitectura.info${de}"`).join(`dearquitectura.info${a}"`), h);
   return lista.map((b0) => {
     const b = structuredClone(b0);
-    if (b.href && rotos[b.href]) { b.href = rotos[b.href]; b.cambio = 'enlace_roto'; }
+    if (b.href && rotos[b.href]) { b.href_original = b.href; b.href = rotos[b.href]; b.cambio = 'enlace_roto'; }
     if (b.type === 'button' && !b.href && porTexto[b.text]) { b.href = porTexto[b.text]; b.cambio = 'boton_sin_destino'; }
     if (b.html) b.html = enHtml(b.html);
     if (b.items) b.items.forEach((it) => { it.html = enHtml(it.html); });
