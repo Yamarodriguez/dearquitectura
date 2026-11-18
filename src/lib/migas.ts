@@ -1,8 +1,8 @@
-// Migas de pan (solo en los datos estructurados: el original no las enseña y el
-// diseño es una copia exacta). Inicio › sección › página. La sección sale del menú
+// Migas de pan (visibles arriba de cada página y en los datos estructurados). Inicio › sección › página. La sección sale del menú
 // real de la página: el apartado de arriba del que cuelga (Tipos, Arquitectos,
 // Renders, Servicios…), si tiene página propia.
 import menus from '../data/menus.json';
+import { mapaPaises, paisDeCiudad } from './paises.mjs';
 
 export type Miga = { nombre: string; url: string };
 const DOMINIO = 'https://dearquitectura.info';
@@ -20,10 +20,21 @@ function seccionDe(ruta: string, menu?: string): { nombre: string; url: string }
   return undefined;
 }
 
+// Renders por país y ciudad (18-11-2026): Inicio › Renders › Renders España › Renders Madrid
+const mapa = mapaPaises(menus);
+const { paises } = mapa;
+const nombrePais = Object.fromEntries(((menus as any).renders.find((i: any) => i.label === 'Zonas')?.children ?? []).map((z: any) => [rel(z.url).replace(/\//g, ''), z.label]));
+const esPais = new Set(paises.map((p: any) => p.slug));
+
 export function migasDe(url: string, nombre: string, menu?: string): Miga[] {
   const inicio = { nombre: 'Inicio', url: `${DOMINIO}/` };
   const ruta = rel(url);
   if (ruta === '/') return [inicio];
+  const slug = ruta.replace(/\//g, '');
+  const renders = { nombre: 'Renders', url: `${DOMINIO}/renders/` };
+  if (esPais.has(slug)) return [inicio, renders, { nombre, url }];
+  const pais = esPais.has(slug) ? undefined : paisDeCiudad(slug, menu, mapa);
+  if (pais) return [inicio, renders, { nombre: nombrePais[pais] ?? pais, url: `${DOMINIO}/${pais}/` }, { nombre, url }];
   const seccion = seccionDe(ruta, menu);
   return seccion ? [inicio, seccion, { nombre, url }] : [inicio, { nombre, url }];
 }

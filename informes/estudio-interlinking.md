@@ -135,3 +135,22 @@ La idea es una **página principal por tema que enlaza a sus páginas, y esas p�
 
 ## Estado
 Solo estudio, sin cambios en la web. Guardado en `informes/estudio-interlinking.md`.
+
+## Hecho: países y ciudades (18-11-2026, pedido por Yama: «href de cada país con sus páginas y menús individuales»)
+- **Migas con el país:** «Inicio / Renders / Renders España / Renders Madrid», en 199 ciudades y 26 países (también en los datos para Google).
+- **Al final de cada ciudad:** el bloque «Renders en <país>», con la página del país y sus 8 ciudades con más visitas en Search Console (`src/data/popularidad.json`).
+- **Al final de cada país:** «Renders en otros países», con los 12 países con más visitas.
+- **Menús:**
+  - Los de cada país llevan solo sus ciudades que siguen en Google (España, 167 enlaces en vez de 246).
+  - El menú general de Renders lleva en «Zonas» solo los países (116 enlaces en vez de 316).
+  - Ningún menú enlaza ya a las 86 sin indexar.
+- **Casos dudosos:** Córdoba y Guadalajara, que existen en España y en Latinoamérica, van con el país que les puso WordPress en su menú: España.
+- **Resultado:**
+
+| | Antes | Ahora |
+|---|---|---|
+| Enlaces por página (mediana) | 693 | 472 |
+| Del menú, por página | 405 | 265 |
+| Enlaces a las páginas sin indexar | 34.407 | 79 (los del texto original) |
+
+- **Lógica:** `src/lib/paises.mjs`. La comprobación de contenido acepta los enlaces que se quitan del menú. `npm run todo` y `todo:visual`, a 0.

@@ -7,6 +7,14 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { aplicarErratas, aplicarCambios, sinReferencia } from './erratas.mjs';
+import { quitadosDelMenu } from '../src/lib/paises.mjs';
+
+// Menús ajustados el 18-11-2026 (src/lib/paises.mjs): sin las páginas fuera de Google y, en el
+// de Renders, «Zonas» solo con los países. Esos enlaces no se echan en falta.
+const menusJson = JSON.parse(fs.readFileSync('src/data/menus.json', 'utf8'));
+const sinIndexarMenu = new Set(JSON.parse(fs.readFileSync('src/data/cambios-aprobados.json', 'utf8')).paginas_sin_indexar?.paginas ?? []);
+const paginasJson = Object.fromEntries(fs.readdirSync('src/content/pages').map((x) => { const p = JSON.parse(fs.readFileSync(path.join('src/content/pages', x), 'utf8')); return [p.url, p]; }));
+const quitadosDe = (url) => { const m = paginasJson[url]?.menu || 'principal'; const nombre = menusJson[m] ? m : 'principal'; return quitadosDelMenu(nombre, menusJson[nombre], sinIndexarMenu); };
 
 const viva = JSON.parse(fs.readFileSync('estructura-viva.json', 'utf8'));
 const norm = (s) =>
@@ -71,7 +79,8 @@ for (const p of Object.values(viva)) {
   const ca = camposDe(original), cb = camposDe(nuevoHtml);
   if (JSON.stringify(ca) !== JSON.stringify(cb)) dif.push(`${p.url}: formulario distinto (${ca.join(' / ')}) vs (${cb.join(' / ')})`);
   const fi = enOrden(imagenesDe(original), imagenesDe(nuevoHtml)); if (fi) dif.push(`${p.url}: falta imagen ${fi}`);
-  const fm = enOrden(menuDe(original), menuDe(nuevoHtml)); if (fm) dif.push(`${p.url}: menú distinto: falta «${fm}»`);
+  const quitados = quitadosDe(p.url);
+  const fm = enOrden(menuDe(original).filter((e) => !quitados.has(e.split(' | ')[0].replace(/^\/|\/$/g, ''))), menuDe(nuevoHtml)); if (fm) dif.push(`${p.url}: menú distinto: falta «${fm}»`);
   const ma = mapasDe(original), mb = mapasDe(nuevoHtml);
   if (JSON.stringify(ma) !== JSON.stringify(mb)) dif.push(`${p.url}: mapa distinto (${ma}) vs (${mb})`);
   const fe = enOrden(enlacesDe(original), enlacesDe(nuevoHtml)); if (fe) dif.push(`${p.url}: falta enlace ${fe}`);

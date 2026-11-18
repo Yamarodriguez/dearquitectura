@@ -72,6 +72,6 @@ const datos = [...servicio, ...articulo, ...faqJsonLd(faqDe(data.blocks, data.sl
       {data.elementor.map((n: any) => <Nodo n={n} blocks={data.blocks} primeraFoto={primeraFoto} pagina={data.slug} />)}
     </div>
   )}
-  {!data.legal && <Relacionadas slug={data.slug} />}
+  {!data.legal && <Relacionadas slug={data.slug} menu={data.menu} />}
   {r && <Resumen r={r} />}
 </Base>

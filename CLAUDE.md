@@ -10,7 +10,7 @@ Cada informe dice el estado (local / commit / main desplegado).
 - D3 Diseño: hasta el 16-11-2026, copia exacta. Ese día Yama pidió un rediseño «más lindo, rápido y profesional» y lo aprobó («apruebo el diseño», 16-11-2026); está en main (public/diseno/, informes/rediseno.md). Contenido, URL y SEO no cambian; la colocación de cada página sale de Elementor (`scripts/estilos-diseno.mjs`).
 - D4 DNS: se quedan en OVH; el correo (OVH) no se toca.
 - D5 Países: todo en la raíz y en castellano, como ahora; ninguna URL se mueve.
-- D6 Páginas de ciudad: no se fusionan ni se redirigen; las 86 renders-* sin clics llevan noindex y van fuera del sitemap (aprobado 14-11-2026).
+- D6 Páginas de ciudad: no se fusionan ni se redirigen; las 86 renders-* sin clics llevan noindex y van fuera del sitemap (aprobado 14-11-2026) y de los menús (18-11-2026). Cada ciudad enlaza a su país (migas y bloque «Renders en <país>»); el menú general de Renders lleva en «Zonas» solo los países (src/lib/paises.mjs).
 - D7 H1: si Elementor no tiene H1, el H1 es el título (17 páginas), oculto a la vista para no cambiar el diseño.
 - D8 Fotos: a `/img/` solo con 301 desde `/wp-content/uploads/`.
 

@@ -1,0 +1,1273 @@
+{
+ "_nota": "Clics e impresiones de cada página en Search Console (16 meses, julio 2025 – noviembre 2026). Sirve para ordenar las ciudades más visitadas en el bloque «Renders en <país>». No se publica.",
+ "paginas": {
+  "arquitectura-bizantina": {
+   "clics": 402,
+   "impresiones": 56277
+  },
+  "arquitectura-incaica": {
+   "clics": 171,
+   "impresiones": 85092
+  },
+  "arquitectura-urbana": {
+   "clics": 133,
+   "impresiones": 15091
+  },
+  "arquitectura-maya": {
+   "clics": 115,
+   "impresiones": 56742
+  },
+  "renders-guatemala": {
+   "clics": 86,
+   "impresiones": 1694
+  },
+  "renders-paraguay": {
+   "clics": 82,
+   "impresiones": 1474
+  },
+  "renders-uruguay": {
+   "clics": 76,
+   "impresiones": 1516
+  },
+  "renders-barranquilla": {
+   "clics": 60,
+   "impresiones": 989
+  },
+  "arquitectura-mediterranea": {
+   "clics": 59,
+   "impresiones": 11762
+  },
+  "arquitectura-industrial": {
+   "clics": 58,
+   "impresiones": 12880
+  },
+  "renders-medellin": {
+   "clics": 57,
+   "impresiones": 1478
+  },
+  "renders-de-cocinas": {
+   "clics": 56,
+   "impresiones": 7825
+  },
+  "renders-cali": {
+   "clics": 55,
+   "impresiones": 833
+  },
+  "renders-venezuela": {
+   "clics": 53,
+   "impresiones": 1258
+  },
+  "index": {
+   "clics": 52,
+   "impresiones": 13944
+  },
+  "arquitectura-griega": {
+   "clics": 51,
+   "impresiones": 21436
+  },
+  "renders-puerto-rico": {
+   "clics": 48,
+   "impresiones": 1168
+  },
+  "render-casa": {
+   "clics": 47,
+   "impresiones": 13098
+  },
+  "renders-el-salvador": {
+   "clics": 46,
+   "impresiones": 921
+  },
+  "renders-chile": {
+   "clics": 45,
+   "impresiones": 1758
+  },
+  "renders-costa-rica": {
+   "clics": 42,
+   "impresiones": 1171
+  },
+  "renders-colombia": {
+   "clics": 40,
+   "impresiones": 2794
+  },
+  "render-peru": {
+   "clics": 37,
+   "impresiones": 1729
+  },
+  "catalogo": {
+   "clics": 36,
+   "impresiones": 3056
+  },
+  "renders-mexico": {
+   "clics": 36,
+   "impresiones": 2617
+  },
+  "arquitectura-romana": {
+   "clics": 35,
+   "impresiones": 14800
+  },
+  "renders-republica-dominicana": {
+   "clics": 35,
+   "impresiones": 1371
+  },
+  "renders-panama": {
+   "clics": 35,
+   "impresiones": 1364
+  },
+  "cursos-de-renders": {
+   "clics": 33,
+   "impresiones": 3076
+  },
+  "portafolios-arquitectura": {
+   "clics": 32,
+   "impresiones": 7732
+  },
+  "renders-quito": {
+   "clics": 32,
+   "impresiones": 791
+  },
+  "renders-monterrey": {
+   "clics": 32,
+   "impresiones": 789
+  },
+  "renders-puebla": {
+   "clics": 31,
+   "impresiones": 945
+  },
+  "renders-cdmx-ciudad-de-mexico": {
+   "clics": 30,
+   "impresiones": 1159
+  },
+  "arquitectura-bioclimatica": {
+   "clics": 28,
+   "impresiones": 1681
+  },
+  "renders-ecuador": {
+   "clics": 26,
+   "impresiones": 1134
+  },
+  "renders-argentina": {
+   "clics": 25,
+   "impresiones": 2450
+  },
+  "renders-santa-fe": {
+   "clics": 24,
+   "impresiones": 634
+  },
+  "renders-mar-del-plata": {
+   "clics": 24,
+   "impresiones": 541
+  },
+  "arquitectura-barroca": {
+   "clics": 23,
+   "impresiones": 10170
+  },
+  "renders-piscinas": {
+   "clics": 23,
+   "impresiones": 2356
+  },
+  "estudio-de-arquitectura-rosario": {
+   "clics": 23,
+   "impresiones": 682
+  },
+  "santa-fe": {
+   "clics": 22,
+   "impresiones": 559
+  },
+  "renders-mendoza": {
+   "clics": 22,
+   "impresiones": 272
+  },
+  "arquitectura-neoclasica": {
+   "clics": 21,
+   "impresiones": 6899
+  },
+  "renders-honduras": {
+   "clics": 21,
+   "impresiones": 558
+  },
+  "renders-cordoba": {
+   "clics": 20,
+   "impresiones": 1792
+  },
+  "renders-bolivia": {
+   "clics": 20,
+   "impresiones": 653
+  },
+  "renders-bogota": {
+   "clics": 19,
+   "impresiones": 1553
+  },
+  "renders-la-plata": {
+   "clics": 19,
+   "impresiones": 389
+  },
+  "infografias": {
+   "clics": 17,
+   "impresiones": 7868
+  },
+  "renders-rosario": {
+   "clics": 17,
+   "impresiones": 600
+  },
+  "renders-brasil": {
+   "clics": 17,
+   "impresiones": 233
+  },
+  "renders-de-parques": {
+   "clics": 16,
+   "impresiones": 1935
+  },
+  "renders-buenos-aires": {
+   "clics": 16,
+   "impresiones": 660
+  },
+  "renders-queretaro": {
+   "clics": 16,
+   "impresiones": 582
+  },
+  "renders-merida": {
+   "clics": 16,
+   "impresiones": 529
+  },
+  "renders-tijuana": {
+   "clics": 16,
+   "impresiones": 487
+  },
+  "renders-nicaragua": {
+   "clics": 16,
+   "impresiones": 370
+  },
+  "renders-guadalajara": {
+   "clics": 15,
+   "impresiones": 2457
+  },
+  "renderista": {
+   "clics": 15,
+   "impresiones": 2330
+  },
+  "renders-banos": {
+   "clics": 14,
+   "impresiones": 4388
+  },
+  "renders-habitaciones": {
+   "clics": 13,
+   "impresiones": 4384
+  },
+  "renders-cancun": {
+   "clics": 13,
+   "impresiones": 273
+  },
+  "renders-oficinas": {
+   "clics": 12,
+   "impresiones": 3153
+  },
+  "renders-veracruz": {
+   "clics": 12,
+   "impresiones": 189
+  },
+  "proyectista": {
+   "clics": 11,
+   "impresiones": 1344
+  },
+  "renders-neuquen": {
+   "clics": 11,
+   "impresiones": 376
+  },
+  "calculista": {
+   "clics": 10,
+   "impresiones": 3166
+  },
+  "renders-cartagena": {
+   "clics": 10,
+   "impresiones": 262
+  },
+  "renders-portugal": {
+   "clics": 10,
+   "impresiones": 251
+  },
+  "renders-freelance": {
+   "clics": 9,
+   "impresiones": 4397
+  },
+  "render-express": {
+   "clics": 9,
+   "impresiones": 1113
+  },
+  "renders-juarez": {
+   "clics": 9,
+   "impresiones": 75
+  },
+  "proyectos-de-arquitectura": {
+   "clics": 8,
+   "impresiones": 27663
+  },
+  "infoarquitectura": {
+   "clics": 8,
+   "impresiones": 2996
+  },
+  "castellon": {
+   "clics": 8,
+   "impresiones": 2453
+  },
+  "renders-valencia": {
+   "clics": 7,
+   "impresiones": 7605
+  },
+  "tipos-de-renders": {
+   "clics": 6,
+   "impresiones": 7457
+  },
+  "modelado-3d": {
+   "clics": 6,
+   "impresiones": 2840
+  },
+  "render-sala": {
+   "clics": 6,
+   "impresiones": 2055
+  },
+  "renders-tenerife": {
+   "clics": 6,
+   "impresiones": 758
+  },
+  "renders-economicos": {
+   "clics": 6,
+   "impresiones": 560
+  },
+  "renders-tucuman": {
+   "clics": 6,
+   "impresiones": 133
+  },
+  "renders-huelva": {
+   "clics": 5,
+   "impresiones": 1801
+  },
+  "estudio-de-arquitectura-avila": {
+   "clics": 5,
+   "impresiones": 1543
+  },
+  "render-antes-y-despues": {
+   "clics": 5,
+   "impresiones": 958
+  },
+  "revistas-de-arquitectura": {
+   "clics": 5,
+   "impresiones": 755
+  },
+  "renders-murcia": {
+   "clics": 5,
+   "impresiones": 703
+  },
+  "renders-baratos": {
+   "clics": 5,
+   "impresiones": 700
+  },
+  "renders-andorra": {
+   "clics": 5,
+   "impresiones": 652
+  },
+  "renders-estados-unidos": {
+   "clics": 5,
+   "impresiones": 366
+  },
+  "renders-girona": {
+   "clics": 5,
+   "impresiones": 183
+  },
+  "renders-pilar": {
+   "clics": 5,
+   "impresiones": 120
+  },
+  "renders-rio-cuarto": {
+   "clics": 5,
+   "impresiones": 90
+  },
+  "renders-parana": {
+   "clics": 5,
+   "impresiones": 73
+  },
+  "renders-santander": {
+   "clics": 5,
+   "impresiones": 53
+  },
+  "renders-interiores": {
+   "clics": 4,
+   "impresiones": 4652
+  },
+  "ibiza": {
+   "clics": 4,
+   "impresiones": 1666
+  },
+  "estudio-de-arquitectura-toledo": {
+   "clics": 4,
+   "impresiones": 1255
+  },
+  "despacho": {
+   "clics": 4,
+   "impresiones": 911
+  },
+  "renders-cantabria": {
+   "clics": 4,
+   "impresiones": 680
+  },
+  "render-360": {
+   "clics": 4,
+   "impresiones": 462
+  },
+  "renders-pamplona": {
+   "clics": 4,
+   "impresiones": 427
+  },
+  "sofa-render": {
+   "clics": 4,
+   "impresiones": 398
+  },
+  "renders-galicia": {
+   "clics": 4,
+   "impresiones": 256
+  },
+  "renders-bahia-blanca": {
+   "clics": 4,
+   "impresiones": 117
+  },
+  "renders-australia": {
+   "clics": 4,
+   "impresiones": 55
+  },
+  "renders-pinto": {
+   "clics": 4,
+   "impresiones": 25
+  },
+  "renders-sevilla": {
+   "clics": 3,
+   "impresiones": 5955
+  },
+  "tipos-de-arquitectura": {
+   "clics": 3,
+   "impresiones": 5393
+  },
+  "renders-madrid": {
+   "clics": 3,
+   "impresiones": 4979
+  },
+  "imagen-de-arquitectura": {
+   "clics": 3,
+   "impresiones": 3590
+  },
+  "renders-bilbao": {
+   "clics": 3,
+   "impresiones": 3411
+  },
+  "renders": {
+   "clics": 3,
+   "impresiones": 2545
+  },
+  "arquitecto-urbano": {
+   "clics": 3,
+   "impresiones": 2037
+  },
+  "renders-zaragoza": {
+   "clics": 3,
+   "impresiones": 1816
+  },
+  "libros-de-arquitectura": {
+   "clics": 3,
+   "impresiones": 928
+  },
+  "maquetas-de-arquitectura": {
+   "clics": 3,
+   "impresiones": 910
+  },
+  "renders-granada": {
+   "clics": 3,
+   "impresiones": 870
+  },
+  "renders-ciudad-real": {
+   "clics": 3,
+   "impresiones": 417
+  },
+  "renders-canarias": {
+   "clics": 3,
+   "impresiones": 414
+  },
+  "home-staging": {
+   "clics": 3,
+   "impresiones": 279
+  },
+  "renders-vigo": {
+   "clics": 3,
+   "impresiones": 258
+  },
+  "renders-pontevedra": {
+   "clics": 3,
+   "impresiones": 167
+  },
+  "renders-la-coruna": {
+   "clics": 3,
+   "impresiones": 152
+  },
+  "renders-salta": {
+   "clics": 3,
+   "impresiones": 131
+  },
+  "renders-valladolid": {
+   "clics": 2,
+   "impresiones": 9020
+  },
+  "renders-arquitectura": {
+   "clics": 2,
+   "impresiones": 5970
+  },
+  "renders-para-inmobiliarias": {
+   "clics": 2,
+   "impresiones": 5482
+  },
+  "programas-de-arquitectura": {
+   "clics": 2,
+   "impresiones": 4409
+  },
+  "empresa-de-renders": {
+   "clics": 2,
+   "impresiones": 3963
+  },
+  "arquitectura-elche": {
+   "clics": 2,
+   "impresiones": 3813
+  },
+  "renders-muebles": {
+   "clics": 2,
+   "impresiones": 3524
+  },
+  "renders-edificios": {
+   "clics": 2,
+   "impresiones": 3151
+  },
+  "renders-almeria": {
+   "clics": 2,
+   "impresiones": 1926
+  },
+  "sagunto": {
+   "clics": 2,
+   "impresiones": 1617
+  },
+  "renders-gandia": {
+   "clics": 2,
+   "impresiones": 618
+  },
+  "renders-elche": {
+   "clics": 2,
+   "impresiones": 560
+  },
+  "planos": {
+   "clics": 2,
+   "impresiones": 506
+  },
+  "renders-castellon": {
+   "clics": 2,
+   "impresiones": 355
+  },
+  "renders-menorca": {
+   "clics": 2,
+   "impresiones": 351
+  },
+  "renders-pais-vasco": {
+   "clics": 2,
+   "impresiones": 275
+  },
+  "renders-asturias": {
+   "clics": 2,
+   "impresiones": 262
+  },
+  "renders-navarra": {
+   "clics": 2,
+   "impresiones": 238
+  },
+  "renders-gipuzkoa": {
+   "clics": 2,
+   "impresiones": 195
+  },
+  "renders-manresa": {
+   "clics": 2,
+   "impresiones": 138
+  },
+  "aparejadores": {
+   "clics": 2,
+   "impresiones": 129
+  },
+  "renders-fuenlabrada": {
+   "clics": 2,
+   "impresiones": 128
+  },
+  "renders-san-juan": {
+   "clics": 2,
+   "impresiones": 106
+  },
+  "renders-benidorm": {
+   "clics": 2,
+   "impresiones": 102
+  },
+  "renders-gijon": {
+   "clics": 2,
+   "impresiones": 95
+  },
+  "renders-sagunto": {
+   "clics": 2,
+   "impresiones": 87
+  },
+  "renders-torrevieja": {
+   "clics": 2,
+   "impresiones": 84
+  },
+  "renders-leon": {
+   "clics": 2,
+   "impresiones": 73
+  },
+  "renders-france": {
+   "clics": 2,
+   "impresiones": 65
+  },
+  "renders-burgos": {
+   "clics": 2,
+   "impresiones": 64
+  },
+  "renders-jerez-de-la-frontera": {
+   "clics": 2,
+   "impresiones": 63
+  },
+  "renders-san-nicolas-de-los-arroyos": {
+   "clics": 2,
+   "impresiones": 59
+  },
+  "renders-badajoz": {
+   "clics": 2,
+   "impresiones": 56
+  },
+  "renders-cuenca": {
+   "clics": 2,
+   "impresiones": 48
+  },
+  "renders-jujuy": {
+   "clics": 2,
+   "impresiones": 33
+  },
+  "renders-san-luis": {
+   "clics": 2,
+   "impresiones": 31
+  },
+  "renders-salamanca": {
+   "clics": 2,
+   "impresiones": 17
+  },
+  "renders-alcoy": {
+   "clics": 2,
+   "impresiones": 6
+  },
+  "renders-marbella": {
+   "clics": 1,
+   "impresiones": 18844
+  },
+  "renders-barcelona": {
+   "clics": 1,
+   "impresiones": 14987
+  },
+  "renders-mallorca": {
+   "clics": 1,
+   "impresiones": 7846
+  },
+  "renders-malaga": {
+   "clics": 1,
+   "impresiones": 5566
+  },
+  "arquitectura-moderna": {
+   "clics": 1,
+   "impresiones": 3779
+  },
+  "gandia": {
+   "clics": 1,
+   "impresiones": 3246
+  },
+  "servicios-de-renders": {
+   "clics": 1,
+   "impresiones": 2826
+  },
+  "renders-alicante": {
+   "clics": 1,
+   "impresiones": 2733
+  },
+  "delineante": {
+   "clics": 1,
+   "impresiones": 2163
+  },
+  "renders-marketing": {
+   "clics": 1,
+   "impresiones": 1657
+  },
+  "renders-albacete": {
+   "clics": 1,
+   "impresiones": 1041
+  },
+  "renders-ibiza": {
+   "clics": 1,
+   "impresiones": 942
+  },
+  "renders-espana": {
+   "clics": 1,
+   "impresiones": 942
+  },
+  "render-salon": {
+   "clics": 1,
+   "impresiones": 815
+  },
+  "pamplona": {
+   "clics": 1,
+   "impresiones": 765
+  },
+  "empresas": {
+   "clics": 1,
+   "impresiones": 740
+  },
+  "renders-lleida": {
+   "clics": 1,
+   "impresiones": 700
+  },
+  "renders-tarragona": {
+   "clics": 1,
+   "impresiones": 572
+  },
+  "contacto": {
+   "clics": 1,
+   "impresiones": 463
+  },
+  "arquitectura-sustentable": {
+   "clics": 1,
+   "impresiones": 333
+  },
+  "renders-toledo": {
+   "clics": 1,
+   "impresiones": 247
+  },
+  "renders-granollers": {
+   "clics": 1,
+   "impresiones": 231
+  },
+  "renders-san-sebastian": {
+   "clics": 1,
+   "impresiones": 187
+  },
+  "renders-terrassa": {
+   "clics": 1,
+   "impresiones": 176
+  },
+  "renders-italia": {
+   "clics": 1,
+   "impresiones": 165
+  },
+  "renders-andalucia": {
+   "clics": 1,
+   "impresiones": 164
+  },
+  "renders-vitoria": {
+   "clics": 1,
+   "impresiones": 163
+  },
+  "plataforma-arquitectura": {
+   "clics": 1,
+   "impresiones": 124
+  },
+  "renders-sant-cugat-del-valles": {
+   "clics": 1,
+   "impresiones": 74
+  },
+  "renders-ushuaia": {
+   "clics": 1,
+   "impresiones": 73
+  },
+  "renders-lorca": {
+   "clics": 1,
+   "impresiones": 68
+  },
+  "renders-paterna": {
+   "clics": 1,
+   "impresiones": 63
+  },
+  "cursos-de-arquitectura": {
+   "clics": 1,
+   "impresiones": 62
+  },
+  "renders-logrono": {
+   "clics": 1,
+   "impresiones": 52
+  },
+  "renders-general-roca": {
+   "clics": 1,
+   "impresiones": 51
+  },
+  "trabajos": {
+   "clics": 1,
+   "impresiones": 41
+  },
+  "renders-baja-california": {
+   "clics": 1,
+   "impresiones": 35
+  },
+  "renders-santiago-de-compostela": {
+   "clics": 1,
+   "impresiones": 30
+  },
+  "renders-santiago-del-estero": {
+   "clics": 1,
+   "impresiones": 30
+  },
+  "renders-castelldefels": {
+   "clics": 1,
+   "impresiones": 30
+  },
+  "renders-vilanova-i-la-geltru": {
+   "clics": 1,
+   "impresiones": 29
+  },
+  "renders-rafaela": {
+   "clics": 1,
+   "impresiones": 28
+  },
+  "realidad-virtual": {
+   "clics": 1,
+   "impresiones": 26
+  },
+  "renders-ourense": {
+   "clics": 1,
+   "impresiones": 25
+  },
+  "renders-mostoles": {
+   "clics": 1,
+   "impresiones": 22
+  },
+  "renders-extremadura": {
+   "clics": 1,
+   "impresiones": 20
+  },
+  "renders-irun": {
+   "clics": 1,
+   "impresiones": 19
+  },
+  "renders-posadas": {
+   "clics": 1,
+   "impresiones": 18
+  },
+  "renders-orihuela": {
+   "clics": 1,
+   "impresiones": 17
+  },
+  "renders-motril": {
+   "clics": 1,
+   "impresiones": 14
+  },
+  "renders-el-ejido": {
+   "clics": 1,
+   "impresiones": 11
+  },
+  "renders-alava": {
+   "clics": 1,
+   "impresiones": 10
+  },
+  "renders-soria": {
+   "clics": 1,
+   "impresiones": 8
+  },
+  "renders-hiperrealistas": {
+   "clics": 0,
+   "impresiones": 3665
+  },
+  "arquitecto-disenador": {
+   "clics": 0,
+   "impresiones": 1454
+  },
+  "tour-virtual": {
+   "clics": 0,
+   "impresiones": 1362
+  },
+  "renders-torremolinos": {
+   "clics": 0,
+   "impresiones": 1197
+  },
+  "arquitectos-famosos": {
+   "clics": 0,
+   "impresiones": 1094
+  },
+  "dibujos-de-arquitectura": {
+   "clics": 0,
+   "impresiones": 996
+  },
+  "renders-bizkaia": {
+   "clics": 0,
+   "impresiones": 963
+  },
+  "renders-cataluna": {
+   "clics": 0,
+   "impresiones": 908
+  },
+  "renders-huesca": {
+   "clics": 0,
+   "impresiones": 890
+  },
+  "renders-estepona": {
+   "clics": 0,
+   "impresiones": 758
+  },
+  "agencia-de-diseno": {
+   "clics": 0,
+   "impresiones": 733
+  },
+  "arquitectos-de-interiores": {
+   "clics": 0,
+   "impresiones": 663
+  },
+  "renders-avila": {
+   "clics": 0,
+   "impresiones": 657
+  },
+  "renders-euskadi": {
+   "clics": 0,
+   "impresiones": 635
+  },
+  "home-staging-valencia": {
+   "clics": 0,
+   "impresiones": 615
+  },
+  "renderizado": {
+   "clics": 0,
+   "impresiones": 550
+  },
+  "servicios-de-arquitectura": {
+   "clics": 0,
+   "impresiones": 550
+  },
+  "renders-hospitalet-de-llobregat": {
+   "clics": 0,
+   "impresiones": 462
+  },
+  "renders-benalmadena": {
+   "clics": 0,
+   "impresiones": 356
+  },
+  "oficina-de-arquitectura": {
+   "clics": 0,
+   "impresiones": 284
+  },
+  "renders-oviedo": {
+   "clics": 0,
+   "impresiones": 283
+  },
+  "paisajista": {
+   "clics": 0,
+   "impresiones": 268
+  },
+  "arquitecto-moderno": {
+   "clics": 0,
+   "impresiones": 218
+  },
+  "interiorista": {
+   "clics": 0,
+   "impresiones": 208
+  },
+  "renders-majadahonda": {
+   "clics": 0,
+   "impresiones": 186
+  },
+  "estudio-de-arquitectura": {
+   "clics": 0,
+   "impresiones": 172
+  },
+  "renders-fuengirola": {
+   "clics": 0,
+   "impresiones": 160
+  },
+  "valencia": {
+   "clics": 0,
+   "impresiones": 140
+  },
+  "renders-leganes": {
+   "clics": 0,
+   "impresiones": 131
+  },
+  "renders-alcobendas": {
+   "clics": 0,
+   "impresiones": 129
+  },
+  "renders-jaen": {
+   "clics": 0,
+   "impresiones": 106
+  },
+  "arquitecto-tecnico": {
+   "clics": 0,
+   "impresiones": 96
+  },
+  "renders-san-cristobal-de-la-laguna": {
+   "clics": 0,
+   "impresiones": 89
+  },
+  "renders-parla": {
+   "clics": 0,
+   "impresiones": 84
+  },
+  "mijas": {
+   "clics": 0,
+   "impresiones": 75
+  },
+  "arquitectos": {
+   "clics": 0,
+   "impresiones": 71
+  },
+  "renders-la-rioja-argentina": {
+   "clics": 0,
+   "impresiones": 71
+  },
+  "renders-reus": {
+   "clics": 0,
+   "impresiones": 67
+  },
+  "renders-la-linea-de-la-concepcion": {
+   "clics": 0,
+   "impresiones": 67
+  },
+  "renders-aviles": {
+   "clics": 0,
+   "impresiones": 64
+  },
+  "renders-mataro": {
+   "clics": 0,
+   "impresiones": 58
+  },
+  "renders-ferrol": {
+   "clics": 0,
+   "impresiones": 56
+  },
+  "renders-ponferrada": {
+   "clics": 0,
+   "impresiones": 53
+  },
+  "renders-badalona": {
+   "clics": 0,
+   "impresiones": 52
+  },
+  "renders-san-vicente-del-raspeig": {
+   "clics": 0,
+   "impresiones": 51
+  },
+  "renders-granadilla-de-abona": {
+   "clics": 0,
+   "impresiones": 49
+  },
+  "renders-elda": {
+   "clics": 0,
+   "impresiones": 48
+  },
+  "renders-caceres": {
+   "clics": 0,
+   "impresiones": 37
+  },
+  "renders-palencia": {
+   "clics": 0,
+   "impresiones": 36
+  },
+  "renders-sabadell": {
+   "clics": 0,
+   "impresiones": 35
+  },
+  "renders-valdemoro": {
+   "clics": 0,
+   "impresiones": 35
+  },
+  "renders-la-rioja": {
+   "clics": 0,
+   "impresiones": 34
+  },
+  "decorador": {
+   "clics": 0,
+   "impresiones": 32
+  },
+  "renders-santa-lucia-de-tirajana": {
+   "clics": 0,
+   "impresiones": 32
+  },
+  "renders-arona": {
+   "clics": 0,
+   "impresiones": 31
+  },
+  "san-sebastian-de-los-reyes": {
+   "clics": 0,
+   "impresiones": 31
+  },
+  "renders-catamarca": {
+   "clics": 0,
+   "impresiones": 29
+  },
+  "renders-segovia": {
+   "clics": 0,
+   "impresiones": 26
+  },
+  "renders-roquetas-de-mar": {
+   "clics": 0,
+   "impresiones": 26
+  },
+  "renders-merlo": {
+   "clics": 0,
+   "impresiones": 25
+  },
+  "renders-algeciras": {
+   "clics": 0,
+   "impresiones": 25
+  },
+  "renders-getafe": {
+   "clics": 0,
+   "impresiones": 25
+  },
+  "renders-corrientes": {
+   "clics": 0,
+   "impresiones": 24
+  },
+  "renders-cadiz": {
+   "clics": 0,
+   "impresiones": 24
+  },
+  "renders-melilla": {
+   "clics": 0,
+   "impresiones": 23
+  },
+  "renders-zamora": {
+   "clics": 0,
+   "impresiones": 22
+  },
+  "renders-lugo": {
+   "clics": 0,
+   "impresiones": 21
+  },
+  "renders-talavera-de-la-reina": {
+   "clics": 0,
+   "impresiones": 21
+  },
+  "renders-coslada": {
+   "clics": 0,
+   "impresiones": 21
+  },
+  "renders-teruel": {
+   "clics": 0,
+   "impresiones": 21
+  },
+  "renders-alcorcon": {
+   "clics": 0,
+   "impresiones": 20
+  },
+  "renders-viladecans": {
+   "clics": 0,
+   "impresiones": 19
+  },
+  "renders-sardanola-del-valles": {
+   "clics": 0,
+   "impresiones": 19
+  },
+  "renders-pozuelo-de-alarcon": {
+   "clics": 0,
+   "impresiones": 18
+  },
+  "renders-molina-de-segura": {
+   "clics": 0,
+   "impresiones": 18
+  },
+  "renders-resistencia": {
+   "clics": 0,
+   "impresiones": 15
+  },
+  "renders-san-fernando": {
+   "clics": 0,
+   "impresiones": 14
+  },
+  "renders-barakaldo": {
+   "clics": 0,
+   "impresiones": 14
+  },
+  "renders-ceuta": {
+   "clics": 0,
+   "impresiones": 13
+  },
+  "renders-formosa": {
+   "clics": 0,
+   "impresiones": 12
+  },
+  "renders-mollet-del-valles": {
+   "clics": 0,
+   "impresiones": 11
+  },
+  "renders-villarreal": {
+   "clics": 0,
+   "impresiones": 10
+  },
+  "renders-arganda-del-rey": {
+   "clics": 0,
+   "impresiones": 10
+  },
+  "renders-alcala-de-henares": {
+   "clics": 0,
+   "impresiones": 8
+  },
+  "renders-san-bartolome-de-tirajana": {
+   "clics": 0,
+   "impresiones": 8
+  },
+  "renders-boadilla-del-monte": {
+   "clics": 0,
+   "impresiones": 7
+  },
+  "render-online": {
+   "clics": 0,
+   "impresiones": 7
+  },
+  "renders-sanlucar-de-barrameda": {
+   "clics": 0,
+   "impresiones": 7
+  },
+  "renders-rubi": {
+   "clics": 0,
+   "impresiones": 7
+  },
+  "renders-torrejon-de-ardoz": {
+   "clics": 0,
+   "impresiones": 7
+  },
+  "renders-concordia": {
+   "clics": 0,
+   "impresiones": 5
+  },
+  "renders-siero": {
+   "clics": 0,
+   "impresiones": 5
+  },
+  "renders-linares": {
+   "clics": 0,
+   "impresiones": 4
+  },
+  "renders-guecho": {
+   "clics": 0,
+   "impresiones": 3
+  },
+  "renders-el-puerto-de-santa-maria": {
+   "clics": 0,
+   "impresiones": 2
+  },
+  "renders-santa-coloma-de-gramanet": {
+   "clics": 0,
+   "impresiones": 2
+  },
+  "renders-torrente": {
+   "clics": 0,
+   "impresiones": 2
+  },
+  "renders-alcala-de-guadaira": {
+   "clics": 0,
+   "impresiones": 1
+  },
+  "renders-aranjuez": {
+   "clics": 0,
+   "impresiones": 1
+  }
+ }
+}
