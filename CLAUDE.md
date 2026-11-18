@@ -28,7 +28,7 @@ Nada inventado. Lo nuevo desde src/data/. `npm run todo` y `todo:visual` a 0.
 Regenerar: `npm run generar`. Agentes: PROHIBIDO escribir ficheros.
 
 ## Estado
-Fase actual: 6 hecha (informes/fase6.md). Fase 5 a falta de la prueba real en Netlify (Yama aún no ha conectado Netlify). Fase 7 preparada sin Netlify: guion del día en informes/lanzamiento.md (registros de OVH, interruptor de site.json, `npm run comprobar:web -- <dirección>`). Análisis SEO/AEO en informes/analisis.md (A hecho) y estudio a fondo en informes/estudio-seo-aeo.md (palabras clave, competencia, AEO, plan por página); B hecho (18-11-2026, 21 páginas, sin «3D» junto a renders); C, D y E esperan a Yama.
+Fase actual: 6 hecha (informes/fase6.md). Fase 5 a falta de la prueba real en Netlify (Yama aún no ha conectado Netlify). Fase 7 preparada sin Netlify: guion del día en informes/lanzamiento.md (registros de OVH, interruptor de site.json, `npm run comprobar:web -- <dirección>`). Análisis SEO/AEO en informes/analisis.md (A hecho) y estudio a fondo en informes/estudio-seo-aeo.md (palabras clave, competencia, AEO, plan por página) y de enlaces internos en informes/estudio-interlinking.md; B hecho (18-11-2026, 21 páginas, sin «3D» junto a renders); C, D y E esperan a Yama.
 Cambios aprobados por Yama: src/data/cambios-aprobados.json (se aplican al regenerar).
 Regenerar: `npm run generar` y `npm run todo`. Fallos del original: src/data/fallos-original.json.
 Pendiente de Yama: decidir C, D y E del análisis, teléfono o WhatsApp si los quiere en la web, palabras prohibidas, conectar Netlify.
