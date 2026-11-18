@@ -1,12 +1,12 @@
 # Propuesta B: títulos y descripciones (18-11-2026, sin aplicar)
 
-Segunda versión, hecha con los títulos de las webs que salen arriba en Google y con lo que la gente añade al buscar (Search Console). Pendiente del sí de Yama.
+Segunda versión, hecha con los títulos de las webs que salen arriba en Google y con lo que la gente añade al buscar (Search Console). Sin «3D» junto a renders (lo pidió Yama). Pendiente del sí de Yama.
 
 ## /
 - Título ahora: DE Arquitectura - Arquitectura y Diseño - Arquitectura - DEARQUITECTURA.INFO
-- **Título propuesto:** DE Arquitectura: estudio de arquitectura y renders 3D
+- **Título propuesto:** DE Arquitectura: estudio de arquitectura y renders
 - Descripción ahora: De arquitectura, arquitectos, Estudio de arquitectura, noticias, arte y decoración, construcción, plataforma, proyectos y diseño
-- **Descripción propuesta:** Estudio de arquitectura e interiorismo: renders 3D, planos, modelado y proyectos. Y todo sobre estilos de arquitectura, de la inca a la moderna.
+- **Descripción propuesta:** Estudio de arquitectura e interiorismo: renders, planos, modelado 3D y proyectos. Y todo sobre estilos de arquitectura, de la inca a la moderna.
 - Por qué: La marca primero. «De arquitectura» y «dearquitectura» también se buscan (posición 18). Resume el negocio y la parte informativa.
 
 ## /arquitectura-incaica/
@@ -116,35 +116,35 @@ Segunda versión, hecha con los títulos de las webs que salen arriba en Google 
 
 ## /render-casa/
 - Título ahora: Render Casa 3D - Render de casa - renders viviendas - Renders casas
-- **Título propuesto:** Renders de casas 3D: modernas, exteriores e interiores
+- **Título propuesto:** Renders de casas: modernas, exteriores e interiores
 - Descripción ahora: render casa 3D, Render de casa, Renderizado de casas, Diseño de renders de casas renders de Viviendas, Renderistas, renders casas
-- **Descripción propuesta:** Mira tu casa terminada antes de construirla: renders 3D de casas modernas, fachada, piscina, interiores y exteriores. Pide presupuesto.
+- **Descripción propuesta:** Mira tu casa terminada antes de construirla: renders de casas modernas, fachada, piscina, interiores y exteriores. Pide presupuesto.
 - Por qué: Con «render de casas» sales en el puesto 4 y con «renders de casas» en el 10; el 8 % añade «modernas». Arriba están Fiverr, Habitissimo y Maverick Frame.
 
 ## /renders-de-cocinas/
 - Título ahora: Renders de Cocinas - Render cocina - renders Cocinas - Renders
-- **Título propuesto:** Renders de cocinas 3D: cocinas modernas antes de reformar
+- **Título propuesto:** Renders de cocinas modernas: diseña antes de reformar
 - Descripción ahora: Renders de Cocinas 3D, Renders, renderista de cocinas, precio render cocina, estudio de render, ¿Qué es un renders? render de cocina
-- **Descripción propuesta:** Elige tu cocina con la imagen final delante: renders 3D de cocinas modernas, con su distribución, muebles e iluminación. Pide presupuesto.
+- **Descripción propuesta:** Elige tu cocina con la imagen final delante: renders de cocinas modernas, con su distribución, muebles e iluminación. Pide presupuesto.
 - Por qué: Con «render de cocinas modernas» ya sales en el puesto 2, y el 14 % busca «modernas». Maverick Frame y Cedreo ganan explicando para qué sirve un render de cocina.
 
 ## /renders-guatemala/
 - Título ahora: Renders Guatemala - Render Guatemala - Renders - Render 3D
-- **Título propuesto:** Renders 3D en Guatemala: arquitectura, casas e interiores
+- **Título propuesto:** Renders en Guatemala: arquitectura, casas e interiores
 - Descripción ahora: Renders Guatemala, Renders De arquitectura, renderista Guatemala, plataforma, estudio de render, ¿Qué es un renders? render Guatemala
-- **Descripción propuesta:** Renders 3D de arquitectura para proyectos en Guatemala: casas, interiores, edificios y locales comerciales, con calidad fotorrealista. Pide presupuesto.
+- **Descripción propuesta:** Renders de arquitectura para proyectos en Guatemala: casas, interiores, edificios y locales comerciales, con calidad fotorrealista. Pide presupuesto.
 - Por qué: Sales en el puesto 13. Arriba solo hay perfiles de Fiverr y concursos, ningún estudio fuerte: es una oportunidad.
 
 ## /renders-paraguay/
 - Título ahora: Renders Paraguay - Render Paraguay - Renders en Paraguay - Render
-- **Título propuesto:** Renders 3D en Paraguay: arquitectura, casas e interiores
+- **Título propuesto:** Renders en Paraguay: arquitectura, casas e interiores
 - Descripción ahora: Renders Paraguay, Renders De arquitectura, renderista Paraguay, plataforma de Render, estudio de render, ¿Qué es un renders? render Paraguay
-- **Descripción propuesta:** Renders 3D de arquitectura para proyectos en Paraguay: casas, interiores, edificios y locales comerciales, con calidad fotorrealista. Pide presupuesto.
+- **Descripción propuesta:** Renders de arquitectura para proyectos en Paraguay: casas, interiores, edificios y locales comerciales, con calidad fotorrealista. Pide presupuesto.
 - Por qué: Sales en el puesto 7 (82 clics). Mismo planteamiento que Guatemala.
 
 ## /renders-uruguay/
 - Título ahora: Renders Uruguay - Render Uruguay - Renders en Uruguay- Renders
-- **Título propuesto:** Renders 3D en Uruguay: arquitectura, casas e interiores
+- **Título propuesto:** Renders en Uruguay: arquitectura, casas e interiores
 - Descripción ahora: Renders Uruguay, Renders De arquitectura, renderista Uruguay, plataforma de Render, estudio de render, ¿Qué es un renders? render Uruguay
-- **Descripción propuesta:** Renders 3D de arquitectura para proyectos en Uruguay: casas, interiores, edificios y locales comerciales, con calidad fotorrealista. Pide presupuesto.
+- **Descripción propuesta:** Renders de arquitectura para proyectos en Uruguay: casas, interiores, edificios y locales comerciales, con calidad fotorrealista. Pide presupuesto.
 - Por qué: Sales en el puesto 8 (76 clics). Mismo planteamiento que Guatemala.
