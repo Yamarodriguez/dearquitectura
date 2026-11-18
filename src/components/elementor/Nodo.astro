@@ -20,7 +20,8 @@ if (n.t === 'c' && n.cls.includes('e-child') && tarjetas.paginas.includes(pagina
   const ws = n.hijos.filter((h: any) => h.t === 'w');
   const img = ws.find((w: any) => w.wt === 'image' && w.b !== undefined);
   const tit = ws.find((w: any) => w.wt === 'heading' && w.b !== undefined);
-  if (img && tit && !ws.some((w: any) => w.wt === 'text-editor' || w.wt === 'button')) {
+  // El título principal de la página (H1) nunca va en tarjeta: es la portada de la página
+  if (img && tit && tit.tag !== 'h1' && !ws.some((w: any) => w.wt === 'text-editor' || w.wt === 'button')) {
     const titulo = (blocks[tit.b].text || '').replace(/<[^>]+>/g, '').trim();
     // El enlace puede ir en la foto o en el título; si no lleva, se busca por el título
     const conEnlace = [img, tit].find((w: any) => w && blocks[w.b]?.href);
