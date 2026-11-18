@@ -1,6 +1,6 @@
-# Propuesta B: títulos y descripciones (18-11-2026, sin aplicar)
+# Parte B: títulos y descripciones (aplicada el 18-11-2026)
 
-Segunda versión, hecha con los títulos de las webs que salen arriba en Google y con lo que la gente añade al buscar (Search Console). Sin «3D» junto a renders (lo pidió Yama). Pendiente del sí de Yama.
+Segunda versión, hecha con los títulos de las webs que salen arriba en Google y con lo que la gente añade al buscar (Search Console). Sin «3D» junto a renders (lo pidió Yama). Yama la aprobó («Sí, aplícalos»). Los valores están en `src/data/seo-aprobado.json`.
 
 ## /
 - Título ahora: DE Arquitectura - Arquitectura y Diseño - Arquitectura - DEARQUITECTURA.INFO

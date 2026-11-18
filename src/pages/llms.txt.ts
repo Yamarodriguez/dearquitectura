@@ -4,6 +4,7 @@
 import type { APIRoute } from 'astro';
 import site from '../data/site.json';
 import seo from '../data/seo.json';
+import aprobado from '../data/seo-aprobado.json';
 
 const D = `https://${site.dominio}`;
 const S = seo as Record<string, { titulo?: string; descripcion?: string }>;
@@ -12,7 +13,7 @@ export const GET: APIRoute = () => {
   const paginas = Object.values(import.meta.glob('../content/pages/*.json', { eager: true })).map((m: any) => m.default).filter((p: any) => !p.legal);
   const linea = (p: any) => {
     const h1 = p.blocks.find((b: any) => b.type === 'heading' && b.tag === 'h1')?.text || p.title;
-    const d = S[p.slug]?.descripcion;
+    const d = (aprobado.paginas as Record<string, { descripcion: string }>)[p.slug]?.descripcion ?? S[p.slug]?.descripcion;
     return `- [${h1.replace(/\s+/g, ' ').trim()}](${p.url})${d ? `: ${d}` : ''}`;
   };
   const grupos: [string, (s: string) => boolean][] = [

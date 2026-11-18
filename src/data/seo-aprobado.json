@@ -1,0 +1,89 @@
+{
+  "_nota": "Títulos y descripciones nuevos aprobados por Yama el 18-11-2026 («Sí, aplícalos»), parte B del análisis (informes/propuesta-b.md, con el porqué de cada uno). Sustituyen a los de la web vieja (src/data/seo.json) en el <title>, la descripción y al compartir en redes. Sin «3D» junto a renders (pedido por Yama).",
+  "paginas": {
+    "index": {
+      "titulo": "DE Arquitectura: estudio de arquitectura y renders",
+      "descripcion": "Estudio de arquitectura e interiorismo: renders, planos, modelado 3D y proyectos. Y todo sobre estilos de arquitectura, de la inca a la moderna."
+    },
+    "arquitectura-incaica": {
+      "titulo": "Arquitectura de los incas: características y construcciones",
+      "descripcion": "La arquitectura inca en resumen: muros de piedra encajada sin mortero, terrazas y caminos. Sus características y construcciones, de Cusco a Machu Picchu."
+    },
+    "arquitectura-maya": {
+      "titulo": "Arquitectura maya: características y construcciones",
+      "descripcion": "Pirámides escalonadas, templos y las principales construcciones de los mayas, como Chichén Itzá, Tikal o Palenque. Resumen y ejemplos."
+    },
+    "arquitectura-bizantina": {
+      "titulo": "Arquitectura bizantina: características, obras y ejemplos",
+      "descripcion": "Cúpulas sobre pechinas, cruz griega y mosaicos dorados: la arquitectura y el arte bizantino del Imperio, de Santa Sofía a Rávena, con ejemplos."
+    },
+    "arquitectura-urbana": {
+      "titulo": "Arquitectura urbana: qué es, características y ejemplos",
+      "descripcion": "Qué es la arquitectura urbana, en qué se diferencia del urbanismo y qué hace que una ciudad funcione: calles, plazas, parques y edificios."
+    },
+    "arquitectura-griega": {
+      "titulo": "Arquitectura griega: elementos, órdenes y ejemplos",
+      "descripcion": "Los órdenes dórico, jónico y corintio y los elementos de la arquitectura griega: columnas, templos y teatros, con ejemplos como el Partenón."
+    },
+    "arquitectura-romana": {
+      "titulo": "Arquitectura romana: características y obras del Imperio",
+      "descripcion": "Arco, bóveda y hormigón: la arquitectura y el arte del Imperio romano, sus características y obras como el Coliseo, el Panteón o los acueductos."
+    },
+    "arquitectura-industrial": {
+      "titulo": "Arquitectura industrial: características, ejemplos y estilo",
+      "descripcion": "De las fábricas del siglo XIX a los edificios de hoy: acero, ladrillo y grandes ventanales. Características y ejemplos del estilo industrial."
+    },
+    "arquitectura-mediterranea": {
+      "titulo": "Arquitectura mediterránea: características y casas modernas",
+      "descripcion": "Muros blancos, teja, arcos y patios pensados para el sol: los rasgos de la arquitectura mediterránea y cómo son las casas modernas y contemporáneas."
+    },
+    "arquitectura-barroca": {
+      "titulo": "Arquitectura barroca: características, obras y arquitectos",
+      "descripcion": "Curvas, fachadas teatrales y mucha decoración: las características de la arquitectura barroca, sus edificios en Europa y Latinoamérica y sus arquitectos."
+    },
+    "arquitectura-neoclasica": {
+      "titulo": "Arquitectura neoclásica: características y edificios",
+      "descripcion": "La vuelta a las columnas, los frontones y la simetría de Grecia y Roma (siglos XVIII y XIX): características y edificios neoclásicos de Europa y América."
+    },
+    "arquitectura-moderna": {
+      "titulo": "Arquitectura moderna: características, arquitectos y obras",
+      "descripcion": "Función, líneas rectas, hormigón, acero y vidrio: las características de la arquitectura moderna del siglo XX, sus arquitectos y sus obras clave."
+    },
+    "arquitectura-bioclimatica": {
+      "titulo": "Arquitectura bioclimática: qué es y edificios bioclimáticos",
+      "descripcion": "Diseñar con el clima: orientación, sol, sombra y ventilación natural para gastar menos energía. Qué es la arquitectura bioclimática y edificios de ejemplo."
+    },
+    "arquitectura-sustentable": {
+      "titulo": "Arquitectura sustentable: qué es, claves y ejemplos",
+      "descripcion": "Arquitectura sustentable o sostenible: edificios que reducen su impacto ambiental con buenos materiales, eficiencia energética y energías renovables."
+    },
+    "portafolios-arquitectura": {
+      "titulo": "Portafolio de arquitectura: qué es, qué incluir y ejemplos",
+      "descripcion": "Qué es un portafolio de arquitectura, qué debe incluir y cómo presentar tus proyectos en formato impreso u online para que destaque."
+    },
+    "proyectos-de-arquitectura": {
+      "titulo": "Proyectos de arquitectura: ideas y ejemplos para inspirarte",
+      "descripcion": "Ideas y ejemplos de proyectos de arquitectura, de viviendas a obras emblemáticas, y cómo se desarrolla un proyecto hasta su ejecución."
+    },
+    "render-casa": {
+      "titulo": "Renders de casas: modernas, exteriores e interiores",
+      "descripcion": "Mira tu casa terminada antes de construirla: renders de casas modernas, fachada, piscina, interiores y exteriores. Pide presupuesto."
+    },
+    "renders-de-cocinas": {
+      "titulo": "Renders de cocinas modernas: diseña antes de reformar",
+      "descripcion": "Elige tu cocina con la imagen final delante: renders de cocinas modernas, con su distribución, muebles e iluminación. Pide presupuesto."
+    },
+    "renders-guatemala": {
+      "titulo": "Renders en Guatemala: arquitectura, casas e interiores",
+      "descripcion": "Renders de arquitectura para proyectos en Guatemala: casas, interiores, edificios y locales comerciales, con calidad fotorrealista. Pide presupuesto."
+    },
+    "renders-paraguay": {
+      "titulo": "Renders en Paraguay: arquitectura, casas e interiores",
+      "descripcion": "Renders de arquitectura para proyectos en Paraguay: casas, interiores, edificios y locales comerciales, con calidad fotorrealista. Pide presupuesto."
+    },
+    "renders-uruguay": {
+      "titulo": "Renders en Uruguay: arquitectura, casas e interiores",
+      "descripcion": "Renders de arquitectura para proyectos en Uruguay: casas, interiores, edificios y locales comerciales, con calidad fotorrealista. Pide presupuesto."
+    }
+  }
+}

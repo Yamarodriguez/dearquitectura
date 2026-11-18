@@ -1,4 +1,5 @@
 // SEO: título y descripción de cada página nueva iguales a los de la web viva
+// (o a los nuevos aprobados en src/data/seo-aprobado.json)
 // (src/data/seo.json, sacado de referencia/; para las 17 con error 500, los de
 // Yoast), etiquetas para compartir presentes y todas las URL en sitemap.xml.
 import fs from 'node:fs';
@@ -12,6 +13,8 @@ const titulo = (h) => decode((h.match(/<title>([^<]*)<\/title>/i) || [])[1]);
 const descripcion = (h) => decode((h.match(/<meta name="description" content="([^"]*)"/i) || [])[1]);
 
 const seo = JSON.parse(fs.readFileSync('src/data/seo.json', 'utf8'));
+// Títulos y descripciones nuevos aprobados por Yama (parte B, 18-11-2026): se comparan con esos
+const aprobado = JSON.parse(fs.readFileSync('src/data/seo-aprobado.json', 'utf8')).paginas;
 const paginas = fs.readdirSync('src/content/pages').map((f) => JSON.parse(fs.readFileSync(path.join('src/content/pages', f), 'utf8')));
 const dif = [];
 let comparadas = 0;
@@ -19,7 +22,7 @@ for (const p of paginas) {
   const ruta = new URL(p.url).pathname.replace(/^\/|\/$/g, '');
   const nueva = path.join('dist', ruta, 'index.html');
   if (!fs.existsSync(nueva)) { dif.push(`${p.url}: falta en dist`); continue; }
-  const s = seo[p.slug];
+  const s = aprobado[p.slug] ? { ...seo[p.slug], ...aprobado[p.slug] } : seo[p.slug];
   if (!s) { dif.push(`${p.url}: sin datos en seo.json`); continue; }
   comparadas++;
   const b = fs.readFileSync(nueva, 'utf8');
