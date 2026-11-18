@@ -435,3 +435,18 @@ a.elementor-button:hover { background: var(--tinta); color: #fff; }
 
 /* Tarjetas sin enlace (estilos que aún no tienen página propia): sin flecha */
 .e-con.con-texto:not(:has(a)) > .elementor-widget-heading .elementor-widget-container::after { display: none; }
+
+/* ---------- Portada de cada página (primera sección): foto y texto equilibrados ----------
+   (Yama, 18-11-2026: «encuadra bien la foto con el texto que quede bonito») */
+.elementor > .e-con:first-child :is(.e-con-inner, .e-con) > .e-con.e-child { align-self: center; }
+.elementor > .e-con:first-child .elementor-widget-image img {
+  width: auto; max-width: 100%; max-height: min(460px, 60vh); object-fit: contain;
+  border-radius: 6px; box-shadow: 0 2px 6px rgba(21, 24, 28, .06), 0 18px 40px rgba(21, 24, 28, .12);
+}
+.elementor > .e-con:first-child .elementor-widget-heading + .elementor-widget-image { margin-top: 4px; }
+@media (min-width: 768px) {
+  .elementor > .e-con:first-child :is(.e-con-inner, .e-con-full) { --column-gap: 56px; }
+}
+@media (max-width: 767px) {
+  .elementor > .e-con:first-child .elementor-widget-image img { max-height: 300px; }
+}
