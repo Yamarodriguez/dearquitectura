@@ -18,8 +18,6 @@
       "/renders-baños/": "/renders-banos/",
       "/renders-ba%C3%B1os/": "/renders-banos/",
       "/renders-bahai-blanca/": "/renders-bahia-blanca/",
-      "/render-logo/": "/tipos-de-renders/",
-      "/video-render/": "/tipos-de-renders/",
       "/proyecto-render/": "/servicios-de-renders/",
       "/render-studio/": "/empresa-de-renders/",
       "/render-profesionales/": "/renderista/",
@@ -27,7 +25,8 @@
     },
     "nota_17_11_2026": "Los 24 destinos rotos añadidos el 17-11-2026 (tarjetas y textos copiados del original que llevaban a páginas que nunca existieron, en hasta 540 páginas). Encontrados al revisar las tarjetas que pidió Yama; mismo criterio que los botones rotos aprobados el 14-11 («haz lo que recomiendas»): la página existente más parecida. Los 5 estilos sin página (gótica, renacentista, egipcia, azteca, brutalista) van a Tipos de arquitectura hasta que haya artículo propio.",
     "nota_19_11_2026": "Desde el 19-11-2026 existen las páginas de arquitectura gótica, renacentista, egipcia, azteca y brutalista (src/data/nuevas): se quitan sus desvíos a Tipos de arquitectura.",
-    "nota_19_11_2026_renders": "Desde el 19-11-2026 existen las páginas de renders exteriores, de fachadas, de locales comerciales, de producto, nocturnos y de cafeterías (src/data/nuevas): se quitan sus desvíos."
+    "nota_19_11_2026_renders": "Desde el 19-11-2026 existen las páginas de renders exteriores, de fachadas, de locales comerciales, de producto, nocturnos y de cafeterías (src/data/nuevas): se quitan sus desvíos.",
+    "nota_19_11_2026_video": "Desde el 19-11-2026 existen vídeo render y render de logos (Yama confirmó que ofrece los dos): se quitan sus desvíos."
   },
   "botones_sin_destino": {
     "descripcion": "Botones sin enlace («#») → por su texto: «Haz clic aquí» a /contacto/; los de la fila de botones, al mismo destino que tienen en el resto de la web.",

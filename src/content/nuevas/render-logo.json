@@ -1,0 +1,494 @@
+{
+ "slug": "render-logo",
+ "id": "nueva",
+ "title": "Render de Logos",
+ "titulo_seo": "Render de logos: tu marca con volumen y materiales",
+ "url": "https://dearquitectura.info/render-logo/",
+ "nueva": true,
+ "meta_description": "Qué es un render de logo y para qué sirve: tu marca con volumen, materiales y luz para webs, presentaciones, rótulos y fachadas. Pide presupuesto.",
+ "palabra_clave": "render logo",
+ "menu": "renders",
+ "logo": "",
+ "foto_destacada": "/img/2024/01/render-logos.jpg",
+ "fecha": "2026-11-19 19:00:00",
+ "modificada": "2026-11-19 19:00:00",
+ "fecha_gmt": "2026-11-19 19:00:00",
+ "modificada_gmt": "2026-11-19 19:00:00",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-logos.jpg",
+   "alt": "Render de varios logotipos de empresas",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "Render de Logos"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Tu marca con volumen, materiales y luz"
+  },
+  {
+   "type": "text",
+   "html": "<p>Un <strong>render de logo</strong> convierte una <strong>marca</strong> plana en un objeto con volumen: letras de metal, madera, cristal o luz, colocadas en una fachada, una pared o un fondo, con sombras y reflejos reales.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen"
+  },
+  {
+   "type": "text",
+   "html": "<p>El <strong>render de logos</strong> crea imágenes fotorrealistas de una marca en tres dimensiones. Sirve para presentar una identidad corporativa, ver cómo quedará un <strong>rótulo</strong> en la fachada o en la recepción antes de fabricarlo y preparar imágenes de marca para la <strong>web</strong>, las redes y las presentaciones.</p>"
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Qué es</th><td>Imagen fotorrealista de una marca o logotipo en tres dimensiones</td></tr><tr><th scope=\"row\">Acabados</th><td>Metal, madera, metacrilato, cristal, luz o piedra</td></tr><tr><th scope=\"row\">Dónde se ve</th><td>Fachadas, rótulos, recepciones, stands, fondos y presentaciones</td></tr><tr><th scope=\"row\">Para qué sirve</th><td>Presentar la marca y ver un rótulo antes de fabricarlo</td></tr><tr><th scope=\"row\">Qué hace falta</th><td>El logo en un archivo vectorial (AI, SVG o PDF) y los acabados deseados</td></tr></tbody></table>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Qué es un render de logo?"
+  },
+  {
+   "type": "text",
+   "html": "<p>A partir del dibujo vectorial del logotipo se crea un <a href=\"/modelado-3d/\">modelo 3D</a> con grosor y relieve. Después se le aplica el material elegido y se coloca en una escena: sobre un fondo neutro, en la fachada de un <a href=\"/renders-locales-comerciales/\">local comercial</a> o en la pared de una oficina. La iluminación hace el resto: brillos en el metal, transparencia en el cristal o el resplandor de un rótulo luminoso.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Para qué sirve?"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Presentar una marca"
+  },
+  {
+   "type": "text",
+   "html": "<p>Una imagen del logo con volumen y buenos materiales da más presencia a una identidad corporativa en la web o en una presentación.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Probar un rótulo antes de fabricarlo"
+  },
+  {
+   "type": "text",
+   "html": "<p>Se ve cómo quedará el rótulo en la fachada o en la recepción, con su tamaño real y su iluminación, antes de encargarlo.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Ferias y espacios de marca"
+  },
+  {
+   "type": "text",
+   "html": "<p>En stands, oficinas y tiendas, el logo forma parte del espacio; el render permite verlo dentro del conjunto (ver <a href=\"/renders-oficinas/\">renders de oficinas</a>).</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Qué incluye?"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><strong>Modelo 3D</strong> del logotipo a partir de su archivo.</li><li><strong>Material</strong>: metal, madera, metacrilato, cristal, luz o piedra.</li><li><strong>Escena</strong>: fondo neutro, fachada, recepción o stand.</li><li><strong>Iluminación</strong>, incluido el efecto de rótulo luminoso si se pide.</li><li><strong>Versiones</strong> con distintos acabados para comparar.</li></ul>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Cómo se hace?"
+  },
+  {
+   "type": "text",
+   "html": "<ol><li><strong>Archivo del logo</strong> en vectorial (AI, SVG o PDF) y la idea de acabados.</li><li><strong>Modelado 3D</strong> del logotipo.</li><li><strong>Materiales, escena e iluminación</strong>.</li><li><strong>Render</strong> de las vistas y versiones.</li><li><strong>Revisión</strong> y ajustes antes de la entrega.</li></ol>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes"
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Qué es un render de logo?",
+     "html": "<p>Una imagen fotorrealista de una marca en tres dimensiones, con volumen, material y luz, sobre un fondo o colocada en una fachada, una pared o un stand.</p>"
+    },
+    {
+     "title": "¿Qué archivo necesito?",
+     "html": "<p>Lo mejor es el logo en formato vectorial (AI, SVG o PDF). Con una imagen en alta resolución también se puede trabajar, redibujándolo antes.</p>"
+    },
+    {
+     "title": "¿Sirve para ver un rótulo antes de fabricarlo?",
+     "html": "<p>Sí. Se puede colocar el logo en una foto o un render de la fachada o de la recepción, con su tamaño y su iluminación, para decidir antes de encargarlo.</p>"
+    },
+    {
+     "title": "¿Qué materiales se pueden simular?",
+     "html": "<p>Metal (acero, latón, aluminio), madera, metacrilato, cristal, piedra y rótulos luminosos, entre otros.</p>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Quieres ver tu marca en 3D?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Mándanos tu logo y dónde te gustaría verlo, y te preparamos un presupuesto.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  }
+ ],
+ "elementor": [
+  {
+   "t": "c",
+   "id": "929caa3",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "faad325",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "61fdee0",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 0
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "20980d7",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "c78b87a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h1",
+       "size": "default",
+       "b": 1
+      },
+      {
+       "t": "w",
+       "id": "5a3673a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 2
+      },
+      {
+       "t": "w",
+       "id": "d5899fd",
+       "wt": "divider",
+       "cls": "elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "2d362bc",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 3
+      },
+      {
+       "t": "w",
+       "id": "2955f87",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "9fb06ea",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-resumen",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "be40ac3",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "01e9122",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 5
+      },
+      {
+       "t": "w",
+       "id": "72b864c",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 6
+      },
+      {
+       "t": "w",
+       "id": "84c6888",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "2ad111f",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "0356f00",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "216fb94",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 8
+      },
+      {
+       "t": "w",
+       "id": "2f721df",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "7007a32",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "7f2f28c",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "81844f6",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 10
+      },
+      {
+       "t": "w",
+       "id": "3891ff2",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 11
+      },
+      {
+       "t": "w",
+       "id": "e068702",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 12
+      },
+      {
+       "t": "w",
+       "id": "15ae3f1",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 13
+      },
+      {
+       "t": "w",
+       "id": "5352860",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 14
+      },
+      {
+       "t": "w",
+       "id": "df8ba91",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 15
+      },
+      {
+       "t": "w",
+       "id": "5ebbeb6",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 16
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "4fd74fe",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "e9b697a",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "62f5547",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 17
+      },
+      {
+       "t": "w",
+       "id": "93ea4b5",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 18
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "4a7be5f",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "431488b",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "7e95551",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 19
+      },
+      {
+       "t": "w",
+       "id": "1abf90d",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "2c74087",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "20e417d",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "4425230",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 21
+      },
+      {
+       "t": "w",
+       "id": "2726979",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 22
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "d1abcb2",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-cierre",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "f5a5b12",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "8d07596",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 23
+      },
+      {
+       "t": "w",
+       "id": "9187d14",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 24
+      },
+      {
+       "t": "w",
+       "id": "3972eb7",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 25
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -520,10 +520,8 @@
    "type": "button",
    "text": "Video render",
    "size": "sm",
-   "href": "/tipos-de-renders/",
-   "s": 22,
-   "href_original": "/video-render/",
-   "cambio": "enlace_roto"
+   "href": "/video-render/",
+   "s": 22
   },
   {
    "type": "image",
@@ -531,10 +529,8 @@
    "alt": "Video-renders",
    "size": "large",
    "wpid": 2776,
-   "href": "/tipos-de-renders/",
-   "s": 22,
-   "href_original": "/video-render/",
-   "cambio": "enlace_roto"
+   "href": "/video-render/",
+   "s": 22
   },
   {
    "type": "heading",

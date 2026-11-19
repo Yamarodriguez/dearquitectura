@@ -1,0 +1,534 @@
+{
+ "slug": "video-render",
+ "id": "nueva",
+ "title": "Vídeo Render",
+ "titulo_seo": "Vídeo render: animaciones y recorridos de arquitectura",
+ "url": "https://dearquitectura.info/video-render/",
+ "nueva": true,
+ "meta_description": "Qué es un vídeo render y para qué sirve: animaciones y recorridos virtuales de casas, edificios e interiores antes de construir. Pide presupuesto.",
+ "palabra_clave": "video render",
+ "menu": "renders",
+ "logo": "",
+ "foto_destacada": "/img/2024/01/Video-renders.jpg",
+ "fecha": "2026-11-19 19:00:00",
+ "modificada": "2026-11-19 19:00:00",
+ "fecha_gmt": "2026-11-19 19:00:00",
+ "modificada_gmt": "2026-11-19 19:00:00",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/img/2024/01/Video-renders.jpg",
+   "alt": "Vídeo render de una casa moderna",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "Vídeo Render"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Animaciones y recorridos de tu proyecto"
+  },
+  {
+   "type": "text",
+   "html": "<p>Un <strong>vídeo render</strong> es una <strong>animación</strong> hecha por ordenador que recorre un proyecto como si se grabara con una cámara: se rodea la casa, se entra por la puerta y se pasea por sus <strong>interiores</strong>, todo antes de construir.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen"
+  },
+  {
+   "type": "text",
+   "html": "<p>El <strong>vídeo render</strong>, o <strong>animación arquitectónica</strong>, es una secuencia de imágenes fotorrealistas que muestra un proyecto en movimiento. Sirve para que se entienda de un vistazo cómo es un edificio y cómo se vive por dentro, y es muy útil para <strong>vender sobre plano</strong>, presentar concursos y publicar en <strong>redes sociales</strong>.</p>"
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Qué es</th><td>Animación fotorrealista de un proyecto, hecha por ordenador</td></tr><tr><th scope=\"row\">Tipos</th><td>Recorrido interior, vuelta al edificio, vista aérea y antes y después</td></tr><tr><th scope=\"row\">Para qué sirve</th><td>Presentar y vender proyectos, concursos, redes sociales y webs</td></tr><tr><th scope=\"row\">Para quién</th><td>Promotoras, inmobiliarias, arquitectos, constructoras y particulares</td></tr><tr><th scope=\"row\">Qué hace falta</th><td>Planos o un modelo 3D, y la idea de los recorridos que se quieren</td></tr></tbody></table>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Qué es un vídeo render?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Es el paso siguiente a un <a href=\"/renders/\">render</a> fijo. A partir del mismo <a href=\"/modelado-3d/\">modelo 3D</a> se define un recorrido de cámara y el ordenador calcula cada uno de los fotogramas, que luego se montan como un vídeo. Así se ven la luz, los materiales y los espacios uno detrás de otro, como en una visita real.</p><p>Si lo que se busca es que la persona elija por dónde moverse, la opción es un <a href=\"/tour-virtual/\">tour virtual 3D</a> o la <a href=\"/realidad-virtual/\">realidad virtual</a>.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Para qué sirve?"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Entender el proyecto de un vistazo"
+  },
+  {
+   "type": "text",
+   "html": "<p>Un vídeo de un minuto explica la distribución y el tamaño de los espacios mejor que muchos planos e imágenes sueltas.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Vender sobre plano"
+  },
+  {
+   "type": "text",
+   "html": "<p>Las promotoras e <a href=\"/renders-para-inmobiliarias/\">inmobiliarias</a> los usan en la web, en la oficina de ventas y en los portales para mostrar viviendas que aún no existen.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Redes sociales y publicidad"
+  },
+  {
+   "type": "text",
+   "html": "<p>El vídeo es el formato que mejor funciona en redes; un recorrido corto sirve para anunciar un proyecto o una promoción (ver <a href=\"/renders-marketing/\">renders para marketing</a>).</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Tipos de animación"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><strong>Recorrido interior</strong>: la cámara entra y pasea por las estancias.</li><li><strong>Vuelta al edificio</strong>: un giro alrededor del exterior para ver todas sus fachadas.</li><li><strong>Vista aérea</strong>: un vuelo sobre la parcela o la promoción y su entorno.</li><li><strong>Antes y después</strong>: el espacio actual y cómo queda tras la reforma (ver <a href=\"/render-antes-y-despues/\">render antes y después</a>).</li><li><strong>Día y noche</strong>: el paso de la luz del día a la iluminación nocturna (ver <a href=\"/renders-nocturnos/\">renders nocturnos</a>).</li></ul>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Cómo se hace?"
+  },
+  {
+   "type": "text",
+   "html": "<ol><li><strong>Planos y referencias</strong> del proyecto, y la idea de lo que se quiere mostrar.</li><li><strong>Modelado 3D</strong> del edificio, los interiores y el entorno.</li><li><strong>Guion</strong>: los recorridos de cámara y su duración.</li><li><strong>Materiales e iluminación</strong>.</li><li><strong>Render de los fotogramas</strong> y <strong>montaje</strong> del vídeo, con música o rótulos si se piden.</li><li><strong>Revisión</strong> y ajustes antes de la entrega.</li></ol>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Ejemplo de vídeo render"
+  },
+  {
+   "type": "video",
+   "proveedor": "hosted",
+   "url": "/img/2024/01/RENDER.mp4"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes"
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Qué es un vídeo render?",
+     "html": "<p>Una animación fotorrealista hecha por ordenador que recorre un proyecto, por dentro y por fuera, como si se grabara con una cámara, antes de construirlo.</p>"
+    },
+    {
+     "title": "¿Qué diferencia hay entre un vídeo render y un tour virtual?",
+     "html": "<p>En el vídeo, el recorrido está fijado de antemano y se ve como una película. En el tour virtual, la persona elige hacia dónde mirar y por dónde moverse.</p>"
+    },
+    {
+     "title": "¿Qué necesito para encargarlo?",
+     "html": "<p>Los planos del proyecto o un modelo 3D, las ideas de materiales y qué recorridos te gustaría mostrar.</p>"
+    },
+    {
+     "title": "¿Sirve para redes sociales?",
+     "html": "<p>Sí. Se puede preparar en formato horizontal para la web y en vertical para redes sociales.</p>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Quieres ver tu proyecto en movimiento?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Cuéntanos qué proyecto tienes y qué te gustaría mostrar, y te preparamos un presupuesto.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  }
+ ],
+ "elementor": [
+  {
+   "t": "c",
+   "id": "9e6f2e9",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "ea97372",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "fce8a21",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 0
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "4af74a7",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "780d449",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h1",
+       "size": "default",
+       "b": 1
+      },
+      {
+       "t": "w",
+       "id": "07395a7",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 2
+      },
+      {
+       "t": "w",
+       "id": "7b2fb9e",
+       "wt": "divider",
+       "cls": "elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "741a02f",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 3
+      },
+      {
+       "t": "w",
+       "id": "498a281",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "5da8d5a",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-resumen",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "9d293d6",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "8bfb1b7",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 5
+      },
+      {
+       "t": "w",
+       "id": "b4d4e65",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 6
+      },
+      {
+       "t": "w",
+       "id": "36ac6bf",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "2600d7e",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "26c2fd2",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "15e7d99",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 8
+      },
+      {
+       "t": "w",
+       "id": "136713e",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "ea06a98",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "12f4620",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "7438249",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 10
+      },
+      {
+       "t": "w",
+       "id": "6651c3f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 11
+      },
+      {
+       "t": "w",
+       "id": "dee090d",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 12
+      },
+      {
+       "t": "w",
+       "id": "1ae37a4",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 13
+      },
+      {
+       "t": "w",
+       "id": "4dbcbf4",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 14
+      },
+      {
+       "t": "w",
+       "id": "a53caf6",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 15
+      },
+      {
+       "t": "w",
+       "id": "cced620",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 16
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "d023a46",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "35d61e9",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "eabb763",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 17
+      },
+      {
+       "t": "w",
+       "id": "e0530b4",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 18
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "7956ab3",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "5e141a1",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "72dadfd",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 19
+      },
+      {
+       "t": "w",
+       "id": "6cf77a3",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "34ddcee",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "f527cd8",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "c03f4f4",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 21
+      },
+      {
+       "t": "w",
+       "id": "95252ea",
+       "wt": "video",
+       "cls": "elementor-widget elementor-widget-video",
+       "b": 22
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "3a90fbb",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "77421af",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d205b93",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 23
+      },
+      {
+       "t": "w",
+       "id": "6cbba65",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 24
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "1af9c42",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-cierre",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "3aa8fbd",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "7353ae9",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 25
+      },
+      {
+       "t": "w",
+       "id": "f0d5094",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 26
+      },
+      {
+       "t": "w",
+       "id": "8383549",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 27
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

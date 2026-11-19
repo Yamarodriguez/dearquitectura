@@ -75,7 +75,9 @@
     "renders-locales-comerciales",
     "render-de-producto",
     "renders-nocturnos",
-    "render-cafeteria"
+    "render-cafeteria",
+    "video-render",
+    "render-logo"
   ],
   "_nota_renders": "«renders»: tipos de render (los del desplegable Tipos del menú de Renders y los nuevos del 19-11-2026). Solo para el bloque «Otros tipos de render» y la ruta de arriba; no los marca como artículo."
 }

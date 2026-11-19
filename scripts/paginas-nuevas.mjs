@@ -32,6 +32,7 @@ for (const f of fs.existsSync(ORIGEN) ? fs.readdirSync(ORIGEN).filter((x) => x.e
   const t = (html) => w('text-editor', { b: b({ type: 'text', html }) });
   const boton = (texto, href) => w('button', { b: b({ type: 'button', text: texto, href, size: 'sm' }) });
   const galeria = (fotos) => w('image-gallery', { cols: Math.min(fotos.length, 2), size: 'large', enlace: 'none', b: b({ type: 'gallery', images: fotos.map((x) => ({ src: x.src, alt: x.alt })) }) });
+  const video = (url) => w('video', { b: b({ type: 'video', proveedor: 'hosted', url }) });
   const img = (foto) => w('image', { b: b({ type: 'image', src: foto.src, alt: foto.alt, size: 'large' }) });
   const col = (hijos, extra = '') => ({ t: 'c', id: id(), cls: `e-con-full e-flex e-con e-child${extra}`, hijos });
   const seccion = (hijos, extra = '') => ({ t: 'c', id: id(), cls: `e-flex e-con-boxed e-con e-parent${extra}`, hijos });
@@ -55,6 +56,7 @@ for (const f of fs.existsSync(ORIGEN) ? fs.readdirSync(ORIGEN).filter((x) => x.e
     arbol.push(seccion([col([h('h2', d.obras_titulo || 'Obras y ejemplos')])]));
     arbol.push(seccion(d.obras.map((o) => col([img(o.foto), h('h3', o.nombre), t(o.html)], ' nueva-col nueva-obra')), ' nueva-fila nueva-rejilla'));
   }
+  if (d.video) arbol.push(seccion([col([h('h2', d.video.titulo), ...(d.video.html ? [t(d.video.html)] : []), video(d.video.url)])]));
   if (d.galeria?.length) arbol.push(seccion([col([h('h2', d.galeria_titulo || 'Imágenes de ejemplo'), galeria(d.galeria)])]));
   // 5. Preguntas frecuentes (desplegables, como en las páginas existentes)
   arbol.push(seccion([col([h('h2', 'Preguntas frecuentes'), w('toggle', { tag: 'div', b: b({ type: 'toggle', items: d.faq.map((x) => ({ title: x.q, html: `<p>${x.a}</p>` })) }) })])]));

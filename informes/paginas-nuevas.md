@@ -115,3 +115,7 @@ Es lo que más daño hace en Google (análisis, P1). Cada página nueva tiene te
   - El bloque «Otros tipos de render» sale en las 31 páginas de tipos de render: las 25 que había y las 6 nuevas.
 - **Pendientes:** vídeo render y render de logos, a la espera de que Yama confirme si ofrece esos servicios.
 - **Comprobador:** se añade el aviso de títulos de más de 60 letras y descripciones de más de 160 en las páginas nuevas. Por esa regla se acortaron también los títulos de la azteca y la renacentista y tres descripciones de estilos.
+
+## Hecho: vídeo render y render de logos (19-11-2026, Yama confirmó que ofrece los dos: «Sí, las dos»)
+- Misma estructura que los otros tipos de render.
+- El vídeo render lleva la animación que ya había en la web (`/img/2024/01/RENDER.mp4`, la de Render casa).

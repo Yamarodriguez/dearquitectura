@@ -905,10 +905,8 @@
    "type": "heading",
    "tag": "h3",
    "text": "Logos",
-   "href": "/tipos-de-renders/",
-   "s": 41,
-   "href_original": "/render-logo/",
-   "cambio": "enlace_roto"
+   "href": "/render-logo/",
+   "s": 41
   },
   {
    "type": "image",
@@ -916,10 +914,8 @@
    "alt": "render-logos",
    "size": "large",
    "wpid": 2821,
-   "href": "/tipos-de-renders/",
-   "s": 41,
-   "href_original": "/render-logo/",
-   "cambio": "enlace_roto"
+   "href": "/render-logo/",
+   "s": 41
   },
   {
    "type": "heading",
@@ -1382,10 +1378,8 @@
    "type": "button",
    "text": "Video render",
    "size": "sm",
-   "href": "/tipos-de-renders/",
-   "s": 56,
-   "href_original": "/video-render/",
-   "cambio": "enlace_roto"
+   "href": "/video-render/",
+   "s": 56
   },
   {
    "type": "image",
@@ -1393,10 +1387,8 @@
    "alt": "Video-renders",
    "size": "large",
    "wpid": 2776,
-   "href": "/tipos-de-renders/",
-   "s": 56,
-   "href_original": "/video-render/",
-   "cambio": "enlace_roto"
+   "href": "/video-render/",
+   "s": 56
   },
   {
    "type": "heading",

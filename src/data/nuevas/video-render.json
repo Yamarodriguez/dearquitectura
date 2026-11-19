@@ -1,0 +1,54 @@
+{
+  "slug": "video-render",
+  "tipo": "render",
+  "menu": "renders",
+  "titulo": "Vídeo Render",
+  "h1": "Vídeo Render",
+  "subtitulo": "Animaciones y recorridos de tu proyecto",
+  "titulo_seo": "Vídeo render: animaciones y recorridos de arquitectura",
+  "descripcion": "Qué es un vídeo render y para qué sirve: animaciones y recorridos virtuales de casas, edificios e interiores antes de construir. Pide presupuesto.",
+  "palabra_clave": "video render",
+  "fecha": "2026-11-19 19:00:00",
+  "foto": { "src": "/img/2024/01/Video-renders.jpg", "alt": "Vídeo render de una casa moderna" },
+  "boton": { "texto": "Pide presupuesto", "url": "/contacto/" },
+  "intro": "<p>Un <strong>vídeo render</strong> es una <strong>animación</strong> hecha por ordenador que recorre un proyecto como si se grabara con una cámara: se rodea la casa, se entra por la puerta y se pasea por sus <strong>interiores</strong>, todo antes de construir.</p>",
+  "resumen": "El <strong>vídeo render</strong>, o <strong>animación arquitectónica</strong>, es una secuencia de imágenes fotorrealistas que muestra un proyecto en movimiento. Sirve para que se entienda de un vistazo cómo es un edificio y cómo se vive por dentro, y es muy útil para <strong>vender sobre plano</strong>, presentar concursos y publicar en <strong>redes sociales</strong>.",
+  "datos": [
+    ["Qué es", "Animación fotorrealista de un proyecto, hecha por ordenador"],
+    ["Tipos", "Recorrido interior, vuelta al edificio, vista aérea y antes y después"],
+    ["Para qué sirve", "Presentar y vender proyectos, concursos, redes sociales y webs"],
+    ["Para quién", "Promotoras, inmobiliarias, arquitectos, constructoras y particulares"],
+    ["Qué hace falta", "Planos o un modelo 3D, y la idea de los recorridos que se quieren"]
+  ],
+  "secciones": [
+    {
+      "h2": "¿Qué es un vídeo render?",
+      "html": "<p>Es el paso siguiente a un <a href=\"/renders/\">render</a> fijo. A partir del mismo <a href=\"/modelado-3d/\">modelo 3D</a> se define un recorrido de cámara y el ordenador calcula cada uno de los fotogramas, que luego se montan como un vídeo. Así se ven la luz, los materiales y los espacios uno detrás de otro, como en una visita real.</p><p>Si lo que se busca es que la persona elija por dónde moverse, la opción es un <a href=\"/tour-virtual/\">tour virtual 3D</a> o la <a href=\"/realidad-virtual/\">realidad virtual</a>.</p>"
+    },
+    {
+      "h2": "¿Para qué sirve?",
+      "html": "",
+      "sub": [
+        { "h3": "Entender el proyecto de un vistazo", "html": "<p>Un vídeo de un minuto explica la distribución y el tamaño de los espacios mejor que muchos planos e imágenes sueltas.</p>" },
+        { "h3": "Vender sobre plano", "html": "<p>Las promotoras e <a href=\"/renders-para-inmobiliarias/\">inmobiliarias</a> los usan en la web, en la oficina de ventas y en los portales para mostrar viviendas que aún no existen.</p>" },
+        { "h3": "Redes sociales y publicidad", "html": "<p>El vídeo es el formato que mejor funciona en redes; un recorrido corto sirve para anunciar un proyecto o una promoción (ver <a href=\"/renders-marketing/\">renders para marketing</a>).</p>" }
+      ]
+    },
+    {
+      "h2": "Tipos de animación",
+      "html": "<ul><li><strong>Recorrido interior</strong>: la cámara entra y pasea por las estancias.</li><li><strong>Vuelta al edificio</strong>: un giro alrededor del exterior para ver todas sus fachadas.</li><li><strong>Vista aérea</strong>: un vuelo sobre la parcela o la promoción y su entorno.</li><li><strong>Antes y después</strong>: el espacio actual y cómo queda tras la reforma (ver <a href=\"/render-antes-y-despues/\">render antes y después</a>).</li><li><strong>Día y noche</strong>: el paso de la luz del día a la iluminación nocturna (ver <a href=\"/renders-nocturnos/\">renders nocturnos</a>).</li></ul>"
+    },
+    {
+      "h2": "¿Cómo se hace?",
+      "html": "<ol><li><strong>Planos y referencias</strong> del proyecto, y la idea de lo que se quiere mostrar.</li><li><strong>Modelado 3D</strong> del edificio, los interiores y el entorno.</li><li><strong>Guion</strong>: los recorridos de cámara y su duración.</li><li><strong>Materiales e iluminación</strong>.</li><li><strong>Render de los fotogramas</strong> y <strong>montaje</strong> del vídeo, con música o rótulos si se piden.</li><li><strong>Revisión</strong> y ajustes antes de la entrega.</li></ol>"
+    }
+  ],
+  "video": { "titulo": "Ejemplo de vídeo render", "url": "/img/2024/01/RENDER.mp4" },
+  "faq": [
+    { "q": "¿Qué es un vídeo render?", "a": "Una animación fotorrealista hecha por ordenador que recorre un proyecto, por dentro y por fuera, como si se grabara con una cámara, antes de construirlo." },
+    { "q": "¿Qué diferencia hay entre un vídeo render y un tour virtual?", "a": "En el vídeo, el recorrido está fijado de antemano y se ve como una película. En el tour virtual, la persona elige hacia dónde mirar y por dónde moverse." },
+    { "q": "¿Qué necesito para encargarlo?", "a": "Los planos del proyecto o un modelo 3D, las ideas de materiales y qué recorridos te gustaría mostrar." },
+    { "q": "¿Sirve para redes sociales?", "a": "Sí. Se puede preparar en formato horizontal para la web y en vertical para redes sociales." }
+  ],
+  "cierre": { "h2": "¿Quieres ver tu proyecto en movimiento?", "html": "<p>Cuéntanos qué proyecto tienes y qué te gustaría mostrar, y te preparamos un presupuesto.</p>", "boton": "Pide presupuesto" }
+}
