@@ -53,6 +53,11 @@ function bloqueComun(d, blocks) {
       if (b.html) b.html = cambiarEnHtml(b.html, terminos);
       if (b.items && cfg.textos) b.items.forEach((it) => { it.title = cambiarPalabras(it.title, terminos); it.html = cambiarEnHtml(it.html, terminos); });
     }
+    // Textos propios de esta página (comun.textos / comun.preguntas, por id de Elementor): mismos
+    // títulos y enlaces, texto distinto para que no se repita en todas las páginas (19-11-2026)
+    const propio = d.comun.textos?.[n.id];
+    if (propio && b.type === 'text') { b.html = propio; b.text = propio.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim(); b.texto_propio = true; }
+    if (b.items) b.items.forEach((it, i) => { const r = d.comun.preguntas?.[`${n.id}#${i}`]; if (r) it.html = r; });
     blocks.push(b);
     return { ...n, b: blocks.length - 1 };
   };
