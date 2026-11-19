@@ -1,0 +1,56 @@
+{
+  "slug": "construccion",
+  "tipo": "servicio",
+  "menu": "",
+  "titulo": "Construcción",
+  "h1": "Construcción",
+  "subtitulo": "Prepara tu proyecto antes de construir",
+  "titulo_seo": "Construcción: etapas para construir tu casa",
+  "descripcion": "Las etapas para construir una casa o un edificio, del terreno y el proyecto a la obra, y cómo ayudan los planos, el modelado 3D y los renders.",
+  "palabra_clave": "construcción de casas",
+  "fecha": "2026-11-19 20:00:00",
+  "foto": { "src": "/img/2023/12/Construccion-arquitectura.jpg", "alt": "Planos, casco de obra y dibujo de una ciudad" },
+  "boton": { "texto": "Cuéntanos tu proyecto", "url": "/contacto/" },
+  "intro": "<p>Construir una casa o un edificio empieza mucho antes de la obra: con un <strong>proyecto</strong> bien pensado, unos <strong>planos</strong> claros y una imagen de cómo va a quedar. Cuanto más se define al principio, menos sorpresas aparecen después.</p>",
+  "resumen": "La <strong>construcción</strong> de una casa o un edificio sigue unas <strong>etapas</strong>: elegir el terreno, definir el proyecto, obtener los permisos, contratar la obra y construir. En la parte de proyecto, los <a href=\"/planos/\">planos</a>, el <a href=\"/modelado-3d/\">modelado 3D</a> y los <a href=\"/renders/\">renders</a> permiten tomar decisiones y pedir <strong>presupuestos</strong> con una idea clara antes de empezar.",
+  "datos": [
+    ["Etapas", "Terreno, proyecto, permisos, contratación, obra y entrega"],
+    ["Antes de la obra", "Necesidades, diseño, planos, renders y presupuesto"],
+    ["Profesionales", "Arquitecto, aparejador o arquitecto técnico, constructora y gremios"],
+    ["Herramientas", "Planos, modelado 3D, renders e infografías"],
+    ["Para quién", "Particulares que construyen su casa, promotoras y empresas"]
+  ],
+  "secciones": [
+    {
+      "h2": "Etapas para construir una casa",
+      "html": "",
+      "sub": [
+        { "h3": "1. El terreno", "html": "<p>Se comprueba qué se puede construir en la parcela (normativa urbanística, superficie, orientación y accesos).</p>" },
+        { "h3": "2. El proyecto", "html": "<p>Se diseña la vivienda y se dibuja con detalle: distribución, estructura, instalaciones y materiales (ver <a href=\"/disenos-arquitectonicos/\">diseños arquitectónicos</a>).</p>" },
+        { "h3": "3. Permisos", "html": "<p>Con el proyecto se solicita la licencia de obra al ayuntamiento u organismo que corresponda en cada país.</p>" },
+        { "h3": "4. Presupuestos y contratación", "html": "<p>Con planos e imágenes se piden presupuestos comparables y se contrata la obra.</p>" },
+        { "h3": "5. La obra y la entrega", "html": "<p>Se construye siguiendo el proyecto, con la dirección de los técnicos, hasta la entrega de la vivienda.</p>" }
+      ]
+    },
+    {
+      "h2": "Quién interviene",
+      "html": "<p>En una construcción trabajan varios profesionales: el <a href=\"/arquitectos/\">arquitecto</a>, que diseña y firma el proyecto; el <a href=\"/aparejadores/\">aparejador o arquitecto técnico</a>, que controla la ejecución; el <a href=\"/calculista/\">calculista</a> de estructuras cuando hace falta; la constructora y los gremios. Los nombres y las obligaciones cambian según el país, así que conviene informarse de la normativa local.</p>"
+    },
+    {
+      "h2": "Cómo ayudan los planos y los renders",
+      "html": "<ul><li><strong>Planos</strong>: fijan medidas y distribución, y son la base para todos los presupuestos.</li><li><strong>Modelado 3D</strong>: permite revisar volúmenes, alturas y encuentros antes de construirlos.</li><li><strong>Renders</strong>: muestran cómo quedará la casa por fuera y por dentro (ver <a href=\"/render-casa/\">render de casas</a> y <a href=\"/renders-exteriores/\">renders exteriores</a>).</li><li><strong>Infografías</strong>: explican el proyecto a clientes o compradores (ver <a href=\"/infografias/\">infografías</a>).</li></ul>"
+    }
+  ],
+  "galeria_titulo": "Del plano a la imagen",
+  "galeria": [
+    { "src": "/img/2023/12/planos-casas-medidas.jpg", "alt": "Plano de una casa con medidas" },
+    { "src": "/img/2024/01/render-edificio.jpg", "alt": "Render de un edificio moderno" }
+  ],
+  "faq": [
+    { "q": "¿Cuáles son las etapas para construir una casa?", "a": "Elegir y estudiar el terreno, hacer el proyecto, obtener los permisos, pedir presupuestos y contratar la obra, construir y, por último, entregar la vivienda." },
+    { "q": "¿Qué se necesita antes de empezar la obra?", "a": "Un proyecto con planos, los permisos o la licencia de obra y un presupuesto contratado. Los renders ayudan a decidir el diseño y los acabados antes de llegar a ese punto." },
+    { "q": "¿Quién interviene en la construcción de una casa?", "a": "El arquitecto, el aparejador o arquitecto técnico, a veces un calculista de estructuras, la constructora y los gremios. Varía según el país." },
+    { "q": "¿Para qué sirve un render antes de construir?", "a": "Para ver cómo quedará la casa por fuera y por dentro, comparar opciones y evitar cambios durante la obra." }
+  ],
+  "cierre": { "h2": "¿Vas a construir?", "html": "<p>Cuéntanos qué quieres construir y te ayudamos con el diseño, los planos y las imágenes de tu proyecto, y te asesoramos en los siguientes pasos.</p>", "boton": "Contactar" }
+}

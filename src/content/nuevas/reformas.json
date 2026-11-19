@@ -1,0 +1,556 @@
+{
+ "slug": "reformas",
+ "id": "nueva",
+ "title": "Reformas",
+ "titulo_seo": "Reformas: cómo planificar tu reforma con planos y 3D",
+ "url": "https://dearquitectura.info/reformas/",
+ "nueva": true,
+ "meta_description": "Cómo planificar una reforma de vivienda o local: pasos, planos, diseño 3D y renders del antes y el después para decidir antes de la obra.",
+ "palabra_clave": "reformas",
+ "menu": "",
+ "logo": "",
+ "foto_destacada": "/img/2023/12/reforma.jpg",
+ "fecha": "2026-11-19 20:00:00",
+ "modificada": "2026-11-19 20:00:00",
+ "fecha_gmt": "2026-11-19 20:00:00",
+ "modificada_gmt": "2026-11-19 20:00:00",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/img/2023/12/reforma.jpg",
+   "alt": "Profesionales revisando planos en una vivienda en reforma",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "Reformas"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Planifica tu reforma y mírala antes de empezar"
+  },
+  {
+   "type": "text",
+   "html": "<p>Una <strong>reforma</strong> sale mejor cuando se decide casi todo antes de levantar el primer azulejo. Con <strong>planos</strong> de la distribución nueva y <strong>renders</strong> del resultado, sabes qué vas a pedir, a quién y cómo va a quedar.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Cuéntanos tu reforma",
+   "href": "/contacto/",
+   "size": "sm"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen"
+  },
+  {
+   "type": "text",
+   "html": "<p>Planificar una <strong>reforma</strong> consiste en definir qué se cambia (distribución, instalaciones, acabados), dibujarlo en <strong>planos</strong> y verlo en <strong>3D</strong> antes de la obra. Así se comparan opciones, se piden <strong>presupuestos</strong> con una idea clara y se evitan cambios caros a mitad de obra. Es útil en reformas integrales, de cocina, de baño y de locales.</p>"
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Qué incluye</th><td>Estado actual, nueva distribución, planos y renders del resultado</td></tr><tr><th scope=\"row\">Tipos</th><td>Integral, de cocina, de baño, de fachada y de locales</td></tr><tr><th scope=\"row\">Para qué sirve</th><td>Decidir antes de la obra, pedir presupuestos y evitar sorpresas</td></tr><tr><th scope=\"row\">Herramientas</th><td>Planos, modelado 3D y renders de antes y después</td></tr><tr><th scope=\"row\">Qué hace falta</th><td>Medidas o planos actuales, fotos y la idea de lo que quieres cambiar</td></tr></tbody></table>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Pasos para planificar una reforma"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "1. Tomar medidas y ver el estado actual"
+  },
+  {
+   "type": "text",
+   "html": "<p>Se dibuja el espacio tal como está, con sus muros, ventanas e instalaciones, y se anota qué se puede mover y qué no.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "2. Decidir qué se cambia"
+  },
+  {
+   "type": "text",
+   "html": "<p>Distribución, cocina, baños, suelos, carpinterías o instalaciones: se fija el alcance de la reforma y el presupuesto aproximado.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "3. Dibujar la nueva distribución"
+  },
+  {
+   "type": "text",
+   "html": "<p>Con <a href=\"/planos/\">planos</a> a escala se comprueba que todo cabe y funciona: pasos, muebles, puertas y luz natural.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "4. Ver el resultado en 3D"
+  },
+  {
+   "type": "text",
+   "html": "<p>Los renders muestran materiales y colores; un <a href=\"/render-antes-y-despues/\">render de antes y después</a> enseña el cambio de un vistazo.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "5. Pedir presupuestos y planificar la obra"
+  },
+  {
+   "type": "text",
+   "html": "<p>Con planos e imágenes, los gremios entienden qué hay que hacer y los presupuestos se pueden comparar de verdad.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Tipos de reforma"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><strong>Reforma integral</strong>: se rehace la vivienda entera, a menudo cambiando la distribución.</li><li><strong>Reforma de cocina</strong>: distribución, muebles e instalaciones (ver <a href=\"/renders-de-cocinas/\">renders de cocinas</a>).</li><li><strong>Reforma de baño</strong>: sanitarios, ducha y revestimientos (ver <a href=\"/renders-banos/\">renders de baños</a>).</li><li><strong>Reforma de fachada</strong>: materiales, color y aislamiento (ver <a href=\"/renders-de-fachadas/\">renders de fachadas</a>).</li><li><strong>Reforma de local</strong>: adaptar un espacio a un negocio (ver <a href=\"/renders-locales-comerciales/\">renders de locales comerciales</a>).</li></ul>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Por qué ver la reforma en 3D antes de empezar?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Cambiar una idea en un plano o en un render es rápido; cambiarla con la obra empezada es caro. Ver el resultado ayuda a elegir materiales con seguridad, a que toda la familia o los socios estén de acuerdo y a que quienes hacen la obra sepan exactamente qué se espera de ellos. Si la reforma es para vender o alquilar, las imágenes sirven además para anunciarla (ver <a href=\"/home-staging/\">home staging</a>).</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Antes y después"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/img/2024/01/renders-antes-y-despues.jpg",
+     "alt": "Render del antes y el después de una habitación reformada"
+    },
+    {
+     "src": "/img/2023/12/PLANO-de-casas-vista-aerea.jpg",
+     "alt": "Plano de distribución de una vivienda"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes"
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Cómo se planifica una reforma?",
+     "html": "<p>Se mide y se dibuja el estado actual, se decide qué se cambia, se dibuja la nueva distribución en planos, se ve el resultado en 3D y, con todo ello, se piden presupuestos y se planifica la obra.</p>"
+    },
+    {
+     "title": "¿Para qué sirve un render en una reforma?",
+     "html": "<p>Para ver cómo quedará el espacio con sus materiales y colores antes de empezar, comparar opciones y evitar cambios a mitad de obra.</p>"
+    },
+    {
+     "title": "¿Qué necesito para empezar?",
+     "html": "<p>Las medidas o los planos actuales del espacio, algunas fotos y la idea de lo que quieres cambiar.</p>"
+    },
+    {
+     "title": "¿Sirve también para locales y oficinas?",
+     "html": "<p>Sí. En un local, la distribución, la imagen de la marca y la iluminación se pueden ver en 3D antes de la obra.</p>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Estás pensando en reformar?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Cuéntanos qué espacio quieres reformar y qué te gustaría cambiar, y te ayudamos con los planos y las imágenes de tu reforma.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Contactar",
+   "href": "/contacto/",
+   "size": "sm"
+  }
+ ],
+ "elementor": [
+  {
+   "t": "c",
+   "id": "4afd69e",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "5fa92dd",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "01daf25",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 0
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "b71adf4",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "c30d4b4",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h1",
+       "size": "default",
+       "b": 1
+      },
+      {
+       "t": "w",
+       "id": "6369395",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 2
+      },
+      {
+       "t": "w",
+       "id": "1074bec",
+       "wt": "divider",
+       "cls": "elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "c11b305",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 3
+      },
+      {
+       "t": "w",
+       "id": "00497c1",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "670c9e9",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-resumen",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "11a98ad",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "34a7e80",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 5
+      },
+      {
+       "t": "w",
+       "id": "8dc79f1",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 6
+      },
+      {
+       "t": "w",
+       "id": "cff852d",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "27c9a39",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "8aa3160",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "efc0f81",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 8
+      },
+      {
+       "t": "w",
+       "id": "8527b8d",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 9
+      },
+      {
+       "t": "w",
+       "id": "3b13128",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 10
+      },
+      {
+       "t": "w",
+       "id": "9d7444e",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 11
+      },
+      {
+       "t": "w",
+       "id": "9b4d6f3",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 12
+      },
+      {
+       "t": "w",
+       "id": "263e3cd",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 13
+      },
+      {
+       "t": "w",
+       "id": "09c46a4",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 14
+      },
+      {
+       "t": "w",
+       "id": "9438173",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 15
+      },
+      {
+       "t": "w",
+       "id": "94d9a3e",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 16
+      },
+      {
+       "t": "w",
+       "id": "689c4c2",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 17
+      },
+      {
+       "t": "w",
+       "id": "4474d4b",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 18
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "da847d8",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "9bbfe0a",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "62f7519",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 19
+      },
+      {
+       "t": "w",
+       "id": "91565d3",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "d511e3f",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "b8cbc30",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "da7d87b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 21
+      },
+      {
+       "t": "w",
+       "id": "79f5a4c",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 22
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "3ba5c98",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "f172441",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "e3e0444",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 23
+      },
+      {
+       "t": "w",
+       "id": "f928ed9",
+       "wt": "image-gallery",
+       "cls": "elementor-widget elementor-widget-image-gallery",
+       "cols": 2,
+       "size": "large",
+       "enlace": "none",
+       "b": 24
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "8fffb54",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "b03450e",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "5c22944",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 25
+      },
+      {
+       "t": "w",
+       "id": "ecad96a",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 26
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "4e5e974",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-cierre",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "dfc9cf9",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "af09e03",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 27
+      },
+      {
+       "t": "w",
+       "id": "c8f4f2e",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 28
+      },
+      {
+       "t": "w",
+       "id": "3c208c1",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 29
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

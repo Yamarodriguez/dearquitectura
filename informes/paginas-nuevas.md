@@ -119,3 +119,9 @@ Es lo que más daño hace en Google (análisis, P1). Cada página nueva tiene te
 ## Hecho: vídeo render y render de logos (19-11-2026, Yama confirmó que ofrece los dos: «Sí, las dos»)
 - Misma estructura que los otros tipos de render.
 - El vídeo render lleva la animación que ya había en la web (`/img/2024/01/RENDER.mp4`, la de Render casa).
+
+## Hecho: 4 servicios (19-11-2026, Yama: «Sí, los servicios»)
+- **Páginas:** diseños arquitectónicos, reformas, construcción e interiorismo, en las direcciones a las que ya apuntaban las tarjetas.
+- **Qué cuentan:** qué es cada servicio, sus fases y sus tipos, y cómo ayudan los planos, el modelado 3D y los renders.
+- **Lo que no se dice:** que el estudio construya o haga obras. Se habla de diseño, planos, imágenes y asesoramiento, como en las tarjetas originales.
+- **Conexiones:** desplegable Servicios del menú principal, ruta «Inicio / Servicios / …» y bloque «Otros servicios» en todas las páginas de servicios.

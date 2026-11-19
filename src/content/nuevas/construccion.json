@@ -1,0 +1,556 @@
+{
+ "slug": "construccion",
+ "id": "nueva",
+ "title": "Construcción",
+ "titulo_seo": "Construcción: etapas para construir tu casa",
+ "url": "https://dearquitectura.info/construccion/",
+ "nueva": true,
+ "meta_description": "Las etapas para construir una casa o un edificio, del terreno y el proyecto a la obra, y cómo ayudan los planos, el modelado 3D y los renders.",
+ "palabra_clave": "construcción de casas",
+ "menu": "",
+ "logo": "",
+ "foto_destacada": "/img/2023/12/Construccion-arquitectura.jpg",
+ "fecha": "2026-11-19 20:00:00",
+ "modificada": "2026-11-19 20:00:00",
+ "fecha_gmt": "2026-11-19 20:00:00",
+ "modificada_gmt": "2026-11-19 20:00:00",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/img/2023/12/Construccion-arquitectura.jpg",
+   "alt": "Planos, casco de obra y dibujo de una ciudad",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "Construcción"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Prepara tu proyecto antes de construir"
+  },
+  {
+   "type": "text",
+   "html": "<p>Construir una casa o un edificio empieza mucho antes de la obra: con un <strong>proyecto</strong> bien pensado, unos <strong>planos</strong> claros y una imagen de cómo va a quedar. Cuanto más se define al principio, menos sorpresas aparecen después.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Cuéntanos tu proyecto",
+   "href": "/contacto/",
+   "size": "sm"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen"
+  },
+  {
+   "type": "text",
+   "html": "<p>La <strong>construcción</strong> de una casa o un edificio sigue unas <strong>etapas</strong>: elegir el terreno, definir el proyecto, obtener los permisos, contratar la obra y construir. En la parte de proyecto, los <a href=\"/planos/\">planos</a>, el <a href=\"/modelado-3d/\">modelado 3D</a> y los <a href=\"/renders/\">renders</a> permiten tomar decisiones y pedir <strong>presupuestos</strong> con una idea clara antes de empezar.</p>"
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Etapas</th><td>Terreno, proyecto, permisos, contratación, obra y entrega</td></tr><tr><th scope=\"row\">Antes de la obra</th><td>Necesidades, diseño, planos, renders y presupuesto</td></tr><tr><th scope=\"row\">Profesionales</th><td>Arquitecto, aparejador o arquitecto técnico, constructora y gremios</td></tr><tr><th scope=\"row\">Herramientas</th><td>Planos, modelado 3D, renders e infografías</td></tr><tr><th scope=\"row\">Para quién</th><td>Particulares que construyen su casa, promotoras y empresas</td></tr></tbody></table>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Etapas para construir una casa"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "1. El terreno"
+  },
+  {
+   "type": "text",
+   "html": "<p>Se comprueba qué se puede construir en la parcela (normativa urbanística, superficie, orientación y accesos).</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "2. El proyecto"
+  },
+  {
+   "type": "text",
+   "html": "<p>Se diseña la vivienda y se dibuja con detalle: distribución, estructura, instalaciones y materiales (ver <a href=\"/disenos-arquitectonicos/\">diseños arquitectónicos</a>).</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "3. Permisos"
+  },
+  {
+   "type": "text",
+   "html": "<p>Con el proyecto se solicita la licencia de obra al ayuntamiento u organismo que corresponda en cada país.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "4. Presupuestos y contratación"
+  },
+  {
+   "type": "text",
+   "html": "<p>Con planos e imágenes se piden presupuestos comparables y se contrata la obra.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "5. La obra y la entrega"
+  },
+  {
+   "type": "text",
+   "html": "<p>Se construye siguiendo el proyecto, con la dirección de los técnicos, hasta la entrega de la vivienda.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Quién interviene"
+  },
+  {
+   "type": "text",
+   "html": "<p>En una construcción trabajan varios profesionales: el <a href=\"/arquitectos/\">arquitecto</a>, que diseña y firma el proyecto; el <a href=\"/aparejadores/\">aparejador o arquitecto técnico</a>, que controla la ejecución; el <a href=\"/calculista/\">calculista</a> de estructuras cuando hace falta; la constructora y los gremios. Los nombres y las obligaciones cambian según el país, así que conviene informarse de la normativa local.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Cómo ayudan los planos y los renders"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><strong>Planos</strong>: fijan medidas y distribución, y son la base para todos los presupuestos.</li><li><strong>Modelado 3D</strong>: permite revisar volúmenes, alturas y encuentros antes de construirlos.</li><li><strong>Renders</strong>: muestran cómo quedará la casa por fuera y por dentro (ver <a href=\"/render-casa/\">render de casas</a> y <a href=\"/renders-exteriores/\">renders exteriores</a>).</li><li><strong>Infografías</strong>: explican el proyecto a clientes o compradores (ver <a href=\"/infografias/\">infografías</a>).</li></ul>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Del plano a la imagen"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/img/2023/12/planos-casas-medidas.jpg",
+     "alt": "Plano de una casa con medidas"
+    },
+    {
+     "src": "/img/2024/01/render-edificio.jpg",
+     "alt": "Render de un edificio moderno"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes"
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Cuáles son las etapas para construir una casa?",
+     "html": "<p>Elegir y estudiar el terreno, hacer el proyecto, obtener los permisos, pedir presupuestos y contratar la obra, construir y, por último, entregar la vivienda.</p>"
+    },
+    {
+     "title": "¿Qué se necesita antes de empezar la obra?",
+     "html": "<p>Un proyecto con planos, los permisos o la licencia de obra y un presupuesto contratado. Los renders ayudan a decidir el diseño y los acabados antes de llegar a ese punto.</p>"
+    },
+    {
+     "title": "¿Quién interviene en la construcción de una casa?",
+     "html": "<p>El arquitecto, el aparejador o arquitecto técnico, a veces un calculista de estructuras, la constructora y los gremios. Varía según el país.</p>"
+    },
+    {
+     "title": "¿Para qué sirve un render antes de construir?",
+     "html": "<p>Para ver cómo quedará la casa por fuera y por dentro, comparar opciones y evitar cambios durante la obra.</p>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Vas a construir?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Cuéntanos qué quieres construir y te ayudamos con el diseño, los planos y las imágenes de tu proyecto, y te asesoramos en los siguientes pasos.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Contactar",
+   "href": "/contacto/",
+   "size": "sm"
+  }
+ ],
+ "elementor": [
+  {
+   "t": "c",
+   "id": "1af3cbb",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "348193d",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "fad902b",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 0
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "690d9a6",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "abbdd85",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h1",
+       "size": "default",
+       "b": 1
+      },
+      {
+       "t": "w",
+       "id": "0dff481",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 2
+      },
+      {
+       "t": "w",
+       "id": "3789595",
+       "wt": "divider",
+       "cls": "elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "9ca7a31",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 3
+      },
+      {
+       "t": "w",
+       "id": "0490bf7",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "45d94cb",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-resumen",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "c62a3dc",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "22eb459",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 5
+      },
+      {
+       "t": "w",
+       "id": "674eaf6",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 6
+      },
+      {
+       "t": "w",
+       "id": "0a56a60",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "879cf38",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "b0926ac",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "0e94f90",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 8
+      },
+      {
+       "t": "w",
+       "id": "aa95e6c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 9
+      },
+      {
+       "t": "w",
+       "id": "87b3a06",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 10
+      },
+      {
+       "t": "w",
+       "id": "ef7ff3a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 11
+      },
+      {
+       "t": "w",
+       "id": "391e352",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 12
+      },
+      {
+       "t": "w",
+       "id": "492a04c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 13
+      },
+      {
+       "t": "w",
+       "id": "8ba3d3d",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 14
+      },
+      {
+       "t": "w",
+       "id": "3a68781",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 15
+      },
+      {
+       "t": "w",
+       "id": "c8b8085",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 16
+      },
+      {
+       "t": "w",
+       "id": "28c03f6",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 17
+      },
+      {
+       "t": "w",
+       "id": "6aff430",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 18
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "d1e819a",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "217e8db",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "437e9cc",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 19
+      },
+      {
+       "t": "w",
+       "id": "6ebf2c3",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "e176ed5",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "26dedb1",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "c644075",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 21
+      },
+      {
+       "t": "w",
+       "id": "2147902",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 22
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "a88bfe0",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "50ee515",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "acd213a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 23
+      },
+      {
+       "t": "w",
+       "id": "a3f7eaa",
+       "wt": "image-gallery",
+       "cls": "elementor-widget elementor-widget-image-gallery",
+       "cols": 2,
+       "size": "large",
+       "enlace": "none",
+       "b": 24
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "6dc4089",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "c6fad2a",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "e1731a9",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 25
+      },
+      {
+       "t": "w",
+       "id": "a6c36b7",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 26
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "c73e469",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-cierre",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "a4246ca",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d2cca91",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 27
+      },
+      {
+       "t": "w",
+       "id": "135cbef",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 28
+      },
+      {
+       "t": "w",
+       "id": "d022088",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 29
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

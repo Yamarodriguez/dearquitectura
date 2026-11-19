@@ -33,7 +33,7 @@ export function paisDeCiudad(slug, menuPagina, mapa) {
  * - fuera las páginas que no están en Google (sinIndexar): no tiene sentido enlazarlas desde todas partes;
  * - en el menú general de Renders, «Zonas» lleva solo los países (cada país enlaza luego a sus ciudades).
  */
-export function ajustarMenu(nombre, items, sinIndexar, estilosNuevos = [], rendersNuevos = []) {
+export function ajustarMenu(nombre, items, sinIndexar, estilosNuevos = [], rendersNuevos = [], serviciosNuevos = []) {
   const limpiar = (lista, nivel, padre) => lista
     .filter((i) => !sinIndexar.has(slugDe(i.url)))
     .map((i) => {
@@ -45,7 +45,7 @@ export function ajustarMenu(nombre, items, sinIndexar, estilosNuevos = [], rende
   // Estilos nuevos (páginas de src/content/nuevas): al desplegable que ya lista los estilos
   // (Tipos o Arquitectura), detrás de los que hay, si no están ya.
   // Igual con los tipos de render nuevos, en el desplegable que ya lista los tipos de render.
-  for (const [marca, nuevos] of [['arquitectura-romana', estilosNuevos], ['renders-piscinas', rendersNuevos]]) {
+  for (const [marca, nuevos] of [['arquitectura-romana', estilosNuevos], ['renders-piscinas', rendersNuevos], ['maquetas-de-arquitectura', serviciosNuevos]]) {
     if (!nuevos.length) continue;
     const poner = (lista) => lista.forEach((i) => {
       const h = i.children ?? [];

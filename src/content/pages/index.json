@@ -240,10 +240,8 @@
    "alt": "Construcción-arquitectura",
    "size": "large",
    "wpid": 694,
-   "href": "/proyectos-de-arquitectura/",
-   "s": 8,
-   "href_original": "/construccion/",
-   "cambio": "enlace_roto"
+   "href": "/construccion/",
+   "s": 8
   },
   {
    "type": "text",
@@ -255,10 +253,8 @@
    "type": "button",
    "text": "Construcción",
    "size": "sm",
-   "href": "/proyectos-de-arquitectura/",
-   "s": 8,
-   "href_original": "/construccion/",
-   "cambio": "enlace_roto"
+   "href": "/construccion/",
+   "s": 8
   },
   {
    "type": "heading",
@@ -272,10 +268,8 @@
    "alt": "reforma",
    "size": "large",
    "wpid": 696,
-   "href": "/proyectos-de-arquitectura/",
-   "s": 8,
-   "href_original": "/reformas/",
-   "cambio": "enlace_roto"
+   "href": "/reformas/",
+   "s": 8
   },
   {
    "type": "text",
@@ -287,10 +281,8 @@
    "type": "button",
    "text": "Reformas",
    "size": "sm",
-   "href": "/proyectos-de-arquitectura/",
-   "s": 8,
-   "href_original": "/reformas/",
-   "cambio": "enlace_roto"
+   "href": "/reformas/",
+   "s": 8
   },
   {
    "type": "heading",
@@ -304,10 +296,8 @@
    "alt": "Diseños-arquitectónicos",
    "size": "large",
    "wpid": 685,
-   "href": "/agencia-de-diseno/",
-   "s": 8,
-   "href_original": "/disenos-arquitectonicos/",
-   "cambio": "enlace_roto"
+   "href": "/disenos-arquitectonicos/",
+   "s": 8
   },
   {
    "type": "text",
@@ -319,10 +309,8 @@
    "type": "button",
    "text": "Diseños",
    "size": "sm",
-   "href": "/agencia-de-diseno/",
-   "s": 8,
-   "href_original": "/disenos-arquitectonicos/",
-   "cambio": "enlace_roto"
+   "href": "/disenos-arquitectonicos/",
+   "s": 8
   },
   {
    "type": "heading",
@@ -336,10 +324,8 @@
    "alt": "interiorismo-y-decoración",
    "size": "large",
    "wpid": 687,
-   "href": "/interiorista/",
-   "s": 8,
-   "href_original": "/interiorismo/",
-   "cambio": "enlace_roto"
+   "href": "/interiorismo/",
+   "s": 8
   },
   {
    "type": "text",
@@ -351,10 +337,8 @@
    "type": "button",
    "text": "Interiorismo",
    "size": "sm",
-   "href": "/interiorista/",
-   "s": 8,
-   "href_original": "/interiorismo/",
-   "cambio": "enlace_roto"
+   "href": "/interiorismo/",
+   "s": 8
   },
   {
    "type": "button",

@@ -18,7 +18,8 @@ const menus = menusData as Record<string, any[]>;
 // Menú ajustado (18-11-2026): sin las páginas que no están en Google y, en el de Renders, «Zonas» solo con los países
 const nombreMenu = menus[menu || 'principal'] ? (menu || 'principal') : 'principal';
 const rendersNuevos = paginas.filter((p: any) => p.nueva && (articulos as any).renders?.includes(p.slug)).map((p: any) => ({ label: p.title, url: `/${p.slug}/` }));
-const items = ajustarMenu(nombreMenu, menus[nombreMenu], sinIndexar, estilosNuevos, rendersNuevos);
+const serviciosNuevos = paginas.filter((p: any) => p.nueva && (articulos as any).servicios?.includes(p.slug)).map((p: any) => ({ label: p.title, url: `/${p.slug}/` }));
+const items = ajustarMenu(nombreMenu, menus[nombreMenu], sinIndexar, estilosNuevos, rendersNuevos, serviciosNuevos);
 const clase = (i: any) => [i.url === ruta ? 'actual' : '', i.url === '/contacto/' ? 'contacto' : ''].filter(Boolean).join(' ') || undefined;
 const flecha = '<svg class="flecha" viewBox="0 0 10 10" aria-hidden="true"><path d="M1 3.5 5 7.5 9 3.5" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>';
 ---

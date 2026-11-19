@@ -1,0 +1,56 @@
+{
+  "slug": "interiorismo",
+  "tipo": "servicio",
+  "menu": "",
+  "titulo": "Interiorismo y Decoración",
+  "h1": "Interiorismo y Decoración",
+  "subtitulo": "Espacios pensados para vivirlos",
+  "titulo_seo": "Interiorismo y decoración: qué es y cómo se hace",
+  "descripcion": "Qué es el interiorismo, en qué se diferencia de la decoración, sus fases y estilos, y cómo los renders de interiores ayudan a ver el resultado antes de comprar.",
+  "palabra_clave": "interiorismo",
+  "fecha": "2026-11-19 20:00:00",
+  "foto": { "src": "/img/2023/12/interiorismo-y-decoracion.jpg", "alt": "Salón diseñado con interiorismo y decoración" },
+  "boton": { "texto": "Cuéntanos tu proyecto", "url": "/contacto/" },
+  "intro": "<p>El <strong>interiorismo</strong> es el diseño de los espacios interiores: cómo se reparte una vivienda o un local, qué materiales y colores lleva, cómo se ilumina y qué muebles necesita para que sea <strong>cómodo, útil y bonito</strong>.</p>",
+  "resumen": "El <strong>interiorismo</strong> diseña los espacios interiores pensando en cómo se usan: <strong>distribución</strong>, materiales, <strong>iluminación</strong> y mobiliario. La <strong>decoración</strong> es una parte de él, la que se ocupa de los objetos, textiles y detalles. Con <a href=\"/renders-interiores/\">renders de interiores</a> se ve el resultado antes de comprar o reformar.",
+  "datos": [
+    ["Qué es", "El diseño de los espacios interiores pensando en su uso"],
+    ["Qué decide", "Distribución, materiales, color, iluminación y mobiliario"],
+    ["Interiorismo y decoración", "El interiorismo define el espacio; la decoración, los objetos y detalles"],
+    ["Estilos", "Nórdico, industrial, mediterráneo, minimalista, clásico y contemporáneo"],
+    ["Herramientas", "Planos de distribución, modelado 3D y renders de interiores"]
+  ],
+  "secciones": [
+    {
+      "h2": "¿Qué es el interiorismo?",
+      "html": "<p>El interiorismo trabaja desde dentro: parte de cómo vive o trabaja la gente en un espacio y lo organiza para que funcione. Puede mover tabiques, cambiar suelos y revestimientos, diseñar muebles a medida y planificar la luz. Lo hace el <a href=\"/interiorista/\">interiorista</a>, a menudo junto al arquitecto.</p>",
+      "sub": [
+        { "h3": "Interiorismo y decoración: la diferencia", "html": "<p>La decoración elige objetos, textiles, color y complementos sobre un espacio que ya está definido. El interiorismo va antes y más allá: define el propio espacio. Por eso un proyecto de interiorismo suele incluir planos, y uno de decoración no siempre.</p>" }
+      ]
+    },
+    {
+      "h2": "Fases de un proyecto de interiorismo",
+      "html": "<ol><li><strong>Necesidades</strong>: quién usa el espacio, cómo y qué estilo le gusta.</li><li><strong>Distribución</strong>: planos con la colocación de muebles y zonas.</li><li><strong>Concepto</strong>: estilo, materiales, colores e iluminación.</li><li><strong>Imágenes 3D</strong>: renders para ver el resultado y ajustar.</li><li><strong>Ejecución</strong>: compra de muebles, obra y montaje.</li></ol>"
+    },
+    {
+      "h2": "Estilos de interiorismo",
+      "html": "<ul><li><strong>Nórdico</strong>: luz, madera clara y colores suaves.</li><li><strong>Industrial</strong>: ladrillo visto, metal y espacios abiertos (ver <a href=\"/arquitectura-industrial/\">arquitectura industrial</a>).</li><li><strong>Mediterráneo</strong>: blancos, fibras naturales y luz del sol (ver <a href=\"/arquitectura-mediterranea/\">arquitectura mediterránea</a>).</li><li><strong>Minimalista</strong>: pocos elementos, líneas limpias y orden.</li><li><strong>Clásico y contemporáneo</strong>: molduras y piezas de siempre, o líneas y materiales actuales.</li></ul>"
+    },
+    {
+      "h2": "Renders de interiores",
+      "html": "<p>Los renders muestran el espacio terminado, con sus muebles, materiales y luz, antes de comprar nada. Sirven para salones, cocinas, dormitorios, baños, oficinas y locales (ver <a href=\"/render-sala/\">render de salas</a>, <a href=\"/renders-de-cocinas/\">renders de cocinas</a> y <a href=\"/renders-habitaciones/\">renders de habitaciones</a>). Si el objetivo es vender o alquilar una vivienda, el <a href=\"/home-staging/\">home staging</a> amuebla los espacios en 3D.</p>"
+    }
+  ],
+  "galeria_titulo": "Imágenes de interiores",
+  "galeria": [
+    { "src": "/img/2024/01/renders-de-salas.jpg", "alt": "Render de un salón de estilo industrial con escalera" },
+    { "src": "/img/2024/06/Render-Oficina-interior.jpg", "alt": "Render del interior de una oficina" }
+  ],
+  "faq": [
+    { "q": "¿Qué es el interiorismo?", "a": "El diseño de los espacios interiores pensando en cómo se usan: distribución, materiales, color, iluminación y mobiliario." },
+    { "q": "¿Qué diferencia hay entre interiorismo y decoración?", "a": "El interiorismo define el espacio (distribución, materiales, luz, muebles a medida); la decoración elige los objetos, textiles y detalles sobre un espacio ya definido." },
+    { "q": "¿Cuáles son las fases de un proyecto de interiorismo?", "a": "Conocer las necesidades, plantear la distribución, definir el concepto (estilo, materiales, color y luz), verlo en 3D y ejecutarlo." },
+    { "q": "¿Para qué sirven los renders de interiores?", "a": "Para ver el espacio terminado con sus muebles, materiales y luz antes de comprar o reformar, y ajustar lo que haga falta." }
+  ],
+  "cierre": { "h2": "¿Quieres rediseñar un espacio?", "html": "<p>Cuéntanos qué espacio quieres cambiar y cómo lo usas, y te ayudamos con la distribución y las imágenes de tu interior.</p>", "boton": "Contactar" }
+}

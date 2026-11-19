@@ -37,6 +37,6 @@ export function migasDe(url: string, nombre: string, menu?: string): Miga[] {
   const pais = esPais.has(slug) ? undefined : paisDeCiudad(slug, menu, mapa);
   if (pais) return [inicio, renders, { nombre: nombrePais[pais] ?? pais, url: `${DOMINIO}/${pais}/` }, { nombre, url }];
   // Los estilos que no están en el menú original (los nuevos) cuelgan de Tipos de arquitectura
-  const seccion = seccionDe(ruta, menu) ?? (articulos.estilos.includes(slug) ? { nombre: 'Tipos', url: `${DOMINIO}/tipos-de-arquitectura/` } : (articulos as any).renders?.includes(slug) ? { nombre: 'Tipos de renders', url: `${DOMINIO}/tipos-de-renders/` } : undefined);
+  const seccion = seccionDe(ruta, menu) ?? (articulos.estilos.includes(slug) ? { nombre: 'Tipos', url: `${DOMINIO}/tipos-de-arquitectura/` } : (articulos as any).renders?.includes(slug) ? { nombre: 'Tipos de renders', url: `${DOMINIO}/tipos-de-renders/` } : (articulos as any).servicios?.includes(slug) ? { nombre: 'Servicios', url: `${DOMINIO}/servicios-de-arquitectura/` } : undefined);
   return seccion ? [inicio, seccion, { nombre, url }] : [inicio, { nombre, url }];
 }
