@@ -22,6 +22,8 @@ AdSense ca-pub-7333712322602518 (el mensaje de privacidad de Google ya sale en l
 Titular: Yamandu Rodriguez, Y8543818E, Calle de Finestrat, Valencia · Palabras prohibidas: [pendiente]
 Páginas con tráfico: arquitectura-bizantina, -incaica, -urbana, -maya; renders-guatemala, -paraguay, -uruguay (detalle en informes/inventario.md)
 
+Páginas nuevas (no de WordPress): textos en src/data/nuevas/<slug>.json → `scripts/paginas-nuevas.mjs` (en `npm run generar`) → src/content/nuevas/. El 19-11-2026: gótica, renacentista, egipcia, azteca y brutalista (aprobadas). Pendientes: informes/paginas-nuevas.md.
+
 ## Reglas
 Método: PROMPT-MIGRACION-V7.md. Contenido original intocable salvo petición.
 Nada inventado. Lo nuevo desde src/data/. `npm run todo` y `todo:visual` a 0.
