@@ -72,7 +72,7 @@ CLS sigue en 0. Los estilos pasan de unos 600 KB más el fichero de cada página
 ## Comprobaciones
 `npm run todo` y `todo:visual`, a 0.
 
-## Diseño 2: estructura de casascontenedores.es (19-11-2026, en la rama `diseno-v2`, sin aprobar)
+## Diseño 2: estructura de casascontenedores.es (19-11-2026, aprobado por Yama el mismo día: «Apruebo el diseño»; en main)
 Yama: «mira casascontenedores.es, más que nada la estructura del diseño, y armar un diseño similar pero con los colores de esta web y sabiendo que es de arquitectura».
 - **Qué se copia de la estructura:**
   - Página en una hoja blanca centrada sobre fondo piedra.
