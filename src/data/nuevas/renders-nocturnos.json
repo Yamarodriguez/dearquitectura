@@ -1,0 +1,53 @@
+{
+  "slug": "renders-nocturnos",
+  "tipo": "render",
+  "menu": "renders",
+  "titulo": "Renders Nocturnos",
+  "h1": "Renders Nocturnos",
+  "subtitulo": "Tu proyecto iluminado de noche",
+  "titulo_seo": "Renders nocturnos: tu proyecto iluminado de noche",
+  "descripcion": "Qué es un render nocturno y para qué sirve: ver el proyecto de noche, con su iluminación exterior e interior, para casas, edificios y locales. Pide presupuesto.",
+  "palabra_clave": "renders nocturnos",
+  "fecha": "2026-11-19 18:00:00",
+  "foto": { "src": "/img/2024/01/renders-nocturnos.jpg", "alt": "Render nocturno de viviendas con la luz interior encendida" },
+  "boton": { "texto": "Pide presupuesto", "url": "/contacto/" },
+  "intro": "<p>Un <strong>render nocturno</strong> muestra el proyecto <strong>de noche</strong> o al anochecer, con sus luces encendidas: la iluminación del jardín, de la fachada y la que sale por las ventanas. Es una de las imágenes que más transmite de un proyecto.</p>",
+  "resumen": "Los <strong>renders nocturnos</strong> son imágenes de un proyecto de noche, con su <strong>iluminación artificial</strong>. Sirven para estudiar el <strong>proyecto de iluminación</strong> exterior, mostrar el ambiente de un local o una vivienda al caer la tarde y completar las vistas de día en presentaciones y en la <a href=\"/renders-marketing/\">publicidad</a> inmobiliaria.",
+  "datos": [
+    ["Qué es", "Imagen del proyecto de noche o al anochecer, con sus luces encendidas"],
+    ["Qué muestra", "Iluminación de fachada, jardín, piscina, accesos y luz interior"],
+    ["Para qué sirve", "Estudiar la iluminación y dar ambiente a presentaciones y anuncios"],
+    ["Para quién", "Particulares, arquitectos, promotoras, hoteles y locales de hostelería"],
+    ["Cuándo se usa", "Casi siempre junto a una vista de día del mismo proyecto"]
+  ],
+  "secciones": [
+    {
+      "h2": "¿Qué es un render nocturno?",
+      "html": "<p>Es un <a href=\"/renders-exteriores/\">render exterior</a> (o interior) en el que se apaga el sol y se encienden las luces del proyecto. Cada foco, tira de LED o lámpara se coloca y se gradúa como en la realidad, y el cielo suele mostrarse en el azul del anochecer, que es cuando mejor se ven a la vez el edificio y su iluminación.</p>"
+    },
+    {
+      "h2": "¿Para qué sirve?",
+      "html": "",
+      "sub": [
+        { "h3": "Diseñar la iluminación", "html": "<p>Ayuda a decidir dónde poner luces en la fachada, el jardín o la piscina, y qué tono y potencia deben tener, antes de instalarlas.</p>" },
+        { "h3": "Transmitir un ambiente", "html": "<p>En hoteles, restaurantes, terrazas o viviendas de alto nivel, la imagen de noche cuenta cómo se vive el espacio.</p>" },
+        { "h3": "Destacar en una presentación", "html": "<p>La pareja de vistas de día y de noche del mismo punto de vista es un recurso muy habitual en folletos y portales inmobiliarios.</p>" }
+      ]
+    },
+    {
+      "h2": "¿Qué incluye?",
+      "html": "<ul><li><strong>Iluminación exterior</strong>: fachada, caminos, jardín, piscina y accesos.</li><li><strong>Luz interior</strong> que se ve a través de las ventanas.</li><li><strong>Cielo y ambiente</strong> de anochecer o de noche cerrada.</li><li><strong>Reflejos</strong> en el agua, el vidrio y los suelos mojados, si se quiere.</li></ul>"
+    },
+    {
+      "h2": "¿Cómo se hace?",
+      "html": "<ol><li><strong>Modelo 3D</strong> del proyecto (el mismo que para las vistas de día, si existen).</li><li><strong>Diseño de la iluminación</strong>: posición, tipo y color de cada luz.</li><li><strong>Render</strong> con la luz nocturna.</li><li><strong>Retoque</strong> del cielo y del ambiente.</li><li><strong>Revisión</strong> y ajustes antes de la entrega.</li></ol>"
+    }
+  ],
+  "faq": [
+    { "q": "¿Qué es un render nocturno?", "a": "Una imagen de un proyecto de noche o al anochecer, con su iluminación exterior e interior encendida, hecha por ordenador antes de construirlo." },
+    { "q": "¿Para qué sirve un render de noche?", "a": "Para diseñar la iluminación de la fachada, el jardín o la piscina, y para mostrar el ambiente del proyecto en presentaciones y anuncios." },
+    { "q": "¿Se puede hacer a partir de un render de día?", "a": "Sí. Se parte del mismo modelo 3D y se cambia la luz: se apaga el sol y se encienden las luces del proyecto." },
+    { "q": "¿Por qué muchos renders nocturnos tienen el cielo azul?", "a": "Porque se ambientan en la «hora azul», justo después de la puesta de sol, cuando todavía se distingue el edificio y ya se ven sus luces." }
+  ],
+  "cierre": { "h2": "¿Quieres ver tu proyecto de noche?", "html": "<p>Cuéntanos qué proyecto tienes y si ya existen vistas de día, y te preparamos un presupuesto.</p>", "boton": "Pide presupuesto" }
+}

@@ -4,19 +4,40 @@
   "h1": "Arquitectura Brutalista",
   "subtitulo": "La fuerza del hormigón visto",
   "titulo_seo": "Arquitectura brutalista: qué es, características y ejemplos",
-  "descripcion": "Hormigón visto, volúmenes rotundos y estructura a la vista: qué es el brutalismo, su historia y sus obras, de Le Corbusier al Barbican y la Biblioteca Nacional de Buenos Aires.",
+  "descripcion": "Hormigón visto y volúmenes rotundos: qué es el brutalismo, su historia y sus obras, de Le Corbusier al Barbican y la Biblioteca Nacional argentina.",
   "palabra_clave": "arquitectura brutalista",
   "fecha": "2026-11-19 12:00:00",
-  "foto": { "src": "/img/2023/12/brutalismo-arquitectura.jpg", "alt": "Brutalismo en arquitectura" },
+  "foto": {
+    "src": "/img/2023/12/brutalismo-arquitectura.jpg",
+    "alt": "Brutalismo en arquitectura"
+  },
   "intro": "<p>El <strong>brutalismo</strong> es una corriente de la <a href=\"/arquitectura-moderna/\">arquitectura moderna</a> que tuvo su auge entre los años cincuenta y setenta del siglo XX. Su seña de identidad es el <strong>hormigón visto</strong>: sin revestir, con la huella del encofrado a la vista.</p>",
   "resumen": "El <strong>brutalismo</strong> es un estilo de la arquitectura moderna (años 1950 a 1970) que muestra los materiales tal como son, sobre todo el <strong>hormigón visto</strong>, con volúmenes rotundos y la estructura a la vista. El nombre viene del francés <em>béton brut</em> («hormigón bruto»), la expresión de Le Corbusier. Ejemplos: la Unité d'Habitation de Le Corbusier, el Barbican de Londres, Torres Blancas en Madrid y la Biblioteca Nacional de Buenos Aires.",
   "datos": [
-    ["Época", "Años 1950 a 1970 (con obras hasta los 90)"],
-    ["Origen", "Europa (Francia y Reino Unido), y después todo el mundo"],
-    ["Materiales", "Hormigón visto, ladrillo, acero y vidrio"],
-    ["Rasgos", "Hormigón sin revestir, volúmenes pesados, estructura y funciones a la vista, repetición de módulos"],
-    ["Arquitectos", "Le Corbusier, Alison y Peter Smithson, Paul Rudolph, Clorindo Testa, Paulo Mendes da Rocha, Lina Bo Bardi"],
-    ["Obras clave", "Unité d'Habitation, Barbican Estate, Torres Blancas, Biblioteca Nacional Mariano Moreno"]
+    [
+      "Época",
+      "Años 1950 a 1970 (con obras hasta los 90)"
+    ],
+    [
+      "Origen",
+      "Europa (Francia y Reino Unido), y después todo el mundo"
+    ],
+    [
+      "Materiales",
+      "Hormigón visto, ladrillo, acero y vidrio"
+    ],
+    [
+      "Rasgos",
+      "Hormigón sin revestir, volúmenes pesados, estructura y funciones a la vista, repetición de módulos"
+    ],
+    [
+      "Arquitectos",
+      "Le Corbusier, Alison y Peter Smithson, Paul Rudolph, Clorindo Testa, Paulo Mendes da Rocha, Lina Bo Bardi"
+    ],
+    [
+      "Obras clave",
+      "Unité d'Habitation, Barbican Estate, Torres Blancas, Biblioteca Nacional Mariano Moreno"
+    ]
   ],
   "secciones": [
     {
@@ -27,11 +48,26 @@
       "h2": "Características de la arquitectura brutalista",
       "html": "<p>El brutalismo nace de una idea casi moral: no esconder nada. El edificio muestra de qué está hecho y cómo funciona.</p>",
       "sub": [
-        { "h3": "Hormigón visto", "html": "<p>El hormigón queda sin pintar ni revestir, a menudo con la textura de las tablas de madera del encofrado marcada en la superficie.</p>" },
-        { "h3": "Volúmenes rotundos y geométricos", "html": "<p>Formas pesadas y contundentes, con grandes voladizos y bloques que sobresalen.</p>" },
-        { "h3": "Estructura y funciones a la vista", "html": "<p>Pilares, vigas, escaleras e instalaciones se dejan ver; la forma del edificio explica lo que pasa dentro.</p>" },
-        { "h3": "Repetición y módulos", "html": "<p>Ventanas, balcones y piezas prefabricadas se repiten, sobre todo en los grandes conjuntos de viviendas.</p>" },
-        { "h3": "Honestidad material", "html": "<p>Además del hormigón, se usan ladrillo, acero y vidrio sin disimular, en la línea de la <a href=\"/arquitectura-industrial/\">arquitectura industrial</a>.</p>" }
+        {
+          "h3": "Hormigón visto",
+          "html": "<p>El hormigón queda sin pintar ni revestir, a menudo con la textura de las tablas de madera del encofrado marcada en la superficie.</p>"
+        },
+        {
+          "h3": "Volúmenes rotundos y geométricos",
+          "html": "<p>Formas pesadas y contundentes, con grandes voladizos y bloques que sobresalen.</p>"
+        },
+        {
+          "h3": "Estructura y funciones a la vista",
+          "html": "<p>Pilares, vigas, escaleras e instalaciones se dejan ver; la forma del edificio explica lo que pasa dentro.</p>"
+        },
+        {
+          "h3": "Repetición y módulos",
+          "html": "<p>Ventanas, balcones y piezas prefabricadas se repiten, sobre todo en los grandes conjuntos de viviendas.</p>"
+        },
+        {
+          "h3": "Honestidad material",
+          "html": "<p>Además del hormigón, se usan ladrillo, acero y vidrio sin disimular, en la línea de la <a href=\"/arquitectura-industrial/\">arquitectura industrial</a>.</p>"
+        }
       ]
     },
     {
@@ -48,32 +84,82 @@
     {
       "nombre": "Unité d'Habitation (Le Corbusier)",
       "html": "<p>Grandes bloques de viviendas con calles interiores y servicios. La primera, la de Marsella (1947–1952), tiene 337 viviendas y es Patrimonio de la Humanidad. En la foto, la Unité de Berlín (1957–1958).</p>",
-      "foto": { "src": "/img/2026/11/unite-d-habitation.jpg", "alt": "Unité d'Habitation de Le Corbusier en Berlín", "credito": { "autor": "A. Savin", "licencia": "FAL", "ficha": "https://commons.wikimedia.org/wiki/File:Corbusierhaus_B-Westend_06-2017.jpg" } }
+      "foto": {
+        "src": "/img/2026/11/unite-d-habitation.jpg",
+        "alt": "Unité d'Habitation de Le Corbusier en Berlín",
+        "credito": {
+          "autor": "A. Savin",
+          "licencia": "FAL",
+          "ficha": "https://commons.wikimedia.org/wiki/File:Corbusierhaus_B-Westend_06-2017.jpg"
+        }
+      }
     },
     {
       "nombre": "Barbican Estate (Londres)",
       "html": "<p>Conjunto de viviendas, torres y centro cultural levantado entre los años sesenta y setenta por Chamberlin, Powell y Bon, sobre una zona bombardeada en la Segunda Guerra Mundial.</p>",
-      "foto": { "src": "/img/2026/11/barbican-estate.jpg", "alt": "Torres del Barbican Estate en Londres", "credito": { "autor": "Riodamascus", "licencia": "CC BY-SA 3.0", "ficha": "https://commons.wikimedia.org/wiki/File:Barbican_towers.jpg" } }
+      "foto": {
+        "src": "/img/2026/11/barbican-estate.jpg",
+        "alt": "Torres del Barbican Estate en Londres",
+        "credito": {
+          "autor": "Riodamascus",
+          "licencia": "CC BY-SA 3.0",
+          "ficha": "https://commons.wikimedia.org/wiki/File:Barbican_towers.jpg"
+        }
+      }
     },
     {
       "nombre": "Torres Blancas (Madrid)",
       "html": "<p>Torre de viviendas de Francisco Javier Sáenz de Oiza, terminada en 1969, con terrazas curvas que recuerdan un árbol de hormigón.</p>",
-      "foto": { "src": "/img/2026/11/torres-blancas.jpg", "alt": "Torres Blancas en Madrid", "credito": { "autor": "Luis García (Zaqarbal)", "licencia": "CC BY-SA 3.0", "ficha": "https://commons.wikimedia.org/wiki/File:Torres_Blancas_(Madrid)_04.jpg" } }
+      "foto": {
+        "src": "/img/2026/11/torres-blancas.jpg",
+        "alt": "Torres Blancas en Madrid",
+        "credito": {
+          "autor": "Luis García (Zaqarbal)",
+          "licencia": "CC BY-SA 3.0",
+          "ficha": "https://commons.wikimedia.org/wiki/File:Torres_Blancas_(Madrid)_04.jpg"
+        }
+      }
     },
     {
       "nombre": "Biblioteca Nacional Mariano Moreno (Buenos Aires)",
       "html": "<p>Proyectada en 1962 por Clorindo Testa, Francisco Bullrich y Alicia Cazzaniga e inaugurada en 1992. Un gran volumen de hormigón que flota sobre cuatro apoyos.</p>",
-      "foto": { "src": "/img/2026/11/biblioteca-nacional-mariano-moreno.jpg", "alt": "Biblioteca Nacional Mariano Moreno en Buenos Aires", "credito": { "autor": "Gobierno de la Ciudad de Buenos Aires", "licencia": "CC BY 2.5 AR", "ficha": "https://commons.wikimedia.org/wiki/File:Biblioteca_Nacional_BA.jpg" } }
+      "foto": {
+        "src": "/img/2026/11/biblioteca-nacional-mariano-moreno.jpg",
+        "alt": "Biblioteca Nacional Mariano Moreno en Buenos Aires",
+        "credito": {
+          "autor": "Gobierno de la Ciudad de Buenos Aires",
+          "licencia": "CC BY 2.5 AR",
+          "ficha": "https://commons.wikimedia.org/wiki/File:Biblioteca_Nacional_BA.jpg"
+        }
+      }
     }
   ],
   "faq": [
-    { "q": "¿Por qué se llama arquitectura brutalista?", "a": "Por el francés «béton brut», hormigón bruto o en crudo, la expresión que usaba Le Corbusier para el hormigón sin revestir. No viene de «brutal»." },
-    { "q": "¿Cuáles son las características del brutalismo?", "a": "El hormigón visto, los volúmenes pesados y geométricos, la estructura y las funciones a la vista, la repetición de módulos y el uso honesto de los materiales." },
-    { "q": "¿Qué arquitectos fueron brutalistas?", "a": "Le Corbusier, Alison y Peter Smithson, Paul Rudolph, Denys Lasdun y, en Latinoamérica, Clorindo Testa, Paulo Mendes da Rocha y Lina Bo Bardi, entre otros." },
-    { "q": "¿Qué diferencia hay entre el brutalismo y la arquitectura moderna?", "a": "El brutalismo es una corriente dentro de la arquitectura moderna. Comparte su idea de función y sencillez, pero apuesta por el hormigón visto y las formas pesadas, frente al vidrio y la ligereza de otras corrientes." }
+    {
+      "q": "¿Por qué se llama arquitectura brutalista?",
+      "a": "Por el francés «béton brut», hormigón bruto o en crudo, la expresión que usaba Le Corbusier para el hormigón sin revestir. No viene de «brutal»."
+    },
+    {
+      "q": "¿Cuáles son las características del brutalismo?",
+      "a": "El hormigón visto, los volúmenes pesados y geométricos, la estructura y las funciones a la vista, la repetición de módulos y el uso honesto de los materiales."
+    },
+    {
+      "q": "¿Qué arquitectos fueron brutalistas?",
+      "a": "Le Corbusier, Alison y Peter Smithson, Paul Rudolph, Denys Lasdun y, en Latinoamérica, Clorindo Testa, Paulo Mendes da Rocha y Lina Bo Bardi, entre otros."
+    },
+    {
+      "q": "¿Qué diferencia hay entre el brutalismo y la arquitectura moderna?",
+      "a": "El brutalismo es una corriente dentro de la arquitectura moderna. Comparte su idea de función y sencillez, pero apuesta por el hormigón visto y las formas pesadas, frente al vidrio y la ligereza de otras corrientes."
+    }
   ],
   "fuentes": [
-    { "texto": "Arquitectura brutalista — Wikipedia", "url": "https://es.wikipedia.org/wiki/Brutalismo" },
-    { "texto": "La obra arquitectónica de Le Corbusier — Patrimonio Mundial de la UNESCO", "url": "https://whc.unesco.org/es/list/1321" }
+    {
+      "texto": "Arquitectura brutalista — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Brutalismo"
+    },
+    {
+      "texto": "La obra arquitectónica de Le Corbusier — Patrimonio Mundial de la UNESCO",
+      "url": "https://whc.unesco.org/es/list/1321"
+    }
   ]
 }

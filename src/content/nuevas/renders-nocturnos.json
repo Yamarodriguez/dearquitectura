@@ -1,0 +1,494 @@
+{
+ "slug": "renders-nocturnos",
+ "id": "nueva",
+ "title": "Renders Nocturnos",
+ "titulo_seo": "Renders nocturnos: tu proyecto iluminado de noche",
+ "url": "https://dearquitectura.info/renders-nocturnos/",
+ "nueva": true,
+ "meta_description": "Qué es un render nocturno y para qué sirve: ver el proyecto de noche, con su iluminación exterior e interior, para casas, edificios y locales. Pide presupuesto.",
+ "palabra_clave": "renders nocturnos",
+ "menu": "renders",
+ "logo": "",
+ "foto_destacada": "/img/2024/01/renders-nocturnos.jpg",
+ "fecha": "2026-11-19 18:00:00",
+ "modificada": "2026-11-19 18:00:00",
+ "fecha_gmt": "2026-11-19 18:00:00",
+ "modificada_gmt": "2026-11-19 18:00:00",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-nocturnos.jpg",
+   "alt": "Render nocturno de viviendas con la luz interior encendida",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "Renders Nocturnos"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Tu proyecto iluminado de noche"
+  },
+  {
+   "type": "text",
+   "html": "<p>Un <strong>render nocturno</strong> muestra el proyecto <strong>de noche</strong> o al anochecer, con sus luces encendidas: la iluminación del jardín, de la fachada y la que sale por las ventanas. Es una de las imágenes que más transmite de un proyecto.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen"
+  },
+  {
+   "type": "text",
+   "html": "<p>Los <strong>renders nocturnos</strong> son imágenes de un proyecto de noche, con su <strong>iluminación artificial</strong>. Sirven para estudiar el <strong>proyecto de iluminación</strong> exterior, mostrar el ambiente de un local o una vivienda al caer la tarde y completar las vistas de día en presentaciones y en la <a href=\"/renders-marketing/\">publicidad</a> inmobiliaria.</p>"
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Qué es</th><td>Imagen del proyecto de noche o al anochecer, con sus luces encendidas</td></tr><tr><th scope=\"row\">Qué muestra</th><td>Iluminación de fachada, jardín, piscina, accesos y luz interior</td></tr><tr><th scope=\"row\">Para qué sirve</th><td>Estudiar la iluminación y dar ambiente a presentaciones y anuncios</td></tr><tr><th scope=\"row\">Para quién</th><td>Particulares, arquitectos, promotoras, hoteles y locales de hostelería</td></tr><tr><th scope=\"row\">Cuándo se usa</th><td>Casi siempre junto a una vista de día del mismo proyecto</td></tr></tbody></table>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Qué es un render nocturno?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Es un <a href=\"/renders-exteriores/\">render exterior</a> (o interior) en el que se apaga el sol y se encienden las luces del proyecto. Cada foco, tira de LED o lámpara se coloca y se gradúa como en la realidad, y el cielo suele mostrarse en el azul del anochecer, que es cuando mejor se ven a la vez el edificio y su iluminación.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Para qué sirve?"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Diseñar la iluminación"
+  },
+  {
+   "type": "text",
+   "html": "<p>Ayuda a decidir dónde poner luces en la fachada, el jardín o la piscina, y qué tono y potencia deben tener, antes de instalarlas.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Transmitir un ambiente"
+  },
+  {
+   "type": "text",
+   "html": "<p>En hoteles, restaurantes, terrazas o viviendas de alto nivel, la imagen de noche cuenta cómo se vive el espacio.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Destacar en una presentación"
+  },
+  {
+   "type": "text",
+   "html": "<p>La pareja de vistas de día y de noche del mismo punto de vista es un recurso muy habitual en folletos y portales inmobiliarios.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Qué incluye?"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><strong>Iluminación exterior</strong>: fachada, caminos, jardín, piscina y accesos.</li><li><strong>Luz interior</strong> que se ve a través de las ventanas.</li><li><strong>Cielo y ambiente</strong> de anochecer o de noche cerrada.</li><li><strong>Reflejos</strong> en el agua, el vidrio y los suelos mojados, si se quiere.</li></ul>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Cómo se hace?"
+  },
+  {
+   "type": "text",
+   "html": "<ol><li><strong>Modelo 3D</strong> del proyecto (el mismo que para las vistas de día, si existen).</li><li><strong>Diseño de la iluminación</strong>: posición, tipo y color de cada luz.</li><li><strong>Render</strong> con la luz nocturna.</li><li><strong>Retoque</strong> del cielo y del ambiente.</li><li><strong>Revisión</strong> y ajustes antes de la entrega.</li></ol>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes"
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Qué es un render nocturno?",
+     "html": "<p>Una imagen de un proyecto de noche o al anochecer, con su iluminación exterior e interior encendida, hecha por ordenador antes de construirlo.</p>"
+    },
+    {
+     "title": "¿Para qué sirve un render de noche?",
+     "html": "<p>Para diseñar la iluminación de la fachada, el jardín o la piscina, y para mostrar el ambiente del proyecto en presentaciones y anuncios.</p>"
+    },
+    {
+     "title": "¿Se puede hacer a partir de un render de día?",
+     "html": "<p>Sí. Se parte del mismo modelo 3D y se cambia la luz: se apaga el sol y se encienden las luces del proyecto.</p>"
+    },
+    {
+     "title": "¿Por qué muchos renders nocturnos tienen el cielo azul?",
+     "html": "<p>Porque se ambientan en la «hora azul», justo después de la puesta de sol, cuando todavía se distingue el edificio y ya se ven sus luces.</p>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Quieres ver tu proyecto de noche?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Cuéntanos qué proyecto tienes y si ya existen vistas de día, y te preparamos un presupuesto.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  }
+ ],
+ "elementor": [
+  {
+   "t": "c",
+   "id": "fe51674",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "5f5457f",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "504e405",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 0
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "93e1cd0",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "c274c05",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h1",
+       "size": "default",
+       "b": 1
+      },
+      {
+       "t": "w",
+       "id": "f005c16",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 2
+      },
+      {
+       "t": "w",
+       "id": "f06a6f1",
+       "wt": "divider",
+       "cls": "elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "7bf2e75",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 3
+      },
+      {
+       "t": "w",
+       "id": "d5017bd",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "60f6b68",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-resumen",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "6b86cb6",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "e5cb201",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 5
+      },
+      {
+       "t": "w",
+       "id": "0dfdf64",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 6
+      },
+      {
+       "t": "w",
+       "id": "4356e05",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "0655543",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "511d696",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "39751f5",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 8
+      },
+      {
+       "t": "w",
+       "id": "eef5a55",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "d6d40c4",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "fed7a32",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "2ec6b33",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 10
+      },
+      {
+       "t": "w",
+       "id": "f33d783",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 11
+      },
+      {
+       "t": "w",
+       "id": "81c2fa4",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 12
+      },
+      {
+       "t": "w",
+       "id": "69b5987",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 13
+      },
+      {
+       "t": "w",
+       "id": "6612c3d",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 14
+      },
+      {
+       "t": "w",
+       "id": "0d11cbc",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 15
+      },
+      {
+       "t": "w",
+       "id": "0726ac4",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 16
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "efa17ef",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "306fbb3",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "3757b44",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 17
+      },
+      {
+       "t": "w",
+       "id": "ff0f092",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 18
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "d349e9e",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "815d7ba",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "546ece4",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 19
+      },
+      {
+       "t": "w",
+       "id": "9f1f729",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "2176bdb",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "1f656fa",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "9003238",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 21
+      },
+      {
+       "t": "w",
+       "id": "fd9780c",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 22
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "0a42b54",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-cierre",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "562799b",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "2272c9a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 23
+      },
+      {
+       "t": "w",
+       "id": "c532c66",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 24
+      },
+      {
+       "t": "w",
+       "id": "f4dfe3b",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 25
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

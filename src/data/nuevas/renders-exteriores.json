@@ -1,0 +1,118 @@
+{
+  "slug": "renders-exteriores",
+  "tipo": "render",
+  "menu": "renders",
+  "titulo": "Renders Exteriores",
+  "h1": "Renders Exteriores",
+  "subtitulo": "Fachada, jardín y entorno antes de construir",
+  "titulo_seo": "Renders exteriores: casas, edificios y jardines",
+  "descripcion": "Qué es un render exterior y qué incluye: fachada, jardín, piscina y entorno con luz natural, para casas, edificios y promociones. Pide presupuesto.",
+  "palabra_clave": "renders exteriores",
+  "fecha": "2026-11-19 18:00:00",
+  "foto": {
+    "src": "/img/2024/01/render-exterior.jpg",
+    "alt": "Render exterior de un edificio de viviendas"
+  },
+  "boton": {
+    "texto": "Pide presupuesto",
+    "url": "/contacto/"
+  },
+  "intro": "<p>Un <strong>render exterior</strong> es una imagen creada por ordenador que muestra cómo se verá un edificio por fuera: su <strong>fachada</strong>, los materiales, el <strong>jardín</strong>, la piscina y el entorno, con la luz del sol a la hora que se elija.</p>",
+  "resumen": "Los <strong>renders exteriores</strong> son imágenes fotorrealistas del exterior de un proyecto, hechas a partir de sus planos antes de construirlo. Sirven para <strong>decidir el diseño</strong>, presentar el proyecto a clientes o ayuntamientos y <strong>vender sobre plano</strong>. Se usan para casas, bloques de viviendas, promociones, locales y edificios públicos.",
+  "datos": [
+    [
+      "Qué es",
+      "Imagen fotorrealista del exterior de un proyecto, hecha por ordenador"
+    ],
+    [
+      "Qué se ve",
+      "Fachada, cubierta, materiales, jardín, piscina, accesos y entorno"
+    ],
+    [
+      "Para qué sirve",
+      "Decidir el diseño, presentarlo y vender antes de construir"
+    ],
+    [
+      "Para quién",
+      "Particulares, arquitectos, constructoras, promotoras e inmobiliarias"
+    ],
+    [
+      "Qué hace falta",
+      "Planos (plantas y alzados) o un modelo 3D, y las ideas de materiales"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "¿Qué es un render exterior?",
+      "html": "<p>Es una imagen que se obtiene a partir de un <a href=\"/modelado-3d/\">modelo 3D</a> del edificio. En ese modelo se colocan los materiales (piedra, ladrillo, madera, vidrio), la vegetación, el mobiliario exterior y una iluminación que imita la del sol. El ordenador calcula cómo rebota la luz y el resultado es una imagen que parece una fotografía.</p><p>A diferencia de un <a href=\"/renders-interiores/\">render de interiores</a>, el exterior se centra en el volumen del edificio y en cómo encaja en su parcela y en su calle.</p>"
+    },
+    {
+      "h2": "¿Para qué sirve?",
+      "html": "<p>Un render exterior responde a una pregunta sencilla: <strong>¿cómo va a quedar?</strong></p>",
+      "sub": [
+        {
+          "h3": "Decidir antes de construir",
+          "html": "<p>Permite comparar acabados, colores de fachada o formas de cubierta sin gastar en obra. Cambiar una imagen es mucho más barato que cambiar un muro.</p>"
+        },
+        {
+          "h3": "Presentar el proyecto",
+          "html": "<p>Ayuda a que el cliente, los vecinos, un jurado o el ayuntamiento entiendan el proyecto sin tener que leer planos.</p>"
+        },
+        {
+          "h3": "Vender sobre plano",
+          "html": "<p>Las promotoras e <a href=\"/renders-para-inmobiliarias/\">inmobiliarias</a> los usan en folletos, webs y portales para vender viviendas que todavía no existen.</p>"
+        }
+      ]
+    },
+    {
+      "h2": "¿Qué incluye un render exterior?",
+      "html": "<ul><li><strong>La fachada</strong> con sus materiales, carpinterías y detalles.</li><li><strong>La cubierta</strong> y los volúmenes del edificio.</li><li><strong>El entorno</strong>: jardín, árboles, piscina, terrazas, accesos y aparcamiento.</li><li><strong>La luz</strong>: de día, al atardecer o, si se pide, de noche (ver <a href=\"/renders-nocturnos/\">renders nocturnos</a>).</li><li><strong>El punto de vista</strong>: a la altura de una persona, desde la calle o a vista de pájaro.</li></ul>"
+    },
+    {
+      "h2": "¿Cómo se hace?",
+      "html": "<ol><li><strong>Planos y referencias</strong>: plantas, alzados y fotos de los materiales o de la parcela.</li><li><strong>Modelado 3D</strong> del edificio y su entorno.</li><li><strong>Materiales e iluminación</strong>: texturas, vegetación y la luz del momento elegido.</li><li><strong>Render y retoque</strong> de la imagen final.</li><li><strong>Revisión</strong>: se ajustan los detalles que haga falta antes de la entrega.</li></ol>"
+    }
+  ],
+  "galeria_titulo": "Imágenes de renders exteriores",
+  "galeria": [
+    {
+      "src": "/img/2025/03/render-de-casa-exterior.webp",
+      "alt": "Render exterior de una casa moderna con fachada de cristal"
+    },
+    {
+      "src": "/img/2025/03/vivienda-render-exterior.webp",
+      "alt": "Render exterior de una vivienda con terraza"
+    },
+    {
+      "src": "/img/2025/03/renders-casas-exteriores.webp",
+      "alt": "Render exterior de una casa con jardín"
+    },
+    {
+      "src": "/img/2024/06/fachada-render-oficina.webp",
+      "alt": "Render exterior de un edificio de oficinas de ladrillo"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Qué es un render exterior?",
+      "a": "Una imagen fotorrealista hecha por ordenador que muestra cómo se verá un edificio por fuera, con su fachada, materiales, jardín y entorno, antes de construirlo."
+    },
+    {
+      "q": "¿Qué necesito para encargar un render exterior?",
+      "a": "Los planos del proyecto (plantas y alzados) o un modelo 3D, y las ideas de materiales y colores. Si hay parcela, ayudan fotos del terreno y del entorno."
+    },
+    {
+      "q": "¿Qué diferencia hay entre un render exterior y uno de fachada?",
+      "a": "El render de fachada se centra en la cara principal del edificio y sus acabados; el exterior muestra además el volumen completo y el entorno: jardín, piscina, calle o paisaje."
+    },
+    {
+      "q": "¿Se puede hacer un render exterior de noche?",
+      "a": "Sí. Los renders nocturnos muestran el proyecto con su iluminación artificial y suelen acompañar a las vistas de día."
+    }
+  ],
+  "cierre": {
+    "h2": "¿Quieres ver tu proyecto por fuera?",
+    "html": "<p>Cuéntanos qué tienes (planos, bocetos o un modelo 3D) y qué vistas necesitas, y te preparamos un presupuesto.</p>",
+    "boton": "Pide presupuesto"
+  }
+}

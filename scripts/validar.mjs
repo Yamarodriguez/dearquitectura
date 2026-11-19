@@ -98,6 +98,12 @@ const adsTxt = fs.existsSync('dist/ads.txt') ? fs.readFileSync('dist/ads.txt', '
 if (!adsTxt.includes(site.analytics.confirmados.adsense.replace(/^ca-/, ''))) fallos.push('ads.txt no tiene la cuenta de AdSense');
 
 for (const [u, n] of enlacesRotos) fallos.push(`enlace a una página que no existe: ${u} (en ${n} páginas)`);
+// Páginas nuevas (src/data/nuevas): título de 60 letras como mucho y descripción de 160, para que Google no los corte
+if (fs.existsSync('src/data/nuevas')) for (const f of fs.readdirSync('src/data/nuevas').filter((x) => x.endsWith('.json'))) {
+  const d = JSON.parse(fs.readFileSync(path.join('src/data/nuevas', f), 'utf8'));
+  if ((d.titulo_seo || '').length > 60) fallos.push(`${f}: título de ${d.titulo_seo.length} letras (máximo 60)`);
+  if ((d.descripcion || '').length > 160) fallos.push(`${f}: descripción de ${d.descripcion.length} letras (máximo 160)`);
+}
 fs.mkdirSync('informes', { recursive: true });
 fs.writeFileSync('informes/validador.json', JSON.stringify({ paginas: ficheros.length, fallos, avisos }, null, 1));
 console.log(`Validador: ${ficheros.length} páginas, ${fallos.length} fallos, ${avisos.length} avisos`);

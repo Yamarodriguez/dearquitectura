@@ -98,3 +98,20 @@ Es lo que más daño hace en Google (análisis, P1). Cada página nueva tiene te
   - Datos para Google: artículo, migas y preguntas frecuentes.
   - Enlaces dentro del texto a sus estilos hermanos (gótica ↔ románica y renacentista, azteca ↔ maya e inca…).
 - `npm run todo` y `todo:visual`, a 0.
+
+## Hecho: 6 tipos de render (19-11-2026, Yama: «Sí, los renders»)
+- **Páginas:** renders exteriores, de fachadas, de locales comerciales, de producto, nocturnos y de cafeterías y restaurantes, con unas 600–700 palabras cada una.
+- **Estructura (la de piscinas o salas, sin las secciones repetidas):**
+  - Portada con botón «Pide presupuesto».
+  - «En resumen» con datos clave.
+  - Qué es, para qué sirve, qué incluye y cómo se hace.
+  - Imágenes de ejemplo de la propia web, cuando hay varias.
+  - 4 preguntas frecuentes.
+  - Cierre de contacto.
+- **Lo que no se pone:** precios, plazos ni promesas.
+- **Conexiones:**
+  - Las tarjetas que ya las anunciaban llevan a ellas (se quitaron los desvíos).
+  - Están en el desplegable «Tipos» de los menús de renders y en la ruta de arriba («Inicio / Tipos de renders / …»).
+  - El bloque «Otros tipos de render» sale en las 31 páginas de tipos de render: las 25 que había y las 6 nuevas.
+- **Pendientes:** vídeo render y render de logos, a la espera de que Yama confirme si ofrece esos servicios.
+- **Comprobador:** se añade el aviso de títulos de más de 60 letras y descripciones de más de 160 en las páginas nuevas. Por esa regla se acortaron también los títulos de la azteca y la renacentista y tres descripciones de estilos.

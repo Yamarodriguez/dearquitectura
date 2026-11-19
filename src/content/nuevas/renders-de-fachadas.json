@@ -1,0 +1,556 @@
+{
+ "slug": "renders-de-fachadas",
+ "id": "nueva",
+ "title": "Renders de Fachadas",
+ "titulo_seo": "Renders de fachadas: materiales, colores y reformas",
+ "url": "https://dearquitectura.info/renders-de-fachadas/",
+ "nueva": true,
+ "meta_description": "Qué es un render de fachada y para qué sirve: comparar materiales, colores y acabados antes de una reforma o una obra nueva. Pide presupuesto.",
+ "palabra_clave": "render de fachadas",
+ "menu": "renders",
+ "logo": "",
+ "foto_destacada": "/img/2024/01/renders-fachada.jpg",
+ "fecha": "2026-11-19 18:00:00",
+ "modificada": "2026-11-19 18:00:00",
+ "fecha_gmt": "2026-11-19 18:00:00",
+ "modificada_gmt": "2026-11-19 18:00:00",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-fachada.jpg",
+   "alt": "Render de la fachada de un edificio moderno",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "Renders de Fachadas"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Elige materiales y colores con la imagen delante"
+  },
+  {
+   "type": "text",
+   "html": "<p>Un <strong>render de fachada</strong> es una imagen que muestra cómo quedará la cara exterior de un edificio con los <strong>materiales</strong>, <strong>colores</strong> y acabados que se elijan. Es la forma más clara de decidir una fachada antes de una <strong>reforma</strong> o de una obra nueva.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen"
+  },
+  {
+   "type": "text",
+   "html": "<p>Los <strong>renders de fachadas</strong> son imágenes fotorrealistas de la fachada de un edificio con sus acabados. Sirven para <strong>comparar opciones</strong> (ladrillo, revoco, piedra, madera, paneles), mostrar una <strong>rehabilitación</strong> a vecinos o comunidades y presentar proyectos al ayuntamiento. Se hacen para viviendas, bloques, oficinas y locales.</p>"
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Qué es</th><td>Imagen fotorrealista de la fachada de un edificio con sus acabados</td></tr><tr><th scope=\"row\">Para qué sirve</th><td>Comparar materiales y colores, y mostrar una reforma o una obra nueva</td></tr><tr><th scope=\"row\">Para quién</th><td>Particulares, comunidades de vecinos, arquitectos, constructoras y comercios</td></tr><tr><th scope=\"row\">Qué hace falta</th><td>Alzados o fotos de la fachada actual, y las ideas de acabados</td></tr><tr><th scope=\"row\">Variantes</th><td>Varias versiones de la misma fachada para elegir entre ellas</td></tr></tbody></table>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Qué es un render de fachada?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Es una vista de la cara principal del edificio, casi siempre de frente o en ligera perspectiva, en la que el protagonismo lo tienen los <strong>acabados</strong>: el tipo de piedra o ladrillo, el color del revoco, las carpinterías, las barandillas o la iluminación. A diferencia de un <a href=\"/renders-exteriores/\">render exterior</a> completo, se fija en la piel del edificio más que en su entorno.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Para qué sirve?"
+  },
+  {
+   "type": "text",
+   "html": "<p>La fachada es lo primero que se ve de un edificio y una de las decisiones más difíciles de cambiar después.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Comparar acabados"
+  },
+  {
+   "type": "text",
+   "html": "<p>Se pueden preparar varias versiones de la misma fachada (por ejemplo, con ladrillo claro y oscuro, o con madera o paneles) para elegir viéndolas, no imaginándolas.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Rehabilitaciones y comunidades"
+  },
+  {
+   "type": "text",
+   "html": "<p>En una reforma de fachada, una imagen del resultado ayuda a que la comunidad de vecinos entienda y apruebe la propuesta.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Locales y marcas"
+  },
+  {
+   "type": "text",
+   "html": "<p>En comercios, la fachada incluye rótulos, escaparates e iluminación; ver el conjunto evita sorpresas (ver <a href=\"/renders-locales-comerciales/\">renders de locales comerciales</a>).</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Qué incluye?"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><strong>Materiales y texturas</strong> de la fachada, con su color y su relieve.</li><li><strong>Carpinterías</strong>: ventanas, puertas, persianas y barandillas.</li><li><strong>Elementos añadidos</strong>: rótulos, toldos, vegetación o iluminación.</li><li><strong>Luz y sombras</strong> reales para que los colores se vean como en la calle.</li><li><strong>Versiones</strong> con los acabados que se quieran comparar.</li></ul>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Cómo se hace?"
+  },
+  {
+   "type": "text",
+   "html": "<ol><li><strong>Información</strong>: alzados del proyecto o fotos de la fachada actual, y las opciones de acabados.</li><li><strong><a href=\"/modelado-3d/\">Modelado 3D</a></strong> de la fachada y sus detalles.</li><li><strong>Materiales e iluminación</strong>.</li><li><strong>Render</strong> de cada versión.</li><li><strong>Revisión</strong> y ajustes antes de la entrega.</li></ol>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Imágenes de renders de fachadas"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/img/2025/03/fachada-render-de-casas.webp",
+     "alt": "Render de una fachada de ladrillo y madera"
+    },
+    {
+     "src": "/img/2025/03/render-de-casa-exterior.webp",
+     "alt": "Render de la fachada de cristal de una casa moderna"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes"
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Qué es un render de fachada?",
+     "html": "<p>Una imagen fotorrealista de la fachada de un edificio que muestra sus materiales, colores y acabados antes de construirla o reformarla.</p>"
+    },
+    {
+     "title": "¿Se puede hacer un render de mi fachada actual con otros acabados?",
+     "html": "<p>Sí. A partir de fotos o alzados de la fachada se modela y se le aplican los nuevos materiales y colores para ver el resultado de la reforma.</p>"
+    },
+    {
+     "title": "¿Puedo comparar varias opciones?",
+     "html": "<p>Sí, es uno de sus usos más habituales: la misma fachada en varias versiones para elegir la que más convence.</p>"
+    },
+    {
+     "title": "¿Sirve para una comunidad de vecinos?",
+     "html": "<p>Sí. Ver el resultado ayuda a que los vecinos entiendan la propuesta de rehabilitación y decidan con más seguridad.</p>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Dudas con tu fachada?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Mándanos alzados o fotos de la fachada y las opciones que estás valorando, y te preparamos un presupuesto.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  }
+ ],
+ "elementor": [
+  {
+   "t": "c",
+   "id": "046511b",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "724f4fb",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "188303d",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 0
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "dd69513",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "a03a8f0",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h1",
+       "size": "default",
+       "b": 1
+      },
+      {
+       "t": "w",
+       "id": "f78c4c5",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 2
+      },
+      {
+       "t": "w",
+       "id": "913390a",
+       "wt": "divider",
+       "cls": "elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "7aadb04",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 3
+      },
+      {
+       "t": "w",
+       "id": "81325c3",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "183ce1f",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-resumen",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "f9c78d6",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "9f6f0a2",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 5
+      },
+      {
+       "t": "w",
+       "id": "9896f48",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 6
+      },
+      {
+       "t": "w",
+       "id": "54e6f53",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "23bb1e0",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "a23aee8",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "929fb23",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 8
+      },
+      {
+       "t": "w",
+       "id": "4f3e233",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "f4c91f6",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "da2d42f",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "b0b5eb7",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 10
+      },
+      {
+       "t": "w",
+       "id": "20c0ae1",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 11
+      },
+      {
+       "t": "w",
+       "id": "89d27fd",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 12
+      },
+      {
+       "t": "w",
+       "id": "a7cfb44",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 13
+      },
+      {
+       "t": "w",
+       "id": "65c8144",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 14
+      },
+      {
+       "t": "w",
+       "id": "7f6a00b",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 15
+      },
+      {
+       "t": "w",
+       "id": "10d1a80",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 16
+      },
+      {
+       "t": "w",
+       "id": "cf0945b",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 17
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "f41c8f7",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "643bc79",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "9864218",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 18
+      },
+      {
+       "t": "w",
+       "id": "fc689f9",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 19
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "15c96b2",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "0bd6d58",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "bae221b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 20
+      },
+      {
+       "t": "w",
+       "id": "07584b1",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 21
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "9c9a6f1",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "916908e",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "e992d74",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 22
+      },
+      {
+       "t": "w",
+       "id": "2d7f3f0",
+       "wt": "image-gallery",
+       "cls": "elementor-widget elementor-widget-image-gallery",
+       "cols": 2,
+       "size": "large",
+       "enlace": "none",
+       "b": 23
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "0968209",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "39aefeb",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "1564a0a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 24
+      },
+      {
+       "t": "w",
+       "id": "521d82f",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "9824b32",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-cierre",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "0979fab",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "91642d0",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 26
+      },
+      {
+       "t": "w",
+       "id": "1846b70",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 27
+      },
+      {
+       "t": "w",
+       "id": "c86784e",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 28
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

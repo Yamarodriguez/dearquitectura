@@ -1,0 +1,494 @@
+{
+ "slug": "render-cafeteria",
+ "id": "nueva",
+ "title": "Render de Cafeterías y Restaurantes",
+ "titulo_seo": "Render de cafeterías y restaurantes: diseña tu local",
+ "url": "https://dearquitectura.info/render-cafeteria/",
+ "nueva": true,
+ "meta_description": "Qué es un render de cafetería o restaurante y para qué sirve: ver la barra, la sala, el mobiliario y la luz del local antes de la obra. Pide presupuesto.",
+ "palabra_clave": "render cafetería",
+ "menu": "renders",
+ "logo": "",
+ "foto_destacada": "/img/2024/01/render-cafeteria.jpg",
+ "fecha": "2026-11-19 18:00:00",
+ "modificada": "2026-11-19 18:00:00",
+ "fecha_gmt": "2026-11-19 18:00:00",
+ "modificada_gmt": "2026-11-19 18:00:00",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-cafeteria.jpg",
+   "alt": "Render de una cafetería con barra y techo de madera",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "Render de Cafeterías y Restaurantes"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Barra, sala e iluminación antes de abrir"
+  },
+  {
+   "type": "text",
+   "html": "<p>Un <strong>render de cafetería o restaurante</strong> muestra cómo quedará el local antes de abrirlo: la <strong>barra</strong>, la distribución de las <strong>mesas</strong>, los materiales, el ambiente y la <strong>iluminación</strong>.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen"
+  },
+  {
+   "type": "text",
+   "html": "<p>Los <strong>renders de cafeterías y restaurantes</strong> son imágenes fotorrealistas del interior (y, si se quiere, la fachada o la terraza) de un local de hostelería antes de la obra. Sirven para <strong>diseñar el ambiente</strong>, encajar la barra y el número de mesas, aprobar el proyecto con socios o franquicias y empezar a <strong>promocionar el local</strong> antes de la apertura.</p>"
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Qué es</th><td>Imagen fotorrealista de un local de hostelería antes de la obra</td></tr><tr><th scope=\"row\">Tipos de local</th><td>Cafeterías, bares, restaurantes, panaderías, heladerías y terrazas</td></tr><tr><th scope=\"row\">Qué muestra</th><td>Barra, sala, mobiliario, materiales, iluminación, fachada y terraza</td></tr><tr><th scope=\"row\">Para qué sirve</th><td>Diseñar el ambiente, aprobar el proyecto y promocionar la apertura</td></tr><tr><th scope=\"row\">Qué hace falta</th><td>Plano del local y la idea del concepto: estilo, colores y referencias</td></tr></tbody></table>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Qué es un render de cafetería?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Es un render de <a href=\"/renders-locales-comerciales/\">local comercial</a> pensado para la hostelería. En estos locales el ambiente es parte del negocio: los materiales, la luz cálida, la barra y cómo se reparten las mesas influyen en cuánto tiempo se queda el cliente y en las ganas de volver.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Para qué sirve?"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Diseñar el ambiente"
+  },
+  {
+   "type": "text",
+   "html": "<p>Permite probar estilos (nórdico, industrial, clásico, de diseño), materiales y colores hasta dar con el concepto del local.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Encajar la distribución"
+  },
+  {
+   "type": "text",
+   "html": "<p>Se comprueba que la barra, las mesas y los pasos funcionan, y cuántos clientes caben con comodidad.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Promocionar la apertura"
+  },
+  {
+   "type": "text",
+   "html": "<p>Las imágenes sirven para redes sociales, carteles o la web del local antes de que esté terminado.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Qué incluye?"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><strong>La barra</strong> y la zona de trabajo vista.</li><li><strong>La sala</strong>: mesas, sillas, bancos y zonas especiales.</li><li><strong>Materiales</strong>: suelos, revestimientos, techos y madera.</li><li><strong>Iluminación</strong> general y decorativa.</li><li><strong>Fachada y terraza</strong>, si se piden.</li></ul>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Cómo se hace?"
+  },
+  {
+   "type": "text",
+   "html": "<ol><li><strong>Plano del local</strong> y referencias del concepto.</li><li><strong><a href=\"/modelado-3d/\">Modelado 3D</a></strong> del espacio, la barra y el mobiliario.</li><li><strong>Materiales e iluminación</strong>.</li><li><strong>Render</strong> de las vistas acordadas.</li><li><strong>Revisión</strong> y ajustes antes de la entrega.</li></ol>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes"
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Qué es un render de cafetería o restaurante?",
+     "html": "<p>Una imagen fotorrealista de cómo quedará un local de hostelería, con su barra, mesas, materiales e iluminación, antes de hacer la obra.</p>"
+    },
+    {
+     "title": "¿Qué necesito para encargarlo?",
+     "html": "<p>El plano del local con sus medidas y la idea del concepto: estilo, colores, materiales y ejemplos de locales que te gusten.</p>"
+    },
+    {
+     "title": "¿Sirve para promocionar el local antes de abrir?",
+     "html": "<p>Sí. Las imágenes se pueden usar en redes sociales, en la web o en carteles mientras se termina la obra.</p>"
+    },
+    {
+     "title": "¿Se puede incluir la terraza?",
+     "html": "<p>Sí. La terraza y la fachada se pueden añadir como vistas exteriores, de día o de noche.</p>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Vas a abrir una cafetería o un restaurante?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Envíanos el plano del local y la idea de tu concepto, y te preparamos un presupuesto.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  }
+ ],
+ "elementor": [
+  {
+   "t": "c",
+   "id": "563d49b",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "027da05",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "2115855",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 0
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "20da06f",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "7da079e",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h1",
+       "size": "default",
+       "b": 1
+      },
+      {
+       "t": "w",
+       "id": "f1d7ef6",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 2
+      },
+      {
+       "t": "w",
+       "id": "545b500",
+       "wt": "divider",
+       "cls": "elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "a59cbaa",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 3
+      },
+      {
+       "t": "w",
+       "id": "803ee23",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "d465905",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-resumen",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "85cb69f",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d9082bb",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 5
+      },
+      {
+       "t": "w",
+       "id": "f9173a8",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 6
+      },
+      {
+       "t": "w",
+       "id": "c74ab95",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "16e3ddb",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "0515ef9",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "24941c3",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 8
+      },
+      {
+       "t": "w",
+       "id": "9654884",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "ff758f6",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "c2957ae",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "14cd07d",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 10
+      },
+      {
+       "t": "w",
+       "id": "3dbebd4",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 11
+      },
+      {
+       "t": "w",
+       "id": "545465f",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 12
+      },
+      {
+       "t": "w",
+       "id": "bad629d",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 13
+      },
+      {
+       "t": "w",
+       "id": "9ea0573",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 14
+      },
+      {
+       "t": "w",
+       "id": "d041e6c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 15
+      },
+      {
+       "t": "w",
+       "id": "dea2740",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 16
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "cd2e0de",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "4b74320",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "95c2d36",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 17
+      },
+      {
+       "t": "w",
+       "id": "52d6a5e",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 18
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "9a48932",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "9fb8b47",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "38994ce",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 19
+      },
+      {
+       "t": "w",
+       "id": "e365585",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "cc7ff03",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "8e7aded",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "3c0ba77",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 21
+      },
+      {
+       "t": "w",
+       "id": "85bddda",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 22
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "b3f3252",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-cierre",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "de84460",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "5382e11",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 23
+      },
+      {
+       "t": "w",
+       "id": "97af11f",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 24
+      },
+      {
+       "t": "w",
+       "id": "21ab5ec",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 25
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

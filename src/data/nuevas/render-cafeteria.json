@@ -1,0 +1,99 @@
+{
+  "slug": "render-cafeteria",
+  "tipo": "render",
+  "menu": "renders",
+  "titulo": "Render de Cafeterías y Restaurantes",
+  "h1": "Render de Cafeterías y Restaurantes",
+  "subtitulo": "Barra, sala e iluminación antes de abrir",
+  "titulo_seo": "Render de cafeterías y restaurantes: diseña tu local",
+  "descripcion": "Qué es un render de cafetería o restaurante y para qué sirve: ver la barra, la sala, el mobiliario y la luz del local antes de la obra. Pide presupuesto.",
+  "palabra_clave": "render cafetería",
+  "fecha": "2026-11-19 18:00:00",
+  "foto": {
+    "src": "/img/2024/01/render-cafeteria.jpg",
+    "alt": "Render de una cafetería con barra y techo de madera"
+  },
+  "boton": {
+    "texto": "Pide presupuesto",
+    "url": "/contacto/"
+  },
+  "intro": "<p>Un <strong>render de cafetería o restaurante</strong> muestra cómo quedará el local antes de abrirlo: la <strong>barra</strong>, la distribución de las <strong>mesas</strong>, los materiales, el ambiente y la <strong>iluminación</strong>.</p>",
+  "resumen": "Los <strong>renders de cafeterías y restaurantes</strong> son imágenes fotorrealistas del interior (y, si se quiere, la fachada o la terraza) de un local de hostelería antes de la obra. Sirven para <strong>diseñar el ambiente</strong>, encajar la barra y el número de mesas, aprobar el proyecto con socios o franquicias y empezar a <strong>promocionar el local</strong> antes de la apertura.",
+  "datos": [
+    [
+      "Qué es",
+      "Imagen fotorrealista de un local de hostelería antes de la obra"
+    ],
+    [
+      "Tipos de local",
+      "Cafeterías, bares, restaurantes, panaderías, heladerías y terrazas"
+    ],
+    [
+      "Qué muestra",
+      "Barra, sala, mobiliario, materiales, iluminación, fachada y terraza"
+    ],
+    [
+      "Para qué sirve",
+      "Diseñar el ambiente, aprobar el proyecto y promocionar la apertura"
+    ],
+    [
+      "Qué hace falta",
+      "Plano del local y la idea del concepto: estilo, colores y referencias"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "¿Qué es un render de cafetería?",
+      "html": "<p>Es un render de <a href=\"/renders-locales-comerciales/\">local comercial</a> pensado para la hostelería. En estos locales el ambiente es parte del negocio: los materiales, la luz cálida, la barra y cómo se reparten las mesas influyen en cuánto tiempo se queda el cliente y en las ganas de volver.</p>"
+    },
+    {
+      "h2": "¿Para qué sirve?",
+      "html": "",
+      "sub": [
+        {
+          "h3": "Diseñar el ambiente",
+          "html": "<p>Permite probar estilos (nórdico, industrial, clásico, de diseño), materiales y colores hasta dar con el concepto del local.</p>"
+        },
+        {
+          "h3": "Encajar la distribución",
+          "html": "<p>Se comprueba que la barra, las mesas y los pasos funcionan, y cuántos clientes caben con comodidad.</p>"
+        },
+        {
+          "h3": "Promocionar la apertura",
+          "html": "<p>Las imágenes sirven para redes sociales, carteles o la web del local antes de que esté terminado.</p>"
+        }
+      ]
+    },
+    {
+      "h2": "¿Qué incluye?",
+      "html": "<ul><li><strong>La barra</strong> y la zona de trabajo vista.</li><li><strong>La sala</strong>: mesas, sillas, bancos y zonas especiales.</li><li><strong>Materiales</strong>: suelos, revestimientos, techos y madera.</li><li><strong>Iluminación</strong> general y decorativa.</li><li><strong>Fachada y terraza</strong>, si se piden.</li></ul>"
+    },
+    {
+      "h2": "¿Cómo se hace?",
+      "html": "<ol><li><strong>Plano del local</strong> y referencias del concepto.</li><li><strong><a href=\"/modelado-3d/\">Modelado 3D</a></strong> del espacio, la barra y el mobiliario.</li><li><strong>Materiales e iluminación</strong>.</li><li><strong>Render</strong> de las vistas acordadas.</li><li><strong>Revisión</strong> y ajustes antes de la entrega.</li></ol>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Qué es un render de cafetería o restaurante?",
+      "a": "Una imagen fotorrealista de cómo quedará un local de hostelería, con su barra, mesas, materiales e iluminación, antes de hacer la obra."
+    },
+    {
+      "q": "¿Qué necesito para encargarlo?",
+      "a": "El plano del local con sus medidas y la idea del concepto: estilo, colores, materiales y ejemplos de locales que te gusten."
+    },
+    {
+      "q": "¿Sirve para promocionar el local antes de abrir?",
+      "a": "Sí. Las imágenes se pueden usar en redes sociales, en la web o en carteles mientras se termina la obra."
+    },
+    {
+      "q": "¿Se puede incluir la terraza?",
+      "a": "Sí. La terraza y la fachada se pueden añadir como vistas exteriores, de día o de noche."
+    }
+  ],
+  "cierre": {
+    "h2": "¿Vas a abrir una cafetería o un restaurante?",
+    "html": "<p>Envíanos el plano del local y la idea de tu concepto, y te preparamos un presupuesto.</p>",
+    "boton": "Pide presupuesto"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "renders-de-fachadas",
+  "tipo": "render",
+  "menu": "renders",
+  "titulo": "Renders de Fachadas",
+  "h1": "Renders de Fachadas",
+  "subtitulo": "Elige materiales y colores con la imagen delante",
+  "titulo_seo": "Renders de fachadas: materiales, colores y reformas",
+  "descripcion": "Qué es un render de fachada y para qué sirve: comparar materiales, colores y acabados antes de una reforma o una obra nueva. Pide presupuesto.",
+  "palabra_clave": "render de fachadas",
+  "fecha": "2026-11-19 18:00:00",
+  "foto": {
+    "src": "/img/2024/01/renders-fachada.jpg",
+    "alt": "Render de la fachada de un edificio moderno"
+  },
+  "boton": {
+    "texto": "Pide presupuesto",
+    "url": "/contacto/"
+  },
+  "intro": "<p>Un <strong>render de fachada</strong> es una imagen que muestra cómo quedará la cara exterior de un edificio con los <strong>materiales</strong>, <strong>colores</strong> y acabados que se elijan. Es la forma más clara de decidir una fachada antes de una <strong>reforma</strong> o de una obra nueva.</p>",
+  "resumen": "Los <strong>renders de fachadas</strong> son imágenes fotorrealistas de la fachada de un edificio con sus acabados. Sirven para <strong>comparar opciones</strong> (ladrillo, revoco, piedra, madera, paneles), mostrar una <strong>rehabilitación</strong> a vecinos o comunidades y presentar proyectos al ayuntamiento. Se hacen para viviendas, bloques, oficinas y locales.",
+  "datos": [
+    [
+      "Qué es",
+      "Imagen fotorrealista de la fachada de un edificio con sus acabados"
+    ],
+    [
+      "Para qué sirve",
+      "Comparar materiales y colores, y mostrar una reforma o una obra nueva"
+    ],
+    [
+      "Para quién",
+      "Particulares, comunidades de vecinos, arquitectos, constructoras y comercios"
+    ],
+    [
+      "Qué hace falta",
+      "Alzados o fotos de la fachada actual, y las ideas de acabados"
+    ],
+    [
+      "Variantes",
+      "Varias versiones de la misma fachada para elegir entre ellas"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "¿Qué es un render de fachada?",
+      "html": "<p>Es una vista de la cara principal del edificio, casi siempre de frente o en ligera perspectiva, en la que el protagonismo lo tienen los <strong>acabados</strong>: el tipo de piedra o ladrillo, el color del revoco, las carpinterías, las barandillas o la iluminación. A diferencia de un <a href=\"/renders-exteriores/\">render exterior</a> completo, se fija en la piel del edificio más que en su entorno.</p>"
+    },
+    {
+      "h2": "¿Para qué sirve?",
+      "html": "<p>La fachada es lo primero que se ve de un edificio y una de las decisiones más difíciles de cambiar después.</p>",
+      "sub": [
+        {
+          "h3": "Comparar acabados",
+          "html": "<p>Se pueden preparar varias versiones de la misma fachada (por ejemplo, con ladrillo claro y oscuro, o con madera o paneles) para elegir viéndolas, no imaginándolas.</p>"
+        },
+        {
+          "h3": "Rehabilitaciones y comunidades",
+          "html": "<p>En una reforma de fachada, una imagen del resultado ayuda a que la comunidad de vecinos entienda y apruebe la propuesta.</p>"
+        },
+        {
+          "h3": "Locales y marcas",
+          "html": "<p>En comercios, la fachada incluye rótulos, escaparates e iluminación; ver el conjunto evita sorpresas (ver <a href=\"/renders-locales-comerciales/\">renders de locales comerciales</a>).</p>"
+        }
+      ]
+    },
+    {
+      "h2": "¿Qué incluye?",
+      "html": "<ul><li><strong>Materiales y texturas</strong> de la fachada, con su color y su relieve.</li><li><strong>Carpinterías</strong>: ventanas, puertas, persianas y barandillas.</li><li><strong>Elementos añadidos</strong>: rótulos, toldos, vegetación o iluminación.</li><li><strong>Luz y sombras</strong> reales para que los colores se vean como en la calle.</li><li><strong>Versiones</strong> con los acabados que se quieran comparar.</li></ul>"
+    },
+    {
+      "h2": "¿Cómo se hace?",
+      "html": "<ol><li><strong>Información</strong>: alzados del proyecto o fotos de la fachada actual, y las opciones de acabados.</li><li><strong><a href=\"/modelado-3d/\">Modelado 3D</a></strong> de la fachada y sus detalles.</li><li><strong>Materiales e iluminación</strong>.</li><li><strong>Render</strong> de cada versión.</li><li><strong>Revisión</strong> y ajustes antes de la entrega.</li></ol>"
+    }
+  ],
+  "galeria_titulo": "Imágenes de renders de fachadas",
+  "galeria": [
+    {
+      "src": "/img/2025/03/fachada-render-de-casas.webp",
+      "alt": "Render de una fachada de ladrillo y madera"
+    },
+    {
+      "src": "/img/2025/03/render-de-casa-exterior.webp",
+      "alt": "Render de la fachada de cristal de una casa moderna"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Qué es un render de fachada?",
+      "a": "Una imagen fotorrealista de la fachada de un edificio que muestra sus materiales, colores y acabados antes de construirla o reformarla."
+    },
+    {
+      "q": "¿Se puede hacer un render de mi fachada actual con otros acabados?",
+      "a": "Sí. A partir de fotos o alzados de la fachada se modela y se le aplican los nuevos materiales y colores para ver el resultado de la reforma."
+    },
+    {
+      "q": "¿Puedo comparar varias opciones?",
+      "a": "Sí, es uno de sus usos más habituales: la misma fachada en varias versiones para elegir la que más convence."
+    },
+    {
+      "q": "¿Sirve para una comunidad de vecinos?",
+      "a": "Sí. Ver el resultado ayuda a que los vecinos entiendan la propuesta de rehabilitación y decidan con más seguridad."
+    }
+  ],
+  "cierre": {
+    "h2": "¿Dudas con tu fachada?",
+    "html": "<p>Mándanos alzados o fotos de la fachada y las opciones que estás valorando, y te preparamos un presupuesto.</p>",
+    "boton": "Pide presupuesto"
+  }
+}

@@ -1,0 +1,564 @@
+{
+ "slug": "renders-exteriores",
+ "id": "nueva",
+ "title": "Renders Exteriores",
+ "titulo_seo": "Renders exteriores: casas, edificios y jardines",
+ "url": "https://dearquitectura.info/renders-exteriores/",
+ "nueva": true,
+ "meta_description": "Qué es un render exterior y qué incluye: fachada, jardín, piscina y entorno con luz natural, para casas, edificios y promociones. Pide presupuesto.",
+ "palabra_clave": "renders exteriores",
+ "menu": "renders",
+ "logo": "",
+ "foto_destacada": "/img/2024/01/render-exterior.jpg",
+ "fecha": "2026-11-19 18:00:00",
+ "modificada": "2026-11-19 18:00:00",
+ "fecha_gmt": "2026-11-19 18:00:00",
+ "modificada_gmt": "2026-11-19 18:00:00",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-exterior.jpg",
+   "alt": "Render exterior de un edificio de viviendas",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "Renders Exteriores"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Fachada, jardín y entorno antes de construir"
+  },
+  {
+   "type": "text",
+   "html": "<p>Un <strong>render exterior</strong> es una imagen creada por ordenador que muestra cómo se verá un edificio por fuera: su <strong>fachada</strong>, los materiales, el <strong>jardín</strong>, la piscina y el entorno, con la luz del sol a la hora que se elija.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen"
+  },
+  {
+   "type": "text",
+   "html": "<p>Los <strong>renders exteriores</strong> son imágenes fotorrealistas del exterior de un proyecto, hechas a partir de sus planos antes de construirlo. Sirven para <strong>decidir el diseño</strong>, presentar el proyecto a clientes o ayuntamientos y <strong>vender sobre plano</strong>. Se usan para casas, bloques de viviendas, promociones, locales y edificios públicos.</p>"
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Qué es</th><td>Imagen fotorrealista del exterior de un proyecto, hecha por ordenador</td></tr><tr><th scope=\"row\">Qué se ve</th><td>Fachada, cubierta, materiales, jardín, piscina, accesos y entorno</td></tr><tr><th scope=\"row\">Para qué sirve</th><td>Decidir el diseño, presentarlo y vender antes de construir</td></tr><tr><th scope=\"row\">Para quién</th><td>Particulares, arquitectos, constructoras, promotoras e inmobiliarias</td></tr><tr><th scope=\"row\">Qué hace falta</th><td>Planos (plantas y alzados) o un modelo 3D, y las ideas de materiales</td></tr></tbody></table>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Qué es un render exterior?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Es una imagen que se obtiene a partir de un <a href=\"/modelado-3d/\">modelo 3D</a> del edificio. En ese modelo se colocan los materiales (piedra, ladrillo, madera, vidrio), la vegetación, el mobiliario exterior y una iluminación que imita la del sol. El ordenador calcula cómo rebota la luz y el resultado es una imagen que parece una fotografía.</p><p>A diferencia de un <a href=\"/renders-interiores/\">render de interiores</a>, el exterior se centra en el volumen del edificio y en cómo encaja en su parcela y en su calle.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Para qué sirve?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Un render exterior responde a una pregunta sencilla: <strong>¿cómo va a quedar?</strong></p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Decidir antes de construir"
+  },
+  {
+   "type": "text",
+   "html": "<p>Permite comparar acabados, colores de fachada o formas de cubierta sin gastar en obra. Cambiar una imagen es mucho más barato que cambiar un muro.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Presentar el proyecto"
+  },
+  {
+   "type": "text",
+   "html": "<p>Ayuda a que el cliente, los vecinos, un jurado o el ayuntamiento entiendan el proyecto sin tener que leer planos.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Vender sobre plano"
+  },
+  {
+   "type": "text",
+   "html": "<p>Las promotoras e <a href=\"/renders-para-inmobiliarias/\">inmobiliarias</a> los usan en folletos, webs y portales para vender viviendas que todavía no existen.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Qué incluye un render exterior?"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><strong>La fachada</strong> con sus materiales, carpinterías y detalles.</li><li><strong>La cubierta</strong> y los volúmenes del edificio.</li><li><strong>El entorno</strong>: jardín, árboles, piscina, terrazas, accesos y aparcamiento.</li><li><strong>La luz</strong>: de día, al atardecer o, si se pide, de noche (ver <a href=\"/renders-nocturnos/\">renders nocturnos</a>).</li><li><strong>El punto de vista</strong>: a la altura de una persona, desde la calle o a vista de pájaro.</li></ul>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Cómo se hace?"
+  },
+  {
+   "type": "text",
+   "html": "<ol><li><strong>Planos y referencias</strong>: plantas, alzados y fotos de los materiales o de la parcela.</li><li><strong>Modelado 3D</strong> del edificio y su entorno.</li><li><strong>Materiales e iluminación</strong>: texturas, vegetación y la luz del momento elegido.</li><li><strong>Render y retoque</strong> de la imagen final.</li><li><strong>Revisión</strong>: se ajustan los detalles que haga falta antes de la entrega.</li></ol>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Imágenes de renders exteriores"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/img/2025/03/render-de-casa-exterior.webp",
+     "alt": "Render exterior de una casa moderna con fachada de cristal"
+    },
+    {
+     "src": "/img/2025/03/vivienda-render-exterior.webp",
+     "alt": "Render exterior de una vivienda con terraza"
+    },
+    {
+     "src": "/img/2025/03/renders-casas-exteriores.webp",
+     "alt": "Render exterior de una casa con jardín"
+    },
+    {
+     "src": "/img/2024/06/fachada-render-oficina.webp",
+     "alt": "Render exterior de un edificio de oficinas de ladrillo"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes"
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Qué es un render exterior?",
+     "html": "<p>Una imagen fotorrealista hecha por ordenador que muestra cómo se verá un edificio por fuera, con su fachada, materiales, jardín y entorno, antes de construirlo.</p>"
+    },
+    {
+     "title": "¿Qué necesito para encargar un render exterior?",
+     "html": "<p>Los planos del proyecto (plantas y alzados) o un modelo 3D, y las ideas de materiales y colores. Si hay parcela, ayudan fotos del terreno y del entorno.</p>"
+    },
+    {
+     "title": "¿Qué diferencia hay entre un render exterior y uno de fachada?",
+     "html": "<p>El render de fachada se centra en la cara principal del edificio y sus acabados; el exterior muestra además el volumen completo y el entorno: jardín, piscina, calle o paisaje.</p>"
+    },
+    {
+     "title": "¿Se puede hacer un render exterior de noche?",
+     "html": "<p>Sí. Los renders nocturnos muestran el proyecto con su iluminación artificial y suelen acompañar a las vistas de día.</p>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Quieres ver tu proyecto por fuera?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Cuéntanos qué tienes (planos, bocetos o un modelo 3D) y qué vistas necesitas, y te preparamos un presupuesto.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  }
+ ],
+ "elementor": [
+  {
+   "t": "c",
+   "id": "d79a2d9",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "553a5ac",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "b5f9af1",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 0
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "645de64",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "b3f6388",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h1",
+       "size": "default",
+       "b": 1
+      },
+      {
+       "t": "w",
+       "id": "b6c2071",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 2
+      },
+      {
+       "t": "w",
+       "id": "ec842de",
+       "wt": "divider",
+       "cls": "elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "c0fbb73",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 3
+      },
+      {
+       "t": "w",
+       "id": "f79eab0",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "c663a27",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-resumen",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "18a40f9",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "76e5e8d",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 5
+      },
+      {
+       "t": "w",
+       "id": "cf66407",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 6
+      },
+      {
+       "t": "w",
+       "id": "a990265",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "7c90a4a",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "83f515d",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "fe53af1",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 8
+      },
+      {
+       "t": "w",
+       "id": "e1e0d94",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "a53e6b6",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "5d8b949",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "21fd55e",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 10
+      },
+      {
+       "t": "w",
+       "id": "2a33aee",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 11
+      },
+      {
+       "t": "w",
+       "id": "c98eaff",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 12
+      },
+      {
+       "t": "w",
+       "id": "2d3bbeb",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 13
+      },
+      {
+       "t": "w",
+       "id": "cbffe8a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 14
+      },
+      {
+       "t": "w",
+       "id": "86f8727",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 15
+      },
+      {
+       "t": "w",
+       "id": "a7ab6f1",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 16
+      },
+      {
+       "t": "w",
+       "id": "311820c",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 17
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "2442218",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "7ca8c7b",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "ac467ed",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 18
+      },
+      {
+       "t": "w",
+       "id": "58e8065",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 19
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "a8192dc",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "e145a11",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "fedbbb7",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 20
+      },
+      {
+       "t": "w",
+       "id": "50d8eba",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 21
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "1aeb3fc",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "65948e4",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "17adddc",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 22
+      },
+      {
+       "t": "w",
+       "id": "8e9677d",
+       "wt": "image-gallery",
+       "cls": "elementor-widget elementor-widget-image-gallery",
+       "cols": 2,
+       "size": "large",
+       "enlace": "none",
+       "b": 23
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "d5d6558",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "143a930",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "3012db8",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 24
+      },
+      {
+       "t": "w",
+       "id": "0735756",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "4931748",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-cierre",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "41243aa",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "379caa3",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 26
+      },
+      {
+       "t": "w",
+       "id": "6286377",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 27
+      },
+      {
+       "t": "w",
+       "id": "2ff39c2",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 28
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

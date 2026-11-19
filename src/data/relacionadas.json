@@ -1,13 +1,43 @@
 {
   "_nota": "Bloque «relacionadas» al final de la página (análisis del 16-11-2026, A5; Yama eligió «a»). No cambia ningún texto: solo añade enlaces. «grupos»: cada página del grupo enlaza a las demás de su grupo (los nombres salen de articulos.json). «extra»: páginas a las que no llegaba ningún enlace, puestas en la página principal de su tema.",
   "grupos": [
-    { "de": "estilos", "titulo": "Otros estilos de arquitectura" },
-    { "de": "profesiones", "titulo": "Otras profesiones de la arquitectura" }
+    {
+      "de": "estilos",
+      "titulo": "Otros estilos de arquitectura"
+    },
+    {
+      "de": "profesiones",
+      "titulo": "Otras profesiones de la arquitectura"
+    },
+    {
+      "de": "renders",
+      "titulo": "Otros tipos de render"
+    }
   ],
   "extra": {
-    "home-staging": { "titulo": "Ver también", "paginas": ["home-staging-valencia"] },
-    "renders-malaga": { "titulo": "Ver también", "paginas": ["mijas"] },
-    "renders-barcelona": { "titulo": "Ver también", "paginas": ["renders-sant-cugat-del-valles"] },
-    "renders-madrid": { "titulo": "Ver también", "paginas": ["san-sebastian-de-los-reyes"] }
+    "home-staging": {
+      "titulo": "Ver también",
+      "paginas": [
+        "home-staging-valencia"
+      ]
+    },
+    "renders-malaga": {
+      "titulo": "Ver también",
+      "paginas": [
+        "mijas"
+      ]
+    },
+    "renders-barcelona": {
+      "titulo": "Ver también",
+      "paginas": [
+        "renders-sant-cugat-del-valles"
+      ]
+    },
+    "renders-madrid": {
+      "titulo": "Ver también",
+      "paginas": [
+        "san-sebastian-de-los-reyes"
+      ]
+    }
   }
 }

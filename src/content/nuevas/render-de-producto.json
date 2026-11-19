@@ -1,0 +1,505 @@
+{
+ "slug": "render-de-producto",
+ "id": "nueva",
+ "title": "Render de Producto",
+ "titulo_seo": "Render de producto: muebles y objetos para catálogos",
+ "url": "https://dearquitectura.info/render-de-producto/",
+ "nueva": true,
+ "meta_description": "Imágenes fotorrealistas de muebles y objetos para catálogos, tiendas online y fabricantes, sin sesión de fotos. Qué es y para qué sirve. Pide presupuesto.",
+ "palabra_clave": "render de producto",
+ "menu": "renders",
+ "logo": "",
+ "foto_destacada": "/img/2024/01/render-de-productos.jpg",
+ "fecha": "2026-11-19 18:00:00",
+ "modificada": "2026-11-19 18:00:00",
+ "fecha_gmt": "2026-11-19 18:00:00",
+ "modificada_gmt": "2026-11-19 18:00:00",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-de-productos.jpg",
+   "alt": "Render de producto de una silla de oficina",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "Render de Producto"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Muebles y objetos con acabado fotorrealista"
+  },
+  {
+   "type": "text",
+   "html": "<p>Un <strong>render de producto</strong> es una imagen fotorrealista de un objeto creada por ordenador: un <strong>mueble</strong>, una lámpara, un electrodoméstico o cualquier pieza. Se usa en <strong>catálogos</strong>, <strong>tiendas online</strong> y presentaciones, a menudo antes de que el producto exista.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen"
+  },
+  {
+   "type": "text",
+   "html": "<p>El <strong>render de producto</strong> crea imágenes de objetos a partir de un modelo 3D, sin necesidad de fabricarlos ni de hacer una sesión de fotos. Permite mostrar el mismo producto en <strong>varios colores y acabados</strong>, sobre fondo blanco o dentro de un ambiente, y es habitual en <strong>fabricantes de muebles</strong>, tiendas online y marcas.</p>"
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Qué es</th><td>Imagen fotorrealista de un objeto hecha por ordenador</td></tr><tr><th scope=\"row\">Qué productos</th><td>Muebles, sofás, sillas, iluminación, sanitarios, electrodomésticos y objetos</td></tr><tr><th scope=\"row\">Formatos</th><td>Fondo blanco, vista en un ambiente decorado o detalle de materiales</td></tr><tr><th scope=\"row\">Para qué sirve</th><td>Catálogos, tiendas online, ferias, publicidad y presentaciones</td></tr><tr><th scope=\"row\">Qué hace falta</th><td>Medidas, planos o dibujos del producto y sus acabados</td></tr></tbody></table>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Qué es un render de producto?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Es la versión en pequeño de un render de arquitectura: en vez de un edificio se modela un objeto con todo detalle, se le aplican sus materiales (madera, metal, tela, cuero, cristal) y se ilumina como en un estudio fotográfico. El resultado es una imagen que no se distingue de una foto.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Para qué sirve?"
+  },
+  {
+   "type": "text",
+   "html": "<p>El render de producto ahorra tiempo y muestras.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Vender antes de fabricar"
+  },
+  {
+   "type": "text",
+   "html": "<p>Un fabricante puede presentar una colección nueva o un prototipo con imágenes de calidad sin tener todavía las piezas.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Todas las variantes"
+  },
+  {
+   "type": "text",
+   "html": "<p>El mismo modelo se muestra en todos sus colores y acabados sin fotografiar cada uno.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Fondo blanco y ambientes"
+  },
+  {
+   "type": "text",
+   "html": "<p>De un mismo modelo salen la foto limpia para la tienda online y la imagen dentro de un salón o una oficina para el catálogo (ver <a href=\"/sofa-render/\">render de sofás</a>).</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Qué incluye?"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><strong>Modelo 3D</strong> del producto a partir de sus medidas o planos.</li><li><strong>Materiales</strong> con su textura y su brillo reales.</li><li><strong>Iluminación de estudio</strong> o la de un ambiente.</li><li><strong>Vistas</strong>: frontal, perspectiva, detalle o despiece.</li><li><strong>Variantes</strong> de color y acabado.</li></ul>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Cómo se hace?"
+  },
+  {
+   "type": "text",
+   "html": "<ol><li><strong>Información</strong>: medidas, planos, fotos o el archivo 3D si ya existe.</li><li><strong><a href=\"/modelado-3d/\">Modelado 3D</a></strong> del producto.</li><li><strong>Materiales e iluminación</strong>.</li><li><strong>Render</strong> de las vistas y variantes.</li><li><strong>Revisión</strong> y ajustes antes de la entrega.</li></ol>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes"
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Qué es un render de producto?",
+     "html": "<p>Una imagen fotorrealista de un objeto, como un mueble o una lámpara, creada por ordenador a partir de un modelo 3D, sin necesidad de fotografiarlo.</p>"
+    },
+    {
+     "title": "¿Qué ventajas tiene frente a una foto?",
+     "html": "<p>Se puede hacer antes de fabricar el producto, se muestran todas sus variantes de color sin fotografiar cada una y de un mismo modelo salen imágenes en fondo blanco y en ambiente.</p>"
+    },
+    {
+     "title": "¿Qué necesito para encargarlo?",
+     "html": "<p>Las medidas o los planos del producto, fotos o muestras de los materiales y, si existe, su archivo 3D.</p>"
+    },
+    {
+     "title": "¿Sirve para una tienda online?",
+     "html": "<p>Sí. Las imágenes en fondo blanco y con vistas desde varios ángulos son las que piden la mayoría de tiendas y marketplaces.</p>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Tienes un producto que mostrar?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Mándanos sus medidas o planos y los acabados que necesitas, y te preparamos un presupuesto.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  }
+ ],
+ "elementor": [
+  {
+   "t": "c",
+   "id": "2f5a5df",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "ce4363a",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "aa16dfa",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 0
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "25de39d",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "b8006fd",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h1",
+       "size": "default",
+       "b": 1
+      },
+      {
+       "t": "w",
+       "id": "0e78c7f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 2
+      },
+      {
+       "t": "w",
+       "id": "79293d4",
+       "wt": "divider",
+       "cls": "elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "7cfc3a5",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 3
+      },
+      {
+       "t": "w",
+       "id": "dc005b1",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "999a568",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-resumen",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "c787e35",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "b57f6ca",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 5
+      },
+      {
+       "t": "w",
+       "id": "d96eec9",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 6
+      },
+      {
+       "t": "w",
+       "id": "8824a59",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "711e6ee",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "ed92278",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "4e232d1",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 8
+      },
+      {
+       "t": "w",
+       "id": "4d413bf",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "53fd513",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "e8fc4cc",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "6d24c33",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 10
+      },
+      {
+       "t": "w",
+       "id": "f50d8b0",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 11
+      },
+      {
+       "t": "w",
+       "id": "5a74796",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 12
+      },
+      {
+       "t": "w",
+       "id": "16f1a46",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 13
+      },
+      {
+       "t": "w",
+       "id": "acd470a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 14
+      },
+      {
+       "t": "w",
+       "id": "3b1021c",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 15
+      },
+      {
+       "t": "w",
+       "id": "c0b9830",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 16
+      },
+      {
+       "t": "w",
+       "id": "bd8f898",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 17
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "c0bca0f",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "2bd63e9",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "48e419f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 18
+      },
+      {
+       "t": "w",
+       "id": "53884de",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 19
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "cbb0303",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "558c947",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "1999710",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 20
+      },
+      {
+       "t": "w",
+       "id": "ef4d75d",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 21
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "ac8a023",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "e3a5489",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "071210b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 22
+      },
+      {
+       "t": "w",
+       "id": "f324669",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 23
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "d10bf63",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-cierre",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "7640703",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "f8613c0",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 24
+      },
+      {
+       "t": "w",
+       "id": "6acff8a",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 25
+      },
+      {
+       "t": "w",
+       "id": "5dca612",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 26
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

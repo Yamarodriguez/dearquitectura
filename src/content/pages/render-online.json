@@ -122,10 +122,8 @@
    "type": "heading",
    "tag": "h3",
    "text": "Render exteriores",
-   "href": "/render-casa/",
-   "s": 9,
-   "href_original": "/renders-exteriores/",
-   "cambio": "enlace_roto"
+   "href": "/renders-exteriores/",
+   "s": 9
   },
   {
    "type": "image",
@@ -133,10 +131,8 @@
    "alt": "render-exterior",
    "size": "large",
    "wpid": 2793,
-   "href": "/render-casa/",
-   "s": 9,
-   "href_original": "/renders-exteriores/",
-   "cambio": "enlace_roto"
+   "href": "/renders-exteriores/",
+   "s": 9
   },
   {
    "type": "heading",
@@ -158,10 +154,8 @@
    "type": "heading",
    "tag": "h3",
    "text": "Render Fachadas",
-   "href": "/renders-edificios/",
-   "s": 9,
-   "href_original": "/renders-de-fachadas/",
-   "cambio": "enlace_roto"
+   "href": "/renders-de-fachadas/",
+   "s": 9
   },
   {
    "type": "image",
@@ -169,19 +163,15 @@
    "alt": "renders-fachada",
    "size": "large",
    "wpid": 2794,
-   "href": "/renders-edificios/",
-   "s": 9,
-   "href_original": "/renders-de-fachadas/",
-   "cambio": "enlace_roto"
+   "href": "/renders-de-fachadas/",
+   "s": 9
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Render Cafeterías",
-   "href": "/tipos-de-renders/",
-   "s": 9,
-   "href_original": "/render-cafeteria/",
-   "cambio": "enlace_roto"
+   "href": "/render-cafeteria/",
+   "s": 9
   },
   {
    "type": "image",
@@ -189,19 +179,15 @@
    "alt": "render-cafetería",
    "size": "large",
    "wpid": 2795,
-   "href": "/tipos-de-renders/",
-   "s": 9,
-   "href_original": "/render-cafeteria/",
-   "cambio": "enlace_roto"
+   "href": "/render-cafeteria/",
+   "s": 9
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Productos",
-   "href": "/tipos-de-renders/",
-   "s": 11,
-   "href_original": "/render-de-producto/",
-   "cambio": "enlace_roto"
+   "href": "/render-de-producto/",
+   "s": 11
   },
   {
    "type": "image",
@@ -209,19 +195,15 @@
    "alt": "render-de-productos",
    "size": "large",
    "wpid": 2800,
-   "href": "/tipos-de-renders/",
-   "s": 11,
-   "href_original": "/render-de-producto/",
-   "cambio": "enlace_roto"
+   "href": "/render-de-producto/",
+   "s": 11
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Locales",
-   "href": "/tipos-de-renders/",
-   "s": 11,
-   "href_original": "/renders-locales-comerciales/",
-   "cambio": "enlace_roto"
+   "href": "/renders-locales-comerciales/",
+   "s": 11
   },
   {
    "type": "image",
@@ -229,10 +211,8 @@
    "alt": "render-local-comercial",
    "size": "large",
    "wpid": 2801,
-   "href": "/tipos-de-renders/",
-   "s": 11,
-   "href_original": "/renders-locales-comerciales/",
-   "cambio": "enlace_roto"
+   "href": "/renders-locales-comerciales/",
+   "s": 11
   },
   {
    "type": "heading",
@@ -274,10 +254,8 @@
    "type": "heading",
    "tag": "h3",
    "text": "Nocturnos",
-   "href": "/tipos-de-renders/",
-   "s": 11,
-   "href_original": "/renders-nocturnos/",
-   "cambio": "enlace_roto"
+   "href": "/renders-nocturnos/",
+   "s": 11
   },
   {
    "type": "image",
@@ -285,10 +263,8 @@
    "alt": "renders-nocturnos",
    "size": "large",
    "wpid": 2817,
-   "href": "/tipos-de-renders/",
-   "s": 11,
-   "href_original": "/renders-nocturnos/",
-   "cambio": "enlace_roto"
+   "href": "/renders-nocturnos/",
+   "s": 11
   },
   {
    "type": "heading",

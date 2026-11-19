@@ -1,0 +1,110 @@
+{
+  "slug": "renders-locales-comerciales",
+  "tipo": "render",
+  "menu": "renders",
+  "titulo": "Renders de Locales Comerciales",
+  "h1": "Renders de Locales Comerciales",
+  "subtitulo": "Tu tienda terminada antes de abrir",
+  "titulo_seo": "Renders de locales comerciales: tiendas y oficinas",
+  "descripcion": "Ver tu tienda, oficina o franquicia terminada, con escaparate, mobiliario e iluminación, antes de la obra. Qué es y para qué sirve. Pide presupuesto.",
+  "palabra_clave": "render local comercial",
+  "fecha": "2026-11-19 18:00:00",
+  "foto": {
+    "src": "/img/2024/01/render-local-comercial.jpg",
+    "alt": "Render de un local comercial de ropa y complementos"
+  },
+  "boton": {
+    "texto": "Pide presupuesto",
+    "url": "/contacto/"
+  },
+  "intro": "<p>Un <strong>render de local comercial</strong> muestra cómo quedará una <strong>tienda</strong>, una <strong>oficina</strong> o una <strong>franquicia</strong> antes de reformarla: la distribución, el mobiliario, el escaparate, los colores de la marca y la iluminación.</p>",
+  "resumen": "Los <strong>renders de locales comerciales</strong> son imágenes fotorrealistas del interior y la fachada de un local antes de la obra. Sirven para <strong>aprobar el diseño</strong> con el propietario o la franquicia, pedir presupuestos a los gremios con una idea clara y <strong>alquilar o vender</strong> el local mostrando sus posibilidades.",
+  "datos": [
+    [
+      "Qué es",
+      "Imagen fotorrealista de un local (interior y fachada) antes de la obra"
+    ],
+    [
+      "Tipos de local",
+      "Tiendas, oficinas, franquicias, showrooms, clínicas y locales de hostelería"
+    ],
+    [
+      "Para qué sirve",
+      "Aprobar el diseño, presupuestar la obra y alquilar o vender el local"
+    ],
+    [
+      "Para quién",
+      "Comerciantes, franquicias, interioristas, propietarios e inmobiliarias"
+    ],
+    [
+      "Qué hace falta",
+      "Plano del local y la idea de marca: colores, mobiliario y ambiente"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "¿Qué es un render de local comercial?",
+      "html": "<p>Es un <a href=\"/renders-interiores/\">render de interiores</a> pensado para un negocio. Además del espacio, importa la <strong>imagen de marca</strong>: el color, el rótulo, cómo se exponen los productos y por dónde se mueve el cliente. Suele acompañarse de una vista de la <a href=\"/renders-de-fachadas/\">fachada</a> con el escaparate.</p>"
+    },
+    {
+      "h2": "¿Para qué sirve?",
+      "html": "<p>Abrir o reformar un local es una inversión importante; el render ayuda a tomar las decisiones antes de gastar.</p>",
+      "sub": [
+        {
+          "h3": "Aprobar el diseño",
+          "html": "<p>El propietario, el interiorista y, en una franquicia, la central ven la misma imagen y se ponen de acuerdo antes de empezar.</p>"
+        },
+        {
+          "h3": "Pedir presupuestos",
+          "html": "<p>Con la imagen y los planos, carpinteros, electricistas e instaladores entienden mejor qué tienen que hacer.</p>"
+        },
+        {
+          "h3": "Alquilar o vender el local",
+          "html": "<p>Un local vacío cuesta imaginarlo; un render con una posible tienda u oficina dentro ayuda a quien lo busca a verlo con uso.</p>"
+        }
+      ]
+    },
+    {
+      "h2": "¿Qué incluye?",
+      "html": "<ul><li><strong>Distribución</strong>: zona de venta, mostrador, probadores, almacén o despachos.</li><li><strong>Mobiliario y exposición</strong>: estanterías, mesas, vitrinas y percheros.</li><li><strong>Imagen de marca</strong>: colores, materiales y rótulos.</li><li><strong>Iluminación</strong> general y de producto.</li><li><strong>Fachada y escaparate</strong>, si se pide.</li></ul>"
+    },
+    {
+      "h2": "¿Cómo se hace?",
+      "html": "<ol><li><strong>Plano del local</strong> y referencias de la marca o del estilo que se busca.</li><li><strong><a href=\"/modelado-3d/\">Modelado 3D</a></strong> del espacio y del mobiliario.</li><li><strong>Materiales, colores e iluminación</strong>.</li><li><strong>Render</strong> de las vistas acordadas.</li><li><strong>Revisión</strong> y ajustes antes de la entrega.</li></ol><p>Para restaurantes y cafeterías, ver también <a href=\"/render-cafeteria/\">renders de cafeterías y restaurantes</a>.</p>"
+    }
+  ],
+  "galeria_titulo": "Imágenes de renders de locales",
+  "galeria": [
+    {
+      "src": "/img/2024/01/render-cafeteria.jpg",
+      "alt": "Render de un local de hostelería con barra"
+    },
+    {
+      "src": "/img/2024/06/Render-Oficina-interior.jpg",
+      "alt": "Render del interior de una oficina"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Qué es un render de local comercial?",
+      "a": "Una imagen fotorrealista de cómo quedará una tienda, oficina o franquicia, con su distribución, mobiliario, colores e iluminación, antes de hacer la obra."
+    },
+    {
+      "q": "¿Qué necesito para encargarlo?",
+      "a": "El plano del local con sus medidas y una idea de la marca o del estilo: colores, materiales, tipo de mobiliario y ejemplos que te gusten."
+    },
+    {
+      "q": "¿Sirve para alquilar un local vacío?",
+      "a": "Sí. Mostrar el local con un posible uso dentro ayuda a quien busca a imaginarse su negocio en él."
+    },
+    {
+      "q": "¿Incluye la fachada?",
+      "a": "Puede incluirla: una vista del escaparate y el rótulo suele completar las vistas interiores."
+    }
+  ],
+  "cierre": {
+    "h2": "¿Vas a abrir o reformar un local?",
+    "html": "<p>Envíanos el plano y la idea de tu negocio, y te preparamos un presupuesto.</p>",
+    "boton": "Pide presupuesto"
+  }
+}

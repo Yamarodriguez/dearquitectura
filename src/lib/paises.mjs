@@ -33,7 +33,7 @@ export function paisDeCiudad(slug, menuPagina, mapa) {
  * - fuera las páginas que no están en Google (sinIndexar): no tiene sentido enlazarlas desde todas partes;
  * - en el menú general de Renders, «Zonas» lleva solo los países (cada país enlaza luego a sus ciudades).
  */
-export function ajustarMenu(nombre, items, sinIndexar, estilosNuevos = []) {
+export function ajustarMenu(nombre, items, sinIndexar, estilosNuevos = [], rendersNuevos = []) {
   const limpiar = (lista, nivel, padre) => lista
     .filter((i) => !sinIndexar.has(slugDe(i.url)))
     .map((i) => {
@@ -44,11 +44,13 @@ export function ajustarMenu(nombre, items, sinIndexar, estilosNuevos = []) {
   const limpio = limpiar(items, 0, null);
   // Estilos nuevos (páginas de src/content/nuevas): al desplegable que ya lista los estilos
   // (Tipos o Arquitectura), detrás de los que hay, si no están ya.
-  if (estilosNuevos.length) {
+  // Igual con los tipos de render nuevos, en el desplegable que ya lista los tipos de render.
+  for (const [marca, nuevos] of [['arquitectura-romana', estilosNuevos], ['renders-piscinas', rendersNuevos]]) {
+    if (!nuevos.length) continue;
     const poner = (lista) => lista.forEach((i) => {
       const h = i.children ?? [];
-      if (h.some((c) => slugDe(c.url) === 'arquitectura-romana')) {
-        for (const e of estilosNuevos) if (!h.some((c) => slugDe(c.url) === slugDe(e.url))) h.push({ label: e.label, url: e.url, children: [] });
+      if (h.some((c) => slugDe(c.url) === marca)) {
+        for (const e of nuevos) if (!h.some((c) => slugDe(c.url) === slugDe(e.url))) h.push({ label: e.label, url: e.url, children: [] });
       } else poner(h);
     });
     poner(limpio);
