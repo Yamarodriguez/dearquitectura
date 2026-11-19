@@ -14,8 +14,8 @@ import { sinIndexar } from '../lib/indexar';
 import articulos from '../data/articulos.json';
 
 export async function getStaticPaths() {
-  const files = import.meta.glob('../content/pages/*.json', { eager: true });
-  return Object.values(files).map((mod: any) => mod.default).map((data: any) => {
+  const { paginas } = await import('../lib/paginas');
+  return paginas.map((data: any) => {
     const ruta = new URL(data.url).pathname.replace(/^\/|\/$/g, '');
     return { params: { slug: ruta || undefined }, props: { data } };
   });
@@ -46,7 +46,7 @@ const articulo = esArticulo ? [{
 const datos = [...servicio, ...articulo, ...faqJsonLd(faqDe(data.blocks, data.slug), data.url)];
 ---
 <Base
-  title={seo.titulo || data.title}
+  title={seo.titulo || data.titulo_seo || data.title}
   description={seo.descripcion || data.meta_description}
   canonical={data.url}
   menu={data.menu}

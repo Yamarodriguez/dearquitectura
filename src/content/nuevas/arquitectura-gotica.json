@@ -1,0 +1,744 @@
+{
+ "slug": "arquitectura-gotica",
+ "id": "nueva",
+ "title": "Arquitectura Gótica",
+ "titulo_seo": "Arquitectura gótica: características, catedrales y ejemplos",
+ "url": "https://dearquitectura.info/arquitectura-gotica/",
+ "nueva": true,
+ "meta_description": "Arco apuntado, bóveda de crucería, arbotantes y vidrieras: qué es la arquitectura gótica, su historia y sus grandes catedrales, de Notre-Dame a Burgos y León.",
+ "palabra_clave": "arquitectura gótica",
+ "menu": "",
+ "logo": "",
+ "foto_destacada": "/img/2023/12/Gotica-arquitectura.jpg",
+ "fecha": "2026-11-19 12:00:00",
+ "modificada": "2026-11-19 12:00:00",
+ "fecha_gmt": "2026-11-19 12:00:00",
+ "modificada_gmt": "2026-11-19 12:00:00",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/img/2023/12/Gotica-arquitectura.jpg",
+   "alt": "Arquitectura gótica",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "Arquitectura Gótica"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Catedrales de piedra y luz"
+  },
+  {
+   "type": "text",
+   "html": "<p>La <strong>arquitectura gótica</strong> nació en Francia a mediados del siglo XII y se extendió por toda Europa hasta el siglo XVI. Es el estilo de las grandes <strong>catedrales</strong>: muros que se abren en <strong>vidrieras</strong>, <strong>arcos apuntados</strong> y bóvedas que suben más alto que nunca.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen"
+  },
+  {
+   "type": "text",
+   "html": "<p>La <strong>arquitectura gótica</strong> es el estilo que se desarrolló en Europa entre los siglos XII y XVI. Se reconoce por el <strong>arco apuntado</strong>, la <strong>bóveda de crucería</strong>, los <strong>arbotantes</strong> y las grandes <strong>vidrieras</strong>, que permitieron levantar edificios muy altos y llenos de luz. Sus obras más conocidas son catedrales como Notre-Dame de París, Chartres, Burgos o León.</p>"
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Época</th><td>Siglos XII a XVI</td></tr><tr><th scope=\"row\">Origen</th><td>Norte de Francia (Île-de-France), con la abadía de Saint-Denis hacia 1140</td></tr><tr><th scope=\"row\">Materiales</th><td>Piedra labrada, vidrio de color, plomo y madera</td></tr><tr><th scope=\"row\">Rasgos</th><td>Arco apuntado, bóveda de crucería, arbotantes, rosetones y verticalidad</td></tr><tr><th scope=\"row\">Obras clave</th><td>Notre-Dame de París, catedral de Chartres, catedral de Burgos, catedral de León</td></tr></tbody></table>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Historia de la arquitectura gótica"
+  },
+  {
+   "type": "text",
+   "html": "<p>El gótico surgió en los alrededores de París cuando el abad Suger reconstruyó el coro de la abadía de Saint-Denis, hacia 1140, con arcos apuntados y grandes ventanales. Sucedió al <strong>románico</strong>, más macizo y oscuro, y coincidió con el crecimiento de las ciudades: la catedral era también un símbolo de su riqueza y de su fe.</p><p>En el siglo XIII el estilo llegó a su madurez (el llamado gótico clásico y, después, el radiante) y en los siglos XIV y XV se volvió más decorativo (el gótico flamígero). En España dejó obras como las catedrales de Burgos, León y Toledo y, a finales del siglo XV, el gótico isabelino. Desde el siglo XV en Italia, y en el XVI en el resto de Europa, la <a href=\"/arquitectura-renacentista/\">arquitectura renacentista</a> lo fue sustituyendo.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Características de la arquitectura gótica"
+  },
+  {
+   "type": "text",
+   "html": "<p>Todo en el gótico busca lo mismo: subir más y dejar entrar más luz. Para conseguirlo, los constructores cambiaron la forma de repartir el peso del edificio.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Arco apuntado u ojival"
+  },
+  {
+   "type": "text",
+   "html": "<p>Formado por dos arcos que se cortan en lo alto, reparte mejor el peso que el arco de medio punto de la <a href=\"/arquitectura-romana/\">arquitectura romana</a> y el románico, y permite cubrir espacios más altos.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Bóveda de crucería"
+  },
+  {
+   "type": "text",
+   "html": "<p>Unos nervios de piedra se cruzan en diagonal y llevan el peso de la bóveda a unos pocos puntos. Así el muro deja de sostenerlo todo y puede abrirse.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Arbotantes y contrafuertes"
+  },
+  {
+   "type": "text",
+   "html": "<p>Por fuera, los <strong>arbotantes</strong> (arcos exteriores) recogen el empuje de las bóvedas y lo llevan a los <strong>contrafuertes</strong>, unos pilares separados del muro. Gracias a ellos las paredes pueden llenarse de ventanales.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Vidrieras y rosetones"
+  },
+  {
+   "type": "text",
+   "html": "<p>La luz de colores formaba parte del mensaje religioso: las <strong>vidrieras</strong> contaban historias de la Biblia a quien no sabía leer, y los <strong>rosetones</strong>, ventanas circulares, presidían las fachadas.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Verticalidad"
+  },
+  {
+   "type": "text",
+   "html": "<p>Torres, agujas y pináculos llevan la mirada hacia arriba. Es la gran diferencia con el románico, más horizontal y pegado al suelo.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Materiales y técnicas"
+  },
+  {
+   "type": "text",
+   "html": "<p>Se construía con <strong>piedra caliza o arenisca</strong> labrada en sillares, mortero de cal, <strong>vidrio coloreado</strong> unido con plomo y estructuras de madera para las cubiertas y los andamios. Las obras duraban décadas y a veces siglos; las dirigían maestros de obras que trabajaban con plantillas y proporciones geométricas, sin los cálculos de la ingeniería actual.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "El gótico en América"
+  },
+  {
+   "type": "text",
+   "html": "<p>El gótico como tal apenas llegó a América, pero en los siglos XIX y XX se levantaron muchos templos <strong>neogóticos</strong>, que imitan sus formas. Dos ejemplos conocidos son la catedral de La Plata, en Argentina, y la basílica del Voto Nacional, en Quito (Ecuador).</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Catedrales y ejemplos de arquitectura gótica"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/catedral-de-notre-dame-de-paris.jpg",
+   "alt": "Fachada de la catedral de Notre-Dame de París",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Catedral de Notre-Dame de París"
+  },
+  {
+   "type": "text",
+   "html": "<p>Comenzada en 1163, es una de las primeras grandes catedrales góticas, famosa por sus rosetones y arbotantes. Tras el incendio de 2019 se restauró y volvió a abrir en diciembre de 2024.</p>"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/catedral-de-chartres.jpg",
+   "alt": "Fachada oeste de la catedral de Chartres",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Catedral de Chartres"
+  },
+  {
+   "type": "text",
+   "html": "<p>Reconstruida tras el incendio de 1194, conserva casi completas sus vidrieras del siglo XIII. Es Patrimonio de la Humanidad desde 1979.</p>"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/catedral-de-burgos.jpg",
+   "alt": "Fachada de la catedral de Burgos",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Catedral de Burgos"
+  },
+  {
+   "type": "text",
+   "html": "<p>Iniciada en 1221, es la gran catedral gótica de España y Patrimonio de la Humanidad desde 1984. Sus agujas caladas son de las más reconocibles del gótico.</p>"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/catedral-de-leon.jpg",
+   "alt": "Catedral gótica de León",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Catedral de León"
+  },
+  {
+   "type": "text",
+   "html": "<p>Iniciada hacia 1255 y llamada la «Pulchra Leonina», es la catedral de la luz: tiene alrededor de 1.800 m² de vidrieras, muchas de ellas medievales.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes"
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Cuáles son las características de la arquitectura gótica?",
+     "html": "<p>El arco apuntado, la bóveda de crucería, los arbotantes y contrafuertes, las grandes vidrieras y rosetones y la verticalidad. Todo ello permitió construir edificios más altos y luminosos que en el románico.</p>"
+    },
+    {
+     "title": "¿Qué diferencia hay entre el románico y el gótico?",
+     "html": "<p>El románico usa el arco de medio punto, muros gruesos y ventanas pequeñas, con interiores oscuros. El gótico usa el arco apuntado y la bóveda de crucería, lleva el peso afuera con arbotantes y abre los muros a la luz.</p>"
+    },
+    {
+     "title": "¿Dónde y cuándo nació la arquitectura gótica?",
+     "html": "<p>En el norte de Francia, en la región de París, hacia 1140, con la reforma de la abadía de Saint-Denis impulsada por el abad Suger.</p>"
+    },
+    {
+     "title": "¿Qué es un arbotante?",
+     "html": "<p>Un arco exterior que recoge el empuje de la bóveda y lo transmite a un contrafuerte separado del muro. Es lo que permite que las paredes góticas se llenen de ventanales.</p>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Fuentes"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><a href=\"https://es.wikipedia.org/wiki/Arquitectura_g%C3%B3tica\" rel=\"noopener\">Arquitectura gótica — Wikipedia</a></li><li><a href=\"https://whc.unesco.org/es/list/81\" rel=\"noopener\">Catedral de Chartres — Patrimonio Mundial de la UNESCO</a></li><li><a href=\"https://whc.unesco.org/es/list/316\" rel=\"noopener\">Catedral de Burgos — Patrimonio Mundial de la UNESCO</a></li></ul><p class=\"creditos\">Fotos: Catedral de Notre-Dame de París, <a href=\"https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris_2013-07-24.jpg\" rel=\"noopener\">P e z i</a> (CC BY-SA 3.0), Wikimedia Commons · Catedral de Chartres, <a href=\"https://commons.wikimedia.org/wiki/File:Westfassade_Chartres.jpg\" rel=\"noopener\">BT</a> (dominio público), Wikimedia Commons · Catedral de Burgos, <a href=\"https://commons.wikimedia.org/wiki/File:FP_Burgos_Cathedral_2026_-_West_Fa%C3%A7ade.jpg\" rel=\"noopener\">Fernando</a> (CC BY-SA 4.0), Wikimedia Commons · Catedral de León, <a href=\"https://commons.wikimedia.org/wiki/File:Catedral_G%C3%B3tica_de_Le%C3%B3n.jpg\" rel=\"noopener\">David Jiménez Llanes</a> (CC BY-SA 3.0), Wikimedia Commons.</p>"
+  }
+ ],
+ "elementor": [
+  {
+   "t": "c",
+   "id": "3352860",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "f6e5004",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "4634b7f",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 0
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "405eb94",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d463189",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h1",
+       "size": "default",
+       "b": 1
+      },
+      {
+       "t": "w",
+       "id": "b672deb",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 2
+      },
+      {
+       "t": "w",
+       "id": "eae1da8",
+       "wt": "divider",
+       "cls": "elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "ad4f1b2",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "6125bbe",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-resumen",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "2846ef2",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "fd6877d",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 4
+      },
+      {
+       "t": "w",
+       "id": "d8aee4f",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 5
+      },
+      {
+       "t": "w",
+       "id": "d3a55f8",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "16248eb",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "7d83a5d",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d073cf6",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 7
+      },
+      {
+       "t": "w",
+       "id": "d6bba00",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "bcc21aa",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "6046d79",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "c1de76a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 9
+      },
+      {
+       "t": "w",
+       "id": "397eb30",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 10
+      },
+      {
+       "t": "w",
+       "id": "b40629c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 11
+      },
+      {
+       "t": "w",
+       "id": "6acc1d2",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 12
+      },
+      {
+       "t": "w",
+       "id": "2827cae",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 13
+      },
+      {
+       "t": "w",
+       "id": "2de2326",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 14
+      },
+      {
+       "t": "w",
+       "id": "273536b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 15
+      },
+      {
+       "t": "w",
+       "id": "5d3abf5",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 16
+      },
+      {
+       "t": "w",
+       "id": "b4377ce",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 17
+      },
+      {
+       "t": "w",
+       "id": "ae4d297",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 18
+      },
+      {
+       "t": "w",
+       "id": "1db4610",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 19
+      },
+      {
+       "t": "w",
+       "id": "ce1a68e",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "a660b23",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "b5c5c6c",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "bb7f217",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 21
+      },
+      {
+       "t": "w",
+       "id": "d3071a7",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 22
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "9584a21",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "bfb159a",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "8e31ba7",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 23
+      },
+      {
+       "t": "w",
+       "id": "e621ab4",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 24
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "07e73c8",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "ef1dffa",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "2458854",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "34d14f3",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila nueva-rejilla",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "5047a2e",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "53448a0",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 26
+      },
+      {
+       "t": "w",
+       "id": "097bd19",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 27
+      },
+      {
+       "t": "w",
+       "id": "3b05e1d",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 28
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "68ea475",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "71dc82a",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 29
+      },
+      {
+       "t": "w",
+       "id": "05e5da3",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 30
+      },
+      {
+       "t": "w",
+       "id": "b5c8d2c",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 31
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "487ec44",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "eda776f",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 32
+      },
+      {
+       "t": "w",
+       "id": "88acaa8",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 33
+      },
+      {
+       "t": "w",
+       "id": "f8d9480",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 34
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "1c9feb3",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "257cbf6",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 35
+      },
+      {
+       "t": "w",
+       "id": "aeb6353",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 36
+      },
+      {
+       "t": "w",
+       "id": "a8ab4a6",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 37
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "7682f45",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "9dcf7b9",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "c46e23b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 38
+      },
+      {
+       "t": "w",
+       "id": "768437f",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 39
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "00e81ea",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fuentes",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "71fcaa3",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "1680348",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 40
+      },
+      {
+       "t": "w",
+       "id": "a93ea87",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 41
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

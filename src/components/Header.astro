@@ -7,13 +7,17 @@ import site from '../data/site.json';
 import diseno from '../data/diseno.json';
 import { ajustarMenu } from '../lib/paises.mjs';
 import { sinIndexar } from '../lib/indexar';
+import { paginas } from '../lib/paginas';
+import articulos from '../data/articulos.json';
+// Estilos nuevos (19-11-2026) en el desplegable de estilos de cada menú
+const estilosNuevos = paginas.filter((p: any) => p.nueva && articulos.estilos.includes(p.slug)).map((p: any) => ({ label: p.title, url: `/${p.slug}/` }));
 
 interface Props { menu?: string; ruta: string }
 const { menu, ruta } = Astro.props as Props;
 const menus = menusData as Record<string, any[]>;
 // Menú ajustado (18-11-2026): sin las páginas que no están en Google y, en el de Renders, «Zonas» solo con los países
 const nombreMenu = menus[menu || 'principal'] ? (menu || 'principal') : 'principal';
-const items = ajustarMenu(nombreMenu, menus[nombreMenu], sinIndexar);
+const items = ajustarMenu(nombreMenu, menus[nombreMenu], sinIndexar, estilosNuevos);
 const clase = (i: any) => [i.url === ruta ? 'actual' : '', i.url === '/contacto/' ? 'contacto' : ''].filter(Boolean).join(' ') || undefined;
 const flecha = '<svg class="flecha" viewBox="0 0 10 10" aria-hidden="true"><path d="M1 3.5 5 7.5 9 3.5" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>';
 ---

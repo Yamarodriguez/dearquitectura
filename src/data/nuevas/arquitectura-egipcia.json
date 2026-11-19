@@ -1,0 +1,74 @@
+{
+  "slug": "arquitectura-egipcia",
+  "titulo": "Arquitectura Egipcia",
+  "h1": "Arquitectura Egipcia",
+  "subtitulo": "Pirámides y templos para la eternidad",
+  "titulo_seo": "Arquitectura egipcia: características, pirámides y templos",
+  "descripcion": "Pirámides, templos y obeliscos de piedra a orillas del Nilo: las características de la arquitectura del antiguo Egipto y sus obras, de Guiza a Karnak y Abu Simbel.",
+  "palabra_clave": "arquitectura egipcia",
+  "fecha": "2026-11-19 12:00:00",
+  "foto": { "src": "/img/2023/12/arte-y-arquitectura-egipcia.jpg", "alt": "Arte y arquitectura egipcia" },
+  "intro": "<p>La <strong>arquitectura egipcia</strong> se desarrolló a orillas del <strong>Nilo</strong> durante unos tres mil años. Sus <strong>pirámides</strong> y <strong>templos</strong>, de piedra y pensados para durar eternamente, siguen estando entre las construcciones más impresionantes del mundo.</p>",
+  "resumen": "La <strong>arquitectura del antiguo Egipto</strong> es la que se construyó desde alrededor del 3000 a. C. hasta la época romana. Es <strong>monumental</strong>, de piedra y <strong>adintelada</strong> (sin arcos), con muros inclinados y columnas con forma de plantas. Sus obras más conocidas son las <strong>pirámides de Guiza</strong>, la pirámide escalonada de Zoser y los templos de Karnak, Luxor y Abu Simbel.",
+  "datos": [
+    ["Época", "Desde hacia el 3000 a. C. hasta la época romana"],
+    ["Lugar", "Valle del Nilo (Egipto y Nubia)"],
+    ["Materiales", "Piedra caliza, arenisca, granito y adobe"],
+    ["Rasgos", "Monumentalidad, sistema adintelado, muros en talud, columnas vegetales, pilonos y salas hipóstilas"],
+    ["Obras clave", "Pirámides de Guiza, pirámide de Zoser, templo de Karnak, templos de Abu Simbel"]
+  ],
+  "secciones": [
+    {
+      "h2": "Historia de la arquitectura egipcia",
+      "html": "<p>En el <strong>Imperio Antiguo</strong> los reyes se enterraban en <strong>mastabas</strong>, tumbas de planta rectangular. Hacia el 2650 a. C., el arquitecto <strong>Imhotep</strong> apiló varias de ellas en Saqqara y nació la pirámide escalonada de Zoser, la primera gran construcción de piedra de la historia. Poco después llegaron las pirámides de caras lisas, como las de Guiza (hacia 2550–2500 a. C.).</p><p>En los imperios Medio y Nuevo, los faraones pasaron a enterrarse en tumbas excavadas en la roca, los <strong>hipogeos</strong>, como las del Valle de los Reyes. La gran arquitectura se dedicó entonces a los <strong>templos</strong> de los dioses, como los de Karnak y Luxor, en la antigua Tebas, o los de Abu Simbel, en Nubia.</p>"
+    },
+    {
+      "h2": "Características de la arquitectura egipcia",
+      "html": "<p>Es una arquitectura pensada para la eternidad: para las tumbas de los faraones y las casas de los dioses. Por eso se construía en piedra, mientras que las viviendas y los palacios eran de adobe.</p>",
+      "sub": [
+        { "h3": "Monumentalidad", "html": "<p>Tamaños enormes, formas simples y simétricas. La Gran Pirámide de Keops medía unos 146 metros de altura cuando se terminó.</p>" },
+        { "h3": "Sistema adintelado", "html": "<p>Los egipcios construían con muros, columnas y vigas de piedra horizontales (dinteles), sin arcos ni bóvedas en los grandes edificios, igual que haría después la <a href=\"/arquitectura-griega/\">arquitectura griega</a>.</p>" },
+        { "h3": "Muros en talud", "html": "<p>Las paredes son más anchas abajo que arriba, lo que les da estabilidad y ese aspecto macizo tan característico.</p>" },
+        { "h3": "Columnas vegetales", "html": "<p>Las columnas imitan plantas del Nilo: hay columnas papiriformes, lotiformes y palmiformes, decoradas y pintadas.</p>" },
+        { "h3": "El templo: pilono, patio, sala hipóstila y santuario", "html": "<p>Se entraba por un <strong>pilono</strong> (dos torres en talud), se pasaba a un patio y a una <strong>sala hipóstila</strong> llena de columnas y se acababa en el santuario, cada vez más pequeño y oscuro.</p>" }
+      ]
+    },
+    {
+      "h2": "Materiales y técnicas",
+      "html": "<p>Para tumbas y templos se usaba <strong>piedra</strong>: caliza, arenisca y granito de Asuán. Los bloques se cortaban con herramientas de cobre y piedra y se transportaban por el Nilo en barcazas; se cree que se subían con rampas, trineos y palancas. Los muros se cubrían de <strong>relieves y jeroglíficos</strong> pintados.</p><p>A diferencia de las pirámides de la <a href=\"/arquitectura-maya/\">arquitectura maya</a> o de la <a href=\"/arquitectura-azteca/\">azteca</a>, que en su mayoría eran la base de un templo, las pirámides egipcias eran tumbas reales.</p>"
+    }
+  ],
+  "obras_titulo": "Pirámides, templos y ejemplos de arquitectura egipcia",
+  "obras": [
+    {
+      "nombre": "Pirámides de Guiza",
+      "html": "<p>Las de Keops, Kefrén y Micerinos, construidas hacia 2550–2500 a. C. La de Keops es la única de las siete maravillas del mundo antiguo que sigue en pie. Son Patrimonio de la Humanidad.</p>",
+      "foto": { "src": "/img/2026/11/piramides-de-guiza.jpg", "alt": "Pirámides de Guiza", "credito": { "autor": "Ricardo Liberato", "licencia": "CC BY-SA 2.0", "ficha": "https://commons.wikimedia.org/wiki/File:All_Gizah_Pyramids-2.jpg" } }
+    },
+    {
+      "nombre": "Pirámide escalonada de Zoser (Saqqara)",
+      "html": "<p>Atribuida al arquitecto Imhotep, hacia el 2650 a. C. Seis grandes escalones de piedra que marcan el paso de la mastaba a la pirámide.</p>",
+      "foto": { "src": "/img/2026/11/piramide-de-zoser.jpg", "alt": "Pirámide escalonada de Zoser en Saqqara", "credito": { "autor": "Charles J. Sharp", "licencia": "CC BY-SA 3.0", "ficha": "https://commons.wikimedia.org/wiki/File:Saqqara_pyramid_ver_2.jpg" } }
+    },
+    {
+      "nombre": "Templo de Karnak (Luxor)",
+      "html": "<p>El gran conjunto dedicado al dios Amón, ampliado durante siglos por muchos faraones. Su sala hipóstila tiene 134 columnas.</p>",
+      "foto": { "src": "/img/2026/11/templo-de-karnak.jpg", "alt": "Vista aérea del templo de Karnak", "credito": { "autor": "Ahmed Bahloul Khier Galal", "licencia": "CC BY-SA 4.0", "ficha": "https://commons.wikimedia.org/wiki/File:Karnak_Temples.jpg" } }
+    },
+    {
+      "nombre": "Templos de Abu Simbel",
+      "html": "<p>Excavados en la roca por orden de Ramsés II en el siglo XIII a. C. Entre 1964 y 1968 se trasladaron piedra a piedra para salvarlos de las aguas de la presa de Asuán.</p>",
+      "foto": { "src": "/img/2026/11/abu-simbel.jpg", "alt": "Templos de Abu Simbel", "credito": { "autor": "youssef_alam", "licencia": "CC BY 3.0", "ficha": "https://commons.wikimedia.org/wiki/File:Ramsis,_Aswan_Governorate,_Egypt_-_panoramio.jpg" } }
+    }
+  ],
+  "faq": [
+    { "q": "¿Cuáles son las características de la arquitectura egipcia?", "a": "La monumentalidad, el sistema adintelado (sin arcos), los muros en talud, las columnas con forma de plantas y la decoración con relieves y jeroglíficos. Se construía en piedra porque estaba pensada para la eternidad." },
+    { "q": "¿Para qué servían las pirámides de Egipto?", "a": "Eran tumbas de los faraones. Guardaban el cuerpo del rey y lo necesario para su vida en el más allá." },
+    { "q": "¿Cómo se construyeron las pirámides?", "a": "Con bloques de piedra cortados con herramientas de cobre y piedra, transportados por el Nilo y subidos, según la hipótesis más aceptada, con rampas, trineos y palancas, gracias al trabajo organizado de miles de personas." },
+    { "q": "¿Qué es una sala hipóstila?", "a": "Una sala con el techo sostenido por muchas columnas. Es típica de los templos egipcios; la de Karnak tiene 134." }
+  ],
+  "fuentes": [
+    { "texto": "Arquitectura del Antiguo Egipto — Wikipedia", "url": "https://es.wikipedia.org/wiki/Arquitectura_del_Antiguo_Egipto" },
+    { "texto": "Menfis y su necrópolis, de Guiza a Dahshur — Patrimonio Mundial de la UNESCO", "url": "https://whc.unesco.org/es/list/86" }
+  ]
+}

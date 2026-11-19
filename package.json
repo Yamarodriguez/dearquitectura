@@ -14,11 +14,12 @@
     "medidas": "node scripts/medidas-imagenes.mjs",
     "menus": "node scripts/menus-desde-referencia.mjs",
     "seo": "node scripts/seo-desde-referencia.mjs",
-    "generar": "npm run extraer && npm run menus && npm run seo && node scripts/estilos-diseno.mjs",
+    "generar": "npm run extraer && npm run menus && npm run seo && node scripts/estilos-diseno.mjs && node scripts/paginas-nuevas.mjs",
     "todo": "node scripts/todo.mjs",
     "todo:visual": "node scripts/visual.mjs",
     "estilos": "node scripts/bajar-estilos.mjs && node scripts/estilos-diseno.mjs",
-    "comprobar:web": "node scripts/comprobar-web.mjs"
+    "comprobar:web": "node scripts/comprobar-web.mjs",
+    "paginas-nuevas": "node scripts/paginas-nuevas.mjs"
   },
   "dependencies": {
     "astro": "4.16.7"

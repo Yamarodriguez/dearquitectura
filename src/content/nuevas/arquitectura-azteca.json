@@ -1,0 +1,705 @@
+{
+ "slug": "arquitectura-azteca",
+ "id": "nueva",
+ "title": "Arquitectura Azteca",
+ "titulo_seo": "Arquitectura azteca: características, Templo Mayor y ejemplos",
+ "url": "https://dearquitectura.info/arquitectura-azteca/",
+ "nueva": true,
+ "meta_description": "Templos sobre pirámides, calzadas y chinampas: la arquitectura azteca o mexica de Tenochtitlan y sus obras, del Templo Mayor a Tlatelolco, Tenayuca y Malinalco.",
+ "palabra_clave": "arquitectura azteca",
+ "menu": "",
+ "logo": "",
+ "foto_destacada": "/img/2026/11/templo-mayor.jpg",
+ "fecha": "2026-11-19 12:00:00",
+ "modificada": "2026-11-19 12:00:00",
+ "fecha_gmt": "2026-11-19 12:00:00",
+ "modificada_gmt": "2026-11-19 12:00:00",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/img/2026/11/templo-mayor.jpg",
+   "alt": "Restos del Templo Mayor de Tenochtitlan en Ciudad de México",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "Arquitectura Azteca"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Tenochtitlan, la ciudad sobre el lago"
+  },
+  {
+   "type": "text",
+   "html": "<p>La <strong>arquitectura azteca</strong>, o <strong>mexica</strong>, es la que levantó este pueblo en <strong>Tenochtitlan</strong>, su capital, fundada hacia 1325 en un islote del lago de Texcoco, donde hoy está la Ciudad de México. Junto a la <a href=\"/arquitectura-maya/\">arquitectura maya</a> y la <a href=\"/arquitectura-incaica/\">arquitectura inca</a>, es una de las grandes arquitecturas prehispánicas de América.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen"
+  },
+  {
+   "type": "text",
+   "html": "<p>La <strong>arquitectura azteca</strong> es la del pueblo mexica entre los siglos XIV y XVI. Se basa en templos sobre <strong>basamentos piramidales</strong> con escalinatas, grandes plazas ceremoniales y una ciudad construida sobre un lago, con <strong>calzadas</strong> y <strong>chinampas</strong>. Su obra principal es el <strong>Templo Mayor</strong> de Tenochtitlan, con dos templos gemelos en lo alto.</p>"
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Época</th><td>Siglos XIV a XVI (hasta 1521)</td></tr><tr><th scope=\"row\">Lugar</th><td>Valle de México: Tenochtitlan, Tlatelolco y su área de influencia</td></tr><tr><th scope=\"row\">Materiales</th><td>Piedra volcánica (tezontle y basalto), estuco, adobe y madera</td></tr><tr><th scope=\"row\">Rasgos</th><td>Basamentos piramidales escalonados, doble escalinata, templos gemelos, plazas, calzadas y chinampas</td></tr><tr><th scope=\"row\">Obras clave</th><td>Templo Mayor, Tlatelolco, Tenayuca, Malinalco</td></tr></tbody></table>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Historia de la arquitectura azteca"
+  },
+  {
+   "type": "text",
+   "html": "<p>Los mexicas fundaron Tenochtitlan hacia 1325 en un islote del lago de Texcoco. Desde 1428, con la Triple Alianza, la ciudad creció hasta convertirse en una de las más grandes del mundo cuando llegaron los españoles en 1519. Tras la conquista, en 1521, fue destruida y sobre ella se construyó la Ciudad de México.</p><p>Durante siglos sus restos quedaron bajo la ciudad colonial. En 1978 el hallazgo de la gran piedra de la diosa Coyolxauhqui llevó a excavar el <strong>Templo Mayor</strong>, que hoy se puede visitar junto a su museo, en el Centro Histórico, Patrimonio de la Humanidad.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Características de la arquitectura azteca"
+  },
+  {
+   "type": "text",
+   "html": "<p>Es una arquitectura religiosa y urbana a la vez: los templos se levantaban en el centro de grandes recintos sagrados, y toda la ciudad se organizaba en torno a ellos y al agua.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Basamentos piramidales"
+  },
+  {
+   "type": "text",
+   "html": "<p>Los templos se alzaban sobre plataformas escalonadas. Cada cierto tiempo se construía una nueva encima de la anterior: el Templo Mayor tuvo siete etapas de construcción.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Templos gemelos y doble escalinata"
+  },
+  {
+   "type": "text",
+   "html": "<p>El Templo Mayor tenía en lo alto dos templos, uno para Huitzilopochtli, dios de la guerra y del sol, y otro para Tláloc, dios de la lluvia, cada uno con su escalinata.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Una ciudad sobre el agua"
+  },
+  {
+   "type": "text",
+   "html": "<p>Tenochtitlan se unía a tierra firme por grandes <strong>calzadas</strong>, recibía agua dulce por un acueducto desde Chapultepec y se cultivaba en <strong>chinampas</strong>, parcelas artificiales sobre el lago.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Recintos y plazas ceremoniales"
+  },
+  {
+   "type": "text",
+   "html": "<p>El recinto sagrado estaba rodeado por un muro y reunía templos, plataformas y plazas para las ceremonias, como en la <a href=\"/arquitectura-urbana/\">arquitectura urbana</a> de las grandes capitales.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Escultura integrada"
+  },
+  {
+   "type": "text",
+   "html": "<p>Cabezas de serpiente, braseros y relieves formaban parte de la propia arquitectura, como el muro de serpientes de Tenayuca.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Materiales y técnicas"
+  },
+  {
+   "type": "text",
+   "html": "<p>Se usaba sobre todo <strong>piedra volcánica</strong>: el <strong>tezontle</strong>, rojizo y ligero, y el basalto. Los edificios se cubrían con estuco de cal y se pintaban. Como el suelo del lago era blando, se clavaban <strong>pilotes de madera</strong> para cimentar, y aun así los edificios tendían a hundirse, una de las razones de que se reconstruyeran por etapas.</p><p>A diferencia de las pirámides de la <a href=\"/arquitectura-egipcia/\">arquitectura egipcia</a>, que eran tumbas, las pirámides aztecas eran la base de un templo en lo alto.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Obras y ejemplos de arquitectura azteca"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/templo-mayor.jpg",
+   "alt": "Restos del Templo Mayor en Ciudad de México",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Templo Mayor (Ciudad de México)"
+  },
+  {
+   "type": "text",
+   "html": "<p>El corazón de Tenochtitlan, con sus siete etapas superpuestas y sus dos templos gemelos. Hoy es zona arqueológica y museo en el Centro Histórico.</p>"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/zona-arqueologica-de-tlatelolco.jpg",
+   "alt": "Vista aérea de la zona arqueológica de Tlatelolco",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Tlatelolco"
+  },
+  {
+   "type": "text",
+   "html": "<p>La ciudad gemela de Tenochtitlan, famosa por su gran mercado. Sus restos están en la Plaza de las Tres Culturas, junto a una iglesia colonial y edificios modernos.</p>"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/tenayuca.jpg",
+   "alt": "Pirámide de Tenayuca",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Tenayuca"
+  },
+  {
+   "type": "text",
+   "html": "<p>Pirámide que muestra muy bien la técnica de superponer etapas y que está rodeada por un muro de serpientes de piedra.</p>"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/zona-arqueologica-de-malinalco.jpg",
+   "alt": "Templo Cuauhcalli de Malinalco, excavado en la roca",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Malinalco"
+  },
+  {
+   "type": "text",
+   "html": "<p>Su templo principal, el Cuauhcalli o «casa de las águilas», está excavado directamente en la roca de la montaña. Se asocia a los guerreros águila y jaguar.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes"
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Cuáles son las características de la arquitectura azteca?",
+     "html": "<p>Los templos sobre basamentos piramidales escalonados, la doble escalinata, los templos gemelos, las grandes plazas ceremoniales y una ciudad construida sobre un lago, con calzadas, acueducto y chinampas.</p>"
+    },
+    {
+     "title": "¿Qué era el Templo Mayor?",
+     "html": "<p>El principal templo de Tenochtitlan, con dos santuarios en lo alto dedicados a Huitzilopochtli y a Tláloc. Se reconstruyó siete veces, cada vez sobre la anterior.</p>"
+    },
+    {
+     "title": "¿Qué diferencia hay entre la arquitectura azteca y la maya?",
+     "html": "<p>La maya es anterior y se desarrolló en el sureste de México y Centroamérica, con ciudades como Tikal o Chichén Itzá. La azteca es de los siglos XIV a XVI y se centró en el valle de México y en Tenochtitlan.</p>"
+    },
+    {
+     "title": "¿Se puede visitar el Templo Mayor?",
+     "html": "<p>Sí. Es una zona arqueológica con museo en el Centro Histórico de la Ciudad de México, junto a la catedral.</p>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Fuentes"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><a href=\"https://es.wikipedia.org/wiki/Arquitectura_mexica\" rel=\"noopener\">Arquitectura mexica — Wikipedia</a></li><li><a href=\"https://es.wikipedia.org/wiki/Templo_Mayor\" rel=\"noopener\">Templo Mayor — Wikipedia</a></li><li><a href=\"https://whc.unesco.org/es/list/412\" rel=\"noopener\">Centro histórico de México y Xochimilco — Patrimonio Mundial de la UNESCO</a></li></ul><p class=\"creditos\">Fotos: Templo Mayor (Ciudad de México), <a href=\"https://commons.wikimedia.org/wiki/File:Partial_view_Templo_Mayor.jpg\" rel=\"noopener\">Jesús Gorriti</a> (CC BY-SA 2.0), Wikimedia Commons · Tlatelolco, <a href=\"https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_de_la_Zona_Arqueol%C3%B3gica_de_Tlatelolco.jpg\" rel=\"noopener\">autor en Wikimedia Commons</a> (CC BY-SA 4.0), Wikimedia Commons · Tenayuca, <a href=\"https://commons.wikimedia.org/wiki/File:Tenayuca.jpg\" rel=\"noopener\">Maunus</a> (dominio público), Wikimedia Commons · Malinalco, <a href=\"https://commons.wikimedia.org/wiki/File:Zona_arqueol%C3%B3gica_de_Cuauhtinch%C3%A1n,_templo_Cuauhcalli_(%27Casa_del_sol%27_o_%27Casa_de_las_%C3%A1guilas%27).JPG\" rel=\"noopener\">Joaogabriel</a> (CC BY-SA 3.0), Wikimedia Commons.</p>"
+  }
+ ],
+ "elementor": [
+  {
+   "t": "c",
+   "id": "8d0efd1",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "5add392",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "67cc1bc",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 0
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "bb247c1",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "2c9f6f2",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h1",
+       "size": "default",
+       "b": 1
+      },
+      {
+       "t": "w",
+       "id": "0d289c3",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 2
+      },
+      {
+       "t": "w",
+       "id": "e663f20",
+       "wt": "divider",
+       "cls": "elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "81b2eed",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "53320c6",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-resumen",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "4f5e03e",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "6355b0b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 4
+      },
+      {
+       "t": "w",
+       "id": "71589a4",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 5
+      },
+      {
+       "t": "w",
+       "id": "8da6199",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "1432d1a",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "8117a5f",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "3c5b3ae",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 7
+      },
+      {
+       "t": "w",
+       "id": "583bb41",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "db272fb",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "769223e",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "5a8fece",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 9
+      },
+      {
+       "t": "w",
+       "id": "74baca9",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 10
+      },
+      {
+       "t": "w",
+       "id": "8eb01f0",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 11
+      },
+      {
+       "t": "w",
+       "id": "3abc8c5",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 12
+      },
+      {
+       "t": "w",
+       "id": "20343f9",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 13
+      },
+      {
+       "t": "w",
+       "id": "6b4ef13",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 14
+      },
+      {
+       "t": "w",
+       "id": "a8b67f6",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 15
+      },
+      {
+       "t": "w",
+       "id": "1c8a852",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 16
+      },
+      {
+       "t": "w",
+       "id": "7b71d8e",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 17
+      },
+      {
+       "t": "w",
+       "id": "6dc6a4f",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 18
+      },
+      {
+       "t": "w",
+       "id": "cd36290",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 19
+      },
+      {
+       "t": "w",
+       "id": "0ee178c",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "68ef3a4",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "4a4c6f7",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "b81dc13",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 21
+      },
+      {
+       "t": "w",
+       "id": "de84862",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 22
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "0a8414d",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "b0ab021",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "858b874",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 23
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "68e45b3",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila nueva-rejilla",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "31b5959",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "03c56e9",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 24
+      },
+      {
+       "t": "w",
+       "id": "8c0ea7b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 25
+      },
+      {
+       "t": "w",
+       "id": "b00cc95",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 26
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "9295f7f",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "78f0df0",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 27
+      },
+      {
+       "t": "w",
+       "id": "47dbecf",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 28
+      },
+      {
+       "t": "w",
+       "id": "fb51c97",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 29
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "6bd7a4a",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "25cf1c5",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 30
+      },
+      {
+       "t": "w",
+       "id": "f0a4398",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 31
+      },
+      {
+       "t": "w",
+       "id": "c566b39",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 32
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "c61e230",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "2f4e06f",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 33
+      },
+      {
+       "t": "w",
+       "id": "da9866f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 34
+      },
+      {
+       "t": "w",
+       "id": "9808e1f",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 35
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "b9a2e8a",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "1dae4ce",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "5a3f43b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 36
+      },
+      {
+       "t": "w",
+       "id": "2ead426",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 37
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "6bc14cd",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fuentes",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "13c05f9",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "a09085e",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 38
+      },
+      {
+       "t": "w",
+       "id": "582c7dc",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 39
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

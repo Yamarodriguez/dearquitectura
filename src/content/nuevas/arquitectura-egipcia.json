@@ -1,0 +1,705 @@
+{
+ "slug": "arquitectura-egipcia",
+ "id": "nueva",
+ "title": "Arquitectura Egipcia",
+ "titulo_seo": "Arquitectura egipcia: características, pirámides y templos",
+ "url": "https://dearquitectura.info/arquitectura-egipcia/",
+ "nueva": true,
+ "meta_description": "Pirámides, templos y obeliscos de piedra a orillas del Nilo: las características de la arquitectura del antiguo Egipto y sus obras, de Guiza a Karnak y Abu Simbel.",
+ "palabra_clave": "arquitectura egipcia",
+ "menu": "",
+ "logo": "",
+ "foto_destacada": "/img/2023/12/arte-y-arquitectura-egipcia.jpg",
+ "fecha": "2026-11-19 12:00:00",
+ "modificada": "2026-11-19 12:00:00",
+ "fecha_gmt": "2026-11-19 12:00:00",
+ "modificada_gmt": "2026-11-19 12:00:00",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/img/2023/12/arte-y-arquitectura-egipcia.jpg",
+   "alt": "Arte y arquitectura egipcia",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "Arquitectura Egipcia"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Pirámides y templos para la eternidad"
+  },
+  {
+   "type": "text",
+   "html": "<p>La <strong>arquitectura egipcia</strong> se desarrolló a orillas del <strong>Nilo</strong> durante unos tres mil años. Sus <strong>pirámides</strong> y <strong>templos</strong>, de piedra y pensados para durar eternamente, siguen estando entre las construcciones más impresionantes del mundo.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen"
+  },
+  {
+   "type": "text",
+   "html": "<p>La <strong>arquitectura del antiguo Egipto</strong> es la que se construyó desde alrededor del 3000 a. C. hasta la época romana. Es <strong>monumental</strong>, de piedra y <strong>adintelada</strong> (sin arcos), con muros inclinados y columnas con forma de plantas. Sus obras más conocidas son las <strong>pirámides de Guiza</strong>, la pirámide escalonada de Zoser y los templos de Karnak, Luxor y Abu Simbel.</p>"
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Época</th><td>Desde hacia el 3000 a. C. hasta la época romana</td></tr><tr><th scope=\"row\">Lugar</th><td>Valle del Nilo (Egipto y Nubia)</td></tr><tr><th scope=\"row\">Materiales</th><td>Piedra caliza, arenisca, granito y adobe</td></tr><tr><th scope=\"row\">Rasgos</th><td>Monumentalidad, sistema adintelado, muros en talud, columnas vegetales, pilonos y salas hipóstilas</td></tr><tr><th scope=\"row\">Obras clave</th><td>Pirámides de Guiza, pirámide de Zoser, templo de Karnak, templos de Abu Simbel</td></tr></tbody></table>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Historia de la arquitectura egipcia"
+  },
+  {
+   "type": "text",
+   "html": "<p>En el <strong>Imperio Antiguo</strong> los reyes se enterraban en <strong>mastabas</strong>, tumbas de planta rectangular. Hacia el 2650 a. C., el arquitecto <strong>Imhotep</strong> apiló varias de ellas en Saqqara y nació la pirámide escalonada de Zoser, la primera gran construcción de piedra de la historia. Poco después llegaron las pirámides de caras lisas, como las de Guiza (hacia 2550–2500 a. C.).</p><p>En los imperios Medio y Nuevo, los faraones pasaron a enterrarse en tumbas excavadas en la roca, los <strong>hipogeos</strong>, como las del Valle de los Reyes. La gran arquitectura se dedicó entonces a los <strong>templos</strong> de los dioses, como los de Karnak y Luxor, en la antigua Tebas, o los de Abu Simbel, en Nubia.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Características de la arquitectura egipcia"
+  },
+  {
+   "type": "text",
+   "html": "<p>Es una arquitectura pensada para la eternidad: para las tumbas de los faraones y las casas de los dioses. Por eso se construía en piedra, mientras que las viviendas y los palacios eran de adobe.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Monumentalidad"
+  },
+  {
+   "type": "text",
+   "html": "<p>Tamaños enormes, formas simples y simétricas. La Gran Pirámide de Keops medía unos 146 metros de altura cuando se terminó.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Sistema adintelado"
+  },
+  {
+   "type": "text",
+   "html": "<p>Los egipcios construían con muros, columnas y vigas de piedra horizontales (dinteles), sin arcos ni bóvedas en los grandes edificios, igual que haría después la <a href=\"/arquitectura-griega/\">arquitectura griega</a>.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Muros en talud"
+  },
+  {
+   "type": "text",
+   "html": "<p>Las paredes son más anchas abajo que arriba, lo que les da estabilidad y ese aspecto macizo tan característico.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Columnas vegetales"
+  },
+  {
+   "type": "text",
+   "html": "<p>Las columnas imitan plantas del Nilo: hay columnas papiriformes, lotiformes y palmiformes, decoradas y pintadas.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "El templo: pilono, patio, sala hipóstila y santuario"
+  },
+  {
+   "type": "text",
+   "html": "<p>Se entraba por un <strong>pilono</strong> (dos torres en talud), se pasaba a un patio y a una <strong>sala hipóstila</strong> llena de columnas y se acababa en el santuario, cada vez más pequeño y oscuro.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Materiales y técnicas"
+  },
+  {
+   "type": "text",
+   "html": "<p>Para tumbas y templos se usaba <strong>piedra</strong>: caliza, arenisca y granito de Asuán. Los bloques se cortaban con herramientas de cobre y piedra y se transportaban por el Nilo en barcazas; se cree que se subían con rampas, trineos y palancas. Los muros se cubrían de <strong>relieves y jeroglíficos</strong> pintados.</p><p>A diferencia de las pirámides de la <a href=\"/arquitectura-maya/\">arquitectura maya</a> o de la <a href=\"/arquitectura-azteca/\">azteca</a>, que en su mayoría eran la base de un templo, las pirámides egipcias eran tumbas reales.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Pirámides, templos y ejemplos de arquitectura egipcia"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/piramides-de-guiza.jpg",
+   "alt": "Pirámides de Guiza",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Pirámides de Guiza"
+  },
+  {
+   "type": "text",
+   "html": "<p>Las de Keops, Kefrén y Micerinos, construidas hacia 2550–2500 a. C. La de Keops es la única de las siete maravillas del mundo antiguo que sigue en pie. Son Patrimonio de la Humanidad.</p>"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/piramide-de-zoser.jpg",
+   "alt": "Pirámide escalonada de Zoser en Saqqara",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Pirámide escalonada de Zoser (Saqqara)"
+  },
+  {
+   "type": "text",
+   "html": "<p>Atribuida al arquitecto Imhotep, hacia el 2650 a. C. Seis grandes escalones de piedra que marcan el paso de la mastaba a la pirámide.</p>"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/templo-de-karnak.jpg",
+   "alt": "Vista aérea del templo de Karnak",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Templo de Karnak (Luxor)"
+  },
+  {
+   "type": "text",
+   "html": "<p>El gran conjunto dedicado al dios Amón, ampliado durante siglos por muchos faraones. Su sala hipóstila tiene 134 columnas.</p>"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/abu-simbel.jpg",
+   "alt": "Templos de Abu Simbel",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Templos de Abu Simbel"
+  },
+  {
+   "type": "text",
+   "html": "<p>Excavados en la roca por orden de Ramsés II en el siglo XIII a. C. Entre 1964 y 1968 se trasladaron piedra a piedra para salvarlos de las aguas de la presa de Asuán.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes"
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Cuáles son las características de la arquitectura egipcia?",
+     "html": "<p>La monumentalidad, el sistema adintelado (sin arcos), los muros en talud, las columnas con forma de plantas y la decoración con relieves y jeroglíficos. Se construía en piedra porque estaba pensada para la eternidad.</p>"
+    },
+    {
+     "title": "¿Para qué servían las pirámides de Egipto?",
+     "html": "<p>Eran tumbas de los faraones. Guardaban el cuerpo del rey y lo necesario para su vida en el más allá.</p>"
+    },
+    {
+     "title": "¿Cómo se construyeron las pirámides?",
+     "html": "<p>Con bloques de piedra cortados con herramientas de cobre y piedra, transportados por el Nilo y subidos, según la hipótesis más aceptada, con rampas, trineos y palancas, gracias al trabajo organizado de miles de personas.</p>"
+    },
+    {
+     "title": "¿Qué es una sala hipóstila?",
+     "html": "<p>Una sala con el techo sostenido por muchas columnas. Es típica de los templos egipcios; la de Karnak tiene 134.</p>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Fuentes"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><a href=\"https://es.wikipedia.org/wiki/Arquitectura_del_Antiguo_Egipto\" rel=\"noopener\">Arquitectura del Antiguo Egipto — Wikipedia</a></li><li><a href=\"https://whc.unesco.org/es/list/86\" rel=\"noopener\">Menfis y su necrópolis, de Guiza a Dahshur — Patrimonio Mundial de la UNESCO</a></li></ul><p class=\"creditos\">Fotos: Pirámides de Guiza, <a href=\"https://commons.wikimedia.org/wiki/File:All_Gizah_Pyramids-2.jpg\" rel=\"noopener\">Ricardo Liberato</a> (CC BY-SA 2.0), Wikimedia Commons · Pirámide escalonada de Zoser (Saqqara), <a href=\"https://commons.wikimedia.org/wiki/File:Saqqara_pyramid_ver_2.jpg\" rel=\"noopener\">Charles J. Sharp</a> (CC BY-SA 3.0), Wikimedia Commons · Templo de Karnak (Luxor), <a href=\"https://commons.wikimedia.org/wiki/File:Karnak_Temples.jpg\" rel=\"noopener\">Ahmed Bahloul Khier Galal</a> (CC BY-SA 4.0), Wikimedia Commons · Templos de Abu Simbel, <a href=\"https://commons.wikimedia.org/wiki/File:Ramsis,_Aswan_Governorate,_Egypt_-_panoramio.jpg\" rel=\"noopener\">youssef_alam</a> (CC BY 3.0), Wikimedia Commons.</p>"
+  }
+ ],
+ "elementor": [
+  {
+   "t": "c",
+   "id": "6627878",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "ce73fdf",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "beda0d3",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 0
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "55f4454",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "083e805",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h1",
+       "size": "default",
+       "b": 1
+      },
+      {
+       "t": "w",
+       "id": "3518749",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 2
+      },
+      {
+       "t": "w",
+       "id": "5638107",
+       "wt": "divider",
+       "cls": "elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "0bc924b",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "c0eb9a7",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-resumen",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "53181a4",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "251c7bd",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 4
+      },
+      {
+       "t": "w",
+       "id": "54aa90b",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 5
+      },
+      {
+       "t": "w",
+       "id": "536f2b8",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "2bca3d1",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "c960abd",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "03bf6b9",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 7
+      },
+      {
+       "t": "w",
+       "id": "806bdca",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "43e4d66",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "b5fc3be",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "30e3180",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 9
+      },
+      {
+       "t": "w",
+       "id": "b9747e1",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 10
+      },
+      {
+       "t": "w",
+       "id": "aba0509",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 11
+      },
+      {
+       "t": "w",
+       "id": "836559c",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 12
+      },
+      {
+       "t": "w",
+       "id": "4ee2585",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 13
+      },
+      {
+       "t": "w",
+       "id": "c5d6af8",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 14
+      },
+      {
+       "t": "w",
+       "id": "2753b32",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 15
+      },
+      {
+       "t": "w",
+       "id": "06675e8",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 16
+      },
+      {
+       "t": "w",
+       "id": "44e22e8",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 17
+      },
+      {
+       "t": "w",
+       "id": "8d71838",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 18
+      },
+      {
+       "t": "w",
+       "id": "e6dd152",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 19
+      },
+      {
+       "t": "w",
+       "id": "29cd68e",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "f1027dd",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "be5000b",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "e5fe7ff",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 21
+      },
+      {
+       "t": "w",
+       "id": "4de5edf",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 22
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "3225b85",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "ee2fa60",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "889be02",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 23
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "ba7fba1",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila nueva-rejilla",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "7bf3eaf",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "edc8e30",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 24
+      },
+      {
+       "t": "w",
+       "id": "b7dd4c7",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 25
+      },
+      {
+       "t": "w",
+       "id": "7c37c6c",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 26
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "9d55d74",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "710d6a9",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 27
+      },
+      {
+       "t": "w",
+       "id": "a63aa8d",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 28
+      },
+      {
+       "t": "w",
+       "id": "ab16d86",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 29
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "8b9c42f",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "189330e",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 30
+      },
+      {
+       "t": "w",
+       "id": "564cc7b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 31
+      },
+      {
+       "t": "w",
+       "id": "c507c67",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 32
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "d5f7cc7",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d6d5485",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 33
+      },
+      {
+       "t": "w",
+       "id": "c4cec51",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 34
+      },
+      {
+       "t": "w",
+       "id": "8a2cd86",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 35
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "a81fc17",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "f8eba33",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "43d4e4c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 36
+      },
+      {
+       "t": "w",
+       "id": "74e71b7",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 37
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "fc07152",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fuentes",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "383cdf9",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "0cff361",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 38
+      },
+      {
+       "t": "w",
+       "id": "f2986ba",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 39
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

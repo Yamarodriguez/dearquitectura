@@ -11608,5 +11608,184 @@
    800,
    1600
   ]
+ },
+ "/img/2026/11/abu-simbel.jpg": {
+  "w": 1920,
+  "h": 1440,
+  "ws": [
+   400,
+   800,
+   1920
+  ]
+ },
+ "/img/2026/11/barbican-estate.jpg": {
+  "w": 1920,
+  "h": 1576,
+  "ws": [
+   400,
+   800,
+   1920
+  ]
+ },
+ "/img/2026/11/basilica-de-san-pedro.jpg": {
+  "w": 1920,
+  "h": 1278,
+  "ws": [
+   400,
+   800,
+   1920
+  ]
+ },
+ "/img/2026/11/biblioteca-nacional-mariano-moreno.jpg": {
+  "w": 1920,
+  "h": 2880,
+  "ws": [
+   400,
+   800,
+   1920
+  ]
+ },
+ "/img/2026/11/catedral-de-burgos.jpg": {
+  "w": 1920,
+  "h": 1920,
+  "ws": [
+   400,
+   800,
+   1920
+  ]
+ },
+ "/img/2026/11/catedral-de-chartres.jpg": {
+  "w": 1280,
+  "h": 1973,
+  "ws": [
+   400,
+   800,
+   1280
+  ]
+ },
+ "/img/2026/11/catedral-de-leon.jpg": {
+  "w": 813,
+  "h": 1200,
+  "ws": [
+   400,
+   800
+  ]
+ },
+ "/img/2026/11/catedral-de-notre-dame-de-paris.jpg": {
+  "w": 1920,
+  "h": 2592,
+  "ws": [
+   400,
+   800,
+   1920
+  ]
+ },
+ "/img/2026/11/catedral-de-santa-maria-del-fiore.jpg": {
+  "w": 1920,
+  "h": 1276,
+  "ws": [
+   400,
+   800,
+   1920
+  ]
+ },
+ "/img/2026/11/monasterio-de-el-escorial.jpg": {
+  "w": 1920,
+  "h": 1280,
+  "ws": [
+   400,
+   800,
+   1920
+  ]
+ },
+ "/img/2026/11/piramide-de-zoser.jpg": {
+  "w": 1920,
+  "h": 1280,
+  "ws": [
+   400,
+   800,
+   1920
+  ]
+ },
+ "/img/2026/11/piramides-de-guiza.jpg": {
+  "w": 1920,
+  "h": 1009,
+  "ws": [
+   400,
+   800,
+   1920
+  ]
+ },
+ "/img/2026/11/templo-de-karnak.jpg": {
+  "w": 1920,
+  "h": 1280,
+  "ws": [
+   400,
+   800,
+   1920
+  ]
+ },
+ "/img/2026/11/templo-mayor.jpg": {
+  "w": 1280,
+  "h": 865,
+  "ws": [
+   400,
+   800,
+   1280
+  ]
+ },
+ "/img/2026/11/tenayuca.jpg": {
+  "w": 1920,
+  "h": 1440,
+  "ws": [
+   400,
+   800,
+   1920
+  ]
+ },
+ "/img/2026/11/torres-blancas.jpg": {
+  "w": 1920,
+  "h": 2651,
+  "ws": [
+   400,
+   800,
+   1920
+  ]
+ },
+ "/img/2026/11/unite-d-habitation.jpg": {
+  "w": 1920,
+  "h": 1920,
+  "ws": [
+   400,
+   800,
+   1920
+  ]
+ },
+ "/img/2026/11/villa-capra.jpg": {
+  "w": 1600,
+  "h": 1067,
+  "ws": [
+   400,
+   800,
+   1600
+  ]
+ },
+ "/img/2026/11/zona-arqueologica-de-malinalco.jpg": {
+  "w": 1280,
+  "h": 960,
+  "ws": [
+   400,
+   800,
+   1280
+  ]
+ },
+ "/img/2026/11/zona-arqueologica-de-tlatelolco.jpg": {
+  "w": 1920,
+  "h": 1080,
+  "ws": [
+   400,
+   800,
+   1920
+  ]
  }
 }

@@ -3,6 +3,7 @@
 // Renders, Servicios…), si tiene página propia.
 import menus from '../data/menus.json';
 import { mapaPaises, paisDeCiudad } from './paises.mjs';
+import articulos from '../data/articulos.json';
 
 export type Miga = { nombre: string; url: string };
 const DOMINIO = 'https://dearquitectura.info';
@@ -35,6 +36,7 @@ export function migasDe(url: string, nombre: string, menu?: string): Miga[] {
   if (esPais.has(slug)) return [inicio, renders, { nombre, url }];
   const pais = esPais.has(slug) ? undefined : paisDeCiudad(slug, menu, mapa);
   if (pais) return [inicio, renders, { nombre: nombrePais[pais] ?? pais, url: `${DOMINIO}/${pais}/` }, { nombre, url }];
-  const seccion = seccionDe(ruta, menu);
+  // Los estilos que no están en el menú original (los nuevos) cuelgan de Tipos de arquitectura
+  const seccion = seccionDe(ruta, menu) ?? (articulos.estilos.includes(slug) ? { nombre: 'Tipos', url: `${DOMINIO}/tipos-de-arquitectura/` } : undefined);
   return seccion ? [inicio, seccion, { nombre, url }] : [inicio, { nombre, url }];
 }

@@ -1,0 +1,744 @@
+{
+ "slug": "arquitectura-brutalista",
+ "id": "nueva",
+ "title": "Arquitectura Brutalista",
+ "titulo_seo": "Arquitectura brutalista: qué es, características y ejemplos",
+ "url": "https://dearquitectura.info/arquitectura-brutalista/",
+ "nueva": true,
+ "meta_description": "Hormigón visto, volúmenes rotundos y estructura a la vista: qué es el brutalismo, su historia y sus obras, de Le Corbusier al Barbican y la Biblioteca Nacional de Buenos Aires.",
+ "palabra_clave": "arquitectura brutalista",
+ "menu": "",
+ "logo": "",
+ "foto_destacada": "/img/2023/12/brutalismo-arquitectura.jpg",
+ "fecha": "2026-11-19 12:00:00",
+ "modificada": "2026-11-19 12:00:00",
+ "fecha_gmt": "2026-11-19 12:00:00",
+ "modificada_gmt": "2026-11-19 12:00:00",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/img/2023/12/brutalismo-arquitectura.jpg",
+   "alt": "Brutalismo en arquitectura",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "Arquitectura Brutalista"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "La fuerza del hormigón visto"
+  },
+  {
+   "type": "text",
+   "html": "<p>El <strong>brutalismo</strong> es una corriente de la <a href=\"/arquitectura-moderna/\">arquitectura moderna</a> que tuvo su auge entre los años cincuenta y setenta del siglo XX. Su seña de identidad es el <strong>hormigón visto</strong>: sin revestir, con la huella del encofrado a la vista.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen"
+  },
+  {
+   "type": "text",
+   "html": "<p>El <strong>brutalismo</strong> es un estilo de la arquitectura moderna (años 1950 a 1970) que muestra los materiales tal como son, sobre todo el <strong>hormigón visto</strong>, con volúmenes rotundos y la estructura a la vista. El nombre viene del francés <em>béton brut</em> («hormigón bruto»), la expresión de Le Corbusier. Ejemplos: la Unité d'Habitation de Le Corbusier, el Barbican de Londres, Torres Blancas en Madrid y la Biblioteca Nacional de Buenos Aires.</p>"
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Época</th><td>Años 1950 a 1970 (con obras hasta los 90)</td></tr><tr><th scope=\"row\">Origen</th><td>Europa (Francia y Reino Unido), y después todo el mundo</td></tr><tr><th scope=\"row\">Materiales</th><td>Hormigón visto, ladrillo, acero y vidrio</td></tr><tr><th scope=\"row\">Rasgos</th><td>Hormigón sin revestir, volúmenes pesados, estructura y funciones a la vista, repetición de módulos</td></tr><tr><th scope=\"row\">Arquitectos</th><td>Le Corbusier, Alison y Peter Smithson, Paul Rudolph, Clorindo Testa, Paulo Mendes da Rocha, Lina Bo Bardi</td></tr><tr><th scope=\"row\">Obras clave</th><td>Unité d'Habitation, Barbican Estate, Torres Blancas, Biblioteca Nacional Mariano Moreno</td></tr></tbody></table>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Historia del brutalismo"
+  },
+  {
+   "type": "text",
+   "html": "<p>El origen suele situarse en la <strong>Unité d'Habitation</strong> de Marsella (1947–1952), donde Le Corbusier dejó el hormigón tal como salía del encofrado. En el Reino Unido, Alison y Peter Smithson hablaron de «nuevo brutalismo» en los años cincuenta, y el crítico Reyner Banham lo difundió con su libro <em>The New Brutalism</em> (1966).</p><p>En la posguerra fue el estilo de muchas viviendas sociales, universidades y edificios públicos, porque el hormigón era barato, rápido y resistente. Desde los años ochenta se le criticó por frío y por envejecer mal, y se derribaron algunos edificios. Hoy vive una revalorización: muchos se restauran y se protegen como patrimonio.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Características de la arquitectura brutalista"
+  },
+  {
+   "type": "text",
+   "html": "<p>El brutalismo nace de una idea casi moral: no esconder nada. El edificio muestra de qué está hecho y cómo funciona.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Hormigón visto"
+  },
+  {
+   "type": "text",
+   "html": "<p>El hormigón queda sin pintar ni revestir, a menudo con la textura de las tablas de madera del encofrado marcada en la superficie.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Volúmenes rotundos y geométricos"
+  },
+  {
+   "type": "text",
+   "html": "<p>Formas pesadas y contundentes, con grandes voladizos y bloques que sobresalen.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Estructura y funciones a la vista"
+  },
+  {
+   "type": "text",
+   "html": "<p>Pilares, vigas, escaleras e instalaciones se dejan ver; la forma del edificio explica lo que pasa dentro.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Repetición y módulos"
+  },
+  {
+   "type": "text",
+   "html": "<p>Ventanas, balcones y piezas prefabricadas se repiten, sobre todo en los grandes conjuntos de viviendas.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Honestidad material"
+  },
+  {
+   "type": "text",
+   "html": "<p>Además del hormigón, se usan ladrillo, acero y vidrio sin disimular, en la línea de la <a href=\"/arquitectura-industrial/\">arquitectura industrial</a>.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Materiales y técnicas"
+  },
+  {
+   "type": "text",
+   "html": "<p>El material principal es el <strong>hormigón armado</strong>, vertido en la propia obra dentro de encofrados de madera o metal, o fabricado en piezas que luego se montan. El acabado depende del encofrado: tablas de madera, paneles lisos o superficies que se abujardaban (se picaban) para darles textura.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "El brutalismo en Latinoamérica"
+  },
+  {
+   "type": "text",
+   "html": "<p>Tuvo mucha fuerza en la región. En Brasil, la llamada escuela paulista, con Paulo Mendes da Rocha y Lina Bo Bardi (SESC Pompeia), y en Argentina, obras como la Biblioteca Nacional de Clorindo Testa, son referencias mundiales del estilo.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Obras y ejemplos de arquitectura brutalista"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/unite-d-habitation.jpg",
+   "alt": "Unité d'Habitation de Le Corbusier en Berlín",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Unité d'Habitation (Le Corbusier)"
+  },
+  {
+   "type": "text",
+   "html": "<p>Grandes bloques de viviendas con calles interiores y servicios. La primera, la de Marsella (1947–1952), tiene 337 viviendas y es Patrimonio de la Humanidad. En la foto, la Unité de Berlín (1957–1958).</p>"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/barbican-estate.jpg",
+   "alt": "Torres del Barbican Estate en Londres",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Barbican Estate (Londres)"
+  },
+  {
+   "type": "text",
+   "html": "<p>Conjunto de viviendas, torres y centro cultural levantado entre los años sesenta y setenta por Chamberlin, Powell y Bon, sobre una zona bombardeada en la Segunda Guerra Mundial.</p>"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/torres-blancas.jpg",
+   "alt": "Torres Blancas en Madrid",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Torres Blancas (Madrid)"
+  },
+  {
+   "type": "text",
+   "html": "<p>Torre de viviendas de Francisco Javier Sáenz de Oiza, terminada en 1969, con terrazas curvas que recuerdan un árbol de hormigón.</p>"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/biblioteca-nacional-mariano-moreno.jpg",
+   "alt": "Biblioteca Nacional Mariano Moreno en Buenos Aires",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Biblioteca Nacional Mariano Moreno (Buenos Aires)"
+  },
+  {
+   "type": "text",
+   "html": "<p>Proyectada en 1962 por Clorindo Testa, Francisco Bullrich y Alicia Cazzaniga e inaugurada en 1992. Un gran volumen de hormigón que flota sobre cuatro apoyos.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes"
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Por qué se llama arquitectura brutalista?",
+     "html": "<p>Por el francés «béton brut», hormigón bruto o en crudo, la expresión que usaba Le Corbusier para el hormigón sin revestir. No viene de «brutal».</p>"
+    },
+    {
+     "title": "¿Cuáles son las características del brutalismo?",
+     "html": "<p>El hormigón visto, los volúmenes pesados y geométricos, la estructura y las funciones a la vista, la repetición de módulos y el uso honesto de los materiales.</p>"
+    },
+    {
+     "title": "¿Qué arquitectos fueron brutalistas?",
+     "html": "<p>Le Corbusier, Alison y Peter Smithson, Paul Rudolph, Denys Lasdun y, en Latinoamérica, Clorindo Testa, Paulo Mendes da Rocha y Lina Bo Bardi, entre otros.</p>"
+    },
+    {
+     "title": "¿Qué diferencia hay entre el brutalismo y la arquitectura moderna?",
+     "html": "<p>El brutalismo es una corriente dentro de la arquitectura moderna. Comparte su idea de función y sencillez, pero apuesta por el hormigón visto y las formas pesadas, frente al vidrio y la ligereza de otras corrientes.</p>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Fuentes"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><a href=\"https://es.wikipedia.org/wiki/Brutalismo\" rel=\"noopener\">Arquitectura brutalista — Wikipedia</a></li><li><a href=\"https://whc.unesco.org/es/list/1321\" rel=\"noopener\">La obra arquitectónica de Le Corbusier — Patrimonio Mundial de la UNESCO</a></li></ul><p class=\"creditos\">Fotos: Unité d'Habitation (Le Corbusier), <a href=\"https://commons.wikimedia.org/wiki/File:Corbusierhaus_B-Westend_06-2017.jpg\" rel=\"noopener\">A. Savin</a> (FAL), Wikimedia Commons · Barbican Estate (Londres), <a href=\"https://commons.wikimedia.org/wiki/File:Barbican_towers.jpg\" rel=\"noopener\">Riodamascus</a> (CC BY-SA 3.0), Wikimedia Commons · Torres Blancas (Madrid), <a href=\"https://commons.wikimedia.org/wiki/File:Torres_Blancas_(Madrid)_04.jpg\" rel=\"noopener\">Luis García (Zaqarbal)</a> (CC BY-SA 3.0), Wikimedia Commons · Biblioteca Nacional Mariano Moreno (Buenos Aires), <a href=\"https://commons.wikimedia.org/wiki/File:Biblioteca_Nacional_BA.jpg\" rel=\"noopener\">Gobierno de la Ciudad de Buenos Aires</a> (CC BY 2.5 AR), Wikimedia Commons.</p>"
+  }
+ ],
+ "elementor": [
+  {
+   "t": "c",
+   "id": "778bcf3",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "23adc4e",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d05e6c7",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 0
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "40e1d3b",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "0fe1449",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h1",
+       "size": "default",
+       "b": 1
+      },
+      {
+       "t": "w",
+       "id": "5580a3a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 2
+      },
+      {
+       "t": "w",
+       "id": "42a93b3",
+       "wt": "divider",
+       "cls": "elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "a3f0feb",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "ea2cc4e",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-resumen",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "56403e1",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "ff73f51",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 4
+      },
+      {
+       "t": "w",
+       "id": "0b35fe9",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 5
+      },
+      {
+       "t": "w",
+       "id": "76d3031",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "e1a2274",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "f17f3c5",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "8f563df",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 7
+      },
+      {
+       "t": "w",
+       "id": "6fe7a78",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "b1bb666",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "44ba6c0",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "36a477b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 9
+      },
+      {
+       "t": "w",
+       "id": "9566581",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 10
+      },
+      {
+       "t": "w",
+       "id": "30bef04",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 11
+      },
+      {
+       "t": "w",
+       "id": "6a0cf9e",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 12
+      },
+      {
+       "t": "w",
+       "id": "b88456a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 13
+      },
+      {
+       "t": "w",
+       "id": "2fb1c47",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 14
+      },
+      {
+       "t": "w",
+       "id": "a5a50d2",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 15
+      },
+      {
+       "t": "w",
+       "id": "a17094d",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 16
+      },
+      {
+       "t": "w",
+       "id": "6a4bfa2",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 17
+      },
+      {
+       "t": "w",
+       "id": "bb23e9d",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 18
+      },
+      {
+       "t": "w",
+       "id": "6f17690",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 19
+      },
+      {
+       "t": "w",
+       "id": "353044b",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "e27e746",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "f699206",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "15d6102",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 21
+      },
+      {
+       "t": "w",
+       "id": "cc2daea",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 22
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "5f5e37d",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "15d61a7",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "a7e5b32",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 23
+      },
+      {
+       "t": "w",
+       "id": "4ada854",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 24
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "1e2cc25",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "47df29c",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "130c770",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "ad5370b",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila nueva-rejilla",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "1749cb6",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "1c987ef",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 26
+      },
+      {
+       "t": "w",
+       "id": "b3fb1a6",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 27
+      },
+      {
+       "t": "w",
+       "id": "3829334",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 28
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "dc11ebf",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d50081e",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 29
+      },
+      {
+       "t": "w",
+       "id": "fdea117",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 30
+      },
+      {
+       "t": "w",
+       "id": "66894dd",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 31
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "b754739",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "3a7010a",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 32
+      },
+      {
+       "t": "w",
+       "id": "d0a0a3c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 33
+      },
+      {
+       "t": "w",
+       "id": "15a9cc1",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 34
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "b723d90",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "9e2be1d",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 35
+      },
+      {
+       "t": "w",
+       "id": "72067f3",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 36
+      },
+      {
+       "t": "w",
+       "id": "c744a52",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 37
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "5f22731",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "f654d48",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "2cab1cb",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 38
+      },
+      {
+       "t": "w",
+       "id": "3781d2d",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 39
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "c5d4729",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fuentes",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "c873bca",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "30234ac",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 40
+      },
+      {
+       "t": "w",
+       "id": "42dfea9",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 41
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

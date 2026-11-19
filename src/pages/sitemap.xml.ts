@@ -2,10 +2,11 @@
 // salen del propio contenido, con barra final y el dominio definitivo.
 import type { APIRoute } from 'astro';
 import { sinIndexar } from '../lib/indexar';
+import { paginas } from '../lib/paginas';
 
 export const GET: APIRoute = () => {
-  const paginas = import.meta.glob('../content/pages/*.json', { eager: true });
-  const urls = Object.values(paginas)
+  const urls = paginas
+    .map((p: any) => ({ default: p }))
     .filter((m: any) => !m.default.legal && !sinIndexar.has(m.default.slug)) // las legales (como en el original) y las aprobadas sin indexar llevan noindex
     .map((m: any) => m.default.url as string)
     .sort();

@@ -1,0 +1,744 @@
+{
+ "slug": "arquitectura-renacentista",
+ "id": "nueva",
+ "title": "Arquitectura Renacentista",
+ "titulo_seo": "Arquitectura renacentista: características, obras y arquitectos",
+ "url": "https://dearquitectura.info/arquitectura-renacentista/",
+ "nueva": true,
+ "meta_description": "Proporción, simetría, cúpulas y órdenes clásicos: la arquitectura del Renacimiento, de la cúpula de Brunelleschi en Florencia a San Pedro y El Escorial.",
+ "palabra_clave": "arquitectura renacentista",
+ "menu": "",
+ "logo": "",
+ "foto_destacada": "/img/2023/12/renacentista-arquitectura.jpg",
+ "fecha": "2026-11-19 12:00:00",
+ "modificada": "2026-11-19 12:00:00",
+ "fecha_gmt": "2026-11-19 12:00:00",
+ "modificada_gmt": "2026-11-19 12:00:00",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/img/2023/12/renacentista-arquitectura.jpg",
+   "alt": "Arquitectura renacentista",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "Arquitectura Renacentista"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "La vuelta a la proporción clásica"
+  },
+  {
+   "type": "text",
+   "html": "<p>La <strong>arquitectura renacentista</strong> nació en <strong>Florencia</strong> a principios del siglo XV y recuperó las formas de la Antigüedad: columnas, frontones, cúpulas y, sobre todo, la <strong>proporción</strong>. Fue la base de buena parte de la arquitectura europea de los siglos siguientes.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen"
+  },
+  {
+   "type": "text",
+   "html": "<p>La <strong>arquitectura renacentista</strong> es el estilo que surgió en Italia en el siglo XV y se extendió por Europa en el XVI. Recupera los órdenes y las proporciones de la arquitectura griega y romana, con <strong>simetría</strong>, <strong>arcos de medio punto</strong> y <strong>cúpulas</strong>. Sus obras clave son la cúpula de Brunelleschi en Florencia, la basílica de San Pedro, las villas de Palladio y el monasterio de El Escorial.</p>"
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Época</th><td>Siglos XV y XVI</td></tr><tr><th scope=\"row\">Origen</th><td>Florencia (Italia)</td></tr><tr><th scope=\"row\">Materiales</th><td>Piedra, mármol, ladrillo y estuco</td></tr><tr><th scope=\"row\">Rasgos</th><td>Proporción, simetría, órdenes clásicos, cúpula, arco de medio punto y planta central</td></tr><tr><th scope=\"row\">Arquitectos</th><td>Brunelleschi, Alberti, Bramante, Miguel Ángel, Palladio, Juan de Herrera</td></tr><tr><th scope=\"row\">Obras clave</th><td>Cúpula de Santa María del Fiore, basílica de San Pedro, Villa Capra «La Rotonda», El Escorial</td></tr></tbody></table>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Historia de la arquitectura renacentista"
+  },
+  {
+   "type": "text",
+   "html": "<p>Su punto de partida es <strong>Filippo Brunelleschi</strong>, que entre 1420 y 1436 levantó la cúpula de la catedral de Florencia, la mayor de su tiempo, con una doble cáscara de ladrillo. Poco después, <strong>Leon Battista Alberti</strong> escribió un tratado de arquitectura que fijó sus reglas a partir de los autores antiguos.</p><p>A comienzos del siglo XVI el centro pasó a Roma, con <strong>Bramante</strong> y <strong>Miguel Ángel</strong> trabajando en la basílica de San Pedro. En la segunda mitad del siglo, <strong>Andrea Palladio</strong> llevó la proporción clásica a las villas de campo del Véneto. En España, el Renacimiento tuvo dos caras: el <strong>plateresco</strong>, muy decorado, y el estilo sobrio de El Escorial, llamado herreriano. Tras el Renacimiento llegó la <a href=\"/arquitectura-barroca/\">arquitectura barroca</a>.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Características de la arquitectura renacentista"
+  },
+  {
+   "type": "text",
+   "html": "<p>Frente a la <a href=\"/arquitectura-gotica/\">arquitectura gótica</a>, que busca la altura y la luz, el Renacimiento busca el equilibrio: edificios a la medida del ser humano, ordenados por números y proporciones.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Proporción y simetría"
+  },
+  {
+   "type": "text",
+   "html": "<p>Las medidas del edificio se relacionan entre sí siguiendo un módulo. Plantas y fachadas son simétricas y se leen de un vistazo.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Órdenes clásicos"
+  },
+  {
+   "type": "text",
+   "html": "<p>Vuelven las columnas dórica, jónica y corintia de la <a href=\"/arquitectura-griega/\">arquitectura griega</a>, junto a la toscana y la compuesta de Roma, con sus capiteles, entablamentos y frontones.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Cúpula"
+  },
+  {
+   "type": "text",
+   "html": "<p>La cúpula se convierte en el gran símbolo del estilo, a menudo sobre un tambor y rematada con una linterna.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Arco de medio punto y bóveda de cañón"
+  },
+  {
+   "type": "text",
+   "html": "<p>Se abandona el arco apuntado y se recuperan el arco semicircular y las bóvedas de la <a href=\"/arquitectura-romana/\">arquitectura romana</a>.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Planta central"
+  },
+  {
+   "type": "text",
+   "html": "<p>Los arquitectos del Renacimiento admiraban la planta circular o de cruz griega, que veían como la forma más perfecta.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Materiales y técnicas"
+  },
+  {
+   "type": "text",
+   "html": "<p>Se usaban la <strong>piedra</strong> y el <strong>mármol</strong> en fachadas y elementos nobles, el <strong>ladrillo</strong> en muros y cúpulas, y el <strong>estuco</strong> para los acabados. La gran novedad fue el método: el proyecto se dibujaba antes en planta, alzado y perspectiva, y el arquitecto pasó de ser un maestro de obras a un artista con nombre propio.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "El Renacimiento en América"
+  },
+  {
+   "type": "text",
+   "html": "<p>El Renacimiento llegó a América con la colonización española del siglo XVI, sobre todo a través del <strong>plateresco</strong> en las portadas de iglesias y conventos, que más tarde dio paso al barroco americano.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Obras y ejemplos de arquitectura renacentista"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/catedral-de-santa-maria-del-fiore.jpg",
+   "alt": "Catedral de Santa María del Fiore y su cúpula en Florencia",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Cúpula de Santa María del Fiore (Florencia)"
+  },
+  {
+   "type": "text",
+   "html": "<p>Obra de Brunelleschi, construida entre 1420 y 1436. Su doble cáscara de ladrillo permitió cubrir un espacio enorme y se considera el inicio de la arquitectura del Renacimiento.</p>"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/basilica-de-san-pedro.jpg",
+   "alt": "Fachada de la basílica de San Pedro del Vaticano",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Basílica de San Pedro (Vaticano)"
+  },
+  {
+   "type": "text",
+   "html": "<p>Se empezó en 1506 con un proyecto de Bramante y Miguel Ángel diseñó su gran cúpula. Se consagró en 1626, ya en pleno barroco.</p>"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/villa-capra.jpg",
+   "alt": "Villa Capra La Rotonda de Palladio",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Villa Capra «La Rotonda» (Vicenza)"
+  },
+  {
+   "type": "text",
+   "html": "<p>Villa de Andrea Palladio, del siglo XVI, con planta central, cúpula y cuatro pórticos iguales. Fue un modelo imitado durante siglos.</p>"
+  },
+  {
+   "type": "image",
+   "src": "/img/2026/11/monasterio-de-el-escorial.jpg",
+   "alt": "Monasterio de El Escorial",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Monasterio de El Escorial (Madrid)"
+  },
+  {
+   "type": "text",
+   "html": "<p>Construido entre 1563 y 1584 por Juan Bautista de Toledo y Juan de Herrera para Felipe II. Es el gran ejemplo del Renacimiento sobrio español.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes"
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Cuáles son las características de la arquitectura renacentista?",
+     "html": "<p>La proporción y la simetría, el uso de los órdenes clásicos (columnas dóricas, jónicas y corintias), la cúpula, el arco de medio punto y la planta central.</p>"
+    },
+    {
+     "title": "¿Quién fue el primer arquitecto del Renacimiento?",
+     "html": "<p>Se considera que fue Filippo Brunelleschi, autor de la cúpula de la catedral de Florencia, construida entre 1420 y 1436.</p>"
+    },
+    {
+     "title": "¿Qué diferencia hay entre el gótico y el Renacimiento?",
+     "html": "<p>El gótico busca la altura y la luz con arcos apuntados y vidrieras. El Renacimiento busca el equilibrio y la proporción, con arcos de medio punto, columnas clásicas y cúpulas.</p>"
+    },
+    {
+     "title": "¿Qué es el plateresco?",
+     "html": "<p>Es el primer Renacimiento español, de la primera mitad del siglo XVI, con fachadas muy decoradas que recuerdan el trabajo de los plateros.</p>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Fuentes"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><a href=\"https://es.wikipedia.org/wiki/Arquitectura_del_Renacimiento\" rel=\"noopener\">Arquitectura del Renacimiento — Wikipedia</a></li><li><a href=\"https://whc.unesco.org/es/list/174\" rel=\"noopener\">Centro histórico de Florencia — Patrimonio Mundial de la UNESCO</a></li></ul><p class=\"creditos\">Fotos: Cúpula de Santa María del Fiore (Florencia), <a href=\"https://commons.wikimedia.org/wiki/File:View_of_Santa_Maria_del_Fiore_in_Florence.jpg\" rel=\"noopener\">Bruce Stokes</a> (CC BY-SA 2.0), Wikimedia Commons · Basílica de San Pedro (Vaticano), <a href=\"https://commons.wikimedia.org/wiki/File:Saint_Peter%27s_Basilica_facade,_Rome,_Italy.jpg\" rel=\"noopener\">Jebulon</a> (CC0), Wikimedia Commons · Villa Capra «La Rotonda» (Vicenza), <a href=\"https://commons.wikimedia.org/wiki/File:07-Villa-Rotonda-Palladio.jpg\" rel=\"noopener\">Quinok</a> (CC BY-SA 4.0), Wikimedia Commons · Monasterio de El Escorial (Madrid), <a href=\"https://commons.wikimedia.org/wiki/File:Monasterio_de_El_Escorial_en_Madrid.jpg\" rel=\"noopener\">Zvonimir Stamenov</a> (CC BY-SA 4.0), Wikimedia Commons.</p>"
+  }
+ ],
+ "elementor": [
+  {
+   "t": "c",
+   "id": "abafaa8",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "ef70b88",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "95c4676",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 0
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "9eaa8a4",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "6f75ebf",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h1",
+       "size": "default",
+       "b": 1
+      },
+      {
+       "t": "w",
+       "id": "4f3081f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 2
+      },
+      {
+       "t": "w",
+       "id": "02596e1",
+       "wt": "divider",
+       "cls": "elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "7696f4c",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "9fb7590",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-resumen",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "2efcab0",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "5ba35b6",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 4
+      },
+      {
+       "t": "w",
+       "id": "fb8babb",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 5
+      },
+      {
+       "t": "w",
+       "id": "f0e2610",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "49faffc",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "1450ccb",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "8f0313d",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 7
+      },
+      {
+       "t": "w",
+       "id": "da76ec6",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "0b72f3e",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "28c26c5",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "2345724",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 9
+      },
+      {
+       "t": "w",
+       "id": "512d592",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 10
+      },
+      {
+       "t": "w",
+       "id": "580deae",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 11
+      },
+      {
+       "t": "w",
+       "id": "0c9634f",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 12
+      },
+      {
+       "t": "w",
+       "id": "e2e662b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 13
+      },
+      {
+       "t": "w",
+       "id": "d3b92b6",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 14
+      },
+      {
+       "t": "w",
+       "id": "e34ff16",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 15
+      },
+      {
+       "t": "w",
+       "id": "9882ca4",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 16
+      },
+      {
+       "t": "w",
+       "id": "7ba4a0c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 17
+      },
+      {
+       "t": "w",
+       "id": "01d91c8",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 18
+      },
+      {
+       "t": "w",
+       "id": "03d67e6",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 19
+      },
+      {
+       "t": "w",
+       "id": "5ec46ff",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "0b351c3",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "c7db19b",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "bbc1116",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 21
+      },
+      {
+       "t": "w",
+       "id": "6d84650",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 22
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "fef608a",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "0738e57",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "b0a2677",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 23
+      },
+      {
+       "t": "w",
+       "id": "8eefd53",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 24
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "80fe94d",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "28fc939",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "ba984ef",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "dece308",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila nueva-rejilla",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "9d2ab69",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "0f65bf2",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 26
+      },
+      {
+       "t": "w",
+       "id": "0667d49",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 27
+      },
+      {
+       "t": "w",
+       "id": "9005811",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 28
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "aca3a90",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "0309c1a",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 29
+      },
+      {
+       "t": "w",
+       "id": "b449938",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 30
+      },
+      {
+       "t": "w",
+       "id": "639c51b",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 31
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "4f9cb4f",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "6a294a9",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 32
+      },
+      {
+       "t": "w",
+       "id": "590a7be",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 33
+      },
+      {
+       "t": "w",
+       "id": "f5aab48",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 34
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "f13f8a9",
+     "cls": "e-con-full e-flex e-con e-child nueva-col nueva-obra",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "a569fa6",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 35
+      },
+      {
+       "t": "w",
+       "id": "3bb3070",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 36
+      },
+      {
+       "t": "w",
+       "id": "e32cc3c",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 37
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "b148c0b",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "3466645",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "b739ba5",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 38
+      },
+      {
+       "t": "w",
+       "id": "508dde9",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 39
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "a937697",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fuentes",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "baaa509",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "cf0edaa",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 40
+      },
+      {
+       "t": "w",
+       "id": "73b4a6e",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 41
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

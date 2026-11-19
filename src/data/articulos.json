@@ -1,15 +1,47 @@
 {
   "_nota": "Páginas informativas que se marcan como artículo para Google (Article, con fechas de WordPress) y enseñan la fecha de actualización. Análisis del 16-11-2026, A2 y A3; Yama eligió «a».",
   "estilos": [
-    "arquitectura-barroca", "arquitectura-bioclimatica", "arquitectura-bizantina", "arquitectura-griega",
-    "arquitectura-incaica", "arquitectura-industrial", "arquitectura-maya", "arquitectura-mediterranea",
-    "arquitectura-moderna", "arquitectura-neoclasica", "arquitectura-romana", "arquitectura-sustentable",
-    "arquitectura-urbana"
+    "arquitectura-barroca",
+    "arquitectura-bioclimatica",
+    "arquitectura-bizantina",
+    "arquitectura-griega",
+    "arquitectura-incaica",
+    "arquitectura-industrial",
+    "arquitectura-maya",
+    "arquitectura-mediterranea",
+    "arquitectura-moderna",
+    "arquitectura-neoclasica",
+    "arquitectura-romana",
+    "arquitectura-sustentable",
+    "arquitectura-urbana",
+    "arquitectura-gotica",
+    "arquitectura-renacentista",
+    "arquitectura-egipcia",
+    "arquitectura-azteca",
+    "arquitectura-brutalista"
   ],
   "profesiones": [
-    "arquitectos", "arquitectos-famosos", "arquitecto-disenador", "arquitecto-moderno", "arquitecto-tecnico",
-    "arquitecto-urbano", "arquitectos-de-interiores", "aparejadores", "delineante", "calculista",
-    "decorador", "interiorista", "paisajista", "proyectista", "renderista"
+    "arquitectos",
+    "arquitectos-famosos",
+    "arquitecto-disenador",
+    "arquitecto-moderno",
+    "arquitecto-tecnico",
+    "arquitecto-urbano",
+    "arquitectos-de-interiores",
+    "aparejadores",
+    "delineante",
+    "calculista",
+    "decorador",
+    "interiorista",
+    "paisajista",
+    "proyectista",
+    "renderista"
   ],
-  "otros": ["tipos-de-arquitectura", "tipos-de-renders", "programas-de-arquitectura", "libros-de-arquitectura", "revistas-de-arquitectura"]
+  "otros": [
+    "tipos-de-arquitectura",
+    "tipos-de-renders",
+    "programas-de-arquitectura",
+    "libros-de-arquitectura",
+    "revistas-de-arquitectura"
+  ]
 }

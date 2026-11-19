@@ -1,0 +1,162 @@
+{
+  "slug": "arquitectura-azteca",
+  "titulo": "Arquitectura Azteca",
+  "h1": "Arquitectura Azteca",
+  "subtitulo": "Tenochtitlan, la ciudad sobre el lago",
+  "titulo_seo": "Arquitectura azteca: características, Templo Mayor y ejemplos",
+  "descripcion": "Templos sobre pirámides, calzadas y chinampas: la arquitectura azteca o mexica de Tenochtitlan y sus obras, del Templo Mayor a Tlatelolco, Tenayuca y Malinalco.",
+  "palabra_clave": "arquitectura azteca",
+  "fecha": "2026-11-19 12:00:00",
+  "foto": {
+    "src": "/img/2026/11/templo-mayor.jpg",
+    "alt": "Restos del Templo Mayor de Tenochtitlan en Ciudad de México"
+  },
+  "intro": "<p>La <strong>arquitectura azteca</strong>, o <strong>mexica</strong>, es la que levantó este pueblo en <strong>Tenochtitlan</strong>, su capital, fundada hacia 1325 en un islote del lago de Texcoco, donde hoy está la Ciudad de México. Junto a la <a href=\"/arquitectura-maya/\">arquitectura maya</a> y la <a href=\"/arquitectura-incaica/\">arquitectura inca</a>, es una de las grandes arquitecturas prehispánicas de América.</p>",
+  "resumen": "La <strong>arquitectura azteca</strong> es la del pueblo mexica entre los siglos XIV y XVI. Se basa en templos sobre <strong>basamentos piramidales</strong> con escalinatas, grandes plazas ceremoniales y una ciudad construida sobre un lago, con <strong>calzadas</strong> y <strong>chinampas</strong>. Su obra principal es el <strong>Templo Mayor</strong> de Tenochtitlan, con dos templos gemelos en lo alto.",
+  "datos": [
+    [
+      "Época",
+      "Siglos XIV a XVI (hasta 1521)"
+    ],
+    [
+      "Lugar",
+      "Valle de México: Tenochtitlan, Tlatelolco y su área de influencia"
+    ],
+    [
+      "Materiales",
+      "Piedra volcánica (tezontle y basalto), estuco, adobe y madera"
+    ],
+    [
+      "Rasgos",
+      "Basamentos piramidales escalonados, doble escalinata, templos gemelos, plazas, calzadas y chinampas"
+    ],
+    [
+      "Obras clave",
+      "Templo Mayor, Tlatelolco, Tenayuca, Malinalco"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "Historia de la arquitectura azteca",
+      "html": "<p>Los mexicas fundaron Tenochtitlan hacia 1325 en un islote del lago de Texcoco. Desde 1428, con la Triple Alianza, la ciudad creció hasta convertirse en una de las más grandes del mundo cuando llegaron los españoles en 1519. Tras la conquista, en 1521, fue destruida y sobre ella se construyó la Ciudad de México.</p><p>Durante siglos sus restos quedaron bajo la ciudad colonial. En 1978 el hallazgo de la gran piedra de la diosa Coyolxauhqui llevó a excavar el <strong>Templo Mayor</strong>, que hoy se puede visitar junto a su museo, en el Centro Histórico, Patrimonio de la Humanidad.</p>"
+    },
+    {
+      "h2": "Características de la arquitectura azteca",
+      "html": "<p>Es una arquitectura religiosa y urbana a la vez: los templos se levantaban en el centro de grandes recintos sagrados, y toda la ciudad se organizaba en torno a ellos y al agua.</p>",
+      "sub": [
+        {
+          "h3": "Basamentos piramidales",
+          "html": "<p>Los templos se alzaban sobre plataformas escalonadas. Cada cierto tiempo se construía una nueva encima de la anterior: el Templo Mayor tuvo siete etapas de construcción.</p>"
+        },
+        {
+          "h3": "Templos gemelos y doble escalinata",
+          "html": "<p>El Templo Mayor tenía en lo alto dos templos, uno para Huitzilopochtli, dios de la guerra y del sol, y otro para Tláloc, dios de la lluvia, cada uno con su escalinata.</p>"
+        },
+        {
+          "h3": "Una ciudad sobre el agua",
+          "html": "<p>Tenochtitlan se unía a tierra firme por grandes <strong>calzadas</strong>, recibía agua dulce por un acueducto desde Chapultepec y se cultivaba en <strong>chinampas</strong>, parcelas artificiales sobre el lago.</p>"
+        },
+        {
+          "h3": "Recintos y plazas ceremoniales",
+          "html": "<p>El recinto sagrado estaba rodeado por un muro y reunía templos, plataformas y plazas para las ceremonias, como en la <a href=\"/arquitectura-urbana/\">arquitectura urbana</a> de las grandes capitales.</p>"
+        },
+        {
+          "h3": "Escultura integrada",
+          "html": "<p>Cabezas de serpiente, braseros y relieves formaban parte de la propia arquitectura, como el muro de serpientes de Tenayuca.</p>"
+        }
+      ]
+    },
+    {
+      "h2": "Materiales y técnicas",
+      "html": "<p>Se usaba sobre todo <strong>piedra volcánica</strong>: el <strong>tezontle</strong>, rojizo y ligero, y el basalto. Los edificios se cubrían con estuco de cal y se pintaban. Como el suelo del lago era blando, se clavaban <strong>pilotes de madera</strong> para cimentar, y aun así los edificios tendían a hundirse, una de las razones de que se reconstruyeran por etapas.</p><p>A diferencia de las pirámides de la <a href=\"/arquitectura-egipcia/\">arquitectura egipcia</a>, que eran tumbas, las pirámides aztecas eran la base de un templo en lo alto.</p>"
+    }
+  ],
+  "obras_titulo": "Obras y ejemplos de arquitectura azteca",
+  "obras": [
+    {
+      "nombre": "Templo Mayor (Ciudad de México)",
+      "html": "<p>El corazón de Tenochtitlan, con sus siete etapas superpuestas y sus dos templos gemelos. Hoy es zona arqueológica y museo en el Centro Histórico.</p>",
+      "foto": {
+        "src": "/img/2026/11/templo-mayor.jpg",
+        "alt": "Restos del Templo Mayor en Ciudad de México",
+        "credito": {
+          "autor": "Jesús Gorriti",
+          "licencia": "CC BY-SA 2.0",
+          "ficha": "https://commons.wikimedia.org/wiki/File:Partial_view_Templo_Mayor.jpg"
+        }
+      }
+    },
+    {
+      "nombre": "Tlatelolco",
+      "html": "<p>La ciudad gemela de Tenochtitlan, famosa por su gran mercado. Sus restos están en la Plaza de las Tres Culturas, junto a una iglesia colonial y edificios modernos.</p>",
+      "foto": {
+        "src": "/img/2026/11/zona-arqueologica-de-tlatelolco.jpg",
+        "alt": "Vista aérea de la zona arqueológica de Tlatelolco",
+        "credito": {
+          "autor": "autor en Wikimedia Commons",
+          "licencia": "CC BY-SA 4.0",
+          "ficha": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_de_la_Zona_Arqueol%C3%B3gica_de_Tlatelolco.jpg"
+        }
+      }
+    },
+    {
+      "nombre": "Tenayuca",
+      "html": "<p>Pirámide que muestra muy bien la técnica de superponer etapas y que está rodeada por un muro de serpientes de piedra.</p>",
+      "foto": {
+        "src": "/img/2026/11/tenayuca.jpg",
+        "alt": "Pirámide de Tenayuca",
+        "credito": {
+          "autor": "Maunus",
+          "licencia": "dominio público",
+          "ficha": "https://commons.wikimedia.org/wiki/File:Tenayuca.jpg"
+        }
+      }
+    },
+    {
+      "nombre": "Malinalco",
+      "html": "<p>Su templo principal, el Cuauhcalli o «casa de las águilas», está excavado directamente en la roca de la montaña. Se asocia a los guerreros águila y jaguar.</p>",
+      "foto": {
+        "src": "/img/2026/11/zona-arqueologica-de-malinalco.jpg",
+        "alt": "Templo Cuauhcalli de Malinalco, excavado en la roca",
+        "credito": {
+          "autor": "Joaogabriel",
+          "licencia": "CC BY-SA 3.0",
+          "ficha": "https://commons.wikimedia.org/wiki/File:Zona_arqueol%C3%B3gica_de_Cuauhtinch%C3%A1n,_templo_Cuauhcalli_(%27Casa_del_sol%27_o_%27Casa_de_las_%C3%A1guilas%27).JPG"
+        }
+      }
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Cuáles son las características de la arquitectura azteca?",
+      "a": "Los templos sobre basamentos piramidales escalonados, la doble escalinata, los templos gemelos, las grandes plazas ceremoniales y una ciudad construida sobre un lago, con calzadas, acueducto y chinampas."
+    },
+    {
+      "q": "¿Qué era el Templo Mayor?",
+      "a": "El principal templo de Tenochtitlan, con dos santuarios en lo alto dedicados a Huitzilopochtli y a Tláloc. Se reconstruyó siete veces, cada vez sobre la anterior."
+    },
+    {
+      "q": "¿Qué diferencia hay entre la arquitectura azteca y la maya?",
+      "a": "La maya es anterior y se desarrolló en el sureste de México y Centroamérica, con ciudades como Tikal o Chichén Itzá. La azteca es de los siglos XIV a XVI y se centró en el valle de México y en Tenochtitlan."
+    },
+    {
+      "q": "¿Se puede visitar el Templo Mayor?",
+      "a": "Sí. Es una zona arqueológica con museo en el Centro Histórico de la Ciudad de México, junto a la catedral."
+    }
+  ],
+  "fuentes": [
+    {
+      "texto": "Arquitectura mexica — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Arquitectura_mexica"
+    },
+    {
+      "texto": "Templo Mayor — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Templo_Mayor"
+    },
+    {
+      "texto": "Centro histórico de México y Xochimilco — Patrimonio Mundial de la UNESCO",
+      "url": "https://whc.unesco.org/es/list/412"
+    }
+  ],
+  "_nota_foto": "La foto de la tarjeta del original (arte-y-arquitectura-azteca.jpg) es Teotihuacán, anterior a los aztecas: en la portada de la página va el Templo Mayor."
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "arquitectura-gotica",
+  "titulo": "Arquitectura Gótica",
+  "h1": "Arquitectura Gótica",
+  "subtitulo": "Catedrales de piedra y luz",
+  "titulo_seo": "Arquitectura gótica: características, catedrales y ejemplos",
+  "descripcion": "Arco apuntado, bóveda de crucería, arbotantes y vidrieras: qué es la arquitectura gótica, su historia y sus grandes catedrales, de Notre-Dame a Burgos y León.",
+  "palabra_clave": "arquitectura gótica",
+  "fecha": "2026-11-19 12:00:00",
+  "foto": { "src": "/img/2023/12/Gotica-arquitectura.jpg", "alt": "Arquitectura gótica" },
+  "intro": "<p>La <strong>arquitectura gótica</strong> nació en Francia a mediados del siglo XII y se extendió por toda Europa hasta el siglo XVI. Es el estilo de las grandes <strong>catedrales</strong>: muros que se abren en <strong>vidrieras</strong>, <strong>arcos apuntados</strong> y bóvedas que suben más alto que nunca.</p>",
+  "resumen": "La <strong>arquitectura gótica</strong> es el estilo que se desarrolló en Europa entre los siglos XII y XVI. Se reconoce por el <strong>arco apuntado</strong>, la <strong>bóveda de crucería</strong>, los <strong>arbotantes</strong> y las grandes <strong>vidrieras</strong>, que permitieron levantar edificios muy altos y llenos de luz. Sus obras más conocidas son catedrales como Notre-Dame de París, Chartres, Burgos o León.",
+  "datos": [
+    ["Época", "Siglos XII a XVI"],
+    ["Origen", "Norte de Francia (Île-de-France), con la abadía de Saint-Denis hacia 1140"],
+    ["Materiales", "Piedra labrada, vidrio de color, plomo y madera"],
+    ["Rasgos", "Arco apuntado, bóveda de crucería, arbotantes, rosetones y verticalidad"],
+    ["Obras clave", "Notre-Dame de París, catedral de Chartres, catedral de Burgos, catedral de León"]
+  ],
+  "secciones": [
+    {
+      "h2": "Historia de la arquitectura gótica",
+      "html": "<p>El gótico surgió en los alrededores de París cuando el abad Suger reconstruyó el coro de la abadía de Saint-Denis, hacia 1140, con arcos apuntados y grandes ventanales. Sucedió al <strong>románico</strong>, más macizo y oscuro, y coincidió con el crecimiento de las ciudades: la catedral era también un símbolo de su riqueza y de su fe.</p><p>En el siglo XIII el estilo llegó a su madurez (el llamado gótico clásico y, después, el radiante) y en los siglos XIV y XV se volvió más decorativo (el gótico flamígero). En España dejó obras como las catedrales de Burgos, León y Toledo y, a finales del siglo XV, el gótico isabelino. Desde el siglo XV en Italia, y en el XVI en el resto de Europa, la <a href=\"/arquitectura-renacentista/\">arquitectura renacentista</a> lo fue sustituyendo.</p>"
+    },
+    {
+      "h2": "Características de la arquitectura gótica",
+      "html": "<p>Todo en el gótico busca lo mismo: subir más y dejar entrar más luz. Para conseguirlo, los constructores cambiaron la forma de repartir el peso del edificio.</p>",
+      "sub": [
+        { "h3": "Arco apuntado u ojival", "html": "<p>Formado por dos arcos que se cortan en lo alto, reparte mejor el peso que el arco de medio punto de la <a href=\"/arquitectura-romana/\">arquitectura romana</a> y el románico, y permite cubrir espacios más altos.</p>" },
+        { "h3": "Bóveda de crucería", "html": "<p>Unos nervios de piedra se cruzan en diagonal y llevan el peso de la bóveda a unos pocos puntos. Así el muro deja de sostenerlo todo y puede abrirse.</p>" },
+        { "h3": "Arbotantes y contrafuertes", "html": "<p>Por fuera, los <strong>arbotantes</strong> (arcos exteriores) recogen el empuje de las bóvedas y lo llevan a los <strong>contrafuertes</strong>, unos pilares separados del muro. Gracias a ellos las paredes pueden llenarse de ventanales.</p>" },
+        { "h3": "Vidrieras y rosetones", "html": "<p>La luz de colores formaba parte del mensaje religioso: las <strong>vidrieras</strong> contaban historias de la Biblia a quien no sabía leer, y los <strong>rosetones</strong>, ventanas circulares, presidían las fachadas.</p>" },
+        { "h3": "Verticalidad", "html": "<p>Torres, agujas y pináculos llevan la mirada hacia arriba. Es la gran diferencia con el románico, más horizontal y pegado al suelo.</p>" }
+      ]
+    },
+    {
+      "h2": "Materiales y técnicas",
+      "html": "<p>Se construía con <strong>piedra caliza o arenisca</strong> labrada en sillares, mortero de cal, <strong>vidrio coloreado</strong> unido con plomo y estructuras de madera para las cubiertas y los andamios. Las obras duraban décadas y a veces siglos; las dirigían maestros de obras que trabajaban con plantillas y proporciones geométricas, sin los cálculos de la ingeniería actual.</p>"
+    },
+    {
+      "h2": "El gótico en América",
+      "html": "<p>El gótico como tal apenas llegó a América, pero en los siglos XIX y XX se levantaron muchos templos <strong>neogóticos</strong>, que imitan sus formas. Dos ejemplos conocidos son la catedral de La Plata, en Argentina, y la basílica del Voto Nacional, en Quito (Ecuador).</p>"
+    }
+  ],
+  "obras_titulo": "Catedrales y ejemplos de arquitectura gótica",
+  "obras": [
+    {
+      "nombre": "Catedral de Notre-Dame de París",
+      "html": "<p>Comenzada en 1163, es una de las primeras grandes catedrales góticas, famosa por sus rosetones y arbotantes. Tras el incendio de 2019 se restauró y volvió a abrir en diciembre de 2024.</p>",
+      "foto": { "src": "/img/2026/11/catedral-de-notre-dame-de-paris.jpg", "alt": "Fachada de la catedral de Notre-Dame de París", "credito": { "autor": "P e z i", "licencia": "CC BY-SA 3.0", "ficha": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris_2013-07-24.jpg" } }
+    },
+    {
+      "nombre": "Catedral de Chartres",
+      "html": "<p>Reconstruida tras el incendio de 1194, conserva casi completas sus vidrieras del siglo XIII. Es Patrimonio de la Humanidad desde 1979.</p>",
+      "foto": { "src": "/img/2026/11/catedral-de-chartres.jpg", "alt": "Fachada oeste de la catedral de Chartres", "credito": { "autor": "BT", "licencia": "dominio público", "ficha": "https://commons.wikimedia.org/wiki/File:Westfassade_Chartres.jpg" } }
+    },
+    {
+      "nombre": "Catedral de Burgos",
+      "html": "<p>Iniciada en 1221, es la gran catedral gótica de España y Patrimonio de la Humanidad desde 1984. Sus agujas caladas son de las más reconocibles del gótico.</p>",
+      "foto": { "src": "/img/2026/11/catedral-de-burgos.jpg", "alt": "Fachada de la catedral de Burgos", "credito": { "autor": "Fernando", "licencia": "CC BY-SA 4.0", "ficha": "https://commons.wikimedia.org/wiki/File:FP_Burgos_Cathedral_2026_-_West_Fa%C3%A7ade.jpg" } }
+    },
+    {
+      "nombre": "Catedral de León",
+      "html": "<p>Iniciada hacia 1255 y llamada la «Pulchra Leonina», es la catedral de la luz: tiene alrededor de 1.800 m² de vidrieras, muchas de ellas medievales.</p>",
+      "foto": { "src": "/img/2026/11/catedral-de-leon.jpg", "alt": "Catedral gótica de León", "credito": { "autor": "David Jiménez Llanes", "licencia": "CC BY-SA 3.0", "ficha": "https://commons.wikimedia.org/wiki/File:Catedral_G%C3%B3tica_de_Le%C3%B3n.jpg" } }
+    }
+  ],
+  "faq": [
+    { "q": "¿Cuáles son las características de la arquitectura gótica?", "a": "El arco apuntado, la bóveda de crucería, los arbotantes y contrafuertes, las grandes vidrieras y rosetones y la verticalidad. Todo ello permitió construir edificios más altos y luminosos que en el románico." },
+    { "q": "¿Qué diferencia hay entre el románico y el gótico?", "a": "El románico usa el arco de medio punto, muros gruesos y ventanas pequeñas, con interiores oscuros. El gótico usa el arco apuntado y la bóveda de crucería, lleva el peso afuera con arbotantes y abre los muros a la luz." },
+    { "q": "¿Dónde y cuándo nació la arquitectura gótica?", "a": "En el norte de Francia, en la región de París, hacia 1140, con la reforma de la abadía de Saint-Denis impulsada por el abad Suger." },
+    { "q": "¿Qué es un arbotante?", "a": "Un arco exterior que recoge el empuje de la bóveda y lo transmite a un contrafuerte separado del muro. Es lo que permite que las paredes góticas se llenen de ventanales." }
+  ],
+  "fuentes": [
+    { "texto": "Arquitectura gótica — Wikipedia", "url": "https://es.wikipedia.org/wiki/Arquitectura_g%C3%B3tica" },
+    { "texto": "Catedral de Chartres — Patrimonio Mundial de la UNESCO", "url": "https://whc.unesco.org/es/list/81" },
+    { "texto": "Catedral de Burgos — Patrimonio Mundial de la UNESCO", "url": "https://whc.unesco.org/es/list/316" }
+  ]
+}

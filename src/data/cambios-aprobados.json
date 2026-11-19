@@ -10,11 +10,6 @@
       "/interiorismo/": "/interiorista/",
       "/inteligencia-artificial-arquitectura/": "/programas-de-arquitectura/",
       "/arquitectura-Barroca/": "/arquitectura-barroca/",
-      "/arquitectura-gotica/": "/tipos-de-arquitectura/",
-      "/arquitectura-renacentista/": "/tipos-de-arquitectura/",
-      "/arquitectura-egipcia/": "/tipos-de-arquitectura/",
-      "/arquitectura-azteca/": "/tipos-de-arquitectura/",
-      "/arquitectura-brutalista/": "/tipos-de-arquitectura/",
       "/arquitectos": "/arquitectos/",
       "/arquitectos-modernistas/": "/arquitecto-moderno/",
       "/porfolios-arquitectura/": "/portafolios-arquitectura/",
@@ -36,7 +31,8 @@
       "/render-profesionales/": "/renderista/",
       "/precio-render/": "/renders-economicos/"
     },
-    "nota_17_11_2026": "Los 24 destinos rotos añadidos el 17-11-2026 (tarjetas y textos copiados del original que llevaban a páginas que nunca existieron, en hasta 540 páginas). Encontrados al revisar las tarjetas que pidió Yama; mismo criterio que los botones rotos aprobados el 14-11 («haz lo que recomiendas»): la página existente más parecida. Los 5 estilos sin página (gótica, renacentista, egipcia, azteca, brutalista) van a Tipos de arquitectura hasta que haya artículo propio."
+    "nota_17_11_2026": "Los 24 destinos rotos añadidos el 17-11-2026 (tarjetas y textos copiados del original que llevaban a páginas que nunca existieron, en hasta 540 páginas). Encontrados al revisar las tarjetas que pidió Yama; mismo criterio que los botones rotos aprobados el 14-11 («haz lo que recomiendas»): la página existente más parecida. Los 5 estilos sin página (gótica, renacentista, egipcia, azteca, brutalista) van a Tipos de arquitectura hasta que haya artículo propio.",
+    "nota_19_11_2026": "Desde el 19-11-2026 existen las páginas de arquitectura gótica, renacentista, egipcia, azteca y brutalista (src/data/nuevas): se quitan sus desvíos a Tipos de arquitectura."
   },
   "botones_sin_destino": {
     "descripcion": "Botones sin enlace («#») → por su texto: «Haz clic aquí» a /contacto/; los de la fila de botones, al mismo destino que tienen en el resto de la web.",

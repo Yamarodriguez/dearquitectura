@@ -1,0 +1,79 @@
+{
+  "slug": "arquitectura-renacentista",
+  "titulo": "Arquitectura Renacentista",
+  "h1": "Arquitectura Renacentista",
+  "subtitulo": "La vuelta a la proporción clásica",
+  "titulo_seo": "Arquitectura renacentista: características, obras y arquitectos",
+  "descripcion": "Proporción, simetría, cúpulas y órdenes clásicos: la arquitectura del Renacimiento, de la cúpula de Brunelleschi en Florencia a San Pedro y El Escorial.",
+  "palabra_clave": "arquitectura renacentista",
+  "fecha": "2026-11-19 12:00:00",
+  "foto": { "src": "/img/2023/12/renacentista-arquitectura.jpg", "alt": "Arquitectura renacentista" },
+  "intro": "<p>La <strong>arquitectura renacentista</strong> nació en <strong>Florencia</strong> a principios del siglo XV y recuperó las formas de la Antigüedad: columnas, frontones, cúpulas y, sobre todo, la <strong>proporción</strong>. Fue la base de buena parte de la arquitectura europea de los siglos siguientes.</p>",
+  "resumen": "La <strong>arquitectura renacentista</strong> es el estilo que surgió en Italia en el siglo XV y se extendió por Europa en el XVI. Recupera los órdenes y las proporciones de la arquitectura griega y romana, con <strong>simetría</strong>, <strong>arcos de medio punto</strong> y <strong>cúpulas</strong>. Sus obras clave son la cúpula de Brunelleschi en Florencia, la basílica de San Pedro, las villas de Palladio y el monasterio de El Escorial.",
+  "datos": [
+    ["Época", "Siglos XV y XVI"],
+    ["Origen", "Florencia (Italia)"],
+    ["Materiales", "Piedra, mármol, ladrillo y estuco"],
+    ["Rasgos", "Proporción, simetría, órdenes clásicos, cúpula, arco de medio punto y planta central"],
+    ["Arquitectos", "Brunelleschi, Alberti, Bramante, Miguel Ángel, Palladio, Juan de Herrera"],
+    ["Obras clave", "Cúpula de Santa María del Fiore, basílica de San Pedro, Villa Capra «La Rotonda», El Escorial"]
+  ],
+  "secciones": [
+    {
+      "h2": "Historia de la arquitectura renacentista",
+      "html": "<p>Su punto de partida es <strong>Filippo Brunelleschi</strong>, que entre 1420 y 1436 levantó la cúpula de la catedral de Florencia, la mayor de su tiempo, con una doble cáscara de ladrillo. Poco después, <strong>Leon Battista Alberti</strong> escribió un tratado de arquitectura que fijó sus reglas a partir de los autores antiguos.</p><p>A comienzos del siglo XVI el centro pasó a Roma, con <strong>Bramante</strong> y <strong>Miguel Ángel</strong> trabajando en la basílica de San Pedro. En la segunda mitad del siglo, <strong>Andrea Palladio</strong> llevó la proporción clásica a las villas de campo del Véneto. En España, el Renacimiento tuvo dos caras: el <strong>plateresco</strong>, muy decorado, y el estilo sobrio de El Escorial, llamado herreriano. Tras el Renacimiento llegó la <a href=\"/arquitectura-barroca/\">arquitectura barroca</a>.</p>"
+    },
+    {
+      "h2": "Características de la arquitectura renacentista",
+      "html": "<p>Frente a la <a href=\"/arquitectura-gotica/\">arquitectura gótica</a>, que busca la altura y la luz, el Renacimiento busca el equilibrio: edificios a la medida del ser humano, ordenados por números y proporciones.</p>",
+      "sub": [
+        { "h3": "Proporción y simetría", "html": "<p>Las medidas del edificio se relacionan entre sí siguiendo un módulo. Plantas y fachadas son simétricas y se leen de un vistazo.</p>" },
+        { "h3": "Órdenes clásicos", "html": "<p>Vuelven las columnas dórica, jónica y corintia de la <a href=\"/arquitectura-griega/\">arquitectura griega</a>, junto a la toscana y la compuesta de Roma, con sus capiteles, entablamentos y frontones.</p>" },
+        { "h3": "Cúpula", "html": "<p>La cúpula se convierte en el gran símbolo del estilo, a menudo sobre un tambor y rematada con una linterna.</p>" },
+        { "h3": "Arco de medio punto y bóveda de cañón", "html": "<p>Se abandona el arco apuntado y se recuperan el arco semicircular y las bóvedas de la <a href=\"/arquitectura-romana/\">arquitectura romana</a>.</p>" },
+        { "h3": "Planta central", "html": "<p>Los arquitectos del Renacimiento admiraban la planta circular o de cruz griega, que veían como la forma más perfecta.</p>" }
+      ]
+    },
+    {
+      "h2": "Materiales y técnicas",
+      "html": "<p>Se usaban la <strong>piedra</strong> y el <strong>mármol</strong> en fachadas y elementos nobles, el <strong>ladrillo</strong> en muros y cúpulas, y el <strong>estuco</strong> para los acabados. La gran novedad fue el método: el proyecto se dibujaba antes en planta, alzado y perspectiva, y el arquitecto pasó de ser un maestro de obras a un artista con nombre propio.</p>"
+    },
+    {
+      "h2": "El Renacimiento en América",
+      "html": "<p>El Renacimiento llegó a América con la colonización española del siglo XVI, sobre todo a través del <strong>plateresco</strong> en las portadas de iglesias y conventos, que más tarde dio paso al barroco americano.</p>"
+    }
+  ],
+  "obras_titulo": "Obras y ejemplos de arquitectura renacentista",
+  "obras": [
+    {
+      "nombre": "Cúpula de Santa María del Fiore (Florencia)",
+      "html": "<p>Obra de Brunelleschi, construida entre 1420 y 1436. Su doble cáscara de ladrillo permitió cubrir un espacio enorme y se considera el inicio de la arquitectura del Renacimiento.</p>",
+      "foto": { "src": "/img/2026/11/catedral-de-santa-maria-del-fiore.jpg", "alt": "Catedral de Santa María del Fiore y su cúpula en Florencia", "credito": { "autor": "Bruce Stokes", "licencia": "CC BY-SA 2.0", "ficha": "https://commons.wikimedia.org/wiki/File:View_of_Santa_Maria_del_Fiore_in_Florence.jpg" } }
+    },
+    {
+      "nombre": "Basílica de San Pedro (Vaticano)",
+      "html": "<p>Se empezó en 1506 con un proyecto de Bramante y Miguel Ángel diseñó su gran cúpula. Se consagró en 1626, ya en pleno barroco.</p>",
+      "foto": { "src": "/img/2026/11/basilica-de-san-pedro.jpg", "alt": "Fachada de la basílica de San Pedro del Vaticano", "credito": { "autor": "Jebulon", "licencia": "CC0", "ficha": "https://commons.wikimedia.org/wiki/File:Saint_Peter%27s_Basilica_facade,_Rome,_Italy.jpg" } }
+    },
+    {
+      "nombre": "Villa Capra «La Rotonda» (Vicenza)",
+      "html": "<p>Villa de Andrea Palladio, del siglo XVI, con planta central, cúpula y cuatro pórticos iguales. Fue un modelo imitado durante siglos.</p>",
+      "foto": { "src": "/img/2026/11/villa-capra.jpg", "alt": "Villa Capra La Rotonda de Palladio", "credito": { "autor": "Quinok", "licencia": "CC BY-SA 4.0", "ficha": "https://commons.wikimedia.org/wiki/File:07-Villa-Rotonda-Palladio.jpg" } }
+    },
+    {
+      "nombre": "Monasterio de El Escorial (Madrid)",
+      "html": "<p>Construido entre 1563 y 1584 por Juan Bautista de Toledo y Juan de Herrera para Felipe II. Es el gran ejemplo del Renacimiento sobrio español.</p>",
+      "foto": { "src": "/img/2026/11/monasterio-de-el-escorial.jpg", "alt": "Monasterio de El Escorial", "credito": { "autor": "Zvonimir Stamenov", "licencia": "CC BY-SA 4.0", "ficha": "https://commons.wikimedia.org/wiki/File:Monasterio_de_El_Escorial_en_Madrid.jpg" } }
+    }
+  ],
+  "faq": [
+    { "q": "¿Cuáles son las características de la arquitectura renacentista?", "a": "La proporción y la simetría, el uso de los órdenes clásicos (columnas dóricas, jónicas y corintias), la cúpula, el arco de medio punto y la planta central." },
+    { "q": "¿Quién fue el primer arquitecto del Renacimiento?", "a": "Se considera que fue Filippo Brunelleschi, autor de la cúpula de la catedral de Florencia, construida entre 1420 y 1436." },
+    { "q": "¿Qué diferencia hay entre el gótico y el Renacimiento?", "a": "El gótico busca la altura y la luz con arcos apuntados y vidrieras. El Renacimiento busca el equilibrio y la proporción, con arcos de medio punto, columnas clásicas y cúpulas." },
+    { "q": "¿Qué es el plateresco?", "a": "Es el primer Renacimiento español, de la primera mitad del siglo XVI, con fachadas muy decoradas que recuerdan el trabajo de los plateros." }
+  ],
+  "fuentes": [
+    { "texto": "Arquitectura del Renacimiento — Wikipedia", "url": "https://es.wikipedia.org/wiki/Arquitectura_del_Renacimiento" },
+    { "texto": "Centro histórico de Florencia — Patrimonio Mundial de la UNESCO", "url": "https://whc.unesco.org/es/list/174" }
+  ]
+}

@@ -13,7 +13,7 @@ const plano = (h = '') => h
 // así que solo se marcan en la página principal de su tema (análisis del 16-11-2026, A1).
 const MAX_PAGINAS = 3;
 const DUENAS = new Set(['index', 'renders']);
-const paginas = Object.values(import.meta.glob('../content/pages/*.json', { eager: true })).map((m: any) => m.default);
+import { paginas } from './paginas';
 const enCuantas = new Map<string, number>();
 for (const p of paginas) {
   const suyas = new Set<string>(p.blocks.filter((b: any) => b.type === 'toggle').flatMap((b: any) => b.items.map((it: any) => (it.title || '').trim())));

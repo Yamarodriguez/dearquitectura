@@ -1,0 +1,25 @@
+/* Colocación de las páginas nuevas (src/content/nuevas): lo que en las de WordPress
+   pone el post-<id>.css de Elementor. Portada en dos columnas, obras de dos en dos.
+   Con la misma prioridad que los post-<id>.css (.elementor-<id> .elementor-element-…). */
+.elementor-nueva .e-con.nueva-fila { --flex-direction: row; --align-items: center; --flex-wrap: nowrap; }
+.elementor-nueva .e-con.nueva-rejilla { --flex-wrap: wrap; --align-items: stretch; }
+.elementor-nueva .e-con.nueva-col { --width: 50%; }
+.elementor-nueva .e-con.nueva-rejilla .e-con.nueva-col { --width: calc(50% - 16px); }
+.elementor-nueva .nueva-obra .elementor-widget-image img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: 6px; }
+.elementor-nueva .nueva-obra .elementor-widget-heading { margin-top: 4px; }
+.datos-clave { margin-top: 8px; }
+.datos-clave th { width: 32%; white-space: nowrap; color: var(--tinta); font-weight: 700; }
+.datos-clave th, .datos-clave td { padding: .7em .9em; }
+.datos-clave tr:nth-child(odd) { background: var(--piedra); }
+.nueva-fuentes ul { padding-left: 1.2em; }
+.nueva-fuentes .creditos { font-size: 13.5px; color: var(--suave); margin-top: 1em; }
+@media (max-width: 767px) {
+  .elementor-nueva .e-con.nueva-fila { --flex-direction: column; }
+  .elementor-nueva .e-con.nueva-col, .elementor-nueva .e-con.nueva-rejilla .e-con.nueva-col { --width: 100%; }
+  .datos-clave th { white-space: normal; width: 38%; }
+}
+
+/* Portada: texto centrado, como en las páginas de estilos que ya hay */
+.elementor-nueva > .e-con.nueva-fila:first-child .e-con.nueva-col:last-child { text-align: center; }
+.elementor-nueva > .e-con.nueva-fila:first-child .e-con.nueva-col:last-child .elementor-divider { --divider-align: center; }
+.elementor-nueva > .e-con.nueva-fila:first-child .e-con.nueva-col:last-child .elementor-widget-container { margin-inline: auto; }

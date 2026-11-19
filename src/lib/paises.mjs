@@ -33,7 +33,7 @@ export function paisDeCiudad(slug, menuPagina, mapa) {
  * - fuera las páginas que no están en Google (sinIndexar): no tiene sentido enlazarlas desde todas partes;
  * - en el menú general de Renders, «Zonas» lleva solo los países (cada país enlaza luego a sus ciudades).
  */
-export function ajustarMenu(nombre, items, sinIndexar) {
+export function ajustarMenu(nombre, items, sinIndexar, estilosNuevos = []) {
   const limpiar = (lista, nivel, padre) => lista
     .filter((i) => !sinIndexar.has(slugDe(i.url)))
     .map((i) => {
@@ -41,7 +41,19 @@ export function ajustarMenu(nombre, items, sinIndexar) {
       const soloPaises = nombre === 'renders' && padre === 'Zonas';
       return { ...i, children: soloPaises ? [] : limpiar(hijos, nivel + 1, i.label) };
     });
-  return limpiar(items, 0, null);
+  const limpio = limpiar(items, 0, null);
+  // Estilos nuevos (páginas de src/content/nuevas): al desplegable que ya lista los estilos
+  // (Tipos o Arquitectura), detrás de los que hay, si no están ya.
+  if (estilosNuevos.length) {
+    const poner = (lista) => lista.forEach((i) => {
+      const h = i.children ?? [];
+      if (h.some((c) => slugDe(c.url) === 'arquitectura-romana')) {
+        for (const e of estilosNuevos) if (!h.some((c) => slugDe(c.url) === slugDe(e.url))) h.push({ label: e.label, url: e.url, children: [] });
+      } else poner(h);
+    });
+    poner(limpio);
+  }
+  return limpio;
 }
 
 /** Enlaces del menú (url) que el ajuste quita, para que la comprobación de contenido no los eche en falta */
