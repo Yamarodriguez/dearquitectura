@@ -153,5 +153,27 @@
       "texto": "Menfis y su necrópolis, de Guiza a Dahshur — Patrimonio Mundial de la UNESCO",
       "url": "https://whc.unesco.org/es/list/86"
     }
-  ]
+  ],
+  "comun": {
+    "tipo": "estilo",
+    "terminos": [
+      [
+        "NEOCLASICA",
+        "EGIPCIA"
+      ],
+      [
+        "Neoclásica",
+        "Egipcia"
+      ],
+      [
+        "neoclásicos",
+        "egipcios"
+      ],
+      [
+        "neoclásica",
+        "egipcia"
+      ]
+    ],
+    "_nota": "Bloque común de las páginas de este tipo, copiado de la página modelo con la palabra clave cambiada (scripts/paginas-nuevas.mjs, MODELOS)."
+  }
 }

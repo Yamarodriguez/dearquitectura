@@ -95,5 +95,39 @@
     "h2": "¿Tienes un producto que mostrar?",
     "html": "<p>Mándanos sus medidas o planos y los acabados que necesitas, y te preparamos un presupuesto.</p>",
     "boton": "Pide presupuesto"
+  },
+  "comun": {
+    "tipo": "render",
+    "terminos": [
+      [
+        "CASAS",
+        "PRODUCTOS"
+      ],
+      [
+        "CASA",
+        "PRODUCTO"
+      ],
+      [
+        "Casas",
+        "Productos"
+      ],
+      [
+        "Casa",
+        "Producto"
+      ],
+      [
+        "casas",
+        "productos"
+      ],
+      [
+        "casa",
+        "producto"
+      ],
+      [
+        "Viviendas",
+        "Productos"
+      ]
+    ],
+    "_nota": "Bloque común de las páginas de este tipo, copiado de la página modelo con la palabra clave cambiada (scripts/paginas-nuevas.mjs, MODELOS)."
   }
 }

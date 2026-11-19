@@ -95,5 +95,39 @@
     "h2": "¿Vas a abrir una cafetería o un restaurante?",
     "html": "<p>Envíanos el plano del local y la idea de tu concepto, y te preparamos un presupuesto.</p>",
     "boton": "Pide presupuesto"
+  },
+  "comun": {
+    "tipo": "render",
+    "terminos": [
+      [
+        "CASAS",
+        "CAFETERÍAS"
+      ],
+      [
+        "CASA",
+        "CAFETERÍA"
+      ],
+      [
+        "Casas",
+        "Cafeterías"
+      ],
+      [
+        "Casa",
+        "Cafetería"
+      ],
+      [
+        "casas",
+        "cafeterías"
+      ],
+      [
+        "casa",
+        "cafetería"
+      ],
+      [
+        "Viviendas",
+        "Cafeterías"
+      ]
+    ],
+    "_nota": "Bloque común de las páginas de este tipo, copiado de la página modelo con la palabra clave cambiada (scripts/paginas-nuevas.mjs, MODELOS)."
   }
 }

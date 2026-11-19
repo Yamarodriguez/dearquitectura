@@ -161,5 +161,27 @@
       "texto": "Centro histórico de Florencia — Patrimonio Mundial de la UNESCO",
       "url": "https://whc.unesco.org/es/list/174"
     }
-  ]
+  ],
+  "comun": {
+    "tipo": "estilo",
+    "terminos": [
+      [
+        "NEOCLASICA",
+        "RENACENTISTA"
+      ],
+      [
+        "Neoclásica",
+        "Renacentista"
+      ],
+      [
+        "neoclásicos",
+        "renacentistas"
+      ],
+      [
+        "neoclásica",
+        "renacentista"
+      ]
+    ],
+    "_nota": "Bloque común de las páginas de este tipo, copiado de la página modelo con la palabra clave cambiada (scripts/paginas-nuevas.mjs, MODELOS)."
+  }
 }

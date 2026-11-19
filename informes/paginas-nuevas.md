@@ -132,3 +132,18 @@ Es lo que más daño hace en Google (análisis, P1). Cada página nueva tiene te
 - **Datos de herramientas comprobados en las notas de prensa:** Autodesk compró Spacemaker en 2020 (hoy dentro de Forma) y Chaos compró EvolveLAB, la de Veras, en 2025.
 - **Enlaces:** con Programas de arquitectura en los dos sentidos, y con renders, modelado 3D y home staging.
 - **No se dice** que el estudio use IA.
+
+## Hecho: el bloque común en las 18 páginas nuevas (19-11-2026)
+Yama: «mirar esa estructura [render-casa] y agregar lo que falta en las que hicimos, misma estructura siguiendo los mismos patrones con los títulos y todo, más lo agregado por nosotros».
+- Cada página nueva lleva ahora, después de su contenido propio y sus preguntas, el **bloque común** de su tipo, igual que las páginas de WordPress. Se copia de la página modelo con los mismos elementos y la misma colocación:
+  - **Renders:** de Render casa (secciones 31 y 34 a 119). Lleva las preguntas sobre renders, «Otros tipos de renders de X», servicios, renderista, precio, vídeo, empresas, freelance, cursos, estudio, arquitectos, plataforma, agencia, construcción/reformas/diseños/interiorismo, tipos de arquitectura, dibujos, planos, maquetas, portafolios, libros, revistas, programas e IA.
+  - **Estilos:** de Arquitectura neoclásica (secciones 16 a 71).
+  - **Servicios e IA:** de Proyectos de arquitectura (secciones 3 a 58).
+- **La palabra clave** se cambia como hacía WordPress (`comun.terminos` en cada `src/data/nuevas/<slug>.json`):
+  - «Planos de Casas» pasa a «Planos de Exteriores» y «ARQUITECTOS neoclásicos» a «ARQUITECTOS góticos».
+  - En renders y estilos se cambia en títulos y textos; en servicios, solo en los títulos H2, porque los H3 son nombres de tarjetas.
+  - En la IA, sin cambios.
+- **Se mantiene lo añadido por nosotros:** resumen con tabla, preguntas propias, fuentes y relacionadas.
+- **Colocación:** la página carga también el `post-<id>.css` de su modelo (`modelo_id`).
+- **Tamaño:** las páginas pasan de 600–1.000 a 2.400–3.800 palabras, como las de WordPress.
+- **Aviso:** es el mismo bloque repetido que el análisis señaló como el problema número 1 (P1). Se hace porque Yama lo pidió expresamente. Si un día se aplica la parte C, se quitaría de todas a la vez.

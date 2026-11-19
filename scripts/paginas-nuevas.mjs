@@ -20,6 +20,45 @@ for (const f of fs.readdirSync(DESTINO)) fs.unlinkSync(path.join(DESTINO, f));
 
 const tabla = (filas) => `<table class="datos-clave"><tbody>${filas.map(([k, v]) => `<tr><th scope="row">${k}</th><td>${v}</td></tr>`).join('')}</tbody></table>`;
 
+// Bloque común (pedido por Yama el 19-11-2026: «misma estructura siguiendo los mismos patrones con
+// los títulos»): las páginas de WordPress de cada tipo repiten las mismas secciones finales
+// cambiando solo la palabra clave («Planos de Casas», «ARQUITECTOS neoclásicos»). Se copian de la
+// página modelo (mismos elementos de Elementor, misma colocación) y se cambia la palabra clave.
+const MODELOS = {
+  render: { modelo: 'render-casa', secciones: [31, [34, 119]], textos: true },
+  estilo: { modelo: 'arquitectura-neoclasica', secciones: [[16, 71]], textos: true },
+  servicio: { modelo: 'proyectos-de-arquitectura', secciones: [[3, 58]], textos: false },
+};
+const cambiarPalabras = (texto, terminos) => {
+  let t = texto;
+  for (const [de, a] of terminos) t = t.replace(new RegExp('(^|[^\\p{L}])' + de + '(?![\\p{L}])', 'gu'), (_, pre) => pre + a);
+  return t;
+};
+// Solo en el texto, nunca dentro de las etiquetas (enlaces, fotos)
+const cambiarEnHtml = (html, terminos) => html.split(/(<[^>]+>)/).map((x) => (x.startsWith('<') ? x : cambiarPalabras(x, terminos))).join('');
+function bloqueComun(d, blocks) {
+  const cfg = MODELOS[d.comun?.tipo];
+  if (!cfg) return [];
+  const m = JSON.parse(fs.readFileSync(path.join('src/content/pages', cfg.modelo + '.json'), 'utf8'));
+  const terminos = d.comun.terminos;
+  const indices = cfg.secciones.flatMap((x) => (Array.isArray(x) ? Array.from({ length: x[1] - x[0] + 1 }, (_, i) => x[0] + i) : [x]));
+  const copiar = (n) => {
+    if (n.t === 'c') return { ...n, hijos: n.hijos.map(copiar) };
+    if (n.b === undefined) return { ...n };
+    const b = structuredClone(m.blocks[n.b]);
+    // Con «textos: false» solo se cambian los títulos H2 (los H3 son nombres de tarjetas que llevan a otra página)
+    const enTitulo = b.type === 'heading' && (cfg.textos || b.tag === 'h2');
+    if (enTitulo || (cfg.textos && b.type !== 'heading')) {
+      if (b.text) b.text = cambiarPalabras(b.text, terminos);
+      if (b.html) b.html = cambiarEnHtml(b.html, terminos);
+      if (b.items && cfg.textos) b.items.forEach((it) => { it.title = cambiarPalabras(it.title, terminos); it.html = cambiarEnHtml(it.html, terminos); });
+    }
+    blocks.push(b);
+    return { ...n, b: blocks.length - 1 };
+  };
+  return { id: m.id, secciones: indices.map((i) => m.elementor[i - 1]).filter(Boolean).map(copiar) };
+}
+
 let total = 0;
 for (const f of fs.existsSync(ORIGEN) ? fs.readdirSync(ORIGEN).filter((x) => x.endsWith('.json')) : []) {
   const d = JSON.parse(fs.readFileSync(path.join(ORIGEN, f), 'utf8'));
@@ -60,6 +99,9 @@ for (const f of fs.existsSync(ORIGEN) ? fs.readdirSync(ORIGEN).filter((x) => x.e
   if (d.galeria?.length) arbol.push(seccion([col([h('h2', d.galeria_titulo || 'Imágenes de ejemplo'), galeria(d.galeria)])]));
   // 5. Preguntas frecuentes (desplegables, como en las páginas existentes)
   arbol.push(seccion([col([h('h2', 'Preguntas frecuentes'), w('toggle', { tag: 'div', b: b({ type: 'toggle', items: d.faq.map((x) => ({ title: x.q, html: `<p>${x.a}</p>` })) }) })])]));
+  // 5b. Bloque común de su tipo, copiado de la página modelo con la palabra clave cambiada
+  const comun = bloqueComun(d, blocks);
+  if (comun.secciones) arbol.push(...comun.secciones);
   // 6. Fuentes y créditos de las fotos (solo si las hay); cierre con contacto (tipos de render)
   if (d.cierre) arbol.push(seccion([col([h('h2', d.cierre.h2), t(d.cierre.html), boton(d.cierre.boton, '/contacto/')])], ' nueva-cierre'));
   if (d.fuentes?.length) {
@@ -72,7 +114,7 @@ for (const f of fs.existsSync(ORIGEN) ? fs.readdirSync(ORIGEN).filter((x) => x.e
     slug: d.slug, id: 'nueva', title: d.titulo, titulo_seo: d.titulo_seo, url: `https://dearquitectura.info/${d.slug}/`, nueva: true,
     meta_description: d.descripcion, palabra_clave: d.palabra_clave, menu: d.menu ?? '', logo: '',
     foto_destacada: d.foto.src, fecha: d.fecha, modificada: d.fecha, fecha_gmt: d.fecha, modificada_gmt: d.fecha,
-    h1_es_titulo: false, fondos: [], blocks, elementor: arbol,
+    h1_es_titulo: false, fondos: [], blocks, elementor: arbol, modelo_id: comun.id,
   };
   fs.writeFileSync(path.join(DESTINO, `${d.slug}.json`), JSON.stringify(pagina, null, 1));
   total++;

@@ -15,6 +15,7 @@ interface Props {
   menu?: string;
   logo?: string;
   idPagina?: string; // id de WordPress: elige el post-<id>.css de Elementor
+  idModelo?: string; // páginas nuevas: colocación del bloque común (post-<id>.css de su página modelo)
   imagen?: string;
   ogTitulo?: string;
   ogDescripcion?: string;
@@ -25,7 +26,7 @@ interface Props {
   actualizada?: string; // ISO: fecha de actualización visible (solo artículos)
   cierre?: boolean; // banda final de contacto (diseño 2)
 }
-const { title, description = '', canonical, menu, logo, idPagina, imagen, ogTitulo, ogDescripcion, datos = [], migas = [], indexar = true, fechas, actualizada, cierre = false } = Astro.props as Props;
+const { title, description = '', canonical, menu, logo, idPagina, idModelo, imagen, ogTitulo, ogDescripcion, datos = [], migas = [], indexar = true, fechas, actualizada, cierre = false } = Astro.props as Props;
 const fechaVisible = actualizada ? new Intl.DateTimeFormat('es-ES', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(actualizada)) : '';
 const iso = (f?: string) => (f && /^\d{4}-\d\d-\d\d/.test(f) ? f.replace(' ', 'T') + 'Z' : undefined);
 const dominio = `https://${site.dominio}`;
@@ -72,6 +73,7 @@ const jsonld = JSON.stringify({ '@context': 'https://schema.org', '@graph': graf
     <meta name="twitter:card" content={imagenAbsoluta ? 'summary_large_image' : 'summary'} />
     <link rel="preload" href="/diseno/fuentes/manrope.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="stylesheet" href="/diseno/base.css" />
+    {idModelo && <link rel="stylesheet" href={`/diseno/post-${idModelo}.css`} />}
     {idPagina && <link rel="stylesheet" href={`/diseno/post-${idPagina}.css`} />}
     {site.analytics.adsense && <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.analytics.adsense}`} crossorigin="anonymous"></script>}
     <script type="application/ld+json" set:html={jsonld} />

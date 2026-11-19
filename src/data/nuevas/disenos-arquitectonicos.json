@@ -9,16 +9,37 @@
   "descripcion": "Qué es el diseño arquitectónico, sus fases (de la idea al proyecto) y sus tipos, con planos, modelado 3D y renders para ver tu casa antes de construir.",
   "palabra_clave": "diseño arquitectónico",
   "fecha": "2026-11-19 20:00:00",
-  "foto": { "src": "/img/2023/12/Disenos-arquitectonicos.jpg", "alt": "Diseño arquitectónico de una escalera de caracol" },
-  "boton": { "texto": "Cuéntanos tu proyecto", "url": "/contacto/" },
+  "foto": {
+    "src": "/img/2023/12/Disenos-arquitectonicos.jpg",
+    "alt": "Diseño arquitectónico de una escalera de caracol"
+  },
+  "boton": {
+    "texto": "Cuéntanos tu proyecto",
+    "url": "/contacto/"
+  },
   "intro": "<p>El <strong>diseño arquitectónico</strong> es el proceso de idear y dar forma a un edificio o a un espacio: cómo se reparte, cómo se ve, qué materiales lleva y cómo encaja en su entorno. Es el punto de partida de cualquier casa, local o reforma.</p>",
   "resumen": "El <strong>diseño arquitectónico</strong> convierte una idea y unas necesidades en un proyecto concreto: <strong>distribución</strong>, volumen, fachadas, materiales y luz. Se desarrolla por <strong>fases</strong>, desde los primeros bocetos hasta los planos definitivos, y se apoya en <a href=\"/planos/\">planos</a>, <a href=\"/modelado-3d/\">modelado 3D</a> y <a href=\"/renders/\">renders</a> para decidir antes de construir.",
   "datos": [
-    ["Qué es", "El proceso de idear y definir un edificio o un espacio"],
-    ["Qué decide", "Distribución, volumen, fachadas, materiales, luz y relación con el entorno"],
-    ["Fases", "Necesidades, ideas y bocetos, anteproyecto y proyecto"],
-    ["Herramientas", "Bocetos, planos, modelado 3D y renders"],
-    ["Para qué proyectos", "Viviendas, locales, oficinas, reformas e interiores"]
+    [
+      "Qué es",
+      "El proceso de idear y definir un edificio o un espacio"
+    ],
+    [
+      "Qué decide",
+      "Distribución, volumen, fachadas, materiales, luz y relación con el entorno"
+    ],
+    [
+      "Fases",
+      "Necesidades, ideas y bocetos, anteproyecto y proyecto"
+    ],
+    [
+      "Herramientas",
+      "Bocetos, planos, modelado 3D y renders"
+    ],
+    [
+      "Para qué proyectos",
+      "Viviendas, locales, oficinas, reformas e interiores"
+    ]
   ],
   "secciones": [
     {
@@ -29,10 +50,22 @@
       "h2": "Fases del diseño arquitectónico",
       "html": "",
       "sub": [
-        { "h3": "1. Necesidades y programa", "html": "<p>Se recoge qué se quiere: número de estancias, superficies, presupuesto aproximado, estilo y condiciones de la parcela o del local.</p>" },
-        { "h3": "2. Ideas y bocetos", "html": "<p>Se prueban varias soluciones de distribución y volumen con croquis y esquemas rápidos.</p>" },
-        { "h3": "3. Anteproyecto", "html": "<p>Se elige una idea y se desarrolla con planos a escala, alzados y primeras imágenes en 3D para que se entienda el resultado.</p>" },
-        { "h3": "4. Proyecto", "html": "<p>Se define todo con detalle para poder pedir permisos, presupuestos y construir (ver <a href=\"/proyectos-de-arquitectura/\">proyectos de arquitectura</a>).</p>" }
+        {
+          "h3": "1. Necesidades y programa",
+          "html": "<p>Se recoge qué se quiere: número de estancias, superficies, presupuesto aproximado, estilo y condiciones de la parcela o del local.</p>"
+        },
+        {
+          "h3": "2. Ideas y bocetos",
+          "html": "<p>Se prueban varias soluciones de distribución y volumen con croquis y esquemas rápidos.</p>"
+        },
+        {
+          "h3": "3. Anteproyecto",
+          "html": "<p>Se elige una idea y se desarrolla con planos a escala, alzados y primeras imágenes en 3D para que se entienda el resultado.</p>"
+        },
+        {
+          "h3": "4. Proyecto",
+          "html": "<p>Se define todo con detalle para poder pedir permisos, presupuestos y construir (ver <a href=\"/proyectos-de-arquitectura/\">proyectos de arquitectura</a>).</p>"
+        }
       ]
     },
     {
@@ -46,14 +79,62 @@
   ],
   "galeria_titulo": "Del dibujo a la imagen",
   "galeria": [
-    { "src": "/img/2024/03/delineantes.webp", "alt": "Dibujo en 3D de la estructura de un edificio" },
-    { "src": "/img/2023/12/plano-de-arquitectura-oficina.jpg", "alt": "Render de un edificio de oficinas con fachada de cristal" }
+    {
+      "src": "/img/2024/03/delineantes.webp",
+      "alt": "Dibujo en 3D de la estructura de un edificio"
+    },
+    {
+      "src": "/img/2023/12/plano-de-arquitectura-oficina.jpg",
+      "alt": "Render de un edificio de oficinas con fachada de cristal"
+    }
   ],
   "faq": [
-    { "q": "¿Qué es el diseño arquitectónico?", "a": "Es el proceso de idear y definir un edificio o un espacio: su distribución, volumen, fachadas, materiales y luz, desde los primeros bocetos hasta el proyecto." },
-    { "q": "¿Cuáles son las fases del diseño arquitectónico?", "a": "Recoger las necesidades, probar ideas con bocetos, desarrollar el anteproyecto y, por último, definir el proyecto con detalle para poder construir." },
-    { "q": "¿Qué diferencia hay entre diseño arquitectónico e interiorismo?", "a": "El diseño arquitectónico define el edificio y sus espacios; el interiorismo se ocupa de cómo se viven por dentro: mobiliario, materiales, color e iluminación." },
-    { "q": "¿Para qué sirven los renders en el diseño?", "a": "Para ver cómo quedará el proyecto con sus materiales y su luz, comparar opciones y decidir antes de construir." }
+    {
+      "q": "¿Qué es el diseño arquitectónico?",
+      "a": "Es el proceso de idear y definir un edificio o un espacio: su distribución, volumen, fachadas, materiales y luz, desde los primeros bocetos hasta el proyecto."
+    },
+    {
+      "q": "¿Cuáles son las fases del diseño arquitectónico?",
+      "a": "Recoger las necesidades, probar ideas con bocetos, desarrollar el anteproyecto y, por último, definir el proyecto con detalle para poder construir."
+    },
+    {
+      "q": "¿Qué diferencia hay entre diseño arquitectónico e interiorismo?",
+      "a": "El diseño arquitectónico define el edificio y sus espacios; el interiorismo se ocupa de cómo se viven por dentro: mobiliario, materiales, color e iluminación."
+    },
+    {
+      "q": "¿Para qué sirven los renders en el diseño?",
+      "a": "Para ver cómo quedará el proyecto con sus materiales y su luz, comparar opciones y decidir antes de construir."
+    }
   ],
-  "cierre": { "h2": "¿Tienes una idea que quieres convertir en proyecto?", "html": "<p>Cuéntanos qué quieres hacer y te ayudamos con el diseño, los planos y las imágenes de tu proyecto.</p>", "boton": "Contactar" }
+  "cierre": {
+    "h2": "¿Tienes una idea que quieres convertir en proyecto?",
+    "html": "<p>Cuéntanos qué quieres hacer y te ayudamos con el diseño, los planos y las imágenes de tu proyecto.</p>",
+    "boton": "Contactar"
+  },
+  "comun": {
+    "tipo": "servicio",
+    "terminos": [
+      [
+        "PROYECTOS",
+        "DISEÑOS"
+      ],
+      [
+        "Proyectos",
+        "Diseños"
+      ],
+      [
+        "proyectos",
+        "diseños"
+      ],
+      [
+        "Proyecto",
+        "Diseño"
+      ],
+      [
+        "proyecto",
+        "diseño"
+      ]
+    ],
+    "_nota": "Bloque común de las páginas de este tipo, copiado de la página modelo con la palabra clave cambiada (scripts/paginas-nuevas.mjs, MODELOS)."
+  }
 }

@@ -106,5 +106,39 @@
     "h2": "¿Dudas con tu fachada?",
     "html": "<p>Mándanos alzados o fotos de la fachada y las opciones que estás valorando, y te preparamos un presupuesto.</p>",
     "boton": "Pide presupuesto"
+  },
+  "comun": {
+    "tipo": "render",
+    "terminos": [
+      [
+        "CASAS",
+        "FACHADAS"
+      ],
+      [
+        "CASA",
+        "FACHADA"
+      ],
+      [
+        "Casas",
+        "Fachadas"
+      ],
+      [
+        "Casa",
+        "Fachada"
+      ],
+      [
+        "casas",
+        "fachadas"
+      ],
+      [
+        "casa",
+        "fachada"
+      ],
+      [
+        "Viviendas",
+        "Fachadas"
+      ]
+    ],
+    "_nota": "Bloque común de las páginas de este tipo, copiado de la página modelo con la palabra clave cambiada (scripts/paginas-nuevas.mjs, MODELOS)."
   }
 }

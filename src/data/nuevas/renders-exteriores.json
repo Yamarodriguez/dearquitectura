@@ -114,5 +114,39 @@
     "h2": "¿Quieres ver tu proyecto por fuera?",
     "html": "<p>Cuéntanos qué tienes (planos, bocetos o un modelo 3D) y qué vistas necesitas, y te preparamos un presupuesto.</p>",
     "boton": "Pide presupuesto"
+  },
+  "comun": {
+    "tipo": "render",
+    "terminos": [
+      [
+        "CASAS",
+        "EXTERIORES"
+      ],
+      [
+        "CASA",
+        "EXTERIOR"
+      ],
+      [
+        "Casas",
+        "Exteriores"
+      ],
+      [
+        "Casa",
+        "Exterior"
+      ],
+      [
+        "casas",
+        "exteriores"
+      ],
+      [
+        "casa",
+        "exterior"
+      ],
+      [
+        "Viviendas",
+        "Exteriores"
+      ]
+    ],
+    "_nota": "Bloque común de las páginas de este tipo, copiado de la página modelo con la palabra clave cambiada (scripts/paginas-nuevas.mjs, MODELOS)."
   }
 }

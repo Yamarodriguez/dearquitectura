@@ -106,5 +106,39 @@
     "h2": "¿Vas a abrir o reformar un local?",
     "html": "<p>Envíanos el plano y la idea de tu negocio, y te preparamos un presupuesto.</p>",
     "boton": "Pide presupuesto"
+  },
+  "comun": {
+    "tipo": "render",
+    "terminos": [
+      [
+        "CASAS",
+        "LOCALES"
+      ],
+      [
+        "CASA",
+        "LOCAL"
+      ],
+      [
+        "Casas",
+        "Locales"
+      ],
+      [
+        "Casa",
+        "Local"
+      ],
+      [
+        "casas",
+        "locales"
+      ],
+      [
+        "casa",
+        "local"
+      ],
+      [
+        "Viviendas",
+        "Locales"
+      ]
+    ],
+    "_nota": "Bloque común de las páginas de este tipo, copiado de la página modelo con la palabra clave cambiada (scripts/paginas-nuevas.mjs, MODELOS)."
   }
 }

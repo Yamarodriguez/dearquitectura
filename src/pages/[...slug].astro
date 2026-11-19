@@ -52,6 +52,7 @@ const datos = [...servicio, ...articulo, ...faqJsonLd(faqDe(data.blocks, data.sl
   menu={data.menu}
   logo={data.logo}
   idPagina={data.legal ? undefined : data.id}
+  idModelo={data.modelo_id}
   imagen={seo.imagen}
   ogTitulo={seo.ogTitulo}
   ogDescripcion={seo.ogDescripcion}
@@ -69,7 +70,7 @@ const datos = [...servicio, ...articulo, ...faqJsonLd(faqDe(data.blocks, data.sl
       {legal ? <Fragment set:html={legal} /> : <p class="pendiente">Texto pendiente: se publica en cuanto estén los datos del titular.</p>}
     </article>
   ) : (
-    <div data-elementor-type="wp-page" data-elementor-id={data.id} class={`elementor elementor-${data.id}`}>
+    <div data-elementor-type="wp-page" data-elementor-id={data.id} class={`elementor elementor-${data.id}${data.modelo_id ? ` elementor-${data.modelo_id}` : ''}`}>
       {data.elementor.map((n: any) => <Nodo n={n} blocks={data.blocks} primeraFoto={primeraFoto} pagina={data.slug} />)}
     </div>
   )}

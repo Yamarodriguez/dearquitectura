@@ -9,15 +9,33 @@
   "descripcion": "Cómo se usa la inteligencia artificial en arquitectura: imágenes y renders, diseño generativo y tareas repetitivas, con sus herramientas y sus límites.",
   "palabra_clave": "inteligencia artificial arquitectura",
   "fecha": "2026-11-19 21:00:00",
-  "foto": { "src": "/img/2023/12/ia-arquitectura.jpg", "alt": "Mano robótica sosteniendo una maqueta digital de una ciudad" },
+  "foto": {
+    "src": "/img/2023/12/ia-arquitectura.jpg",
+    "alt": "Mano robótica sosteniendo una maqueta digital de una ciudad"
+  },
   "intro": "<p>La <strong>inteligencia artificial</strong> ya forma parte del trabajo de muchos estudios de arquitectura: genera <strong>imágenes</strong> a partir de un texto o un boceto, propone <strong>variantes de diseño</strong> en segundos y acelera tareas repetitivas. Pero no sustituye al arquitecto: es una herramienta más, con ventajas y límites claros.</p>",
   "resumen": "La <strong>inteligencia artificial en arquitectura</strong> se usa sobre todo en tres frentes: crear <strong>imágenes y renders</strong> rápidos para las primeras ideas, el <strong>diseño generativo</strong> (proponer y comparar muchas variantes según luz, vistas, normativa o superficie) y automatizar <strong>tareas repetitivas</strong> de documentación. Ayuda a explorar más opciones en menos tiempo, pero el criterio, la responsabilidad y el proyecto final siguen siendo del arquitecto.",
   "datos": [
-    ["Qué es", "Programas que aprenden de datos para generar imágenes, propuestas o análisis"],
-    ["Usos principales", "Imágenes de concepto, renders rápidos, diseño generativo y documentación"],
-    ["Cuándo se usa más", "En las primeras fases del proyecto, para explorar ideas"],
-    ["Ejemplos de herramientas", "Generadores de imágenes por texto, Veras, Autodesk Forma, TestFit, Grasshopper"],
-    ["Límites", "Errores de medidas y normativa, derechos de autor y necesidad de revisión profesional"]
+    [
+      "Qué es",
+      "Programas que aprenden de datos para generar imágenes, propuestas o análisis"
+    ],
+    [
+      "Usos principales",
+      "Imágenes de concepto, renders rápidos, diseño generativo y documentación"
+    ],
+    [
+      "Cuándo se usa más",
+      "En las primeras fases del proyecto, para explorar ideas"
+    ],
+    [
+      "Ejemplos de herramientas",
+      "Generadores de imágenes por texto, Veras, Autodesk Forma, TestFit, Grasshopper"
+    ],
+    [
+      "Límites",
+      "Errores de medidas y normativa, derechos de autor y necesidad de revisión profesional"
+    ]
   ],
   "secciones": [
     {
@@ -28,11 +46,26 @@
       "h2": "Usos de la inteligencia artificial en arquitectura",
       "html": "",
       "sub": [
-        { "h3": "Imágenes de concepto a partir de un texto o un boceto", "html": "<p>Los generadores de imágenes permiten escribir una descripción («casa mediterránea con patio y muros blancos») o subir un croquis y obtener en segundos varias imágenes de ambiente. Son útiles para inspirarse y comunicar una idea, no para definir un proyecto.</p>" },
-        { "h3": "Renders rápidos desde el modelo", "html": "<p>Algunas herramientas trabajan dentro de los programas de diseño. Por ejemplo, <strong>Veras</strong>, de EvolveLAB, empresa que compró Chaos en 2025, funciona con Revit, SketchUp o Rhino y genera variaciones visuales a partir del modelo. Sirven para las primeras fases; para la imagen final de presentación se siguen usando <a href=\"/renders/\">renders</a> fotorrealistas trabajados.</p>" },
-        { "h3": "Diseño generativo", "html": "<p>El programa propone cientos de variantes de un edificio o una urbanización y las compara según luz, vistas, ruido, viento, superficie o normativa. Un ejemplo es Spacemaker, que Autodesk compró en 2020 y que hoy forma parte de <strong>Autodesk Forma</strong>. Otras herramientas, como TestFit o Grasshopper (para Rhino), se usan para tantear distribuciones y volúmenes.</p>" },
-        { "h3": "Tareas repetitivas y documentación", "html": "<p>La IA también ayuda a ordenar y revisar documentación, etiquetar <a href=\"/planos/\">planos</a>, comprobar incoherencias o preparar textos de memoria, tareas que antes llevaban muchas horas.</p>" },
-        { "h3": "Interiorismo y home staging", "html": "<p>A partir de la foto de una habitación vacía se pueden generar propuestas de muebles y decoración. Es una idea rápida; para vender o alquilar con imágenes fieles se usa el <a href=\"/home-staging/\">home staging</a> con modelado real.</p>" }
+        {
+          "h3": "Imágenes de concepto a partir de un texto o un boceto",
+          "html": "<p>Los generadores de imágenes permiten escribir una descripción («casa mediterránea con patio y muros blancos») o subir un croquis y obtener en segundos varias imágenes de ambiente. Son útiles para inspirarse y comunicar una idea, no para definir un proyecto.</p>"
+        },
+        {
+          "h3": "Renders rápidos desde el modelo",
+          "html": "<p>Algunas herramientas trabajan dentro de los programas de diseño. Por ejemplo, <strong>Veras</strong>, de EvolveLAB, empresa que compró Chaos en 2025, funciona con Revit, SketchUp o Rhino y genera variaciones visuales a partir del modelo. Sirven para las primeras fases; para la imagen final de presentación se siguen usando <a href=\"/renders/\">renders</a> fotorrealistas trabajados.</p>"
+        },
+        {
+          "h3": "Diseño generativo",
+          "html": "<p>El programa propone cientos de variantes de un edificio o una urbanización y las compara según luz, vistas, ruido, viento, superficie o normativa. Un ejemplo es Spacemaker, que Autodesk compró en 2020 y que hoy forma parte de <strong>Autodesk Forma</strong>. Otras herramientas, como TestFit o Grasshopper (para Rhino), se usan para tantear distribuciones y volúmenes.</p>"
+        },
+        {
+          "h3": "Tareas repetitivas y documentación",
+          "html": "<p>La IA también ayuda a ordenar y revisar documentación, etiquetar <a href=\"/planos/\">planos</a>, comprobar incoherencias o preparar textos de memoria, tareas que antes llevaban muchas horas.</p>"
+        },
+        {
+          "h3": "Interiorismo y home staging",
+          "html": "<p>A partir de la foto de una habitación vacía se pueden generar propuestas de muebles y decoración. Es una idea rápida; para vender o alquilar con imágenes fieles se usa el <a href=\"/home-staging/\">home staging</a> con modelado real.</p>"
+        }
       ]
     },
     {
@@ -49,16 +82,49 @@
     }
   ],
   "faq": [
-    { "q": "¿Cómo se usa la inteligencia artificial en arquitectura?", "a": "Sobre todo para generar imágenes y renders rápidos de las primeras ideas, para el diseño generativo (comparar muchas variantes según luz, vistas o normativa) y para automatizar tareas repetitivas de documentación." },
-    { "q": "¿Qué es el diseño generativo?", "a": "Un método en el que el programa propone muchas variantes de un diseño a partir de unos objetivos y restricciones (superficie, luz, normativa) y ayuda a compararlas para elegir la mejor." },
-    { "q": "¿Puede la IA hacer los planos de una casa?", "a": "Puede proponer distribuciones o esquemas, pero no sustituye a unos planos de proyecto: estos necesitan medidas exactas, estructura, instalaciones y cumplir la normativa, y los firma un profesional." },
-    { "q": "¿Un render hecho con IA es igual que un render profesional?", "a": "No. La IA genera imágenes de ambiente rápidas, útiles para las primeras ideas, pero sin medidas ni materiales exactos. Un render profesional parte del modelo real del proyecto y muestra lo que de verdad se va a construir." }
+    {
+      "q": "¿Cómo se usa la inteligencia artificial en arquitectura?",
+      "a": "Sobre todo para generar imágenes y renders rápidos de las primeras ideas, para el diseño generativo (comparar muchas variantes según luz, vistas o normativa) y para automatizar tareas repetitivas de documentación."
+    },
+    {
+      "q": "¿Qué es el diseño generativo?",
+      "a": "Un método en el que el programa propone muchas variantes de un diseño a partir de unos objetivos y restricciones (superficie, luz, normativa) y ayuda a compararlas para elegir la mejor."
+    },
+    {
+      "q": "¿Puede la IA hacer los planos de una casa?",
+      "a": "Puede proponer distribuciones o esquemas, pero no sustituye a unos planos de proyecto: estos necesitan medidas exactas, estructura, instalaciones y cumplir la normativa, y los firma un profesional."
+    },
+    {
+      "q": "¿Un render hecho con IA es igual que un render profesional?",
+      "a": "No. La IA genera imágenes de ambiente rápidas, útiles para las primeras ideas, pero sin medidas ni materiales exactos. Un render profesional parte del modelo real del proyecto y muestra lo que de verdad se va a construir."
+    }
   ],
   "fuentes": [
-    { "texto": "Autodesk: la IA transforma el diseño en arquitectura", "url": "https://www.autodesk.com/es/design-make/articles/ai-architecture-design" },
-    { "texto": "Autodesk completa la compra de Spacemaker (2020)", "url": "https://autodeskinc.gcs-web.com/node/31291" },
-    { "texto": "Chaos compra EvolveLAB y sus herramientas de IA (2025)", "url": "https://www.chaos.com/press/chaos-acquires-evolvelab-and-its-aec-ai-tools" },
-    { "texto": "ArchDaily: inteligencia artificial", "url": "https://www.archdaily.com/es/tag/inteligencia-artificial" }
+    {
+      "texto": "Autodesk: la IA transforma el diseño en arquitectura",
+      "url": "https://www.autodesk.com/es/design-make/articles/ai-architecture-design"
+    },
+    {
+      "texto": "Autodesk completa la compra de Spacemaker (2020)",
+      "url": "https://autodeskinc.gcs-web.com/node/31291"
+    },
+    {
+      "texto": "Chaos compra EvolveLAB y sus herramientas de IA (2025)",
+      "url": "https://www.chaos.com/press/chaos-acquires-evolvelab-and-its-aec-ai-tools"
+    },
+    {
+      "texto": "ArchDaily: inteligencia artificial",
+      "url": "https://www.archdaily.com/es/tag/inteligencia-artificial"
+    }
   ],
-  "cierre": { "h2": "¿Quieres ver tu proyecto tal como será?", "html": "<p>Si necesitas imágenes fieles de tu proyecto, hechas a partir de sus planos y con sus materiales reales, cuéntanos qué tienes y te preparamos un presupuesto.</p>", "boton": "Pide presupuesto" }
+  "cierre": {
+    "h2": "¿Quieres ver tu proyecto tal como será?",
+    "html": "<p>Si necesitas imágenes fieles de tu proyecto, hechas a partir de sus planos y con sus materiales reales, cuéntanos qué tienes y te preparamos un presupuesto.</p>",
+    "boton": "Pide presupuesto"
+  },
+  "comun": {
+    "tipo": "servicio",
+    "terminos": [],
+    "_nota": "Bloque común de las páginas de este tipo, copiado de la página modelo con la palabra clave cambiada (scripts/paginas-nuevas.mjs, MODELOS)."
+  }
 }

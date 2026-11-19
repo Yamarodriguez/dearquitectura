@@ -158,5 +158,27 @@
       "url": "https://whc.unesco.org/es/list/412"
     }
   ],
-  "_nota_foto": "La foto de la tarjeta del original (arte-y-arquitectura-azteca.jpg) es Teotihuacán, anterior a los aztecas: en la portada de la página va el Templo Mayor."
+  "_nota_foto": "La foto de la tarjeta del original (arte-y-arquitectura-azteca.jpg) es Teotihuacán, anterior a los aztecas: en la portada de la página va el Templo Mayor.",
+  "comun": {
+    "tipo": "estilo",
+    "terminos": [
+      [
+        "NEOCLASICA",
+        "AZTECA"
+      ],
+      [
+        "Neoclásica",
+        "Azteca"
+      ],
+      [
+        "neoclásicos",
+        "aztecas"
+      ],
+      [
+        "neoclásica",
+        "azteca"
+      ]
+    ],
+    "_nota": "Bloque común de las páginas de este tipo, copiado de la página modelo con la palabra clave cambiada (scripts/paginas-nuevas.mjs, MODELOS)."
+  }
 }

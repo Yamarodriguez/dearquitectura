@@ -161,5 +161,27 @@
       "texto": "La obra arquitectónica de Le Corbusier — Patrimonio Mundial de la UNESCO",
       "url": "https://whc.unesco.org/es/list/1321"
     }
-  ]
+  ],
+  "comun": {
+    "tipo": "estilo",
+    "terminos": [
+      [
+        "NEOCLASICA",
+        "BRUTALISTA"
+      ],
+      [
+        "Neoclásica",
+        "Brutalista"
+      ],
+      [
+        "neoclásicos",
+        "brutalistas"
+      ],
+      [
+        "neoclásica",
+        "brutalista"
+      ]
+    ],
+    "_nota": "Bloque común de las páginas de este tipo, copiado de la página modelo con la palabra clave cambiada (scripts/paginas-nuevas.mjs, MODELOS)."
+  }
 }

@@ -9,27 +9,63 @@
   "descripcion": "Cómo planificar una reforma de vivienda o local: pasos, planos, diseño 3D y renders del antes y el después para decidir antes de la obra.",
   "palabra_clave": "reformas",
   "fecha": "2026-11-19 20:00:00",
-  "foto": { "src": "/img/2023/12/reforma.jpg", "alt": "Profesionales revisando planos en una vivienda en reforma" },
-  "boton": { "texto": "Cuéntanos tu reforma", "url": "/contacto/" },
+  "foto": {
+    "src": "/img/2023/12/reforma.jpg",
+    "alt": "Profesionales revisando planos en una vivienda en reforma"
+  },
+  "boton": {
+    "texto": "Cuéntanos tu reforma",
+    "url": "/contacto/"
+  },
   "intro": "<p>Una <strong>reforma</strong> sale mejor cuando se decide casi todo antes de levantar el primer azulejo. Con <strong>planos</strong> de la distribución nueva y <strong>renders</strong> del resultado, sabes qué vas a pedir, a quién y cómo va a quedar.</p>",
   "resumen": "Planificar una <strong>reforma</strong> consiste en definir qué se cambia (distribución, instalaciones, acabados), dibujarlo en <strong>planos</strong> y verlo en <strong>3D</strong> antes de la obra. Así se comparan opciones, se piden <strong>presupuestos</strong> con una idea clara y se evitan cambios caros a mitad de obra. Es útil en reformas integrales, de cocina, de baño y de locales.",
   "datos": [
-    ["Qué incluye", "Estado actual, nueva distribución, planos y renders del resultado"],
-    ["Tipos", "Integral, de cocina, de baño, de fachada y de locales"],
-    ["Para qué sirve", "Decidir antes de la obra, pedir presupuestos y evitar sorpresas"],
-    ["Herramientas", "Planos, modelado 3D y renders de antes y después"],
-    ["Qué hace falta", "Medidas o planos actuales, fotos y la idea de lo que quieres cambiar"]
+    [
+      "Qué incluye",
+      "Estado actual, nueva distribución, planos y renders del resultado"
+    ],
+    [
+      "Tipos",
+      "Integral, de cocina, de baño, de fachada y de locales"
+    ],
+    [
+      "Para qué sirve",
+      "Decidir antes de la obra, pedir presupuestos y evitar sorpresas"
+    ],
+    [
+      "Herramientas",
+      "Planos, modelado 3D y renders de antes y después"
+    ],
+    [
+      "Qué hace falta",
+      "Medidas o planos actuales, fotos y la idea de lo que quieres cambiar"
+    ]
   ],
   "secciones": [
     {
       "h2": "Pasos para planificar una reforma",
       "html": "",
       "sub": [
-        { "h3": "1. Tomar medidas y ver el estado actual", "html": "<p>Se dibuja el espacio tal como está, con sus muros, ventanas e instalaciones, y se anota qué se puede mover y qué no.</p>" },
-        { "h3": "2. Decidir qué se cambia", "html": "<p>Distribución, cocina, baños, suelos, carpinterías o instalaciones: se fija el alcance de la reforma y el presupuesto aproximado.</p>" },
-        { "h3": "3. Dibujar la nueva distribución", "html": "<p>Con <a href=\"/planos/\">planos</a> a escala se comprueba que todo cabe y funciona: pasos, muebles, puertas y luz natural.</p>" },
-        { "h3": "4. Ver el resultado en 3D", "html": "<p>Los renders muestran materiales y colores; un <a href=\"/render-antes-y-despues/\">render de antes y después</a> enseña el cambio de un vistazo.</p>" },
-        { "h3": "5. Pedir presupuestos y planificar la obra", "html": "<p>Con planos e imágenes, los gremios entienden qué hay que hacer y los presupuestos se pueden comparar de verdad.</p>" }
+        {
+          "h3": "1. Tomar medidas y ver el estado actual",
+          "html": "<p>Se dibuja el espacio tal como está, con sus muros, ventanas e instalaciones, y se anota qué se puede mover y qué no.</p>"
+        },
+        {
+          "h3": "2. Decidir qué se cambia",
+          "html": "<p>Distribución, cocina, baños, suelos, carpinterías o instalaciones: se fija el alcance de la reforma y el presupuesto aproximado.</p>"
+        },
+        {
+          "h3": "3. Dibujar la nueva distribución",
+          "html": "<p>Con <a href=\"/planos/\">planos</a> a escala se comprueba que todo cabe y funciona: pasos, muebles, puertas y luz natural.</p>"
+        },
+        {
+          "h3": "4. Ver el resultado en 3D",
+          "html": "<p>Los renders muestran materiales y colores; un <a href=\"/render-antes-y-despues/\">render de antes y después</a> enseña el cambio de un vistazo.</p>"
+        },
+        {
+          "h3": "5. Pedir presupuestos y planificar la obra",
+          "html": "<p>Con planos e imágenes, los gremios entienden qué hay que hacer y los presupuestos se pueden comparar de verdad.</p>"
+        }
       ]
     },
     {
@@ -43,14 +79,62 @@
   ],
   "galeria_titulo": "Antes y después",
   "galeria": [
-    { "src": "/img/2024/01/renders-antes-y-despues.jpg", "alt": "Render del antes y el después de una habitación reformada" },
-    { "src": "/img/2023/12/PLANO-de-casas-vista-aerea.jpg", "alt": "Plano de distribución de una vivienda" }
+    {
+      "src": "/img/2024/01/renders-antes-y-despues.jpg",
+      "alt": "Render del antes y el después de una habitación reformada"
+    },
+    {
+      "src": "/img/2023/12/PLANO-de-casas-vista-aerea.jpg",
+      "alt": "Plano de distribución de una vivienda"
+    }
   ],
   "faq": [
-    { "q": "¿Cómo se planifica una reforma?", "a": "Se mide y se dibuja el estado actual, se decide qué se cambia, se dibuja la nueva distribución en planos, se ve el resultado en 3D y, con todo ello, se piden presupuestos y se planifica la obra." },
-    { "q": "¿Para qué sirve un render en una reforma?", "a": "Para ver cómo quedará el espacio con sus materiales y colores antes de empezar, comparar opciones y evitar cambios a mitad de obra." },
-    { "q": "¿Qué necesito para empezar?", "a": "Las medidas o los planos actuales del espacio, algunas fotos y la idea de lo que quieres cambiar." },
-    { "q": "¿Sirve también para locales y oficinas?", "a": "Sí. En un local, la distribución, la imagen de la marca y la iluminación se pueden ver en 3D antes de la obra." }
+    {
+      "q": "¿Cómo se planifica una reforma?",
+      "a": "Se mide y se dibuja el estado actual, se decide qué se cambia, se dibuja la nueva distribución en planos, se ve el resultado en 3D y, con todo ello, se piden presupuestos y se planifica la obra."
+    },
+    {
+      "q": "¿Para qué sirve un render en una reforma?",
+      "a": "Para ver cómo quedará el espacio con sus materiales y colores antes de empezar, comparar opciones y evitar cambios a mitad de obra."
+    },
+    {
+      "q": "¿Qué necesito para empezar?",
+      "a": "Las medidas o los planos actuales del espacio, algunas fotos y la idea de lo que quieres cambiar."
+    },
+    {
+      "q": "¿Sirve también para locales y oficinas?",
+      "a": "Sí. En un local, la distribución, la imagen de la marca y la iluminación se pueden ver en 3D antes de la obra."
+    }
   ],
-  "cierre": { "h2": "¿Estás pensando en reformar?", "html": "<p>Cuéntanos qué espacio quieres reformar y qué te gustaría cambiar, y te ayudamos con los planos y las imágenes de tu reforma.</p>", "boton": "Contactar" }
+  "cierre": {
+    "h2": "¿Estás pensando en reformar?",
+    "html": "<p>Cuéntanos qué espacio quieres reformar y qué te gustaría cambiar, y te ayudamos con los planos y las imágenes de tu reforma.</p>",
+    "boton": "Contactar"
+  },
+  "comun": {
+    "tipo": "servicio",
+    "terminos": [
+      [
+        "PROYECTOS",
+        "REFORMAS"
+      ],
+      [
+        "Proyectos",
+        "Reformas"
+      ],
+      [
+        "proyectos",
+        "reformas"
+      ],
+      [
+        "Proyecto",
+        "Reforma"
+      ],
+      [
+        "proyecto",
+        "reforma"
+      ]
+    ],
+    "_nota": "Bloque común de las páginas de este tipo, copiado de la página modelo con la palabra clave cambiada (scripts/paginas-nuevas.mjs, MODELOS)."
+  }
 }
