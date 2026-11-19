@@ -64,7 +64,7 @@ for (const f of fs.existsSync(ORIGEN) ? fs.readdirSync(ORIGEN).filter((x) => x.e
   if (d.cierre) arbol.push(seccion([col([h('h2', d.cierre.h2), t(d.cierre.html), boton(d.cierre.boton, '/contacto/')])], ' nueva-cierre'));
   if (d.fuentes?.length) {
   const fuentes = `<ul>${d.fuentes.map((x) => `<li><a href="${x.url}" rel="noopener">${x.texto}</a></li>`).join('')}</ul>`;
-  const creditos = `<p class="creditos">Fotos: ${d.obras.filter((o) => o.foto.credito).map((o) => `${o.nombre}, <a href="${o.foto.credito.ficha}" rel="noopener">${o.foto.credito.autor}</a> (${o.foto.credito.licencia}), Wikimedia Commons`).join(' · ')}.</p>`;
+  const creditos = `<p class="creditos">Fotos: ${(d.obras ?? []).filter((o) => o.foto.credito).map((o) => `${o.nombre}, <a href="${o.foto.credito.ficha}" rel="noopener">${o.foto.credito.autor}</a> (${o.foto.credito.licencia}), Wikimedia Commons`).join(' · ')}.</p>`;
   arbol.push(seccion([col([h('h2', 'Fuentes'), t(fuentes + (d.obras?.some((o) => o.foto.credito) ? creditos : ''))])], ' nueva-fuentes'));
   }
 

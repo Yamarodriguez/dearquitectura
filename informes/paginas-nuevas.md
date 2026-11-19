@@ -125,3 +125,10 @@ Es lo que más daño hace en Google (análisis, P1). Cada página nueva tiene te
 - **Qué cuentan:** qué es cada servicio, sus fases y sus tipos, y cómo ayudan los planos, el modelado 3D y los renders.
 - **Lo que no se dice:** que el estudio construya o haga obras. Se habla de diseño, planos, imágenes y asesoramiento, como en las tarjetas originales.
 - **Conexiones:** desplegable Servicios del menú principal, ruta «Inicio / Servicios / …» y bloque «Otros servicios» en todas las páginas de servicios.
+
+## Hecho: inteligencia artificial en arquitectura (19-11-2026, Yama: «Sí, el de IA»)
+- **Artículo** en la dirección a la que apuntaban las tarjetas.
+- **Contenido:** qué es, usos (imágenes de concepto, renders rápidos, diseño generativo, documentación, interiorismo), ventajas, límites y riesgos, y si sustituirá al arquitecto.
+- **Datos de herramientas comprobados en las notas de prensa:** Autodesk compró Spacemaker en 2020 (hoy dentro de Forma) y Chaos compró EvolveLAB, la de Veras, en 2025.
+- **Enlaces:** con Programas de arquitectura en los dos sentidos, y con renders, modelado 3D y home staging.
+- **No se dice** que el estudio use IA.

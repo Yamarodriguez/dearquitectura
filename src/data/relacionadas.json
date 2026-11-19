@@ -42,6 +42,22 @@
       "paginas": [
         "san-sebastian-de-los-reyes"
       ]
+    },
+    "inteligencia-artificial-arquitectura": {
+      "titulo": "Ver también",
+      "paginas": [
+        "programas-de-arquitectura",
+        "renders",
+        "renders-hiperrealistas",
+        "modelado-3d",
+        "home-staging"
+      ]
+    },
+    "programas-de-arquitectura": {
+      "titulo": "Ver también",
+      "paginas": [
+        "inteligencia-artificial-arquitectura"
+      ]
     }
   }
 }

@@ -4,7 +4,6 @@
   "enlaces_rotos": {
     "descripcion": "Botones a páginas que no existen → la página más parecida que sí existe.",
     "cambios": {
-      "/inteligencia-artificial-arquitectura/": "/programas-de-arquitectura/",
       "/arquitectura-Barroca/": "/arquitectura-barroca/",
       "/arquitectos": "/arquitectos/",
       "/arquitectos-modernistas/": "/arquitecto-moderno/",
@@ -23,7 +22,8 @@
     "nota_19_11_2026": "Desde el 19-11-2026 existen las páginas de arquitectura gótica, renacentista, egipcia, azteca y brutalista (src/data/nuevas): se quitan sus desvíos a Tipos de arquitectura.",
     "nota_19_11_2026_renders": "Desde el 19-11-2026 existen las páginas de renders exteriores, de fachadas, de locales comerciales, de producto, nocturnos y de cafeterías (src/data/nuevas): se quitan sus desvíos.",
     "nota_19_11_2026_video": "Desde el 19-11-2026 existen vídeo render y render de logos (Yama confirmó que ofrece los dos): se quitan sus desvíos.",
-    "nota_19_11_2026_servicios": "Desde el 19-11-2026 existen diseños arquitectónicos, reformas, construcción e interiorismo (src/data/nuevas): se quitan sus desvíos."
+    "nota_19_11_2026_servicios": "Desde el 19-11-2026 existen diseños arquitectónicos, reformas, construcción e interiorismo (src/data/nuevas): se quitan sus desvíos.",
+    "nota_19_11_2026_ia": "Desde el 19-11-2026 existe la página de inteligencia artificial en arquitectura: se quita su desvío a Programas de arquitectura."
   },
   "botones_sin_destino": {
     "descripcion": "Botones sin enlace («#») → por su texto: «Haz clic aquí» a /contacto/; los de la fila de botones, al mismo destino que tienen en el resto de la web.",

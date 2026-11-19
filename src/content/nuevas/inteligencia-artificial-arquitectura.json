@@ -1,0 +1,609 @@
+{
+ "slug": "inteligencia-artificial-arquitectura",
+ "id": "nueva",
+ "title": "Inteligencia Artificial en Arquitectura",
+ "titulo_seo": "Inteligencia artificial en arquitectura: usos y herramientas",
+ "url": "https://dearquitectura.info/inteligencia-artificial-arquitectura/",
+ "nueva": true,
+ "meta_description": "Cómo se usa la inteligencia artificial en arquitectura: imágenes y renders, diseño generativo y tareas repetitivas, con sus herramientas y sus límites.",
+ "palabra_clave": "inteligencia artificial arquitectura",
+ "menu": "",
+ "logo": "",
+ "foto_destacada": "/img/2023/12/ia-arquitectura.jpg",
+ "fecha": "2026-11-19 21:00:00",
+ "modificada": "2026-11-19 21:00:00",
+ "fecha_gmt": "2026-11-19 21:00:00",
+ "modificada_gmt": "2026-11-19 21:00:00",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/img/2023/12/ia-arquitectura.jpg",
+   "alt": "Mano robótica sosteniendo una maqueta digital de una ciudad",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "Inteligencia Artificial en Arquitectura"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Qué puede hacer hoy y qué no"
+  },
+  {
+   "type": "text",
+   "html": "<p>La <strong>inteligencia artificial</strong> ya forma parte del trabajo de muchos estudios de arquitectura: genera <strong>imágenes</strong> a partir de un texto o un boceto, propone <strong>variantes de diseño</strong> en segundos y acelera tareas repetitivas. Pero no sustituye al arquitecto: es una herramienta más, con ventajas y límites claros.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen"
+  },
+  {
+   "type": "text",
+   "html": "<p>La <strong>inteligencia artificial en arquitectura</strong> se usa sobre todo en tres frentes: crear <strong>imágenes y renders</strong> rápidos para las primeras ideas, el <strong>diseño generativo</strong> (proponer y comparar muchas variantes según luz, vistas, normativa o superficie) y automatizar <strong>tareas repetitivas</strong> de documentación. Ayuda a explorar más opciones en menos tiempo, pero el criterio, la responsabilidad y el proyecto final siguen siendo del arquitecto.</p>"
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Qué es</th><td>Programas que aprenden de datos para generar imágenes, propuestas o análisis</td></tr><tr><th scope=\"row\">Usos principales</th><td>Imágenes de concepto, renders rápidos, diseño generativo y documentación</td></tr><tr><th scope=\"row\">Cuándo se usa más</th><td>En las primeras fases del proyecto, para explorar ideas</td></tr><tr><th scope=\"row\">Ejemplos de herramientas</th><td>Generadores de imágenes por texto, Veras, Autodesk Forma, TestFit, Grasshopper</td></tr><tr><th scope=\"row\">Límites</th><td>Errores de medidas y normativa, derechos de autor y necesidad de revisión profesional</td></tr></tbody></table>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Qué es la inteligencia artificial aplicada a la arquitectura?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Son programas que, entrenados con enormes cantidades de datos e imágenes, pueden <strong>generar</strong> contenido nuevo (una imagen, una distribución, un texto) o <strong>analizar</strong> un proyecto y proponer mejoras. En arquitectura conviven dos familias: la <strong>IA generativa</strong>, que crea imágenes y variantes, y las herramientas de <strong>análisis y optimización</strong>, que comparan muchas soluciones según criterios medibles.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Usos de la inteligencia artificial en arquitectura"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Imágenes de concepto a partir de un texto o un boceto"
+  },
+  {
+   "type": "text",
+   "html": "<p>Los generadores de imágenes permiten escribir una descripción («casa mediterránea con patio y muros blancos») o subir un croquis y obtener en segundos varias imágenes de ambiente. Son útiles para inspirarse y comunicar una idea, no para definir un proyecto.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Renders rápidos desde el modelo"
+  },
+  {
+   "type": "text",
+   "html": "<p>Algunas herramientas trabajan dentro de los programas de diseño. Por ejemplo, <strong>Veras</strong>, de EvolveLAB, empresa que compró Chaos en 2025, funciona con Revit, SketchUp o Rhino y genera variaciones visuales a partir del modelo. Sirven para las primeras fases; para la imagen final de presentación se siguen usando <a href=\"/renders/\">renders</a> fotorrealistas trabajados.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Diseño generativo"
+  },
+  {
+   "type": "text",
+   "html": "<p>El programa propone cientos de variantes de un edificio o una urbanización y las compara según luz, vistas, ruido, viento, superficie o normativa. Un ejemplo es Spacemaker, que Autodesk compró en 2020 y que hoy forma parte de <strong>Autodesk Forma</strong>. Otras herramientas, como TestFit o Grasshopper (para Rhino), se usan para tantear distribuciones y volúmenes.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Tareas repetitivas y documentación"
+  },
+  {
+   "type": "text",
+   "html": "<p>La IA también ayuda a ordenar y revisar documentación, etiquetar <a href=\"/planos/\">planos</a>, comprobar incoherencias o preparar textos de memoria, tareas que antes llevaban muchas horas.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Interiorismo y home staging"
+  },
+  {
+   "type": "text",
+   "html": "<p>A partir de la foto de una habitación vacía se pueden generar propuestas de muebles y decoración. Es una idea rápida; para vender o alquilar con imágenes fieles se usa el <a href=\"/home-staging/\">home staging</a> con modelado real.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Ventajas"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><strong>Rapidez</strong>: muchas ideas e imágenes en poco tiempo.</li><li><strong>Más opciones</strong>: se exploran variantes que a mano no daría tiempo a probar.</li><li><strong>Mejor comunicación</strong>: una imagen de ambiente ayuda a que el cliente entienda la idea desde el principio.</li><li><strong>Menos tareas repetitivas</strong>: más tiempo para lo que aporta valor al proyecto.</li></ul>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Límites y riesgos"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><strong>No mide</strong>: una imagen generada no tiene medidas reales, estructura ni instalaciones; puede proponer cosas imposibles de construir.</li><li><strong>No conoce la normativa</strong> de cada lugar ni las condiciones de la parcela, salvo que se le den y se revisen.</li><li><strong>Derechos de autor</strong>: el uso de imágenes generadas y de los datos con que se entrenan estas herramientas sigue en debate; conviene revisar las condiciones de cada una.</li><li><strong>Responsabilidad</strong>: el proyecto lo firma y responde de él un profesional; la IA no sustituye ese criterio.</li></ul>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Sustituirá la IA al arquitecto?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Hoy, no. La IA es buena explorando y generando, pero un edificio exige entender a quien lo va a usar, el lugar, el presupuesto, la normativa y la construcción, y responder de todo ello. Lo más probable es que cambie la forma de trabajar: menos horas en tareas mecánicas y más en las decisiones. Para ver qué programas se usan en el día a día, consulta <a href=\"/programas-de-arquitectura/\">programas de arquitectura</a>.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes"
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Cómo se usa la inteligencia artificial en arquitectura?",
+     "html": "<p>Sobre todo para generar imágenes y renders rápidos de las primeras ideas, para el diseño generativo (comparar muchas variantes según luz, vistas o normativa) y para automatizar tareas repetitivas de documentación.</p>"
+    },
+    {
+     "title": "¿Qué es el diseño generativo?",
+     "html": "<p>Un método en el que el programa propone muchas variantes de un diseño a partir de unos objetivos y restricciones (superficie, luz, normativa) y ayuda a compararlas para elegir la mejor.</p>"
+    },
+    {
+     "title": "¿Puede la IA hacer los planos de una casa?",
+     "html": "<p>Puede proponer distribuciones o esquemas, pero no sustituye a unos planos de proyecto: estos necesitan medidas exactas, estructura, instalaciones y cumplir la normativa, y los firma un profesional.</p>"
+    },
+    {
+     "title": "¿Un render hecho con IA es igual que un render profesional?",
+     "html": "<p>No. La IA genera imágenes de ambiente rápidas, útiles para las primeras ideas, pero sin medidas ni materiales exactos. Un render profesional parte del modelo real del proyecto y muestra lo que de verdad se va a construir.</p>"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Quieres ver tu proyecto tal como será?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Si necesitas imágenes fieles de tu proyecto, hechas a partir de sus planos y con sus materiales reales, cuéntanos qué tienes y te preparamos un presupuesto.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Fuentes"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><a href=\"https://www.autodesk.com/es/design-make/articles/ai-architecture-design\" rel=\"noopener\">Autodesk: la IA transforma el diseño en arquitectura</a></li><li><a href=\"https://autodeskinc.gcs-web.com/node/31291\" rel=\"noopener\">Autodesk completa la compra de Spacemaker (2020)</a></li><li><a href=\"https://www.chaos.com/press/chaos-acquires-evolvelab-and-its-aec-ai-tools\" rel=\"noopener\">Chaos compra EvolveLAB y sus herramientas de IA (2025)</a></li><li><a href=\"https://www.archdaily.com/es/tag/inteligencia-artificial\" rel=\"noopener\">ArchDaily: inteligencia artificial</a></li></ul>"
+  }
+ ],
+ "elementor": [
+  {
+   "t": "c",
+   "id": "78bc7e3",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "af79d76",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "eba77c8",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 0
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "00fc670",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "1bff6b1",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h1",
+       "size": "default",
+       "b": 1
+      },
+      {
+       "t": "w",
+       "id": "a491851",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 2
+      },
+      {
+       "t": "w",
+       "id": "d5b1b4c",
+       "wt": "divider",
+       "cls": "elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "b4393bc",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "781cc84",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-resumen",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "9a1cbb8",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "4439123",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 4
+      },
+      {
+       "t": "w",
+       "id": "000075f",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 5
+      },
+      {
+       "t": "w",
+       "id": "aa7ae3f",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 6
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "ede40de",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "d809053",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "beb0dd0",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 7
+      },
+      {
+       "t": "w",
+       "id": "09c1f96",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 8
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "31678a9",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "b85ab4d",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "5779f43",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 9
+      },
+      {
+       "t": "w",
+       "id": "52898f3",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 10
+      },
+      {
+       "t": "w",
+       "id": "12608f2",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 11
+      },
+      {
+       "t": "w",
+       "id": "60b5624",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 12
+      },
+      {
+       "t": "w",
+       "id": "16ed472",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 13
+      },
+      {
+       "t": "w",
+       "id": "fdb15de",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 14
+      },
+      {
+       "t": "w",
+       "id": "3962c82",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 15
+      },
+      {
+       "t": "w",
+       "id": "d452a50",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 16
+      },
+      {
+       "t": "w",
+       "id": "51b46d6",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 17
+      },
+      {
+       "t": "w",
+       "id": "4064099",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 18
+      },
+      {
+       "t": "w",
+       "id": "c033f34",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 19
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "910d687",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "69c0870",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "510b189",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 20
+      },
+      {
+       "t": "w",
+       "id": "c93fff8",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 21
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "30bb995",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "713784a",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "c7b996a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 22
+      },
+      {
+       "t": "w",
+       "id": "542f9e4",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 23
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "c83d598",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "6a7cc78",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "1569954",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 24
+      },
+      {
+       "t": "w",
+       "id": "bd7298c",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "e8aa050",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "f51b1f3",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "c32241c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 26
+      },
+      {
+       "t": "w",
+       "id": "1cae17b",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 27
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "c5bafdc",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-cierre",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "2b45331",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "ecec3b1",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 28
+      },
+      {
+       "t": "w",
+       "id": "56ffc67",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 29
+      },
+      {
+       "t": "w",
+       "id": "12bbf5a",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "8d606ef",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fuentes",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "f41f85e",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "58a0eb8",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 31
+      },
+      {
+       "t": "w",
+       "id": "1157e21",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 32
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

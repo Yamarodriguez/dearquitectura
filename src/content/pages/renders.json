@@ -2020,10 +2020,8 @@
    "alt": "ia-arquitectura",
    "size": "large",
    "wpid": 729,
-   "href": "/programas-de-arquitectura/",
-   "s": 90,
-   "href_original": "/inteligencia-artificial-arquitectura/",
-   "cambio": "enlace_roto"
+   "href": "/inteligencia-artificial-arquitectura/",
+   "s": 90
   },
   {
    "type": "heading",
@@ -2041,10 +2039,8 @@
    "type": "button",
    "text": "IA",
    "size": "sm",
-   "href": "/programas-de-arquitectura/",
-   "s": 90,
-   "href_original": "/inteligencia-artificial-arquitectura/",
-   "cambio": "enlace_roto"
+   "href": "/inteligencia-artificial-arquitectura/",
+   "s": 90
   },
   {
    "type": "heading",
