@@ -4,6 +4,7 @@
 // El menú de cada página sale de src/data/menus.json, como en WordPress.
 import menusData from '../data/menus.json';
 import site from '../data/site.json';
+import diseno from '../data/diseno.json';
 import { ajustarMenu } from '../lib/paises.mjs';
 import { sinIndexar } from '../lib/indexar';
 
@@ -17,7 +18,7 @@ const clase = (i: any) => [i.url === ruta ? 'actual' : '', i.url === '/contacto/
 const flecha = '<svg class="flecha" viewBox="0 0 10 10" aria-hidden="true"><path d="M1 3.5 5 7.5 9 3.5" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>';
 ---
 <div class="barra">
-  <div class="contenedor"><a href={`mailto:${site.correo}`}>{site.correo}</a></div>
+  <div class="contenedor"><span class="barra-lema">{diseno.lema}</span><a href={`mailto:${site.correo}`}>{site.correo}</a></div>
 </div>
 <header class="cabecera">
   <div class="contenedor">

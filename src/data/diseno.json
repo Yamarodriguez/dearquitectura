@@ -1,0 +1,16 @@
+{
+  "_nota": "Textos nuevos del diseño 2 (19-11-2026, estructura de casascontenedores.es con los colores de la web). No son contenido de WordPress: salen fuera del <main>. Las frases de las fichas son las de las tarjetas de servicios (textos-tarjetas.json). Sin precios, plazos ni promesas.",
+  "lema": "Estudio de arquitectura e interiorismo · Renders, planos y modelado",
+  "cierre": {
+    "antetitulo": "Contacto",
+    "titulo": "¿Tienes un proyecto de arquitectura?",
+    "texto": "Cuéntanos qué necesitas —renders, planos, modelado o el proyecto completo— y te respondemos por correo.",
+    "boton": { "texto": "Contactar", "url": "/contacto/" },
+    "boton2": "Escribir un correo",
+    "fichas": [
+      ["Renders", "Tu proyecto antes de construirlo"],
+      ["Planos", "Claros y a escala"],
+      ["Modelado", "Edificios y viviendas a partir de tus planos"]
+    ]
+  }
+}

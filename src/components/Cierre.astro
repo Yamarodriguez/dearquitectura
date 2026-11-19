@@ -1,0 +1,23 @@
+---
+// Banda final de contacto (diseño 2, 19-11-2026), antes del pie y fuera del <main>.
+// Textos en src/data/diseno.json. No sale en Contacto, legales, 404 ni «gracias».
+import diseno from '../data/diseno.json';
+import site from '../data/site.json';
+const c = diseno.cierre;
+---
+<section class="cierre" aria-label={c.antetitulo}>
+  <div class="contenedor">
+    <div class="cierre-texto">
+      <p class="cierre-antetitulo">{c.antetitulo}</p>
+      <p class="cierre-titulo">{c.titulo}</p>
+      <p class="cierre-sub">{c.texto}</p>
+      <div class="cierre-botones">
+        <a class="cierre-boton" href={c.boton.url}>{c.boton.texto} →</a>
+        <a class="cierre-boton cierre-boton--s" href={`mailto:${site.correo}`}>{c.boton2}</a>
+      </div>
+    </div>
+    <ul class="cierre-fichas">
+      {c.fichas.map(([k, v]) => <li><span class="k">{k}</span><span class="v">{v}</span></li>)}
+    </ul>
+  </div>
+</section>

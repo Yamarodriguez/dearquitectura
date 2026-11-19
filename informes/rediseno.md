@@ -71,3 +71,20 @@ CLS sigue en 0. Los estilos pasan de unos 600 KB más el fichero de cada página
 
 ## Comprobaciones
 `npm run todo` y `todo:visual`, a 0.
+
+## Diseño 2: estructura de casascontenedores.es (19-11-2026, en la rama `diseno-v2`, sin aprobar)
+Yama: «mira casascontenedores.es, más que nada la estructura del diseño, y armar un diseño similar pero con los colores de esta web y sabiendo que es de arquitectura».
+- **Qué se copia de la estructura:**
+  - Página en una hoja blanca centrada sobre fondo piedra.
+  - Barra superior oscura con lema (izquierda) y correo (derecha), en letra de máquina.
+  - Cabecera fija con la página actual subrayada y «Contacto» como botón terracota.
+  - Primera sección de cada página en banda oscura (las migas van dentro).
+  - Secciones de foto + texto en recuadro piedra con borde (como sus bloques «¿Cómo se construye…?»).
+  - Banda final de contacto a todo el ancho, con botones y tres fichas.
+  - Pie más oscuro con títulos pequeños en mayúsculas.
+- **Toque de arquitectura:** cuadrícula de plano en la banda oscura y en la de contacto, y una regla de escala (rayitas cada 10 y cada 50) al pie de las dos.
+- **Colores:** los de la web (tinta, piedra, terracota), sin el verde de casascontenedores.
+- **Textos nuevos (src/data/diseno.json), fuera del contenido:** el lema de la barra y la banda final («¿Tienes un proyecto de arquitectura?», botones Contactar y Escribir un correo; las fichas reutilizan frases de las tarjetas de servicios). Sin precios, plazos ni promesas. La banda no sale en Contacto ni en legales.
+- **No cambia:** textos, fotos, enlaces, títulos, descripciones, direcciones ni la colocación de Elementor.
+- Imágenes: `capturas/diseno2-portada.png`, `diseno2-bizantina.png`, `diseno2-bandas.png`, `diseno2-final.png`.
+- `npm run todo` y `todo:visual`: a 0.

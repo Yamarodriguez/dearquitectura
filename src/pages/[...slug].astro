@@ -60,6 +60,7 @@ const datos = [...servicio, ...articulo, ...faqJsonLd(faqDe(data.blocks, data.sl
   indexar={!seo.noindex && !sinIndexar.has(data.slug)}
   datos={datos}
   actualizada={esArticulo ? iso(data.modificada_gmt) : undefined}
+  cierre={!data.legal && data.slug !== 'contacto'}
 >
   {data.h1_es_titulo && <h1 class="h1-titulo">{data.title}</h1>}
   {data.legal ? (
