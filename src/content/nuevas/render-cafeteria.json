@@ -146,7 +146,7 @@
    "items": [
     {
      "title": "¿Qué es un render de Cafeterías y cómo se realizan?",
-     "html": "<div id=\"cc-m-9791684519\" class=\"j-module n j-text \"><p data-start=\"5254\" data-end=\"5799\">Un <strong data-start=\"5257\" data-end=\"5275\">render de cafetería</strong> es una representación digital fotorrealista de un proyecto arquitectónico, creada mediante <strong data-start=\"5367\" data-end=\"5394\">software de modelado 3D</strong>, <strong data-start=\"5396\" data-end=\"5419\">renderizado digital</strong> y <strong data-start=\"5422\" data-end=\"5446\">texturizado avanzado</strong>. Este servicio permite visualizar el <strong data-start=\"5484\" data-end=\"5509\">diseño arquitectónico</strong>, los <strong data-start=\"5515\" data-end=\"5528\">planos 2D</strong> y <strong data-start=\"5531\" data-end=\"5544\">planos 3D</strong> del proyecto, facilitando la comunicación entre arquitectos, diseñadores y clientes.</p><p>El proceso para realizar un render de Cafeterías incluye:</p><ol><li><strong>Modelado 3D:</strong> Creación del modelo tridimensional de la estructura arquitectónica y su entorno.</li><li><strong>Texturizado:</strong> Aplicación de materiales como vidrio, concreto, ladrillo, y detalles como vegetación o mobiliario urbano.</li><li><strong>Iluminación:</strong> Configuración de luz natural o artificial para simular el aspecto diurno, nocturno o en diferentes condiciones climáticas.</li><li><strong>Renderizado:</strong> Generación de imágenes de alta calidad utilizando motores de render especializados.</li><li><strong>Postproducción:</strong> Refinamiento de la imagen en software de edición para ajustar colores, contrastes y efectos especiales.</li></ol></div>"
+     "html": "<p>Un <strong>render de cafetería</strong> es una imagen fotorrealista, hecha por ordenador, de cómo será un local de hostelería antes de abrirlo: la barra, la sala, las mesas, la iluminación y, si se quiere, la fachada o la terraza. Permite ver el ambiente del negocio y comprobar la distribución sobre los planos antes de encargar muebles o empezar la obra. Se realiza así:</p><ul><li><strong>Modelado 3D</strong>: se levanta el local a partir de los planos, con la barra, la cocina vista, los asientos y los aseos.</li><li><strong>Materiales</strong>: madera, azulejo, mármol, metal o tapicerías, según el estilo del local.</li><li><strong>Iluminación</strong>: la luz que entra por el escaparate y las lámparas sobre la barra y las mesas, de día o de noche.</li><li><strong>Ambientación</strong>: vajilla, carta, plantas y algún cliente para que el espacio parezca vivo.</li><li><strong>Renderizado y postproducción</strong>: cálculo de la imagen final y ajuste de color y contraste.</li></ul>"
     }
    ],
    "s": 30
@@ -156,39 +156,39 @@
    "items": [
     {
      "title": "¿Qué programas se utilizan para realizar renders de Cafeterías?",
-     "html": "<p>Para crear renders de Cafeterías, los profesionales emplean herramientas avanzadas de modelado y renderizado. Algunos de los programas más comunes son:</p><ol><li><strong>SketchUp:</strong> Popular por su facilidad de uso para modelado arquitectónico inicial.</li><li><strong>3ds Max:</strong> Ideal para proyectos complejos con gran detalle en texturizado y animaciones.</li><li><strong>Revit:</strong> Especializado en arquitectura e ingeniería, permite trabajar con modelos BIM.</li><li><strong>Lumion:</strong> Excelente para renders rápidos, con efectos de paisajismo y ambientes realistas.</li><li><strong>Blender:</strong> Alternativa gratuita y versátil para modelado y renderizado de alta calidad.</li><li><strong>V-Ray:</strong> Motor de render avanzado para obtener resultados fotorrealistas integrados con otros programas como SketchUp, Revit o 3ds Max.</li><li><strong>Unreal Engine:</strong> Perfecto para recorridos interactivos y renders en tiempo real.</li><li><strong>Corona Renderer:</strong> Reconocido por su facilidad de uso y resultados altamente realistas.</li></ol>"
+     "html": "<p>Un <strong>render de cafetería</strong> combina un programa para modelar el local y otro para dar luz y materiales. Los más utilizados son:</p><ul><li><strong>SketchUp</strong>: rápido para levantar la sala, la barra y el mobiliario a partir de los planos.</li><li><strong>Revit</strong>: útil cuando el local forma parte de un proyecto BIM con instalaciones y medidas exactas.</li><li><strong>3ds Max</strong>: muy completo para modelar sillas, lámparas y piezas de diseño con mucho detalle.</li><li><strong>V-Ray</strong> y <strong>Corona</strong>: motores de render que reproducen bien la luz cálida y los reflejos de la madera, el vidrio o el metal.</li><li><strong>Enscape</strong> y <strong>Twinmotion</strong>: permiten ver el ambiente casi al instante y probar cambios con el cliente.</li><li><strong>Blender</strong>: alternativa gratuita para modelar y renderizar con buena calidad.</li></ul>"
     },
     {
      "title": "¿Por qué usar renders de Cafeterías?",
-     "html": "<p>Los renders de Cafeterías son herramientas clave por varias razones:</p><ol><li><strong>Visualización realista:</strong> Ayudan a clientes y desarrolladores a imaginar cómo se verá el Cafetería en su entorno.</li><li><strong>Toma de decisiones:</strong> Facilitan la selección de materiales, colores y acabados antes de construir.</li><li><strong>Marketing inmobiliario:</strong> Ofrecen imágenes impactantes que incrementan las ventas y la presentación de proyectos.</li><li><strong>Optimización del diseño:</strong> Permiten detectar posibles errores o inconsistencias antes de iniciar la obra.</li><li><strong>Impacto en presentaciones:</strong> Aumentan la profesionalidad en presentaciones comerciales y licitaciones.</li></ol>"
+     "html": "<p>En hostelería, el ambiente forma parte del producto. Los <strong>renders de cafeterías</strong> sirven para:</p><ul><li><strong>Ver el local terminado</strong>: cómo se sentirá un cliente al entrar, antes de gastar en mobiliario.</li><li><strong>Elegir acabados</strong>: probar suelos, revestimientos de barra y lámparas hasta dar con el estilo.</li><li><strong>Ajustar la sala</strong>: comprobar pasillos, número de mesas y el paso del personal.</li><li><strong>Convencer a socios o a la franquicia</strong>: con una imagen clara, el proyecto se aprueba antes.</li><li><strong>Anunciar la apertura</strong>: imágenes para redes sociales y carteles mientras dura la obra.</li></ul>"
     },
     {
      "title": "¿Por qué es Importante Tener un Render de Cafetería?",
-     "html": "<p data-start=\"5862\" data-end=\"6531\">Contar con un <strong data-start=\"5876\" data-end=\"5894\">render de cafetería</strong> es crucial para comunicar la visión del proyecto de manera clara y precisa. Permite visualizar el <strong data-start=\"5993\" data-end=\"6018\">diseño arquitectónico</strong>, las <strong data-start=\"6024\" data-end=\"6049\">ideas de construcción</strong>, la distribución en los <strong data-start=\"6074\" data-end=\"6095\">planos interiores</strong> y <strong data-start=\"6098\" data-end=\"6112\">exteriores</strong> en <strong data-start=\"6116\" data-end=\"6122\">2D</strong> y <strong data-start=\"6125\" data-end=\"6131\">3D</strong>, y detectar posibles mejoras desde las primeras etapas. Además, un render bien realizado potencia el <strong data-start=\"6233\" data-end=\"6259\">marketing inmobiliario</strong> y la <strong data-start=\"6265\" data-end=\"6287\">venta de proyectos</strong>.</p>"
+     "html": "<p>Abrir una cafetería supone muchas decisiones que luego cuesta cambiar: dónde va la barra, cuántas mesas caben o qué luz tendrá la sala. Un <strong>render de cafetería</strong> pone todo eso delante antes de invertir, ayuda a que el <strong>interiorismo</strong> transmita la identidad del negocio y aporta <strong>imágenes de calidad</strong> para dar a conocer el local desde el primer día.</p>"
     },
     {
      "title": "¿Cuánto Cuesta un Render de Cafetería?",
-     "html": "<p data-start=\"6580\" data-end=\"7197\">El <strong data-start=\"6583\" data-end=\"6613\">costo de un render de cafetería</strong> depende de la <strong data-start=\"6628\" data-end=\"6656\">complejidad del proyecto</strong>, el <strong data-start=\"6661\" data-end=\"6681\">nivel de detalle</strong> requerido y el <strong data-start=\"6697\" data-end=\"6722\">tiempo de renderizado</strong>. Además, el precio puede variar si se incluyen <strong data-start=\"6770\" data-end=\"6786\">planos en 2D</strong> y <strong data-start=\"6789\" data-end=\"6805\">planos en 3D</strong> detallados, junto con el render. Los precios se adaptan a <strong data-start=\"6864\" data-end=\"6895\">presupuestos personalizados</strong>, desde <strong data-start=\"6903\" data-end=\"6925\">renders económicos</strong> para proyectos simples hasta <strong data-start=\"6955\" data-end=\"6974\">renders premium</strong> para un alto fotorrealismo.</p>"
+     "html": "<p>El precio de un <strong>render de cafetería</strong> depende del tamaño del local, de cuántos espacios se muestran (sala, barra, terraza, fachada), del número de vistas y del grado de detalle del mobiliario y la decoración. También influye si hay que dibujar antes los <strong>planos</strong>. Cada encargo lleva un <strong>presupuesto personalizado</strong>, desde una sola vista de la sala hasta una serie completa para presentar el proyecto.</p>"
     },
     {
      "title": "¿Qué Necesito para Tener un Render de Cafetería?",
-     "html": "<p data-start=\"7256\" data-end=\"7948\">Para obtener un <strong data-start=\"7272\" data-end=\"7290\">render de cafetería</strong> de alta calidad, es fundamental contar con <strong data-start=\"7334\" data-end=\"7355\">planos detallados</strong>, <strong data-start=\"7357\" data-end=\"7384\">diseños arquitectónicos</strong> y referencias visuales de <strong data-start=\"7411\" data-end=\"7421\">estilo</strong> y <strong data-start=\"7424\" data-end=\"7436\">acabados</strong>. Además, se deben desarrollar <strong data-start=\"7467\" data-end=\"7488\">planos interiores</strong> y <strong data-start=\"7491\" data-end=\"7505\">exteriores</strong> en <strong data-start=\"7509\" data-end=\"7515\">2D</strong> y <strong data-start=\"7518\" data-end=\"7524\">3D</strong>, que complementen la visualización digital. La colaboración con un equipo profesional de <strong data-start=\"7614\" data-end=\"7629\">modelado 3D</strong> y <strong data-start=\"7632\" data-end=\"7655\">renderizado digital</strong> garantiza resultados que cumplan con las expectativas de <strong data-start=\"7713\" data-end=\"7725\">realismo</strong> y <strong data-start=\"7728\" data-end=\"7741\">precisión</strong>.</p>"
+     "html": "<p>Para empezar hacen falta los <strong>planos del local</strong> (planta con la barra y las mesas, alzados interiores y, si se va a mostrar, el de la fachada), unas <strong>referencias de estilo</strong> con fotos de cafeterías que te gusten y la lista de <strong>materiales y colores</strong> previstos. Si ya tienes logotipo o carta, conviene enviarlos para ambientar la imagen con la identidad del negocio.</p>"
     },
     {
      "title": "¿Cuánto Tiempo se Tarda en Hacer un Render de Cafetería?",
-     "html": "<p>El <strong data-start=\"8018\" data-end=\"8064\">tiempo de realización de un render de cafetería</strong> varía según la <strong data-start=\"8080\" data-end=\"8108\">complejidad del proyecto</strong> y el <strong data-start=\"8114\" data-end=\"8134\">nivel de detalle</strong> requerido. Proyectos simples pueden completarse en <strong data-start=\"8186\" data-end=\"8200\">pocos días</strong>, mientras que aquellos que incluyen <strong data-start=\"8237\" data-end=\"8258\">planos interiores</strong> y <strong data-start=\"8261\" data-end=\"8275\">exteriores</strong> en <strong data-start=\"8279\" data-end=\"8285\">2D</strong> y <strong data-start=\"8288\" data-end=\"8294\">3D</strong> pueden requerir <strong data-start=\"8311\" data-end=\"8329\">varias semanas</strong> para alcanzar un resultado <strong data-start=\"8357\" data-end=\"8374\">fotorrealista</strong> y <strong data-start=\"8377\" data-end=\"8396\">de alta calidad</strong>.</p>"
+     "html": "<p>Depende de la superficie del local y de cuántas vistas se encarguen. Una imagen de la sala con mobiliario sencillo puede estar lista en <strong>pocos días</strong>; un restaurante con varias zonas, terraza, fachada y vistas de día y de noche puede llevar <strong>varias semanas</strong> hasta llegar al acabado fotorrealista.</p>"
     },
     {
      "title": "Tipos de renderizado de Cafeterías",
-     "html": "<ol><li><strong>Render estático:</strong> Imágenes fijas de alta calidad que destacan el diseño arquitectónico y el entorno.</li><li><strong>Render animado:</strong> Videos que muestran recorridos virtuales o cambios a lo largo del tiempo, como iluminación diurna y nocturna.</li><li><strong>Render interactivo:</strong> Herramientas que permiten al usuario explorar el Cafetería en 3D desde diferentes ángulos y perspectivas.</li><li><strong>Render aéreo:</strong> Vista panorámica o de drones que muestra el Cafetería en su contexto urbano.</li><li><strong>Render de detalle:</strong> Enfocado en acabados específicos, como fachadas, interiores o texturas.</li></ol>"
+     "html": "<p>Para una cafetería o un restaurante, los encargos más habituales son:</p><ul><li><strong>Vista de la sala</strong>: el ambiente general con mesas, asientos e iluminación.</li><li><strong>Vista de la barra</strong>: el mostrador, la cafetera, las vitrinas y la zona de trabajo.</li><li><strong>Fachada y escaparate</strong>: cómo se verá el local desde la acera, con su rótulo.</li><li><strong>Terraza</strong>: mesas exteriores, toldos y plantas.</li><li><strong>Render nocturno</strong>: el local con las luces encendidas para la cena.</li><li><strong>Vídeo o 360°</strong>: un recorrido desde la puerta hasta el fondo de la sala.</li></ul>"
     },
     {
      "title": "Ventajas de usar renders en proyectos para Cafeterías",
-     "html": "<ol><li><strong>Reducción de costos:</strong> Elimina la necesidad de maquetas físicas o sesiones fotográficas costosas.</li><li><strong>Flexibilidad:</strong> Permite probar múltiples diseños, configuraciones y materiales sin gastos adicionales.</li><li><strong>Impacto visual:</strong> Genera imágenes impresionantes que cautivan a clientes y partes interesadas.</li><li><strong>Comunicación efectiva:</strong> Mejora la comprensión entre arquitectos, diseñadores y clientes.</li><li><strong>Aumento de ventas:</strong> Incrementa el interés en proyectos inmobiliarios al mostrar un producto atractivo y profesional.</li></ol>"
+     "html": "<ul><li><strong>Menos imprevistos</strong>: los fallos de distribución se ven en pantalla y no cuando el local ya está montado.</li><li><strong>Probar alternativas</strong>: cambiar una lámpara o el color de la barra se hace en el modelo, no en el local.</li><li><strong>Identidad clara</strong>: el estilo queda definido para proveedores e instaladores.</li><li><strong>Ahorro en fotografía</strong>: hay imágenes para promocionar el negocio sin esperar a la apertura.</li><li><strong>Mejor presentación</strong> ante socios, inversores o franquicias.</li></ul>"
     },
     {
      "title": "Contratar servicios de renders de Cafeterías online: una guía para clientes",
-     "html": "<ol><li><strong>Investiga el portafolio:</strong> Busca estudios o profesionales con experiencia en renders de Cafeterías similares a tu proyecto.</li><li><strong>Define tus necesidades:</strong> Especifica el nivel de detalle, estilo y plazos que requieres.</li><li><strong>Solicita referencias:</strong> Lee opiniones o casos de éxito de clientes anteriores.</li><li><strong>Presupuesto claro:</strong> Asegúrate de que el costo incluye revisiones y postproducción.</li><li><strong>Comunicación continua:</strong> Trabaja de la mano con el profesional para garantizar que el resultado final cumpla tus expectativas.</li></ol><p>Los renders de Cafeterías online son una solución práctica y eficiente para visualizar proyectos arquitectónicos de forma profesional, rápida y accesible.</p>"
+     "html": "<p>Si vas a encargar <strong>renders de cafeterías online</strong>, estos pasos te ayudarán:</p><ul><li><strong>Mira trabajos anteriores</strong>: comprueba que el estudio ha hecho locales de hostelería o comercios parecidos al tuyo.</li><li><strong>Decide qué quieres enseñar</strong>: sala, barra, terraza, fachada o una vista nocturna.</li><li><strong>Comparte tu idea</strong>: estilo, ambiente, colores de marca y fotos de referencia.</li><li><strong>Pide un presupuesto cerrado</strong> que indique número de vistas, revisiones y plazos.</li><li><strong>Revisa las pruebas</strong> antes de la imagen final y pide los ajustes a tiempo.</li></ul><p>Así tendrás tu local en imágenes sin moverte de casa y con margen para preparar la apertura.</p>"
     }
    ],
    "s": 30
@@ -201,9 +201,10 @@
   },
   {
    "type": "text",
-   "text": "Los tipos de renders en el campo de la arquitectura y el diseño abarcan diversas técnicas para crear representaciones visuales. Entre los más comunes se encuentran, render de alta calidad renderizado en 4K y rendrings en 8K (UHD)",
-   "html": "<p>Los tipos de renders en el campo de la arquitectura y el diseño abarcan diversas técnicas para crear representaciones visuales. Entre los más comunes se encuentran, <strong>render de alta calidad</strong> <strong>renderizado en 4K y rendrings en 8K</strong> (UHD)</p>",
-   "s": 33
+   "text": "Además de la sala, una cafetería suele necesitar otras imágenes: renders de locales comerciales para el escaparate, vistas nocturnas con la luz de la cena, renders de fachadas con el rótulo y, para la carta o las redes, imágenes de producto . Descubre más modalidades de render.",
+   "html": "<p>Además de la sala, una cafetería suele necesitar otras imágenes: <strong>renders de locales comerciales</strong> para el escaparate, vistas <strong>nocturnas</strong> con la luz de la cena, <strong>renders de fachadas</strong> con el rótulo y, para la carta o las redes, imágenes de <strong>producto</strong>. Descubre más modalidades de render.</p>",
+   "s": 33,
+   "texto_propio": true
   },
   {
    "type": "image",
@@ -605,9 +606,10 @@
   },
   {
    "type": "text",
-   "text": "Los renders de arquitectura son herramientas indispensables que permiten visualizar y presentar proyectos de manera atractiva y efectiva. Ofrecen una vista previa detallada y realista que facilita la toma de decisiones y la promoción de diseños arquitectónicos.",
-   "html": "<p>Los <strong>renders de arquitectura</strong> son<strong> herramientas</strong> indispensables que permiten <strong>visualizar y presentar proyectos</strong> de manera atractiva y efectiva. Ofrecen una <strong>vista previa detallada y realista</strong> que facilita la toma de decisiones y la <strong>promoción de diseños arquitectónicos</strong>.</p>",
-   "s": 47
+   "text": "En el proyecto de una cafetería, el render de arquitectura explica cómo se ordena el local: dónde queda la entrada, cómo se reparte la sala y qué relación tiene con la calle. Es la imagen que mejor ayuda a tomar decisiones sobre el espacio.",
+   "html": "<p>En el proyecto de una cafetería, el <strong>render de arquitectura</strong> explica cómo se ordena el local: dónde queda la entrada, cómo se reparte la sala y qué relación tiene con la calle. Es la imagen que mejor ayuda a <strong>tomar decisiones</strong> sobre el espacio.</p>",
+   "s": 47,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -634,9 +636,10 @@
   },
   {
    "type": "text",
-   "text": "El render de interiores es una técnica que permite crear representaciones visuales realistas y detalladas de los espacios internos de una construcción. muestra con precisión los elementos decorativos, la distribución del mobiliario, la iluminación y los acabados internos.",
-   "html": "<p>El <strong>render de interiores</strong> es una <strong>técnica que permite crear representaciones visuales realistas y detalladas de los espacios internos de una construcción</strong>. muestra con precisión los elementos <strong>decorativos</strong>, la <strong>distribución</strong> del <strong>mobiliario</strong>, la<strong> iluminación y los acabados internos.</strong></p>",
-   "s": 47
+   "text": "El render de interiores es el corazón de un proyecto de hostelería: muestra la barra , las mesas, las lámparas, los revestimientos y hasta la vajilla. Permite ajustar el ambiente de la cafetería, cálido, nórdico o industrial, antes de comprar un solo mueble.",
+   "html": "<p>El <strong>render de interiores</strong> es el corazón de un proyecto de hostelería: muestra la <strong>barra</strong>, las mesas, las lámparas, los revestimientos y hasta la vajilla. Permite ajustar el <strong>ambiente</strong> de la cafetería, cálido, nórdico o industrial, antes de comprar un solo mueble.</p>",
+   "s": 47,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -664,9 +667,10 @@
   },
   {
    "type": "text",
-   "text": "Los renders online ofrecen una manera efectiva y eficiente de visualizar proyectos arquitectónicos antes de que se materialicen. Utilizando software avanzado de modelado 3D y renderizado, los profesionales pueden transformar planos y conceptos en imágenes...",
-   "html": "<p>Los <strong>renders online</strong> ofrecen una manera efectiva y eficiente de <strong>visualizar proyectos arquitectónicos antes de que se materialicen</strong>. Utilizando <strong>software avanzado de modelado 3D y renderizad</strong>o, los profesionales pueden transformar <strong>planos</strong> y conceptos en imágenes...</p>",
-   "s": 47
+   "text": "Un render de cafetería online se encarga a distancia: envías los planos del local, fotos de su estado actual y tus referencias, y recibes las vistas para revisarlas. Así preparas la apertura sin reuniones presenciales, vivas donde vivas.",
+   "html": "<p>Un <strong>render de cafetería online</strong> se encarga a distancia: envías los planos del local, fotos de su estado actual y tus referencias, y recibes las vistas para revisarlas. Así preparas la apertura sin reuniones presenciales, vivas donde vivas.</p>",
+   "s": 47,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -683,9 +687,10 @@
   },
   {
    "type": "text",
-   "text": "¡Descubre nuestros servicios de renders y arquitectura! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.",
-   "html": "<p>¡Descubre nuestros<strong> servicios de renders y arquitectura</strong>! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.</p>",
-   "s": 48
+   "text": "¡Descubre nuestros servicios de render para cafeterías y restaurantes! Sala, barra, terraza y fachada. Contáctanos y analizamos tu local.",
+   "html": "<p>¡Descubre nuestros <strong>servicios de render para cafeterías</strong> y restaurantes! Sala, barra, terraza y fachada. Contáctanos y analizamos tu local.</p>",
+   "s": 48,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -712,9 +717,10 @@
   },
   {
    "type": "text",
-   "text": "El modelado 3D es el proceso de creación de objetos tridimensionales utilizando software especializado. Permite construir estructuras, paisajes, mobiliario y elementos arquitectónicos con gran detalle y realismo.",
-   "html": "<p>El <strong>modelado 3D</strong> es el proceso de<strong> creación de objetos tridimensionales utilizando software especializado</strong>. Permite construir <strong>estructuras</strong>, <strong>paisajes</strong>, <strong>mobiliario</strong> y <strong>elementos arquitectónicos</strong> con gran <strong>detalle</strong> y <strong>realismo</strong>. </p>",
-   "s": 49
+   "text": "El modelado 3D de una cafetería reproduce el local con sus medidas reales: muros, pilares, escaparate, la barra y cada silla y mesa. Un buen modelo permite cambiar el mobiliario y la distribución con facilidad.",
+   "html": "<p>El <strong>modelado 3D</strong> de una cafetería reproduce el local con sus medidas reales: muros, pilares, escaparate, la <strong>barra</strong> y cada silla y mesa. Un buen modelo permite cambiar el mobiliario y la distribución con facilidad.</p>",
+   "s": 49,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -741,9 +747,10 @@
   },
   {
    "type": "text",
-   "text": "Realizamos todo tipo de planos, Plano de situación, Plano de planta, El alzado, Plano de emplazamiento, vista de secciones, perspectiva arquitectónicas, planos de cafeterías y Cafeterías, Ideas, imágenes y decoración",
-   "html": "<p>Realizamos todo tipo de <strong>planos</strong>, <strong>Plano de situación</strong>,&nbsp;<strong>Plano de planta</strong>, <strong>El alzado</strong>,&nbsp; <strong>Plano de emplazamiento</strong>, <strong>vista de secciones</strong>, <strong>perspectiva arquitectónicas</strong>, <strong>planos de cafeterías y Cafeterías</strong>,&nbsp; Ideas, imágenes y <strong>decoración&nbsp;</strong></p>",
-   "s": 49
+   "text": "Para un local de hostelería se trabaja con la planta de distribución (barra, cocina, mesas y aseos), los alzados interiores de la barra y las paredes, el plano de techos e iluminación y el alzado de la fachada. Si no tienes planos, empezamos por ellos.",
+   "html": "<p>Para un local de hostelería se trabaja con la <strong>planta de distribución</strong> (barra, cocina, mesas y aseos), los <strong>alzados interiores</strong> de la barra y las paredes, el plano de <strong>techos e iluminación</strong> y el alzado de la fachada. Si no tienes planos, empezamos por ellos.</p>",
+   "s": 49,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -770,9 +777,10 @@
   },
   {
    "type": "text",
-   "text": "El Home Staging Virtual es una técnica para transformar digitalmente espacios inmobiliarios. Esta estrategia ofrece una visión realista y atractiva de un inmueble, facilitando la venta o alquiler para los posibles compradores o inquilinos.",
-   "html": "<p>El <strong>Home Staging Virtual</strong> es una <strong>técnica para transformar digitalmente espacios inmobiliarios</strong>. Esta estrategia ofrece una<strong> visión realista y atractiva de un inmueble</strong>, facilitando la venta o alquiler para los posibles compradores o inquilinos.</p>",
-   "s": 49
+   "text": "Si el local ya existe pero está vacío, el home staging virtual lo amuebla en imagen como una cafetería en marcha. Ayuda a alquilar o traspasar un local comercial, porque quien lo ve imagina enseguida su negocio dentro.",
+   "html": "<p>Si el local ya existe pero está vacío, el <strong>home staging virtual</strong> lo amuebla en imagen como una cafetería en marcha. Ayuda a <strong>alquilar o traspasar</strong> un local comercial, porque quien lo ve imagina enseguida su negocio dentro.</p>",
+   "s": 49,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -799,9 +807,10 @@
   },
   {
    "type": "text",
-   "text": "Realidad Virtual (RV) entornos interactivos, experiencia inmersiva. Ofrece recorridos virtuales, permitiendo a los clientes explorar e interactuar y experimentar la sensación de estar dentro de un entorno antes de su construcción.",
-   "html": "<p><strong>Realidad Virtual (RV)</strong> <strong>entornos interactivos, experiencia inmersiva.</strong> Ofrece <strong>recorridos virtuales</strong>, permitiendo a los clientes explorar e interactuar y experimentar la sensación de estar dentro de un entorno antes de su construcción.</p>",
-   "s": 49
+   "text": "Con unas gafas de realidad virtual puedes ponerte detrás de la barra o sentarte en una mesa del local antes de que exista. Es una forma muy directa de comprobar espacios y alturas y de enseñar el proyecto a tus socios.",
+   "html": "<p>Con unas <strong>gafas de realidad virtual</strong> puedes ponerte detrás de la barra o sentarte en una mesa del local antes de que exista. Es una forma muy directa de comprobar <strong>espacios y alturas</strong> y de enseñar el proyecto a tus socios.</p>",
+   "s": 49,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -887,9 +896,10 @@
   },
   {
    "type": "text",
-   "text": "Ya sea que busques a un renderista o arquitectos renderistas, aparejadores o arquitectos técnicos, estamos aquí para ofrecerte respuestas a tus problemas o dudas de diseño. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus proyectos y consultas relacionadas con la arquitectura.",
-   "html": "<p>Ya sea que busques a un <strong>renderista</strong> o <strong>arquitectos renderistas</strong>, <strong>aparejadores</strong> o <strong>arquitectos técnicos</strong>, estamos aquí para ofrecerte respuestas a tus problemas o dudas <strong>de diseño</strong>. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus <strong>proyectos y consultas relacionadas con la arquitectura</strong>.</p>",
-   "s": 53
+   "text": "Un renderista de cafeterías no solo maneja programas: entiende cómo funciona un local de hostelería, cómo se mueve el personal tras la barra y qué iluminación hace acogedora una sala. Si buscas a alguien que convierta los planos de tu negocio en imágenes realistas , cuéntanos tu idea y lo vemos juntos.",
+   "html": "<p>Un <strong>renderista de cafeterías</strong> no solo maneja programas: entiende cómo funciona un local de hostelería, cómo se mueve el personal tras la barra y qué <strong>iluminación</strong> hace acogedora una sala. Si buscas a alguien que convierta los planos de tu negocio en <strong>imágenes realistas</strong>, cuéntanos tu idea y lo vemos juntos.</p>",
+   "s": 53,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -916,9 +926,10 @@
   },
   {
    "type": "text",
-   "text": "El renderizado 3D es el proceso de transformar modelos tridimensionales en imágenes bidimensionales o videos. Utiliza la iluminación, texturas y cámaras virtuales para crear representaciones visuales realistas y detalladas de diseños arquitectónicos. Esta técnica ofrece una vista final de cómo se verá un proyecto una vez construido, mostrando detalles, texturas y efectos visuales para una presentación impactante y precisa.",
-   "html": "<p>El renderizado 3D es el proceso de transformar modelos tridimensionales en imágenes bidimensionales o videos. Utiliza la iluminación, texturas y cámaras virtuales para crear representaciones visuales realistas y detalladas de diseños arquitectónicos. Esta técnica ofrece una vista final de cómo se verá un proyecto una vez construido, mostrando detalles, texturas y efectos visuales para una presentación impactante y precisa.</p>",
-   "s": 54
+   "text": "Al renderizar una cafetería , el ordenador calcula cómo se reparte la luz por el local: la que entra por el escaparate, la de las lámparas colgadas sobre la barra y los brillos en el vidrio, el metal o la madera barnizada. De ese cálculo depende que la imagen transmita un ambiente cálido y creíble, tanto en una vista de mañana como en una de noche.",
+   "html": "<p>Al <strong>renderizar una cafetería</strong>, el ordenador calcula cómo se reparte la luz por el local: la que entra por el escaparate, la de las lámparas colgadas sobre la barra y los brillos en el vidrio, el metal o la madera barnizada. De ese cálculo depende que la imagen transmita un <strong>ambiente cálido</strong> y creíble, tanto en una vista de mañana como en una de noche.</p>",
+   "s": 54,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -945,9 +956,10 @@
   },
   {
    "type": "text",
-   "text": "Los precios de render varían según el proyecto a realizar. Conoce la tabla de precios renders, para que puedas tener una aproximación de los precio render 3D, precio por render para tu proyecto",
-   "html": "<p>Los&nbsp;<strong>precios de render&nbsp;</strong>varían según el proyecto a realizar. Conoce la <strong>tabla de precios renders, </strong>para que puedas tener una aproximación&nbsp;<strong>de los&nbsp;</strong><strong>precio render 3D, precio por render&nbsp;</strong>para tu proyecto</p>",
-   "s": 55
+   "text": "El precio de un render de cafetería varía con la superficie del local, el número de vistas y el detalle de la decoración. Revisa la tabla de precios de renders y pide después tu presupuesto.",
+   "html": "<p>El <strong>precio de un render de cafetería</strong> varía con la superficie del local, el número de vistas y el detalle de la decoración. Revisa la tabla de precios de renders y pide después tu presupuesto.</p>",
+   "s": 55,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -978,9 +990,10 @@
   },
   {
    "type": "text",
-   "text": "Los videos render son una herramienta versátil y efectiva para comunicar, promocionar y mejorar proyectos, ofreciendo una representación dinámica y detallada que va más allá de las imágenes estáticas. recorridos virtuales. Conoce algunos de nuestros proyectos.",
-   "html": "<p>Los <strong>videos render</strong> son una<strong> herramienta versátil y efectiva</strong> para <strong>comunicar</strong>, <strong>promocionar</strong> y<strong> mejorar proyectos</strong>, ofreciendo una r<strong>epresentación dinámica y detallada</strong> que va más allá de las imágenes estáticas. <strong>recorridos virtuales</strong>. Conoce algunos de nuestros <strong>proyectos</strong>.</p>",
-   "s": 56
+   "text": "Un vídeo render de tu cafetería lleva al espectador desde la puerta hasta la barra y la terraza, como si entrara a tomar algo. Es ideal para anunciar la apertura en redes y para enseñar el local a tus socios. Conoce algunos de nuestros proyectos.",
+   "html": "<p>Un <strong>vídeo render</strong> de tu cafetería lleva al espectador desde la puerta hasta la barra y la terraza, como si entrara a tomar algo. Es ideal para <strong>anunciar la apertura</strong> en redes y para enseñar el local a tus socios. Conoce algunos de nuestros proyectos.</p>",
+   "s": 56,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1007,9 +1020,10 @@
   },
   {
    "type": "text",
-   "text": "Descubre nuestra empresa de renders, donde ofrecemos soluciones avanzadas para estudios de arquitectura, arquitectos y diseñadores. Nuestros equipos multidisciplinarios están preparados para abordar una amplia gama de proyectos arquitectónicos, garantizando resultados precisos y de alta calidad.",
-   "html": "<p>Descubre nuestra <strong>empresa de renders</strong>, donde ofrecemos soluciones avanzadas para <strong>estudios de arquitectura</strong>, <strong>arquitectos</strong> y <strong>diseñadores</strong>. Nuestros <strong>equipos multidisciplinarios</strong> están preparados para abordar una amplia gama de <strong>proyectos arquitectónicos</strong>, garantizando resultados precisos y de alta calidad.</p>",
-   "s": 57
+   "text": "Las empresas de renders que trabajan para hostelería colaboran con interioristas , cadenas, franquicias y propietarios que preparan un local nuevo. Descubre nuestra empresa y cómo abordamos proyectos de cafeterías, bares y restaurantes.",
+   "html": "<p>Las <strong>empresas de renders</strong> que trabajan para hostelería colaboran con <strong>interioristas</strong>, cadenas, franquicias y propietarios que preparan un local nuevo. Descubre nuestra empresa y cómo abordamos proyectos de cafeterías, bares y restaurantes.</p>",
+   "s": 57,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1036,9 +1050,10 @@
   },
   {
    "type": "text",
-   "text": "Nuestros servicios de renders freelance están diseñados para satisfacer las necesidades específicas de cada cliente. Utilizamos la última tecnología para crear visualizaciones 3D detalladas y realistas que reflejan fielmente los diseños arquitectónicos. Trabajamos para todo el mundo y en estrecha colaboración con los estudios para asegurar que cada render cumpla con sus estándares de calidad y precisión.",
-   "html": "<p>Nuestros servicios de<strong> renders freelance</strong> están diseñados para satisfacer las necesidades específicas de cada cliente. Utilizamos la última tecnología para crear <strong>visualizaciones 3D</strong> detalladas y realistas que reflejan fielmente los <strong>diseños arquitectónicos</strong>. Trabajamos para todo el mundo y en estrecha colaboración con los estudios para asegurar que cada render cumpla con sus estándares de calidad y precisión.</p>",
-   "s": 58
+   "text": "Con nuestros renders freelance de cafeterías encargas solo lo que necesitas en cada momento: una vista de la barra para decidir acabados, varias imágenes de la sala para presentar el proyecto o una serie completa para la promoción del local. Trabajamos online, para clientes de cualquier país, y en contacto directo con tu interiorista o tu arquitecto para que cada imagen respete el diseño.",
+   "html": "<p>Con nuestros <strong>renders freelance de cafeterías</strong> encargas solo lo que necesitas en cada momento: una vista de la barra para decidir acabados, varias imágenes de la sala para presentar el proyecto o una serie completa para la promoción del local. Trabajamos online, para clientes de cualquier país, y en contacto directo con tu <strong>interiorista</strong> o tu arquitecto para que cada imagen respete el diseño.</p>",
+   "s": 58,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1065,9 +1080,10 @@
   },
   {
    "type": "text",
-   "text": "Descubre los mejores Cursos Online de renders, donde te mostramos formaciones a distancia en diversas áreas como estructuras, mediciones, instalaciones, dibujo 2D, modelado 3D, fotografía, vídeo y diseño. accede a cursos especializados en urbanismo y paisajismo. Aprende a redactar proyectos de edificación, instrumentos de planeamiento urbanístico y gestión, así como proyectos de urbanización desde cualquier lugar y a tu propio ritmo.",
-   "html": "<p>Descubre los mejores <strong>Cursos Online de renders</strong>, donde te mostramos <strong>formaciones</strong> a distancia en diversas áreas como <strong>estructuras</strong>, <strong>mediciones</strong>, <strong>instalaciones</strong>, <strong>dibujo 2D</strong>, <strong>modelado 3D</strong>, <strong>fotografía</strong>, <strong>vídeo</strong> y <strong>diseño</strong>. accede a <strong>cursos especializados en urbanismo y paisajismo</strong>. Aprende a redactar <strong>proyectos de edificación, instrumentos de planeamiento urbanístico y gestión</strong>, así como <strong>proyectos de urbanización</strong> desde cualquier lugar y a tu propio ritmo.</p>",
-   "s": 59
+   "text": "Si quieres aprender a hacer renders de cafeterías y otros locales, busca formaciones que enseñen iluminación interior , materiales como la madera, el azulejo o el metal y ambientación con mobiliario y objetos. Conviene que incluyan también el manejo de programas como SketchUp, 3ds Max, V-Ray o Enscape y nociones de interiorismo comercial . Descubre la selección de cursos online de renders, para empezar desde cero o para especializarte.",
+   "html": "<p>Si quieres aprender a hacer <strong>renders de cafeterías</strong> y otros locales, busca formaciones que enseñen <strong>iluminación interior</strong>, materiales como la madera, el azulejo o el metal y ambientación con mobiliario y objetos. Conviene que incluyan también el manejo de programas como SketchUp, 3ds Max, V-Ray o Enscape y nociones de <strong>interiorismo comercial</strong>. Descubre la selección de cursos online de renders, para empezar desde cero o para especializarte.</p>",
+   "s": 59,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1100,9 +1116,10 @@
   },
   {
    "type": "text",
-   "text": "¡Descubre nuestros servicios de Studio render y arquitectura! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.",
-   "html": "<p>¡Descubre nuestros<strong> servicios de Studio render y arquitectura</strong>! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.</p>",
-   "s": 61
+   "text": "¿Buscas un render studio que dé imagen a tu cafetería o restaurante? Cuéntanos tu proyecto y te ayudamos.",
+   "html": "<p>¿Buscas un <strong>render studio</strong> que dé imagen a tu cafetería o restaurante? Cuéntanos tu proyecto y te ayudamos.</p>",
+   "s": 61,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1128,9 +1145,10 @@
   },
   {
    "type": "text",
-   "text": "¡Descubre nuestros servicios de render profesional y arquitectura! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.",
-   "html": "<p>¡Descubre nuestros<strong> servicios de render profesional y arquitectura</strong>! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.</p>",
-   "s": 61
+   "text": "¿Necesitas un render profesional de tu cafetería para presentarlo a socios o a la franquicia? Escríbenos y lo estudiamos.",
+   "html": "<p>¿Necesitas un <strong>render profesional</strong> de tu cafetería para presentarlo a socios o a la franquicia? Escríbenos y lo estudiamos.</p>",
+   "s": 61,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1149,9 +1167,10 @@
   },
   {
    "type": "text",
-   "text": "Somos De Arquitectura, estudio de arquitectura e interiorismo que ofrece una plataforma online donde podrás encontrar arquitectos e interioristas profesionales. Nuestros servicios incluyen diseño 3D, renderizado, planificación, anteproyectos, proyectos, reforma y construcción. Además, contamos con un blog donde podrás consultar ideas y noticias arquitectónicas. Nuestro objetivo es brindarte un servicio rápido, personalizado y eficiente, optimizando el tiempo y los recursos de tus proyectos. Estamos a tu disposición para resolver cualquier duda o consulta que tengas. ¡Te damos la bienvenida a Dearquitectura.info!",
-   "html": "<p>Somos <a href=\"https://dearquitectura.info/\"><strong>De Arquitectura</strong></a>, <strong>estudio de arquitectura e interiorismo</strong> que ofrece una <strong>plataforma</strong> online donde podrás encontrar <strong>arquitectos</strong> e <strong>interioristas</strong> profesionales. Nuestros servicios incluyen <strong>diseño 3D, renderizado, planificación, anteproyectos, proyectos, reforma y construcción</strong>. Además, contamos con un blog donde podrás consultar <strong>ideas y noticias arquitectónicas</strong>.</p><p>Nuestro objetivo es brindarte un servicio rápido, personalizado y eficiente, optimizando el tiempo y los recursos de tus proyectos.</p><p>Estamos a tu disposición para resolver cualquier duda o consulta que tengas. ¡Te damos la bienvenida a <strong>Dearquitectura.info</strong>!</p>",
-   "s": 63
+   "text": "Somos De Arquitectura , estudio de arquitectura e interiorismo con una plataforma online para encontrar arquitectos e interioristas. Preparamos renders de cafeterías , bares y restaurantes, junto con los planos del local, el modelado y las vistas de fachada y terraza. En nuestro blog publicamos además ideas y noticias de arquitectura que pueden inspirar tu negocio. Buscamos darte un servicio rápido y personalizado para que llegues a la apertura con las decisiones tomadas. Escríbenos con cualquier duda. ¡Bienvenido a Dearquitectura.info!",
+   "html": "<p>Somos <strong>De Arquitectura</strong>, estudio de arquitectura e interiorismo con una plataforma online para encontrar arquitectos e interioristas. Preparamos <strong>renders de cafeterías</strong>, bares y restaurantes, junto con los <strong>planos</strong> del local, el modelado y las vistas de fachada y terraza. En nuestro blog publicamos además <strong>ideas y noticias</strong> de arquitectura que pueden inspirar tu negocio. Buscamos darte un servicio rápido y personalizado para que llegues a la apertura con las decisiones tomadas. Escríbenos con cualquier duda. ¡Bienvenido a Dearquitectura.info!</p>",
+   "s": 63,
+   "texto_propio": true
   },
   {
    "type": "image",
@@ -1204,9 +1223,10 @@
   },
   {
    "type": "text",
-   "text": "Ya sea que busques arquitectos, aparejadores o arquitectos técnicos, estamos aquí para ofrecerte respuestas a tus problemas o dudas arquitectónicas. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus proyectos y consultas relacionadas con la arquitectura.",
-   "html": "<p>Ya sea que busques <strong>arquitectos</strong>, <strong>aparejadores</strong> o <strong>arquitectos técnicos</strong>, estamos aquí para ofrecerte respuestas a tus problemas o dudas <strong>arquitectónicas</strong>. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus <strong>proyectos y consultas relacionadas con la arquitectura</strong>.</p>",
-   "s": 65
+   "text": "Toda cafetería necesita un proyecto: adaptar el local, cumplir la normativa de hostelería y resolver accesos y aseos. Si buscas arquitectos , aparejadores o arquitectos técnicos para tu local, aquí te orientamos sobre qué profesional necesitas.",
+   "html": "<p>Toda cafetería necesita un proyecto: adaptar el local, cumplir la normativa de hostelería y resolver accesos y aseos. Si buscas <strong>arquitectos</strong>, <strong>aparejadores</strong> o arquitectos técnicos para tu local, aquí te orientamos sobre qué profesional necesitas.</p>",
+   "s": 65,
+   "texto_propio": true
   },
   {
    "type": "text",
@@ -1257,9 +1277,10 @@
   },
   {
    "type": "text",
-   "text": "Sumérgete en el mundo arquitectónico. Mas que una web somos una plataforma de arquitectura, aquí encontraras noticias, servicios, cursos, libros, proyectos y mucho mas, entra en el mundo arquitectónico y sorpréndete de todo lo que se puede lograr.",
-   "html": "<p>Sumérgete en el <strong>mundo arquitectónico</strong>. Mas que una web somos una <strong>plataforma de arquitectura</strong>, aquí encontraras <strong>noticias</strong>, <strong>servicios</strong>, <strong>cursos</strong>, <strong>libros</strong>, <strong>proyectos</strong> y mucho mas, entra en el mundo <strong>arquitectónico</strong> y sorpréndete de todo lo que se puede lograr.</p>",
-   "s": 69
+   "text": "Nuestra plataforma de arquitectura reúne renders, proyectos, estilos de interiorismo , libros y noticias. Un buen sitio para buscar ideas sobre cómo decorar e iluminar una cafetería o un restaurante antes de decidir cómo será el tuyo.",
+   "html": "<p>Nuestra <strong>plataforma de arquitectura</strong> reúne renders, proyectos, <strong>estilos de interiorismo</strong>, libros y noticias. Un buen sitio para buscar ideas sobre cómo decorar e iluminar una cafetería o un restaurante antes de decidir cómo será el tuyo.</p>",
+   "s": 69,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1286,9 +1307,10 @@
   },
   {
    "type": "text",
-   "text": "¿Tienes proyectos, diseños o ideas que ansías hacer realidad? Nuestro estudio de arquitectura e interiorismo está comprometido en ofrecerte soluciones creativas y funcionales. Desde el diseño conceptual hasta la ejecución, nos dedicamos a convertir tus visiones en estructuras concretas. Ponte en contacto con nuestra oficina de arquitectura",
-   "html": "<p>¿Tienes <strong>proyectos</strong>, <strong>diseños</strong> o ideas que ansías hacer realidad? <span style=\"font-size: 20px; letter-spacing: 0.1px; text-align: var(--text-align);\">Nuestro <strong>estudio de arquitectura e interiorismo</strong> está comprometido en ofrecerte <strong>soluciones creativas y funcionales</strong>. Desde el<strong> diseño conceptual</strong> hasta la ejecución, nos dedicamos a convertir tus visiones en <strong>estructuras concretas</strong>. Ponte en contacto con nuestra <strong>oficina de arquitectura</strong></span></p>",
-   "s": 71
+   "text": "¿Estás preparando la apertura de una cafetería o un restaurante y quieres ver cómo quedará? Nuestro estudio de render convierte tus planos y referencias en imágenes realistas de la sala, la barra y la terraza, para que tomes decisiones con seguridad. Ponte en contacto con nuestra oficina y lo hablamos.",
+   "html": "<p>¿Estás preparando la apertura de una cafetería o un restaurante y quieres ver cómo quedará? Nuestro <strong>estudio de render</strong> convierte tus planos y referencias en <strong>imágenes realistas</strong> de la sala, la barra y la terraza, para que tomes decisiones con seguridad. Ponte en contacto con nuestra oficina y lo hablamos.</p>",
+   "s": 71,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1315,9 +1337,10 @@
   },
   {
    "type": "text",
-   "text": "Nos dedicamos a transformar conceptos innovadores en soluciones de diseño impactantes. Agencia de diseño grafico y arquitectura ofrecemos servicios personalizados en identidad visual, diseño gráfico, diseño web y experiencias interactivas.",
-   "html": "<div class=\"flex flex-grow flex-col max-w-full\"><div class=\"min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-2\" dir=\"auto\" data-message-author-role=\"assistant\" data-message-id=\"f8892441-9d0e-4ee7-856e-e762d71b61a4\"><div class=\"flex w-full flex-col gap-1 juice:empty:hidden juice:first:pt-[3px]\"><div class=\"markdown prose w-full break-words dark:prose-invert light\"><div class=\"flex flex-grow flex-col max-w-full\"><div class=\"min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-2\" dir=\"auto\" data-message-author-role=\"assistant\" data-message-id=\"d01259ce-aaa0-4e41-9212-f34eee3bdb37\"><div class=\"flex w-full flex-col gap-1 juice:empty:hidden juice:first:pt-[3px]\"><div class=\"markdown prose w-full break-words dark:prose-invert light\"><p>Nos dedicamos a transformar conceptos innovadores en soluciones de diseño impactantes. <strong>Agencia de diseño grafico y arquitectura</strong> ofrecemos servicios personalizados en <strong>identidad visual, diseño gráfico, diseño web y experiencias interactivas. </strong></p></div></div></div></div></div></div></div></div>",
-   "s": 73
+   "text": "Una cafetería también se reconoce por su imagen. Como agencia de diseño trabajamos la identidad visual , el rótulo, la carta y la web para que el local y la marca hablen el mismo idioma.",
+   "html": "<p>Una cafetería también se reconoce por su imagen. Como <strong>agencia de diseño</strong> trabajamos la <strong>identidad visual</strong>, el rótulo, la carta y la web para que el local y la marca hablen el mismo idioma.</p>",
+   "s": 73,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1343,9 +1366,10 @@
   },
   {
    "type": "text",
-   "text": "¿Buscas construir? ¿tienes dudas? Empresas de construcción, asesoramiento profesional para tus ideas y proyectos",
-   "html": "<p>¿Buscas <strong>construir</strong>? ¿tienes dudas? <strong>Empresas de construcción</strong>, asesoramiento profesional para tus <strong>ideas y proyectos</strong> </p>",
-   "s": 77
+   "text": "¿Vas a construir o adaptar un local para hostelería? Con un render ves el resultado antes de la obra.",
+   "html": "<p>¿Vas a <strong>construir o adaptar un local</strong> para hostelería? Con un render ves el resultado antes de la obra.</p>",
+   "s": 77,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1371,9 +1395,10 @@
   },
   {
    "type": "text",
-   "text": "¿Estas pensando en reformar tu cafetería? Reformistas e interioristas dispuestos a analizar tu reforma. Obtiene asesoramiento ideas y precios.",
-   "html": "<p>¿Estas pensando en<strong> reformar tu cafetería</strong>? <strong>Reformistas</strong> e <strong>interioristas</strong> dispuestos a analizar tu <strong>reforma</strong>. Obtiene asesoramiento<strong> ideas y precios</strong>.</p>",
-   "s": 77
+   "text": "¿Piensas reformar tu cafetería o tu restaurante? Prueba en imagen la nueva barra y los acabados antes de pedir presupuestos.",
+   "html": "<p>¿Piensas <strong>reformar tu cafetería</strong> o tu restaurante? Prueba en imagen la nueva barra y los acabados antes de pedir presupuestos.</p>",
+   "s": 77,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1399,9 +1424,10 @@
   },
   {
    "type": "text",
-   "text": "Diseño arquitectónico. Diferentes propuestas arquitectónicas, siguiendo o proponiendo las nuevas tendencias de interiorismo y diseño arquitectónico.",
-   "html": "<p><strong>Diseño arquitectónico</strong>. Diferentes<strong> propuestas arquitectónicas</strong>, siguiendo o proponiendo las nuevas <strong>tendencias de interiorismo y diseño arquitectónico.</strong> </p>",
-   "s": 77
+   "text": "Diseño arquitectónico para hostelería: propuestas de distribución, barra y ambiente que después cobran vida en el render.",
+   "html": "<p><strong>Diseño arquitectónico</strong> para hostelería: propuestas de distribución, barra y ambiente que después cobran vida en el render.</p>",
+   "s": 77,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1427,9 +1453,10 @@
   },
   {
    "type": "text",
-   "text": "Renueva y Decora: Ideas para reformar y decorar un espacio, estudio de interiorismo por interioristas y decoradores profesionales",
-   "html": "<div class=\"flex-1 overflow-hidden\"><div class=\"react-scroll-to-bottom--css-zxvqf-79elbk h-full\"><div class=\"react-scroll-to-bottom--css-zxvqf-1n7m0yu\"><div class=\"flex flex-col pb-9 text-sm\"><div class=\"w-full text-token-text-primary\" data-testid=\"conversation-turn-259\"><div class=\"px-4 py-2 justify-center text-base md:gap-6 m-auto\"><div class=\"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] } group final-completion\"><div class=\"relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn\"><div class=\"flex-col gap-1 md:gap-3\"><div class=\"flex flex-grow flex-col max-w-full\"><div class=\"min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto\" data-message-author-role=\"assistant\" data-message-id=\"70b9b05a-0240-4569-a475-16d23390c118\"><div class=\"markdown prose w-full break-words dark:prose-invert light\"><p><strong>Renueva y Decora:</strong> <strong>Ideas para reformar y decorar  un espacio</strong>, <strong>estudio de interiorismo</strong> por <strong>interioristas</strong> y <strong>decoradores</strong> profesionales</p></div></div></div></div></div></div></div></div></div></div></div></div>",
-   "s": 77
+   "text": "Interiorismo y decoración de cafeterías: mobiliario, luz y materiales para que el local tenga personalidad propia.",
+   "html": "<p><strong>Interiorismo y decoración</strong> de cafeterías: mobiliario, luz y materiales para que el local tenga personalidad propia.</p>",
+   "s": 77,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1456,9 +1483,10 @@
   },
   {
    "type": "text",
-   "text": "Conoce las mejores empresas que trabajan con nosotros, estudios de arquitectura, arquitectos y diseñadores. Equipos multidisciplinario para dar respuestas a los diferentes tipos de proyectos arquitectónicos",
-   "html": "<p>Conoce las <strong>mejores empresas</strong> que trabajan con nosotros, <strong>estudios de arquitectura</strong>, <strong>arquitectos</strong> y <strong>diseñadores</strong>. <strong>Equipos multidisciplinario</strong> para dar respuestas a los diferentes tipos de <strong>proyectos arquitectónicos</strong></p>",
-   "s": 79
+   "text": "Conoce las empresas de arquitectura e interiorismo con las que trabajamos: equipos que diseñan locales de hostelería y cuyos proyectos de cafeterías llevamos a imagen.",
+   "html": "<p>Conoce las <strong>empresas de arquitectura</strong> e interiorismo con las que trabajamos: equipos que diseñan locales de hostelería y cuyos proyectos de <strong>cafeterías</strong> llevamos a imagen.</p>",
+   "s": 79,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1491,9 +1519,10 @@
   },
   {
    "type": "text",
-   "text": "En nuestro despacho de arquitectura, convertimos tus ideas y emociones en proyectos tangibles. Te guiamos para materializar tu visión en el hogar o espacio que siempre has imaginado. Encargados en Diseñar los espacios, Interiorismos, Dirección de obra, Estudio de viabilidad, Rehabilitaciones, Gestión de proyectos. Planes, presupuesto, Supervisión",
-   "html": "<p>En nuestro <strong>despacho de arquitectura</strong>, convertimos tus ideas y emociones en proyectos tangibles. Te guiamos para materializar tu visión en el hogar o espacio que siempre has imaginado. Encargados en <strong>Diseñar los espacios</strong>, <strong>Interiorismos</strong>, <strong>Dirección de obra</strong>, <strong>Estudio de viabilidad</strong>, <strong>Rehabilitaciones</strong>, <strong>Gestión de proyectos</strong>. <strong>Planes</strong>, <strong>presupuesto</strong>, <strong>Supervisión</strong></p>",
-   "s": 81
+   "text": "En nuestro despacho de arquitectura te ayudamos a dar forma a tu cafetería desde la primera idea: dónde colocar la barra, cuántas mesas caben, qué estilo encaja con tu clientela y qué materiales conviene usar. Diseñamos los espacios y el interiorismo , y estudiamos la viabilidad del local antes de que inviertas. Contáctanos y lo vemos contigo.",
+   "html": "<p>En nuestro <strong>despacho de arquitectura</strong> te ayudamos a dar forma a tu cafetería desde la primera idea: dónde colocar la barra, cuántas mesas caben, qué estilo encaja con tu clientela y qué <strong>materiales</strong> conviene usar. Diseñamos los espacios y el <strong>interiorismo</strong>, y estudiamos la viabilidad del local antes de que inviertas. Contáctanos y lo vemos contigo.</p>",
+   "s": 81,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1526,9 +1555,10 @@
   },
   {
    "type": "text",
-   "text": "¿Eres arquitecto, ingeniero. estudios arquitectónicos o empresa y quieres trabajar con nosotros? Trabajamos freelance y online, Contáctanos y organizaremos una Reunión. Conoce nuestros trabajos dearquitectura.",
-   "html": "<p>¿Eres <strong>arquitecto</strong>, <strong>ingeniero</strong>. <strong>estudios </strong><b>arquitectónicos</b> o<strong> empresa</strong> y quieres <strong>trabajar</strong> con nosotros? <strong>Trabajamos freelance</strong> y <strong>online</strong>, Contáctanos y organizaremos una Reunión. Conoce nuestros <strong>trabajos dearquitectura.</strong></p>",
-   "s": 83
+   "text": "¿Eres renderista , interiorista o arquitecto y tienes experiencia en locales de hostelería ? Trabajamos en remoto con profesionales de cualquier lugar. Escríbenos y quedamos para conocernos.",
+   "html": "<p>¿Eres <strong>renderista</strong>, interiorista o arquitecto y tienes experiencia en <strong>locales de hostelería</strong>? Trabajamos en remoto con profesionales de cualquier lugar. Escríbenos y quedamos para conocernos.</p>",
+   "s": 83,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1555,9 +1585,10 @@
   },
   {
    "type": "text",
-   "text": "Descubre los mejores Cursos Online deArquitectura, donde te mostramos formaciones a distancia en diversas áreas como estructuras, mediciones, instalaciones, dibujo 2D, modelado 3D, fotografía, vídeo y diseño. accede a cursos especializados en urbanismo y paisajismo. Aprende a redactar proyectos de edificación, instrumentos de planeamiento urbanístico y gestión, así como proyectos de urbanización desde cualquier lugar y a tu propio ritmo.",
-   "html": "<p>Descubre los mejores <strong>Cursos Online deArquitectura</strong>, donde te mostramos <strong>formaciones</strong> a distancia en diversas áreas como <strong>estructuras</strong>, <strong>mediciones</strong>, <strong>instalaciones</strong>, <strong>dibujo 2D</strong>, <strong>modelado 3D</strong>, <strong>fotografía</strong>, <strong>vídeo</strong> y <strong>diseño</strong>. accede a <strong>cursos especializados en urbanismo y paisajismo</strong>. Aprende a redactar <strong>proyectos de edificación, instrumentos de planeamiento urbanístico y gestión</strong>, así como <strong>proyectos de urbanización</strong> desde cualquier lugar y a tu propio ritmo.</p>",
-   "s": 85
+   "text": "Diseñar una cafetería exige saber de distribución, instalaciones, iluminación y normativa. Los cursos online de arquitectura que recopilamos cubren estas áreas y otras como mediciones , estructuras, dibujo 2D, modelado 3D , fotografía y vídeo. También hay formaciones de urbanismo y paisajismo para quien quiera ir más allá. Todos se siguen a distancia, desde cualquier lugar y al ritmo de cada uno.",
+   "html": "<p>Diseñar una cafetería exige saber de distribución, instalaciones, iluminación y normativa. Los <strong>cursos online de arquitectura</strong> que recopilamos cubren estas áreas y otras como <strong>mediciones</strong>, estructuras, dibujo 2D, <strong>modelado 3D</strong>, fotografía y vídeo. También hay formaciones de urbanismo y paisajismo para quien quiera ir más allá. Todos se siguen a distancia, desde cualquier lugar y al ritmo de cada uno.</p>",
+   "s": 85,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1900,9 +1931,10 @@
   },
   {
    "type": "text",
-   "text": "Los mejores dibujos arquitectónicos, Croquis arquitectónicos, Diseños conceptuales, Collages e ilustraciones arquitectónicas, Diagramas",
-   "html": "<p>Los mejores <strong>dibujos arquitectónicos</strong>, <strong>Croquis arquitectónicos</strong>,  <strong>Diseños conceptuales</strong>, <strong>Collages</strong> e <strong>ilustraciones arquitectónicas</strong>, <strong>Diagramas</strong></p>",
-   "s": 96
+   "text": "Todo local empieza en papel: croquis de la barra, bocetos de la sala y collages de materiales e ideas de ambiente.",
+   "html": "<p>Todo local empieza en papel: <strong>croquis</strong> de la barra, bocetos de la sala y collages de materiales e ideas de ambiente.</p>",
+   "s": 96,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1929,9 +1961,10 @@
   },
   {
    "type": "text",
-   "text": "Realizamos todo tipo de planos, ¿Qué son los planos de arquitectura? Tipos de planos, Plano de situación, Plano de planta, El alzado, Plano de emplazamiento, vista de secciones, perspectiva arquitectónicas, planos de cafeterías y Cafeterías, Ideas, imágenes y decoración",
-   "html": "<p>Realizamos todo tipo de <strong>planos</strong>, <strong>¿Qué son los planos de arquitectura?</strong> <strong>Tipos de planos</strong>, <strong>Plano de situación</strong>, <strong> Plano de planta</strong>, <strong>El alzado</strong>,  <strong>Plano de emplazamiento</strong>, <strong>vista de secciones</strong>, <strong>perspectiva arquitectónicas</strong>, <strong>planos de cafeterías y Cafeterías</strong>,  Ideas, imágenes y <strong>decoración </strong></p>",
-   "s": 98
+   "text": "Los planos de una cafetería no solo sirven para la licencia: son la base del render. La planta fija la barra, las mesas y la cocina; las secciones marcan alturas y falsos techos; los alzados definen el escaparate y la fachada; y el plano de situación coloca el local en su calle. Si te falta alguno, lo dibujamos nosotros.",
+   "html": "<p>Los planos de una cafetería no solo sirven para la licencia: son la base del render. La <strong>planta</strong> fija la barra, las mesas y la cocina; las <strong>secciones</strong> marcan alturas y falsos techos; los alzados definen el escaparate y la fachada; y el plano de <strong>situación</strong> coloca el local en su calle. Si te falta alguno, lo dibujamos nosotros.</p>",
+   "s": 98,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1958,9 +1991,10 @@
   },
   {
    "type": "text",
-   "text": "Maqueta de arquitectura, industriales, conceptuales y urbanísticas, creamos maquetas arquitectónicas de alta precisión y detalle utilizando tecnologías avanzadas como impresión 3D, CNC y corte láser. Trabajamos con arquitectos y constructoras, convirtiendo ideas en representaciones visuales reales y propositivas.",
-   "html": "<p><strong>Maqueta de arquitectura,</strong> <strong>industriales</strong>, <strong>conceptuales</strong> y <strong>urbanísticas</strong>,<strong> creamos maquetas arquitectónicas de alta precisión</strong> y detalle utilizando tecnologías avanzadas como <strong>impresión 3D</strong>, <strong>CNC</strong> y <strong>corte láser</strong>. Trabajamos con <strong>arquitectos</strong> y <strong>constructoras</strong>, convirtiendo ideas en<strong> representaciones visuales</strong> reales y propositivas.</p>",
-   "s": 102
+   "text": "Una maqueta del local ayuda a ver rápidamente cómo se reparte la sala y por dónde circula la gente. Con impresión 3D y corte láser se consiguen maquetas precisas que, junto al render, permiten presentar una cafetería o un restaurante de forma muy completa.",
+   "html": "<p>Una <strong>maqueta</strong> del local ayuda a ver rápidamente cómo se reparte la sala y por dónde circula la gente. Con <strong>impresión 3D</strong> y corte láser se consiguen maquetas precisas que, junto al render, permiten presentar una cafetería o un restaurante de forma muy completa.</p>",
+   "s": 102,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1987,9 +2021,10 @@
   },
   {
    "type": "text",
-   "text": "Maximiza la presentación de tus Plantillas para portafolio de arquitectura. Te ofrecemos la oportunidad de presentar tu obra de manera impactante, ya sea en formato impreso o en línea. Para que tu portafolio destaque",
-   "html": "<p><strong>Maximiza la presentación de tus Plantillas</strong> para <strong>portafolio de arquitectura. T</strong>e ofrecemos la oportunidad de presentar tu <strong>obra</strong> de manera impactante, ya sea en formato impreso o en línea. Para que tu <strong>portafolio</strong> destaque</p>",
-   "s": 105
+   "text": "Si eres interiorista o arquitecto, los renders de cafeterías lucen mucho en un portafolio : muestran tu forma de crear ambientes. Te ofrecemos plantillas para presentar tu trabajo, impreso o en línea.",
+   "html": "<p>Si eres interiorista o arquitecto, los <strong>renders de cafeterías</strong> lucen mucho en un <strong>portafolio</strong>: muestran tu forma de crear ambientes. Te ofrecemos plantillas para presentar tu trabajo, impreso o en línea.</p>",
+   "s": 105,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2015,9 +2050,10 @@
   },
   {
    "type": "text",
-   "text": "Explora una amplia gama de imágenes sobre arquitectura, arquitectos y construcción, Descubre una colección de fotografías. impresionantes fotos urbanas, paisajes urbanos, arte conceptual, ilustraciones arquitectónicas y ciudades imaginarias. diversidad del diseño arquitectónico y la construcción.",
-   "html": "<p>Explora una amplia gama de<strong> imágenes sobre arquitectura</strong>, <strong>arquitectos</strong> y <strong>construcción</strong>, Descubre una <strong>colección de fotografías</strong>.  impresionantes fotos urbanas, paisajes urbanos, arte conceptual, ilustraciones arquitectónicas y ciudades imaginarias. diversidad del <strong>diseño arquitectónico y la construcción.</strong></p>",
-   "s": 107
+   "text": "¿Buscas ideas para tu local? En nuestras imágenes de arquitectura encontrarás interiores, fachadas y espacios urbanos que pueden inspirar el ambiente de una cafetería o un restaurante, junto a fotografías e ilustraciones de todo el mundo.",
+   "html": "<p>¿Buscas ideas para tu local? En nuestras <strong>imágenes de arquitectura</strong> encontrarás interiores, fachadas y espacios urbanos que pueden inspirar el <strong>ambiente</strong> de una cafetería o un restaurante, junto a fotografías e ilustraciones de todo el mundo.</p>",
+   "s": 107,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2043,9 +2079,10 @@
   },
   {
    "type": "text",
-   "text": "Explora nuestra selección de libros dearquitectura, una recopilación ideal para aficionados a la historia, teoría y práctica. Desde manuales técnicos hasta ejemplares sobre diseño interior, regala conocimiento arquitectónico con los mejores libros en formato impreso y digital",
-   "html": "<p>Explora nuestra selección de<strong> libros dearquitectura</strong>, una recopilación ideal para aficionados a la <strong>historia</strong>, <strong>teoría</strong> y <strong>práctica</strong>. Desde <strong>manuales técnicos</strong> hasta ejemplares sobre <strong>diseño interior</strong>, regala conocimiento <strong>arquitectónico</strong> con los mejores <strong>libros en formato impreso y digital</strong></p>",
-   "s": 109
+   "text": "Para diseñar locales con personalidad, los libros de arquitectura e interiorismo son una gran ayuda: en nuestra selección hay manuales técnicos y títulos sobre diseño interior, en papel y en digital. También son un buen regalo para quien prepara su propio negocio.",
+   "html": "<p>Para diseñar locales con personalidad, los <strong>libros de arquitectura</strong> e <strong>interiorismo</strong> son una gran ayuda: en nuestra selección hay manuales técnicos y títulos sobre diseño interior, en papel y en digital. También son un buen regalo para quien prepara su propio negocio.</p>",
+   "s": 109,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2071,9 +2108,10 @@
   },
   {
    "type": "text",
-   "text": "Revistas de arquitectura innovación y belleza en el mundo de la construcción! Exploramos los rincones más inspiradores del diseño arquitectónico, desde icónicos rascacielos hasta proyectos residenciales únicos y sostenibles. Sumérgete en análisis detallados de los estilos arquitectónicos, desde los clásicos hasta las tendencias contemporáneas más vanguardistas.",
-   "html": "<p><strong>Revistas de arquitectura innovación y belleza</strong> en el mundo de la <strong>construcción</strong>! Exploramos los rincones más inspiradores del <strong>diseño arquitectónico</strong>, desde icónicos rascacielos hasta <strong>proyectos residenciales únicos y sostenibles</strong>. Sumérgete en análisis detallados de los <strong>estilos arquitectónicos</strong>, desde los clásicos hasta las<strong> tendencias contemporáneas más vanguardistas</strong>.</p>",
-   "s": 111
+   "text": "Las revistas de arquitectura publican a menudo proyectos de hostelería: cafeterías de barrio, restaurantes de autor y locales que reinventan un espacio antiguo. Son una fuente constante de ideas sobre materiales , iluminación y distribución, y ayudan a seguir las tendencias del interiorismo comercial.",
+   "html": "<p>Las <strong>revistas de arquitectura</strong> publican a menudo proyectos de hostelería: cafeterías de barrio, restaurantes de autor y locales que reinventan un espacio antiguo. Son una fuente constante de ideas sobre <strong>materiales</strong>, iluminación y distribución, y ayudan a seguir las <strong>tendencias</strong> del interiorismo comercial.</p>",
+   "s": 111,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2100,9 +2138,10 @@
   },
   {
    "type": "text",
-   "text": "Conce los programas mas utilizados en arquitectura como AutoCAD, Revit, Archicad, Rhinoceros 3D, Sketchup, Vectorworks, V-Ray, Lumion. Postproducción y Visualización arquitectónica",
-   "html": "<p>Conce los<strong> programas mas utilizados en arquitectura</strong> como <strong>AutoCAD</strong>, <strong>Revit</strong>, <strong>Archicad</strong>, <strong>Rhinoceros 3D</strong>, <strong>Sketchup</strong>, <strong>Vectorworks</strong>,<strong> V-Ray</strong>, <strong>Lumion</strong>. <strong>Postproducción</strong> y <strong>Visualización arquitectónica</strong></p><div> </div>",
-   "s": 113
+   "text": "Para renders de cafeterías se suele modelar con SketchUp o Revit y renderizar con V-Ray , Corona o Enscape, que tratan bien la luz cálida de interior. Conoce los programas más usados en arquitectura.",
+   "html": "<p>Para <strong>renders de cafeterías</strong> se suele modelar con <strong>SketchUp</strong> o <strong>Revit</strong> y renderizar con <strong>V-Ray</strong>, Corona o Enscape, que tratan bien la luz cálida de interior. Conoce los programas más usados en arquitectura.</p>",
+   "s": 113,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2129,9 +2168,10 @@
   },
   {
    "type": "text",
-   "text": "Explora las últimas y más destacadas obras arquitectónicas, desde inspiradoras residencias hasta proyectos emblemáticos. Descubre los secretos para crear un proyecto arquitectónicos exitoso y cómo llevar a cabo su desarrollo. Sumérgete en nuestro portafolio para conocer algunos de los proyectos más destacados y visitados en el mundo",
-   "html": "<p>Explora las últimas y más destacadas obras arquitectónicas, desde inspiradoras residencias hasta proyectos emblemáticos. Descubre los secretos para crear un proyecto arquitectónicos exitoso y cómo llevar a cabo su desarrollo. Sumérgete en nuestro portafolio para conocer algunos de los proyectos más destacados y visitados en el mundo</p>",
-   "s": 115
+   "text": "Explora proyectos de arquitectura destacados y busca en ellos soluciones para tu local: cómo se ordena un espacio, cómo entra la luz o cómo se trata una fachada a pie de calle. Descubre también qué pasos lleva desarrollar un proyecto con éxito, de la idea a la apertura.",
+   "html": "<p>Explora <strong>proyectos de arquitectura</strong> destacados y busca en ellos soluciones para tu local: cómo se ordena un espacio, cómo entra la luz o cómo se trata una fachada a pie de calle. Descubre también qué pasos lleva desarrollar un <strong>proyecto</strong> con éxito, de la idea a la apertura.</p>",
+   "s": 115,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2157,9 +2197,10 @@
   },
   {
    "type": "text",
-   "text": "La incursión de la inteligencia artificial en la industria arquitectónica ha sido significativa, ofreciendo a los arquitectos un aliado invaluable en el proceso de diseño, proyectos y obras. Explora cómo esta tecnología redefine la arquitectura y descubre sus ventajas, desventajas y ejemplos más relevantes. Desde el diseño asistido hasta la visualización en realidad virtual, la Inteligencia Artificial abre un abanico de aplicaciones para este campo",
-   "html": "<p>La incursión de la<strong> inteligencia artificial en la industria arquitectónica</strong> ha sido significativa, ofreciendo a los <strong>arquitectos</strong> un aliado invaluable en el <strong>proceso de diseño, proyectos y obras</strong>. Explora cómo esta <strong>tecnología</strong> redefine la <strong>arquitectura</strong> y descubre sus <strong>ventajas</strong>, <strong>desventajas</strong> y ejemplos más relevantes. Desde el <strong>diseño asistido</strong> hasta la v<strong>isualización en realidad virtual,</strong> la<strong> Inteligencia Artificial</strong> abre un abanico de aplicaciones para este campo</p>",
-   "s": 117
+   "text": "La inteligencia artificial ya se usa en arquitectura para generar ideas de ambiente a partir de un texto o de una foto del local vacío. Es útil para explorar estilos al principio, pero no respeta medidas ni mobiliario real. Para decidir la barra, las mesas y los acabados de una cafetería sigue haciendo falta un render hecho sobre el modelo del local . Descubre sus ventajas, inconvenientes y ejemplos.",
+   "html": "<p>La <strong>inteligencia artificial</strong> ya se usa en arquitectura para generar ideas de ambiente a partir de un texto o de una foto del local vacío. Es útil para explorar estilos al principio, pero no respeta medidas ni mobiliario real. Para decidir la barra, las mesas y los acabados de una cafetería sigue haciendo falta un <strong>render</strong> hecho sobre el <strong>modelo del local</strong>. Descubre sus ventajas, inconvenientes y ejemplos.</p>",
+   "s": 117,
+   "texto_propio": true
   },
   {
    "type": "button",

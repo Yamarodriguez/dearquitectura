@@ -146,7 +146,7 @@
    "items": [
     {
      "title": "¿Qué es un render de Nocturnos y cómo se realizan?",
-     "html": "<div id=\"cc-m-9791684519\" class=\"j-module n j-text \"><p data-start=\"5254\" data-end=\"5799\">Un <strong data-start=\"5257\" data-end=\"5275\">render de nocturno</strong> es una representación digital fotorrealista de un proyecto arquitectónico, creada mediante <strong data-start=\"5367\" data-end=\"5394\">software de modelado 3D</strong>, <strong data-start=\"5396\" data-end=\"5419\">renderizado digital</strong> y <strong data-start=\"5422\" data-end=\"5446\">texturizado avanzado</strong>. Este servicio permite visualizar el <strong data-start=\"5484\" data-end=\"5509\">diseño arquitectónico</strong>, los <strong data-start=\"5515\" data-end=\"5528\">planos 2D</strong> y <strong data-start=\"5531\" data-end=\"5544\">planos 3D</strong> del proyecto, facilitando la comunicación entre arquitectos, diseñadores y clientes.</p><p>El proceso para realizar un render de Nocturnos incluye:</p><ol><li><strong>Modelado 3D:</strong> Creación del modelo tridimensional de la estructura arquitectónica y su entorno.</li><li><strong>Texturizado:</strong> Aplicación de materiales como vidrio, concreto, ladrillo, y detalles como vegetación o mobiliario urbano.</li><li><strong>Iluminación:</strong> Configuración de luz natural o artificial para simular el aspecto diurno, nocturno o en diferentes condiciones climáticas.</li><li><strong>Renderizado:</strong> Generación de imágenes de alta calidad utilizando motores de render especializados.</li><li><strong>Postproducción:</strong> Refinamiento de la imagen en software de edición para ajustar colores, contrastes y efectos especiales.</li></ol></div>"
+     "html": "<p>Un <strong>render nocturno</strong> es una imagen fotorrealista de un proyecto de noche, con su <strong>iluminación artificial</strong> encendida, creada por ordenador. El proceso tiene cinco fases:</p><ul><li><strong>Modelado 3D</strong> del edificio, su entorno y cada luminaria en su posición exacta.</li><li><strong>Materiales</strong>: vidrio, agua, metal y piedra, que de noche cobran protagonismo por sus reflejos.</li><li><strong>Iluminación</strong>: potencia y color de cada lámpara, y un cielo de noche cerrada o de hora azul.</li><li><strong>Renderizado</strong>: un cálculo más largo de lo habitual para que las zonas oscuras salgan limpias.</li><li><strong>Postproducción</strong>: halos, brillos, contraste y retoque del cielo.</li></ul>"
     }
    ],
    "s": 30
@@ -156,39 +156,39 @@
    "items": [
     {
      "title": "¿Qué programas se utilizan para realizar renders de Nocturnos?",
-     "html": "<p>Para crear renders de Nocturnos, los profesionales emplean herramientas avanzadas de modelado y renderizado. Algunos de los programas más comunes son:</p><ol><li><strong>SketchUp:</strong> Popular por su facilidad de uso para modelado arquitectónico inicial.</li><li><strong>3ds Max:</strong> Ideal para proyectos complejos con gran detalle en texturizado y animaciones.</li><li><strong>Revit:</strong> Especializado en arquitectura e ingeniería, permite trabajar con modelos BIM.</li><li><strong>Lumion:</strong> Excelente para renders rápidos, con efectos de paisajismo y ambientes realistas.</li><li><strong>Blender:</strong> Alternativa gratuita y versátil para modelado y renderizado de alta calidad.</li><li><strong>V-Ray:</strong> Motor de render avanzado para obtener resultados fotorrealistas integrados con otros programas como SketchUp, Revit o 3ds Max.</li><li><strong>Unreal Engine:</strong> Perfecto para recorridos interactivos y renders en tiempo real.</li><li><strong>Corona Renderer:</strong> Reconocido por su facilidad de uso y resultados altamente realistas.</li></ol>"
+     "html": "<p>Para <strong>renders nocturnos</strong> se modela en <strong>SketchUp</strong>, <strong>Revit</strong> o <strong>3ds Max</strong>, y la luz se trabaja con motores capaces de simular lámparas reales:</p><ul><li><strong>V-Ray</strong>: admite perfiles IES de los fabricantes de luminarias y da un control preciso de cada luz.</li><li><strong>Corona</strong>: muy realista con luz artificial y fácil de ajustar en interiores.</li><li><strong>Lumion</strong> y <strong>Twinmotion</strong>: rápidos para exteriores con farolas, balizas y cielos nocturnos.</li><li><strong>Enscape</strong>: permite ver la escena de noche casi al instante mientras se diseña.</li><li><strong>Unreal Engine</strong>: para recorridos interactivos por el proyecto iluminado.</li></ul>"
     },
     {
      "title": "¿Por qué usar renders de Nocturnos?",
-     "html": "<p>Los renders de Nocturnos son herramientas clave por varias razones:</p><ol><li><strong>Visualización realista:</strong> Ayudan a clientes y desarrolladores a imaginar cómo se verá el Nocturno en su entorno.</li><li><strong>Toma de decisiones:</strong> Facilitan la selección de materiales, colores y acabados antes de construir.</li><li><strong>Marketing inmobiliario:</strong> Ofrecen imágenes impactantes que incrementan las ventas y la presentación de proyectos.</li><li><strong>Optimización del diseño:</strong> Permiten detectar posibles errores o inconsistencias antes de iniciar la obra.</li><li><strong>Impacto en presentaciones:</strong> Aumentan la profesionalidad en presentaciones comerciales y licitaciones.</li></ol>"
+     "html": "<p>Los <strong>renders nocturnos</strong> aportan lo que una vista de día no enseña:</p><ul><li><strong>Comprobar la iluminación</strong>: se ve si la luz llega donde hace falta o si sobra.</li><li><strong>Ambiente</strong>: transmiten la calidez de una casa o la vida de un local al anochecer.</li><li><strong>Contraste</strong>: junto a la vista de día, completan la presentación.</li><li><strong>Publicidad</strong>: son imágenes llamativas para folletos, webs y portales inmobiliarios.</li><li><strong>Decisiones</strong>: ayudan a elegir luminarias antes de comprarlas.</li></ul>"
     },
     {
      "title": "¿Por qué es Importante Tener un Render de Nocturno?",
-     "html": "<p data-start=\"5862\" data-end=\"6531\">Contar con un <strong data-start=\"5876\" data-end=\"5894\">render de nocturno</strong> es crucial para comunicar la visión del proyecto de manera clara y precisa. Permite visualizar el <strong data-start=\"5993\" data-end=\"6018\">diseño arquitectónico</strong>, las <strong data-start=\"6024\" data-end=\"6049\">ideas de construcción</strong>, la distribución en los <strong data-start=\"6074\" data-end=\"6095\">planos interiores</strong> y <strong data-start=\"6098\" data-end=\"6112\">exteriores</strong> en <strong data-start=\"6116\" data-end=\"6122\">2D</strong> y <strong data-start=\"6125\" data-end=\"6131\">3D</strong>, y detectar posibles mejoras desde las primeras etapas. Además, un render bien realizado potencia el <strong data-start=\"6233\" data-end=\"6259\">marketing inmobiliario</strong> y la <strong data-start=\"6265\" data-end=\"6287\">venta de proyectos</strong>.</p>"
+     "html": "<p>Un edificio se usa tanto de día como de noche, y la luz artificial cambia por completo su aspecto. Con un <strong>render nocturno</strong> se comprueba que la <strong>fachada</strong>, el jardín o el interior resultan acogedores al anochecer, se corrigen zonas oscuras o deslumbramientos y se cuenta con una imagen potente para vender el proyecto.</p>"
     },
     {
      "title": "¿Cuánto Cuesta un Render de Nocturno?",
-     "html": "<p data-start=\"6580\" data-end=\"7197\">El <strong data-start=\"6583\" data-end=\"6613\">costo de un render de nocturno</strong> depende de la <strong data-start=\"6628\" data-end=\"6656\">complejidad del proyecto</strong>, el <strong data-start=\"6661\" data-end=\"6681\">nivel de detalle</strong> requerido y el <strong data-start=\"6697\" data-end=\"6722\">tiempo de renderizado</strong>. Además, el precio puede variar si se incluyen <strong data-start=\"6770\" data-end=\"6786\">planos en 2D</strong> y <strong data-start=\"6789\" data-end=\"6805\">planos en 3D</strong> detallados, junto con el render. Los precios se adaptan a <strong data-start=\"6864\" data-end=\"6895\">presupuestos personalizados</strong>, desde <strong data-start=\"6903\" data-end=\"6925\">renders económicos</strong> para proyectos simples hasta <strong data-start=\"6955\" data-end=\"6974\">renders premium</strong> para un alto fotorrealismo.</p>"
+     "html": "<p>El precio de un <strong>render nocturno</strong> depende del tamaño del proyecto, de la cantidad de <strong>luminarias</strong> que hay que colocar y ajustar, del entorno, del número de vistas y de si ya existe un modelo 3D hecho para las imágenes de día. Cada presupuesto se prepara a medida, desde una sola vista hasta una serie completa.</p>"
     },
     {
      "title": "¿Qué Necesito para Tener un Render de Nocturno?",
-     "html": "<p data-start=\"7256\" data-end=\"7948\">Para obtener un <strong data-start=\"7272\" data-end=\"7290\">render de nocturno</strong> de alta calidad, es fundamental contar con <strong data-start=\"7334\" data-end=\"7355\">planos detallados</strong>, <strong data-start=\"7357\" data-end=\"7384\">diseños arquitectónicos</strong> y referencias visuales de <strong data-start=\"7411\" data-end=\"7421\">estilo</strong> y <strong data-start=\"7424\" data-end=\"7436\">acabados</strong>. Además, se deben desarrollar <strong data-start=\"7467\" data-end=\"7488\">planos interiores</strong> y <strong data-start=\"7491\" data-end=\"7505\">exteriores</strong> en <strong data-start=\"7509\" data-end=\"7515\">2D</strong> y <strong data-start=\"7518\" data-end=\"7524\">3D</strong>, que complementen la visualización digital. La colaboración con un equipo profesional de <strong data-start=\"7614\" data-end=\"7629\">modelado 3D</strong> y <strong data-start=\"7632\" data-end=\"7655\">renderizado digital</strong> garantiza resultados que cumplan con las expectativas de <strong data-start=\"7713\" data-end=\"7725\">realismo</strong> y <strong data-start=\"7728\" data-end=\"7741\">precisión</strong>.</p>"
+     "html": "<p>Hacen falta los <strong>planos</strong> del proyecto o un modelo 3D y, sobre todo, la información de la luz: un <strong>plano de iluminación</strong> o una lista de luminarias con su posición, tipo y color de luz. Ayudan también referencias del ambiente buscado y saber si se prefiere noche cerrada o la <strong>hora azul</strong>, justo después del atardecer.</p>"
     },
     {
      "title": "¿Cuánto Tiempo se Tarda en Hacer un Render de Nocturno?",
-     "html": "<p>El <strong data-start=\"8018\" data-end=\"8064\">tiempo de realización de un render de nocturno</strong> varía según la <strong data-start=\"8080\" data-end=\"8108\">complejidad del proyecto</strong> y el <strong data-start=\"8114\" data-end=\"8134\">nivel de detalle</strong> requerido. Proyectos simples pueden completarse en <strong data-start=\"8186\" data-end=\"8200\">pocos días</strong>, mientras que aquellos que incluyen <strong data-start=\"8237\" data-end=\"8258\">planos interiores</strong> y <strong data-start=\"8261\" data-end=\"8275\">exteriores</strong> en <strong data-start=\"8279\" data-end=\"8285\">2D</strong> y <strong data-start=\"8288\" data-end=\"8294\">3D</strong> pueden requerir <strong data-start=\"8311\" data-end=\"8329\">varias semanas</strong> para alcanzar un resultado <strong data-start=\"8357\" data-end=\"8374\">fotorrealista</strong> y <strong data-start=\"8377\" data-end=\"8396\">de alta calidad</strong>.</p>"
+     "html": "<p>Varía según el proyecto y el número de luces. Una vista nocturna sencilla puede estar en <strong>pocos días</strong>; un edificio con jardín, interiores iluminados y series de día y de noche puede requerir <strong>varias semanas</strong>, ya que cada escena necesita pruebas de luz hasta quedar equilibrada.</p>"
     },
     {
      "title": "Tipos de renderizado de Nocturnos",
-     "html": "<ol><li><strong>Render estático:</strong> Imágenes fijas de alta calidad que destacan el diseño arquitectónico y el entorno.</li><li><strong>Render animado:</strong> Videos que muestran recorridos virtuales o cambios a lo largo del tiempo, como iluminación diurna y nocturna.</li><li><strong>Render interactivo:</strong> Herramientas que permiten al usuario explorar el Nocturno en 3D desde diferentes ángulos y perspectivas.</li><li><strong>Render aéreo:</strong> Vista panorámica o de drones que muestra el Nocturno en su contexto urbano.</li><li><strong>Render de detalle:</strong> Enfocado en acabados específicos, como fachadas, interiores o texturas.</li></ol>"
+     "html": "<p>Los <strong>tipos de render nocturno</strong> más comunes son:</p><ul><li><strong>Hora azul</strong>: el cielo aún conserva algo de luz y las lámparas ya están encendidas.</li><li><strong>Noche cerrada</strong>: cielo oscuro y toda la escena iluminada artificialmente.</li><li><strong>Interior de noche</strong>: estancias con las lámparas encendidas y el exterior a oscuras.</li><li><strong>Aéreo nocturno</strong>: la parcela o la promoción vista desde arriba con sus luces.</li><li><strong>Animado</strong>: vídeos con la transición del día a la noche.</li></ul>"
     },
     {
      "title": "Ventajas de usar renders en proyectos para Nocturnos",
-     "html": "<ol><li><strong>Reducción de costos:</strong> Elimina la necesidad de maquetas físicas o sesiones fotográficas costosas.</li><li><strong>Flexibilidad:</strong> Permite probar múltiples diseños, configuraciones y materiales sin gastos adicionales.</li><li><strong>Impacto visual:</strong> Genera imágenes impresionantes que cautivan a clientes y partes interesadas.</li><li><strong>Comunicación efectiva:</strong> Mejora la comprensión entre arquitectos, diseñadores y clientes.</li><li><strong>Aumento de ventas:</strong> Incrementa el interés en proyectos inmobiliarios al mostrar un producto atractivo y profesional.</li></ol>"
+     "html": "<ul><li><strong>Ahorro</strong>: se corrigen errores de iluminación antes de instalar nada.</li><li><strong>Flexibilidad</strong>: se prueban distintas luminarias, colores de luz e intensidades sobre el mismo modelo.</li><li><strong>Impacto visual</strong>: las vistas de noche llaman la atención en cualquier presentación.</li><li><strong>Comunicación</strong>: arquitecto, cliente e instalador entienden igual la propuesta de luz.</li><li><strong>Promoción</strong>: muestran el ambiente que tendrá la vivienda o el local.</li></ul>"
     },
     {
      "title": "Contratar servicios de renders de Nocturnos online: una guía para clientes",
-     "html": "<ol><li><strong>Investiga el portafolio:</strong> Busca estudios o profesionales con experiencia en renders de Nocturnos similares a tu proyecto.</li><li><strong>Define tus necesidades:</strong> Especifica el nivel de detalle, estilo y plazos que requieres.</li><li><strong>Solicita referencias:</strong> Lee opiniones o casos de éxito de clientes anteriores.</li><li><strong>Presupuesto claro:</strong> Asegúrate de que el costo incluye revisiones y postproducción.</li><li><strong>Comunicación continua:</strong> Trabaja de la mano con el profesional para garantizar que el resultado final cumpla tus expectativas.</li></ol><p>Los renders de Nocturnos online son una solución práctica y eficiente para visualizar proyectos arquitectónicos de forma profesional, rápida y accesible.</p>"
+     "html": "<p>Para encargar <strong>renders nocturnos online</strong>:</p><ul><li><strong>Mira trabajos anteriores</strong> de noche y fíjate en cómo resuelven la luz.</li><li><strong>Concreta las vistas</strong>: exterior, interior, aérea, hora azul o noche cerrada.</li><li><strong>Aporta la información de iluminación</strong>: planos, luminarias y ambiente deseado.</li><li><strong>Pide un presupuesto claro</strong> que incluya revisiones y postproducción.</li><li><strong>Comenta las pruebas</strong> con el estudio hasta que la luz sea la que buscas.</li></ul><p>Es una forma cómoda y rápida de ver tu proyecto de noche sin desplazarte.</p>"
     }
    ],
    "s": 30
@@ -201,9 +201,10 @@
   },
   {
    "type": "text",
-   "text": "Los tipos de renders en el campo de la arquitectura y el diseño abarcan diversas técnicas para crear representaciones visuales. Entre los más comunes se encuentran, render de alta calidad renderizado en 4K y rendrings en 8K (UHD)",
-   "html": "<p>Los tipos de renders en el campo de la arquitectura y el diseño abarcan diversas técnicas para crear representaciones visuales. Entre los más comunes se encuentran, <strong>render de alta calidad</strong> <strong>renderizado en 4K y rendrings en 8K</strong> (UHD)</p>",
-   "s": 33
+   "text": "Un render nocturno suele completar una serie de vistas: la misma escena de día , los renders exteriores de fachada y jardín, interiores con las lámparas encendidas y, en proyectos grandes, una vista aérea o un vídeo. Estos son los tipos de render que mejor lo acompañan.",
+   "html": "<p>Un <strong>render nocturno</strong> suele completar una serie de vistas: la misma escena <strong>de día</strong>, los <strong>renders exteriores</strong> de fachada y jardín, interiores con las lámparas encendidas y, en proyectos grandes, una <strong>vista aérea</strong> o un vídeo. Estos son los tipos de render que mejor lo acompañan.</p>",
+   "s": 33,
+   "texto_propio": true
   },
   {
    "type": "image",
@@ -605,9 +606,10 @@
   },
   {
    "type": "text",
-   "text": "Los renders de arquitectura son herramientas indispensables que permiten visualizar y presentar proyectos de manera atractiva y efectiva. Ofrecen una vista previa detallada y realista que facilita la toma de decisiones y la promoción de diseños arquitectónicos.",
-   "html": "<p>Los <strong>renders de arquitectura</strong> son<strong> herramientas</strong> indispensables que permiten <strong>visualizar y presentar proyectos</strong> de manera atractiva y efectiva. Ofrecen una <strong>vista previa detallada y realista</strong> que facilita la toma de decisiones y la <strong>promoción de diseños arquitectónicos</strong>.</p>",
-   "s": 47
+   "text": "En arquitectura, el render nocturno enseña la otra cara de un proyecto: cómo se ve cuando se encienden las luces. Revela la iluminación de la fachada , los huecos que brillan desde dentro y el ambiente del edificio al caer la tarde.",
+   "html": "<p>En arquitectura, el <strong>render nocturno</strong> enseña la otra cara de un proyecto: cómo se ve cuando se encienden las luces. Revela la <strong>iluminación de la fachada</strong>, los huecos que brillan desde dentro y el ambiente del edificio al caer la tarde.</p>",
+   "s": 47,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -634,9 +636,10 @@
   },
   {
    "type": "text",
-   "text": "El render de interiores es una técnica que permite crear representaciones visuales realistas y detalladas de los espacios internos de una construcción. muestra con precisión los elementos decorativos, la distribución del mobiliario, la iluminación y los acabados internos.",
-   "html": "<p>El <strong>render de interiores</strong> es una <strong>técnica que permite crear representaciones visuales realistas y detalladas de los espacios internos de una construcción</strong>. muestra con precisión los elementos <strong>decorativos</strong>, la <strong>distribución</strong> del <strong>mobiliario</strong>, la<strong> iluminación y los acabados internos.</strong></p>",
-   "s": 47
+   "text": "Por dentro, la noche cambia una estancia: la luz ya no entra por la ventana, sale de las lámparas . El render de interiores nocturno muestra el salón, el dormitorio o un restaurante con su luz cálida , los reflejos en los cristales y la calle oscura al fondo.",
+   "html": "<p>Por dentro, la noche cambia una estancia: la luz ya no entra por la ventana, sale de las <strong>lámparas</strong>. El <strong>render de interiores nocturno</strong> muestra el salón, el dormitorio o un restaurante con su <strong>luz cálida</strong>, los reflejos en los cristales y la calle oscura al fondo.</p>",
+   "s": 47,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -664,9 +667,10 @@
   },
   {
    "type": "text",
-   "text": "Los renders online ofrecen una manera efectiva y eficiente de visualizar proyectos arquitectónicos antes de que se materialicen. Utilizando software avanzado de modelado 3D y renderizado, los profesionales pueden transformar planos y conceptos en imágenes...",
-   "html": "<p>Los <strong>renders online</strong> ofrecen una manera efectiva y eficiente de <strong>visualizar proyectos arquitectónicos antes de que se materialicen</strong>. Utilizando <strong>software avanzado de modelado 3D y renderizad</strong>o, los profesionales pueden transformar <strong>planos</strong> y conceptos en imágenes...</p>",
-   "s": 47
+   "text": "Un render nocturno online se encarga a distancia: envías los planos, la ubicación de las luminarias y unas fotos del ambiente que te gusta. Las vistas de prueba se comentan por correo o videollamada hasta llegar a la imagen definitiva.",
+   "html": "<p>Un <strong>render nocturno online</strong> se encarga a distancia: envías los planos, la ubicación de las <strong>luminarias</strong> y unas fotos del ambiente que te gusta. Las vistas de prueba se comentan por correo o videollamada hasta llegar a la imagen definitiva.</p>",
+   "s": 47,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -683,9 +687,10 @@
   },
   {
    "type": "text",
-   "text": "¡Descubre nuestros servicios de renders y arquitectura! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.",
-   "html": "<p>¡Descubre nuestros<strong> servicios de renders y arquitectura</strong>! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.</p>",
-   "s": 48
+   "text": "¡Descubre nuestros servicios de render nocturno ! Mostramos tu casa, tu local o tu edificio con todas las luces encendidas. Cuéntanos qué necesitas.",
+   "html": "<p>¡Descubre nuestros <strong>servicios de render nocturno</strong>! Mostramos tu casa, tu local o tu edificio con todas las luces encendidas. Cuéntanos qué necesitas.</p>",
+   "s": 48,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -712,9 +717,10 @@
   },
   {
    "type": "text",
-   "text": "El modelado 3D es el proceso de creación de objetos tridimensionales utilizando software especializado. Permite construir estructuras, paisajes, mobiliario y elementos arquitectónicos con gran detalle y realismo.",
-   "html": "<p>El <strong>modelado 3D</strong> es el proceso de<strong> creación de objetos tridimensionales utilizando software especializado</strong>. Permite construir <strong>estructuras</strong>, <strong>paisajes</strong>, <strong>mobiliario</strong> y <strong>elementos arquitectónicos</strong> con gran <strong>detalle</strong> y <strong>realismo</strong>. </p>",
-   "s": 49
+   "text": "En un render nocturno , el modelado 3D incluye algo que de día pasa desapercibido: cada luminaria . Focos, balizas, apliques y farolas se modelan en su sitio, porque de ellos sale toda la luz de la escena.",
+   "html": "<p>En un <strong>render nocturno</strong>, el <strong>modelado 3D</strong> incluye algo que de día pasa desapercibido: cada <strong>luminaria</strong>. Focos, balizas, apliques y farolas se modelan en su sitio, porque de ellos sale toda la luz de la escena.</p>",
+   "s": 49,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -741,9 +747,10 @@
   },
   {
    "type": "text",
-   "text": "Realizamos todo tipo de planos, Plano de situación, Plano de planta, El alzado, Plano de emplazamiento, vista de secciones, perspectiva arquitectónicas, planos de nocturnos y Nocturnos, Ideas, imágenes y decoración",
-   "html": "<p>Realizamos todo tipo de <strong>planos</strong>, <strong>Plano de situación</strong>,&nbsp;<strong>Plano de planta</strong>, <strong>El alzado</strong>,&nbsp; <strong>Plano de emplazamiento</strong>, <strong>vista de secciones</strong>, <strong>perspectiva arquitectónicas</strong>, <strong>planos de nocturnos y Nocturnos</strong>,&nbsp; Ideas, imágenes y <strong>decoración&nbsp;</strong></p>",
-   "s": 49
+   "text": "Para una vista de noche, además de plantas y alzados, es clave el plano de iluminación : dónde va cada punto de luz , de qué tipo es y qué zona alumbra. También realizamos esos planos si todavía no existen.",
+   "html": "<p>Para una vista de noche, además de plantas y alzados, es clave el <strong>plano de iluminación</strong>: dónde va cada <strong>punto de luz</strong>, de qué tipo es y qué zona alumbra. También realizamos esos <strong>planos</strong> si todavía no existen.</p>",
+   "s": 49,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -770,9 +777,10 @@
   },
   {
    "type": "text",
-   "text": "El Home Staging Virtual es una técnica para transformar digitalmente espacios inmobiliarios. Esta estrategia ofrece una visión realista y atractiva de un inmueble, facilitando la venta o alquiler para los posibles compradores o inquilinos.",
-   "html": "<p>El <strong>Home Staging Virtual</strong> es una <strong>técnica para transformar digitalmente espacios inmobiliarios</strong>. Esta estrategia ofrece una<strong> visión realista y atractiva de un inmueble</strong>, facilitando la venta o alquiler para los posibles compradores o inquilinos.</p>",
-   "s": 49
+   "text": "El home staging virtual también funciona de noche: la vivienda vacía aparece amueblada, con las lámparas encendidas y la terraza iluminada. Una foto así transmite calidez y ayuda a que el anuncio destaque entre el resto.",
+   "html": "<p>El <strong>home staging virtual</strong> también funciona de noche: la vivienda vacía aparece amueblada, con las lámparas encendidas y la terraza iluminada. Una foto así transmite calidez y ayuda a que el anuncio destaque entre el resto.</p>",
+   "s": 49,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -799,9 +807,10 @@
   },
   {
    "type": "text",
-   "text": "Realidad Virtual (RV) entornos interactivos, experiencia inmersiva. Ofrece recorridos virtuales, permitiendo a los clientes explorar e interactuar y experimentar la sensación de estar dentro de un entorno antes de su construcción.",
-   "html": "<p><strong>Realidad Virtual (RV)</strong> <strong>entornos interactivos, experiencia inmersiva.</strong> Ofrece <strong>recorridos virtuales</strong>, permitiendo a los clientes explorar e interactuar y experimentar la sensación de estar dentro de un entorno antes de su construcción.</p>",
-   "s": 49
+   "text": "Con realidad virtual se puede pasear por el proyecto de noche: recorrer el jardín, entrar en el portal o sentarse en la terraza y ver con unas gafas VR cómo alumbra cada luz antes de instalarla.",
+   "html": "<p>Con <strong>realidad virtual</strong> se puede pasear por el proyecto de noche: recorrer el jardín, entrar en el portal o sentarse en la terraza y ver con unas <strong>gafas VR</strong> cómo alumbra cada luz antes de instalarla.</p>",
+   "s": 49,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -887,9 +896,10 @@
   },
   {
    "type": "text",
-   "text": "Ya sea que busques a un renderista o arquitectos renderistas, aparejadores o arquitectos técnicos, estamos aquí para ofrecerte respuestas a tus problemas o dudas de diseño. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus proyectos y consultas relacionadas con la arquitectura.",
-   "html": "<p>Ya sea que busques a un <strong>renderista</strong> o <strong>arquitectos renderistas</strong>, <strong>aparejadores</strong> o <strong>arquitectos técnicos</strong>, estamos aquí para ofrecerte respuestas a tus problemas o dudas <strong>de diseño</strong>. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus <strong>proyectos y consultas relacionadas con la arquitectura</strong>.</p>",
-   "s": 53
+   "text": "El renderista que trabaja de noche necesita dominar la luz artificial : la potencia de cada lámpara, su color, más cálido o más frío, y cómo se mezcla con un cielo casi oscuro. Un exceso de brillo o una escena demasiado negra estropean la imagen. Si buscas un especialista en renders nocturnos , cuéntanos tu proyecto.",
+   "html": "<p>El <strong>renderista</strong> que trabaja de noche necesita dominar la <strong>luz artificial</strong>: la potencia de cada lámpara, su color, más cálido o más frío, y cómo se mezcla con un cielo casi oscuro. Un exceso de brillo o una escena demasiado negra estropean la imagen. Si buscas un especialista en <strong>renders nocturnos</strong>, cuéntanos tu proyecto.</p>",
+   "s": 53,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -916,9 +926,10 @@
   },
   {
    "type": "text",
-   "text": "El renderizado 3D es el proceso de transformar modelos tridimensionales en imágenes bidimensionales o videos. Utiliza la iluminación, texturas y cámaras virtuales para crear representaciones visuales realistas y detalladas de diseños arquitectónicos. Esta técnica ofrece una vista final de cómo se verá un proyecto una vez construido, mostrando detalles, texturas y efectos visuales para una presentación impactante y precisa.",
-   "html": "<p>El renderizado 3D es el proceso de transformar modelos tridimensionales en imágenes bidimensionales o videos. Utiliza la iluminación, texturas y cámaras virtuales para crear representaciones visuales realistas y detalladas de diseños arquitectónicos. Esta técnica ofrece una vista final de cómo se verá un proyecto una vez construido, mostrando detalles, texturas y efectos visuales para una presentación impactante y precisa.</p>",
-   "s": 54
+   "text": "El renderizado nocturno es de los más exigentes: con poca luz, el programa necesita más cálculo para evitar ruido y conseguir sombras suaves. Cada lámpara se configura con su intensidad y su temperatura de color , y la escena se equilibra con el cielo, los reflejos y las zonas en penumbra para que la imagen resulte creíble.",
+   "html": "<p>El <strong>renderizado nocturno</strong> es de los más exigentes: con poca luz, el programa necesita más cálculo para evitar ruido y conseguir sombras suaves. Cada lámpara se configura con su intensidad y su <strong>temperatura de color</strong>, y la escena se equilibra con el cielo, los reflejos y las zonas en penumbra para que la imagen resulte creíble.</p>",
+   "s": 54,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -945,9 +956,10 @@
   },
   {
    "type": "text",
-   "text": "Los precios de render varían según el proyecto a realizar. Conoce la tabla de precios renders, para que puedas tener una aproximación de los precio render 3D, precio por render para tu proyecto",
-   "html": "<p>Los&nbsp;<strong>precios de render&nbsp;</strong>varían según el proyecto a realizar. Conoce la <strong>tabla de precios renders, </strong>para que puedas tener una aproximación&nbsp;<strong>de los&nbsp;</strong><strong>precio render 3D, precio por render&nbsp;</strong>para tu proyecto</p>",
-   "s": 55
+   "text": "El precio de un render nocturno varía con el número de puntos de luz , con el entorno que haya que modelar y con las vistas que se pidan. Consulta nuestra tabla de precios para una primera idea.",
+   "html": "<p>El <strong>precio de un render nocturno</strong> varía con el número de <strong>puntos de luz</strong>, con el entorno que haya que modelar y con las vistas que se pidan. Consulta nuestra tabla de precios para una primera idea.</p>",
+   "s": 55,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -978,9 +990,10 @@
   },
   {
    "type": "text",
-   "text": "Los videos render son una herramienta versátil y efectiva para comunicar, promocionar y mejorar proyectos, ofreciendo una representación dinámica y detallada que va más allá de las imágenes estáticas. recorridos virtuales. Conoce algunos de nuestros proyectos.",
-   "html": "<p>Los <strong>videos render</strong> son una<strong> herramienta versátil y efectiva</strong> para <strong>comunicar</strong>, <strong>promocionar</strong> y<strong> mejorar proyectos</strong>, ofreciendo una r<strong>epresentación dinámica y detallada</strong> que va más allá de las imágenes estáticas. <strong>recorridos virtuales</strong>. Conoce algunos de nuestros <strong>proyectos</strong>.</p>",
-   "s": 56
+   "text": "Un vídeo render nocturno puede empezar de día y terminar de noche, con las luces encendiéndose poco a poco, o recorrer el jardín y la fachada ya iluminados. Es una forma muy visual de enseñar el proyecto de iluminación . Conoce algunos de nuestros proyectos.",
+   "html": "<p>Un <strong>vídeo render nocturno</strong> puede empezar de día y terminar de noche, con las luces encendiéndose poco a poco, o recorrer el jardín y la fachada ya iluminados. Es una forma muy visual de enseñar el <strong>proyecto de iluminación</strong>. Conoce algunos de nuestros proyectos.</p>",
+   "s": 56,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1007,9 +1020,10 @@
   },
   {
    "type": "text",
-   "text": "Descubre nuestra empresa de renders, donde ofrecemos soluciones avanzadas para estudios de arquitectura, arquitectos y diseñadores. Nuestros equipos multidisciplinarios están preparados para abordar una amplia gama de proyectos arquitectónicos, garantizando resultados precisos y de alta calidad.",
-   "html": "<p>Descubre nuestra <strong>empresa de renders</strong>, donde ofrecemos soluciones avanzadas para <strong>estudios de arquitectura</strong>, <strong>arquitectos</strong> y <strong>diseñadores</strong>. Nuestros <strong>equipos multidisciplinarios</strong> están preparados para abordar una amplia gama de <strong>proyectos arquitectónicos</strong>, garantizando resultados precisos y de alta calidad.</p>",
-   "s": 57
+   "text": "Las empresas de renders que preparan vistas nocturnas trabajan con promotoras, hoteles, restaurantes y proyectistas de iluminación que necesitan enseñar cómo lucirá un espacio al anochecer. Descubre cómo lo hacemos en nuestra empresa.",
+   "html": "<p>Las <strong>empresas de renders</strong> que preparan vistas nocturnas trabajan con promotoras, hoteles, restaurantes y <strong>proyectistas de iluminación</strong> que necesitan enseñar cómo lucirá un espacio al anochecer. Descubre cómo lo hacemos en nuestra empresa.</p>",
+   "s": 57,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1036,9 +1050,10 @@
   },
   {
    "type": "text",
-   "text": "Nuestros servicios de renders freelance están diseñados para satisfacer las necesidades específicas de cada cliente. Utilizamos la última tecnología para crear visualizaciones 3D detalladas y realistas que reflejan fielmente los diseños arquitectónicos. Trabajamos para todo el mundo y en estrecha colaboración con los estudios para asegurar que cada render cumpla con sus estándares de calidad y precisión.",
-   "html": "<p>Nuestros servicios de<strong> renders freelance</strong> están diseñados para satisfacer las necesidades específicas de cada cliente. Utilizamos la última tecnología para crear <strong>visualizaciones 3D</strong> detalladas y realistas que reflejan fielmente los <strong>diseños arquitectónicos</strong>. Trabajamos para todo el mundo y en estrecha colaboración con los estudios para asegurar que cada render cumpla con sus estándares de calidad y precisión.</p>",
-   "s": 58
+   "text": "Nuestros renders nocturnos freelance se adaptan a cada encargo: la vista de noche de una vivienda para un particular, la fachada iluminada de un local o la serie completa de día y de noche para una promoción. Trabajamos a distancia y en coordinación con cada estudio, cuidando que la luz de las imágenes responda a su proyecto.",
+   "html": "<p>Nuestros <strong>renders nocturnos freelance</strong> se adaptan a cada encargo: la vista de noche de una vivienda para un particular, la fachada iluminada de un local o la serie completa de día y de noche para una promoción. Trabajamos a distancia y en coordinación con cada estudio, cuidando que la luz de las imágenes responda a su proyecto.</p>",
+   "s": 58,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1065,9 +1080,10 @@
   },
   {
    "type": "text",
-   "text": "Descubre los mejores Cursos Online de renders, donde te mostramos formaciones a distancia en diversas áreas como estructuras, mediciones, instalaciones, dibujo 2D, modelado 3D, fotografía, vídeo y diseño. accede a cursos especializados en urbanismo y paisajismo. Aprende a redactar proyectos de edificación, instrumentos de planeamiento urbanístico y gestión, así como proyectos de urbanización desde cualquier lugar y a tu propio ritmo.",
-   "html": "<p>Descubre los mejores <strong>Cursos Online de renders</strong>, donde te mostramos <strong>formaciones</strong> a distancia en diversas áreas como <strong>estructuras</strong>, <strong>mediciones</strong>, <strong>instalaciones</strong>, <strong>dibujo 2D</strong>, <strong>modelado 3D</strong>, <strong>fotografía</strong>, <strong>vídeo</strong> y <strong>diseño</strong>. accede a <strong>cursos especializados en urbanismo y paisajismo</strong>. Aprende a redactar <strong>proyectos de edificación, instrumentos de planeamiento urbanístico y gestión</strong>, así como <strong>proyectos de urbanización</strong> desde cualquier lugar y a tu propio ritmo.</p>",
-   "s": 59
+   "text": "Para aprender a hacer renders nocturnos , conviene elegir cursos que traten la iluminación artificial a fondo: tipos de lámpara, perfiles IES, temperatura de color y exposición de cámara, además de la postproducción del cielo. Programas como V-Ray, Corona o Lumion suelen formar parte del temario. Descubre los cursos online de renders y estudia desde cualquier lugar.",
+   "html": "<p>Para aprender a hacer <strong>renders nocturnos</strong>, conviene elegir cursos que traten la <strong>iluminación artificial</strong> a fondo: tipos de lámpara, perfiles IES, temperatura de color y exposición de cámara, además de la postproducción del cielo. Programas como V-Ray, Corona o Lumion suelen formar parte del temario. Descubre los cursos online de renders y estudia desde cualquier lugar.</p>",
+   "s": 59,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1100,9 +1116,10 @@
   },
   {
    "type": "text",
-   "text": "¡Descubre nuestros servicios de Studio render y arquitectura! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.",
-   "html": "<p>¡Descubre nuestros<strong> servicios de Studio render y arquitectura</strong>! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.</p>",
-   "s": 61
+   "text": "¿Quieres un render studio que muestre tu proyecto iluminado? Escríbenos y preparamos juntos las vistas de noche.",
+   "html": "<p>¿Quieres un <strong>render studio</strong> que muestre tu proyecto iluminado? Escríbenos y preparamos juntos las vistas de noche.</p>",
+   "s": 61,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1128,9 +1145,10 @@
   },
   {
    "type": "text",
-   "text": "¡Descubre nuestros servicios de render profesional y arquitectura! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.",
-   "html": "<p>¡Descubre nuestros<strong> servicios de render profesional y arquitectura</strong>! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.</p>",
-   "s": 61
+   "text": "¿Te hace falta un render nocturno profesional para una presentación o un anuncio? Cuéntanos la idea y te decimos cómo la plantearíamos.",
+   "html": "<p>¿Te hace falta un <strong>render nocturno profesional</strong> para una presentación o un anuncio? Cuéntanos la idea y te decimos cómo la plantearíamos.</p>",
+   "s": 61,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1149,9 +1167,10 @@
   },
   {
    "type": "text",
-   "text": "Somos De Arquitectura, estudio de arquitectura e interiorismo que ofrece una plataforma online donde podrás encontrar arquitectos e interioristas profesionales. Nuestros servicios incluyen diseño 3D, renderizado, planificación, anteproyectos, proyectos, reforma y construcción. Además, contamos con un blog donde podrás consultar ideas y noticias arquitectónicas. Nuestro objetivo es brindarte un servicio rápido, personalizado y eficiente, optimizando el tiempo y los recursos de tus proyectos. Estamos a tu disposición para resolver cualquier duda o consulta que tengas. ¡Te damos la bienvenida a Dearquitectura.info!",
-   "html": "<p>Somos <a href=\"https://dearquitectura.info/\"><strong>De Arquitectura</strong></a>, <strong>estudio de arquitectura e interiorismo</strong> que ofrece una <strong>plataforma</strong> online donde podrás encontrar <strong>arquitectos</strong> e <strong>interioristas</strong> profesionales. Nuestros servicios incluyen <strong>diseño 3D, renderizado, planificación, anteproyectos, proyectos, reforma y construcción</strong>. Además, contamos con un blog donde podrás consultar <strong>ideas y noticias arquitectónicas</strong>.</p><p>Nuestro objetivo es brindarte un servicio rápido, personalizado y eficiente, optimizando el tiempo y los recursos de tus proyectos.</p><p>Estamos a tu disposición para resolver cualquier duda o consulta que tengas. ¡Te damos la bienvenida a <strong>Dearquitectura.info</strong>!</p>",
-   "s": 63
+   "text": "Somos De Arquitectura , estudio de arquitectura e interiorismo. Hacemos renders nocturnos de viviendas, locales y edificios, junto con las vistas de día, los planos y el modelado 3D que necesita cada proyecto. En nuestra web publicamos también ideas y noticias sobre arquitectura . Nos gusta trabajar de forma cercana y ágil, optimizando el tiempo de tu proyecto, y resolvemos cualquier duda que tengas. ¡Bienvenido a Dearquitectura.info!",
+   "html": "<p>Somos <strong>De Arquitectura</strong>, estudio de arquitectura e interiorismo. Hacemos <strong>renders nocturnos</strong> de viviendas, locales y edificios, junto con las vistas de día, los <strong>planos</strong> y el modelado 3D que necesita cada proyecto. En nuestra web publicamos también ideas y noticias sobre <strong>arquitectura</strong>. Nos gusta trabajar de forma cercana y ágil, optimizando el tiempo de tu proyecto, y resolvemos cualquier duda que tengas. ¡Bienvenido a Dearquitectura.info!</p>",
+   "s": 63,
+   "texto_propio": true
   },
   {
    "type": "image",
@@ -1204,9 +1223,10 @@
   },
   {
    "type": "text",
-   "text": "Ya sea que busques arquitectos, aparejadores o arquitectos técnicos, estamos aquí para ofrecerte respuestas a tus problemas o dudas arquitectónicas. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus proyectos y consultas relacionadas con la arquitectura.",
-   "html": "<p>Ya sea que busques <strong>arquitectos</strong>, <strong>aparejadores</strong> o <strong>arquitectos técnicos</strong>, estamos aquí para ofrecerte respuestas a tus problemas o dudas <strong>arquitectónicas</strong>. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus <strong>proyectos y consultas relacionadas con la arquitectura</strong>.</p>",
-   "s": 65
+   "text": "Una buena vista de noche empieza en el proyecto: la iluminación se piensa junto con la arquitectura. Si buscas arquitectos , aparejadores o arquitectos técnicos que tengan en cuenta la luz desde el diseño de tu casa o tu local, aquí te ayudamos con tus dudas.",
+   "html": "<p>Una buena vista de noche empieza en el proyecto: la iluminación se piensa junto con la arquitectura. Si buscas <strong>arquitectos</strong>, <strong>aparejadores</strong> o arquitectos técnicos que tengan en cuenta la luz desde el diseño de tu casa o tu local, aquí te ayudamos con tus dudas.</p>",
+   "s": 65,
+   "texto_propio": true
   },
   {
    "type": "text",
@@ -1257,9 +1277,10 @@
   },
   {
    "type": "text",
-   "text": "Sumérgete en el mundo arquitectónico. Mas que una web somos una plataforma de arquitectura, aquí encontraras noticias, servicios, cursos, libros, proyectos y mucho mas, entra en el mundo arquitectónico y sorpréndete de todo lo que se puede lograr.",
-   "html": "<p>Sumérgete en el <strong>mundo arquitectónico</strong>. Mas que una web somos una <strong>plataforma de arquitectura</strong>, aquí encontraras <strong>noticias</strong>, <strong>servicios</strong>, <strong>cursos</strong>, <strong>libros</strong>, <strong>proyectos</strong> y mucho mas, entra en el mundo <strong>arquitectónico</strong> y sorpréndete de todo lo que se puede lograr.</p>",
-   "s": 69
+   "text": "Entra en nuestra plataforma de arquitectura : noticias, proyectos, cursos, libros y servicios. Encontrarás ideas sobre iluminación , fachadas y ambientes que te ayudarán a imaginar tu proyecto también de noche, y mucho más del mundo arquitectónico.",
+   "html": "<p>Entra en nuestra <strong>plataforma de arquitectura</strong>: noticias, proyectos, cursos, libros y servicios. Encontrarás ideas sobre <strong>iluminación</strong>, fachadas y ambientes que te ayudarán a imaginar tu proyecto también de noche, y mucho más del mundo arquitectónico.</p>",
+   "s": 69,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1286,9 +1307,10 @@
   },
   {
    "type": "text",
-   "text": "¿Tienes proyectos, diseños o ideas que ansías hacer realidad? Nuestro estudio de arquitectura e interiorismo está comprometido en ofrecerte soluciones creativas y funcionales. Desde el diseño conceptual hasta la ejecución, nos dedicamos a convertir tus visiones en estructuras concretas. Ponte en contacto con nuestra oficina de arquitectura",
-   "html": "<p>¿Tienes <strong>proyectos</strong>, <strong>diseños</strong> o ideas que ansías hacer realidad? <span style=\"font-size: 20px; letter-spacing: 0.1px; text-align: var(--text-align);\">Nuestro <strong>estudio de arquitectura e interiorismo</strong> está comprometido en ofrecerte <strong>soluciones creativas y funcionales</strong>. Desde el<strong> diseño conceptual</strong> hasta la ejecución, nos dedicamos a convertir tus visiones en <strong>estructuras concretas</strong>. Ponte en contacto con nuestra <strong>oficina de arquitectura</strong></span></p>",
-   "s": 71
+   "text": "¿Quieres saber cómo se verá tu proyecto cuando se ponga el sol? Nuestro estudio de render prepara las vistas nocturnas a partir de tus planos y de la iluminación prevista, para casas, locales o edificios. Ponte en contacto con nuestra oficina y lo estudiamos contigo.",
+   "html": "<p>¿Quieres saber cómo se verá tu proyecto cuando se ponga el sol? Nuestro <strong>estudio de render</strong> prepara las <strong>vistas nocturnas</strong> a partir de tus planos y de la iluminación prevista, para casas, locales o edificios. Ponte en contacto con nuestra oficina y lo estudiamos contigo.</p>",
+   "s": 71,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1315,9 +1337,10 @@
   },
   {
    "type": "text",
-   "text": "Nos dedicamos a transformar conceptos innovadores en soluciones de diseño impactantes. Agencia de diseño grafico y arquitectura ofrecemos servicios personalizados en identidad visual, diseño gráfico, diseño web y experiencias interactivas.",
-   "html": "<div class=\"flex flex-grow flex-col max-w-full\"><div class=\"min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-2\" dir=\"auto\" data-message-author-role=\"assistant\" data-message-id=\"f8892441-9d0e-4ee7-856e-e762d71b61a4\"><div class=\"flex w-full flex-col gap-1 juice:empty:hidden juice:first:pt-[3px]\"><div class=\"markdown prose w-full break-words dark:prose-invert light\"><div class=\"flex flex-grow flex-col max-w-full\"><div class=\"min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-2\" dir=\"auto\" data-message-author-role=\"assistant\" data-message-id=\"d01259ce-aaa0-4e41-9212-f34eee3bdb37\"><div class=\"flex w-full flex-col gap-1 juice:empty:hidden juice:first:pt-[3px]\"><div class=\"markdown prose w-full break-words dark:prose-invert light\"><p>Nos dedicamos a transformar conceptos innovadores en soluciones de diseño impactantes. <strong>Agencia de diseño grafico y arquitectura</strong> ofrecemos servicios personalizados en <strong>identidad visual, diseño gráfico, diseño web y experiencias interactivas. </strong></p></div></div></div></div></div></div></div></div>",
-   "s": 73
+   "text": "Como agencia de diseño , cuidamos también la imagen del negocio que se verá iluminado: identidad visual , diseño gráfico y web para dar a conocer el local o el edificio.",
+   "html": "<p>Como <strong>agencia de diseño</strong>, cuidamos también la imagen del negocio que se verá iluminado: <strong>identidad visual</strong>, <strong>diseño gráfico</strong> y web para dar a conocer el local o el edificio.</p>",
+   "s": 73,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1343,9 +1366,10 @@
   },
   {
    "type": "text",
-   "text": "¿Buscas construir? ¿tienes dudas? Empresas de construcción, asesoramiento profesional para tus ideas y proyectos",
-   "html": "<p>¿Buscas <strong>construir</strong>? ¿tienes dudas? <strong>Empresas de construcción</strong>, asesoramiento profesional para tus <strong>ideas y proyectos</strong> </p>",
-   "s": 77
+   "text": "¿Vas a construir ? Con un render nocturno decides dónde irán las luces antes de pasar los cables.",
+   "html": "<p>¿Vas a <strong>construir</strong>? Con un <strong>render nocturno</strong> decides dónde irán las luces antes de pasar los cables.</p>",
+   "s": 77,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1371,9 +1395,10 @@
   },
   {
    "type": "text",
-   "text": "¿Estas pensando en reformar tu nocturno? Reformistas e interioristas dispuestos a analizar tu reforma. Obtiene asesoramiento ideas y precios.",
-   "html": "<p>¿Estas pensando en<strong> reformar tu nocturno</strong>? <strong>Reformistas</strong> e <strong>interioristas</strong> dispuestos a analizar tu <strong>reforma</strong>. Obtiene asesoramiento<strong> ideas y precios</strong>.</p>",
-   "s": 77
+   "text": "¿Piensas reformar la iluminación de tu casa, tu terraza o tu local? Compruébalo de noche en 3D y recibe ideas y precios.",
+   "html": "<p>¿Piensas <strong>reformar</strong> la iluminación de tu casa, tu terraza o tu local? Compruébalo de noche en 3D y recibe ideas y precios.</p>",
+   "s": 77,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1399,9 +1424,10 @@
   },
   {
    "type": "text",
-   "text": "Diseño arquitectónico. Diferentes propuestas arquitectónicas, siguiendo o proponiendo las nuevas tendencias de interiorismo y diseño arquitectónico.",
-   "html": "<p><strong>Diseño arquitectónico</strong>. Diferentes<strong> propuestas arquitectónicas</strong>, siguiendo o proponiendo las nuevas <strong>tendencias de interiorismo y diseño arquitectónico.</strong> </p>",
-   "s": 77
+   "text": "Diseño arquitectónico que piensa también en la noche: volúmenes, huecos y luz que se lucen al anochecer.",
+   "html": "<p><strong>Diseño arquitectónico</strong> que piensa también en la noche: volúmenes, huecos y luz que se lucen al anochecer.</p>",
+   "s": 77,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1427,9 +1453,10 @@
   },
   {
    "type": "text",
-   "text": "Renueva y Decora: Ideas para reformar y decorar un espacio, estudio de interiorismo por interioristas y decoradores profesionales",
-   "html": "<div class=\"flex-1 overflow-hidden\"><div class=\"react-scroll-to-bottom--css-zxvqf-79elbk h-full\"><div class=\"react-scroll-to-bottom--css-zxvqf-1n7m0yu\"><div class=\"flex flex-col pb-9 text-sm\"><div class=\"w-full text-token-text-primary\" data-testid=\"conversation-turn-259\"><div class=\"px-4 py-2 justify-center text-base md:gap-6 m-auto\"><div class=\"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] } group final-completion\"><div class=\"relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn\"><div class=\"flex-col gap-1 md:gap-3\"><div class=\"flex flex-grow flex-col max-w-full\"><div class=\"min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto\" data-message-author-role=\"assistant\" data-message-id=\"70b9b05a-0240-4569-a475-16d23390c118\"><div class=\"markdown prose w-full break-words dark:prose-invert light\"><p><strong>Renueva y Decora:</strong> <strong>Ideas para reformar y decorar  un espacio</strong>, <strong>estudio de interiorismo</strong> por <strong>interioristas</strong> y <strong>decoradores</strong> profesionales</p></div></div></div></div></div></div></div></div></div></div></div></div>",
-   "s": 77
+   "text": "Interiorismo y decoración : lámparas, apliques y luz ambiental para crear un espacio acogedor de noche.",
+   "html": "<p><strong>Interiorismo y decoración</strong>: lámparas, apliques y luz ambiental para crear un espacio acogedor de noche.</p>",
+   "s": 77,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1456,9 +1483,10 @@
   },
   {
    "type": "text",
-   "text": "Conoce las mejores empresas que trabajan con nosotros, estudios de arquitectura, arquitectos y diseñadores. Equipos multidisciplinario para dar respuestas a los diferentes tipos de proyectos arquitectónicos",
-   "html": "<p>Conoce las <strong>mejores empresas</strong> que trabajan con nosotros, <strong>estudios de arquitectura</strong>, <strong>arquitectos</strong> y <strong>diseñadores</strong>. <strong>Equipos multidisciplinario</strong> para dar respuestas a los diferentes tipos de <strong>proyectos arquitectónicos</strong></p>",
-   "s": 79
+   "text": "Conoce las empresas de arquitectura y diseño con las que colaboramos: equipos que proyectan edificios, espacios e iluminación y que necesitan mostrarlos también de noche.",
+   "html": "<p>Conoce las <strong>empresas de arquitectura</strong> y diseño con las que colaboramos: equipos que proyectan edificios, espacios e iluminación y que necesitan mostrarlos también de noche.</p>",
+   "s": 79,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1491,9 +1519,10 @@
   },
   {
    "type": "text",
-   "text": "En nuestro despacho de arquitectura, convertimos tus ideas y emociones en proyectos tangibles. Te guiamos para materializar tu visión en el hogar o espacio que siempre has imaginado. Encargados en Diseñar los espacios, Interiorismos, Dirección de obra, Estudio de viabilidad, Rehabilitaciones, Gestión de proyectos. Planes, presupuesto, Supervisión",
-   "html": "<p>En nuestro <strong>despacho de arquitectura</strong>, convertimos tus ideas y emociones en proyectos tangibles. Te guiamos para materializar tu visión en el hogar o espacio que siempre has imaginado. Encargados en <strong>Diseñar los espacios</strong>, <strong>Interiorismos</strong>, <strong>Dirección de obra</strong>, <strong>Estudio de viabilidad</strong>, <strong>Rehabilitaciones</strong>, <strong>Gestión de proyectos</strong>. <strong>Planes</strong>, <strong>presupuesto</strong>, <strong>Supervisión</strong></p>",
-   "s": 81
+   "text": "En nuestro despacho de arquitectura te ayudamos a pensar el proyecto también de noche: qué rincones iluminar, qué ambiente buscar y cómo se verá la fachada al anochecer. Lo trabajamos con planos y vistas nocturnas antes de que se instale una sola lámpara, para que decidas con seguridad. Contáctanos y lo vemos.",
+   "html": "<p>En nuestro <strong>despacho de arquitectura</strong> te ayudamos a pensar el proyecto también de noche: qué rincones iluminar, qué ambiente buscar y cómo se verá la <strong>fachada</strong> al anochecer. Lo trabajamos con planos y <strong>vistas nocturnas</strong> antes de que se instale una sola lámpara, para que decidas con seguridad. Contáctanos y lo vemos.</p>",
+   "s": 81,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1526,9 +1555,10 @@
   },
   {
    "type": "text",
-   "text": "¿Eres arquitecto, ingeniero. estudios arquitectónicos o empresa y quieres trabajar con nosotros? Trabajamos freelance y online, Contáctanos y organizaremos una Reunión. Conoce nuestros trabajos dearquitectura.",
-   "html": "<p>¿Eres <strong>arquitecto</strong>, <strong>ingeniero</strong>. <strong>estudios </strong><b>arquitectónicos</b> o<strong> empresa</strong> y quieres <strong>trabajar</strong> con nosotros? <strong>Trabajamos freelance</strong> y <strong>online</strong>, Contáctanos y organizaremos una Reunión. Conoce nuestros <strong>trabajos dearquitectura.</strong></p>",
-   "s": 83
+   "text": "¿Eres renderista o arquitecto y dominas la iluminación artificial y las vistas de noche? Trabajamos en remoto con profesionales y estudios. Escríbenos y fijamos una reunión.",
+   "html": "<p>¿Eres <strong>renderista</strong> o arquitecto y dominas la <strong>iluminación artificial</strong> y las vistas de noche? Trabajamos en remoto con profesionales y estudios. Escríbenos y fijamos una reunión.</p>",
+   "s": 83,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1555,9 +1585,10 @@
   },
   {
    "type": "text",
-   "text": "Descubre los mejores Cursos Online deArquitectura, donde te mostramos formaciones a distancia en diversas áreas como estructuras, mediciones, instalaciones, dibujo 2D, modelado 3D, fotografía, vídeo y diseño. accede a cursos especializados en urbanismo y paisajismo. Aprende a redactar proyectos de edificación, instrumentos de planeamiento urbanístico y gestión, así como proyectos de urbanización desde cualquier lugar y a tu propio ritmo.",
-   "html": "<p>Descubre los mejores <strong>Cursos Online deArquitectura</strong>, donde te mostramos <strong>formaciones</strong> a distancia en diversas áreas como <strong>estructuras</strong>, <strong>mediciones</strong>, <strong>instalaciones</strong>, <strong>dibujo 2D</strong>, <strong>modelado 3D</strong>, <strong>fotografía</strong>, <strong>vídeo</strong> y <strong>diseño</strong>. accede a <strong>cursos especializados en urbanismo y paisajismo</strong>. Aprende a redactar <strong>proyectos de edificación, instrumentos de planeamiento urbanístico y gestión</strong>, así como <strong>proyectos de urbanización</strong> desde cualquier lugar y a tu propio ritmo.</p>",
-   "s": 85
+   "text": "Los cursos online de arquitectura ofrecen formación a distancia en instalaciones , dibujo 2D, modelado 3D , fotografía, vídeo y diseño, la base para entender cómo se integra la luz en un proyecto. También hay cursos de urbanismo y paisajismo, útiles para quien ilumina calles, plazas y jardines, y todo se puede estudiar a tu ritmo.",
+   "html": "<p>Los <strong>cursos online de arquitectura</strong> ofrecen formación a distancia en <strong>instalaciones</strong>, dibujo 2D, <strong>modelado 3D</strong>, fotografía, vídeo y diseño, la base para entender cómo se integra la luz en un proyecto. También hay cursos de urbanismo y paisajismo, útiles para quien ilumina calles, plazas y jardines, y todo se puede estudiar a tu ritmo.</p>",
+   "s": 85,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1900,9 +1931,10 @@
   },
   {
    "type": "text",
-   "text": "Los mejores dibujos arquitectónicos, Croquis arquitectónicos, Diseños conceptuales, Collages e ilustraciones arquitectónicas, Diagramas",
-   "html": "<p>Los mejores <strong>dibujos arquitectónicos</strong>, <strong>Croquis arquitectónicos</strong>,  <strong>Diseños conceptuales</strong>, <strong>Collages</strong> e <strong>ilustraciones arquitectónicas</strong>, <strong>Diagramas</strong></p>",
-   "s": 96
+   "text": "La noche también se dibuja: croquis de iluminación , esquemas de luces e ilustraciones de ambiente.",
+   "html": "<p>La noche también se dibuja: <strong>croquis de iluminación</strong>, esquemas de luces e ilustraciones de ambiente.</p>",
+   "s": 96,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1929,9 +1961,10 @@
   },
   {
    "type": "text",
-   "text": "Realizamos todo tipo de planos, ¿Qué son los planos de arquitectura? Tipos de planos, Plano de situación, Plano de planta, El alzado, Plano de emplazamiento, vista de secciones, perspectiva arquitectónicas, planos de nocturnos y Nocturnos, Ideas, imágenes y decoración",
-   "html": "<p>Realizamos todo tipo de <strong>planos</strong>, <strong>¿Qué son los planos de arquitectura?</strong> <strong>Tipos de planos</strong>, <strong>Plano de situación</strong>, <strong> Plano de planta</strong>, <strong>El alzado</strong>,  <strong>Plano de emplazamiento</strong>, <strong>vista de secciones</strong>, <strong>perspectiva arquitectónicas</strong>, <strong>planos de nocturnos y Nocturnos</strong>,  Ideas, imágenes y <strong>decoración </strong></p>",
-   "s": 98
+   "text": "Los planos son la base del render nocturno: plantas para situar cada luminaria, alzados para los apliques y la luz de fachada, secciones para la altura de techos y falsos techos, y el plano de emplazamiento para farolas y caminos del jardín. Si te falta alguno, nos encargamos de dibujarlo.",
+   "html": "<p>Los <strong>planos</strong> son la base del render nocturno: <strong>plantas</strong> para situar cada luminaria, <strong>alzados</strong> para los apliques y la luz de fachada, secciones para la altura de techos y falsos techos, y el plano de emplazamiento para farolas y caminos del jardín. Si te falta alguno, nos encargamos de dibujarlo.</p>",
+   "s": 98,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1958,9 +1991,10 @@
   },
   {
    "type": "text",
-   "text": "Maqueta de arquitectura, industriales, conceptuales y urbanísticas, creamos maquetas arquitectónicas de alta precisión y detalle utilizando tecnologías avanzadas como impresión 3D, CNC y corte láser. Trabajamos con arquitectos y constructoras, convirtiendo ideas en representaciones visuales reales y propositivas.",
-   "html": "<p><strong>Maqueta de arquitectura,</strong> <strong>industriales</strong>, <strong>conceptuales</strong> y <strong>urbanísticas</strong>,<strong> creamos maquetas arquitectónicas de alta precisión</strong> y detalle utilizando tecnologías avanzadas como <strong>impresión 3D</strong>, <strong>CNC</strong> y <strong>corte láser</strong>. Trabajamos con <strong>arquitectos</strong> y <strong>constructoras</strong>, convirtiendo ideas en<strong> representaciones visuales</strong> reales y propositivas.</p>",
-   "s": 102
+   "text": "Una maqueta enseña bien el volumen, pero cuesta mostrar con ella el ambiente de la noche. El render nocturno añade lo que la maqueta no da: la luz que sale de las ventanas, los focos del jardín y el reflejo en el agua de la piscina.",
+   "html": "<p>Una <strong>maqueta</strong> enseña bien el volumen, pero cuesta mostrar con ella el ambiente de la noche. El <strong>render nocturno</strong> añade lo que la maqueta no da: la luz que sale de las ventanas, los focos del jardín y el reflejo en el agua de la piscina.</p>",
+   "s": 102,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1987,9 +2021,10 @@
   },
   {
    "type": "text",
-   "text": "Maximiza la presentación de tus Plantillas para portafolio de arquitectura. Te ofrecemos la oportunidad de presentar tu obra de manera impactante, ya sea en formato impreso o en línea. Para que tu portafolio destaque",
-   "html": "<p><strong>Maximiza la presentación de tus Plantillas</strong> para <strong>portafolio de arquitectura. T</strong>e ofrecemos la oportunidad de presentar tu <strong>obra</strong> de manera impactante, ya sea en formato impreso o en línea. Para que tu <strong>portafolio</strong> destaque</p>",
-   "s": 105
+   "text": "En un portafolio de arquitectura , una vista nocturna rompe la serie de imágenes de día y llama la atención: el contraste de luces y sombras hace que el proyecto se recuerde.",
+   "html": "<p>En un <strong>portafolio de arquitectura</strong>, una <strong>vista nocturna</strong> rompe la serie de imágenes de día y llama la atención: el contraste de luces y sombras hace que el proyecto se recuerde.</p>",
+   "s": 105,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2015,9 +2050,10 @@
   },
   {
    "type": "text",
-   "text": "Explora una amplia gama de imágenes sobre arquitectura, arquitectos y construcción, Descubre una colección de fotografías. impresionantes fotos urbanas, paisajes urbanos, arte conceptual, ilustraciones arquitectónicas y ciudades imaginarias. diversidad del diseño arquitectónico y la construcción.",
-   "html": "<p>Explora una amplia gama de<strong> imágenes sobre arquitectura</strong>, <strong>arquitectos</strong> y <strong>construcción</strong>, Descubre una <strong>colección de fotografías</strong>.  impresionantes fotos urbanas, paisajes urbanos, arte conceptual, ilustraciones arquitectónicas y ciudades imaginarias. diversidad del <strong>diseño arquitectónico y la construcción.</strong></p>",
-   "s": 107
+   "text": "Explora nuestras imágenes de arquitectura : ciudades iluminadas, paisajes urbanos al anochecer, edificios de noche e ilustraciones que te darán ideas para el ambiente nocturno de tu proyecto.",
+   "html": "<p>Explora nuestras <strong>imágenes de arquitectura</strong>: ciudades iluminadas, paisajes urbanos al anochecer, edificios de noche e ilustraciones que te darán ideas para el <strong>ambiente nocturno</strong> de tu proyecto.</p>",
+   "s": 107,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2043,9 +2079,10 @@
   },
   {
    "type": "text",
-   "text": "Explora nuestra selección de libros dearquitectura, una recopilación ideal para aficionados a la historia, teoría y práctica. Desde manuales técnicos hasta ejemplares sobre diseño interior, regala conocimiento arquitectónico con los mejores libros en formato impreso y digital",
-   "html": "<p>Explora nuestra selección de<strong> libros dearquitectura</strong>, una recopilación ideal para aficionados a la <strong>historia</strong>, <strong>teoría</strong> y <strong>práctica</strong>. Desde <strong>manuales técnicos</strong> hasta ejemplares sobre <strong>diseño interior</strong>, regala conocimiento <strong>arquitectónico</strong> con los mejores <strong>libros en formato impreso y digital</strong></p>",
-   "s": 109
+   "text": "Si te interesa la luz, busca libros de arquitectura que traten la iluminación : cómo se ilumina una fachada, un museo o una vivienda, desde la teoría hasta los manuales técnicos. Una buena selección para aficionados y profesionales, en papel o digital.",
+   "html": "<p>Si te interesa la luz, busca <strong>libros de arquitectura</strong> que traten la <strong>iluminación</strong>: cómo se ilumina una fachada, un museo o una vivienda, desde la teoría hasta los manuales técnicos. Una buena selección para aficionados y profesionales, en papel o digital.</p>",
+   "s": 109,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2071,9 +2108,10 @@
   },
   {
    "type": "text",
-   "text": "Revistas de arquitectura innovación y belleza en el mundo de la construcción! Exploramos los rincones más inspiradores del diseño arquitectónico, desde icónicos rascacielos hasta proyectos residenciales únicos y sostenibles. Sumérgete en análisis detallados de los estilos arquitectónicos, desde los clásicos hasta las tendencias contemporáneas más vanguardistas.",
-   "html": "<p><strong>Revistas de arquitectura innovación y belleza</strong> en el mundo de la <strong>construcción</strong>! Exploramos los rincones más inspiradores del <strong>diseño arquitectónico</strong>, desde icónicos rascacielos hasta <strong>proyectos residenciales únicos y sostenibles</strong>. Sumérgete en análisis detallados de los <strong>estilos arquitectónicos</strong>, desde los clásicos hasta las<strong> tendencias contemporáneas más vanguardistas</strong>.</p>",
-   "s": 111
+   "text": "Las revistas de arquitectura publican muchas fotografías nocturnas : rascacielos iluminados, casas con el jardín encendido o locales que cobran vida al anochecer. Son una gran fuente de inspiración para decidir el ambiente de tu render, tanto si buscas un estilo clásico como una propuesta más vanguardista.",
+   "html": "<p>Las <strong>revistas de arquitectura</strong> publican muchas <strong>fotografías nocturnas</strong>: rascacielos iluminados, casas con el jardín encendido o locales que cobran vida al anochecer. Son una gran fuente de inspiración para decidir el ambiente de tu render, tanto si buscas un estilo clásico como una propuesta más vanguardista.</p>",
+   "s": 111,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2100,9 +2138,10 @@
   },
   {
    "type": "text",
-   "text": "Conce los programas mas utilizados en arquitectura como AutoCAD, Revit, Archicad, Rhinoceros 3D, Sketchup, Vectorworks, V-Ray, Lumion. Postproducción y Visualización arquitectónica",
-   "html": "<p>Conce los<strong> programas mas utilizados en arquitectura</strong> como <strong>AutoCAD</strong>, <strong>Revit</strong>, <strong>Archicad</strong>, <strong>Rhinoceros 3D</strong>, <strong>Sketchup</strong>, <strong>Vectorworks</strong>,<strong> V-Ray</strong>, <strong>Lumion</strong>. <strong>Postproducción</strong> y <strong>Visualización arquitectónica</strong></p><div> </div>",
-   "s": 113
+   "text": "Para renders nocturnos , V-Ray y Corona ofrecen un control fino de cada lámpara, mientras que Lumion , Twinmotion o Enscape agilizan escenas exteriores con muchas luces. Conoce los programas más usados en arquitectura.",
+   "html": "<p>Para <strong>renders nocturnos</strong>, <strong>V-Ray</strong> y <strong>Corona</strong> ofrecen un control fino de cada lámpara, mientras que <strong>Lumion</strong>, <strong>Twinmotion</strong> o Enscape agilizan escenas exteriores con muchas luces. Conoce los programas más usados en arquitectura.</p>",
+   "s": 113,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2129,9 +2168,10 @@
   },
   {
    "type": "text",
-   "text": "Explora las últimas y más destacadas obras arquitectónicas, desde inspiradoras residencias hasta proyectos emblemáticos. Descubre los secretos para crear un proyecto arquitectónicos exitoso y cómo llevar a cabo su desarrollo. Sumérgete en nuestro portafolio para conocer algunos de los proyectos más destacados y visitados en el mundo",
-   "html": "<p>Explora las últimas y más destacadas obras arquitectónicas, desde inspiradoras residencias hasta proyectos emblemáticos. Descubre los secretos para crear un proyecto arquitectónicos exitoso y cómo llevar a cabo su desarrollo. Sumérgete en nuestro portafolio para conocer algunos de los proyectos más destacados y visitados en el mundo</p>",
-   "s": 115
+   "text": "Explora proyectos de arquitectura destacados de todo el mundo: viviendas, museos, hoteles y espacios públicos que ganan carácter al anochecer. Verás cómo la iluminación forma parte del diseño y te servirá de inspiración para plantear tu propio render nocturno .",
+   "html": "<p>Explora <strong>proyectos de arquitectura</strong> destacados de todo el mundo: viviendas, museos, hoteles y espacios públicos que ganan carácter al anochecer. Verás cómo la <strong>iluminación</strong> forma parte del diseño y te servirá de inspiración para plantear tu propio <strong>render nocturno</strong>.</p>",
+   "s": 115,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2157,9 +2197,10 @@
   },
   {
    "type": "text",
-   "text": "La incursión de la inteligencia artificial en la industria arquitectónica ha sido significativa, ofreciendo a los arquitectos un aliado invaluable en el proceso de diseño, proyectos y obras. Explora cómo esta tecnología redefine la arquitectura y descubre sus ventajas, desventajas y ejemplos más relevantes. Desde el diseño asistido hasta la visualización en realidad virtual, la Inteligencia Artificial abre un abanico de aplicaciones para este campo",
-   "html": "<p>La incursión de la<strong> inteligencia artificial en la industria arquitectónica</strong> ha sido significativa, ofreciendo a los <strong>arquitectos</strong> un aliado invaluable en el <strong>proceso de diseño, proyectos y obras</strong>. Explora cómo esta <strong>tecnología</strong> redefine la <strong>arquitectura</strong> y descubre sus <strong>ventajas</strong>, <strong>desventajas</strong> y ejemplos más relevantes. Desde el <strong>diseño asistido</strong> hasta la v<strong>isualización en realidad virtual,</strong> la<strong> Inteligencia Artificial</strong> abre un abanico de aplicaciones para este campo</p>",
-   "s": 117
+   "text": "La inteligencia artificial puede convertir una imagen de día en una escena de noche o inventar un ambiente iluminado a partir de un texto. Es útil para tantear ideas, pero no sabe dónde irá cada luminaria ni cuánto alumbra. Para estudiar un proyecto de iluminación real se sigue trabajando con un render nocturno hecho sobre el modelo 3D. Descubre más sobre la IA en arquitectura.",
+   "html": "<p>La <strong>inteligencia artificial</strong> puede convertir una imagen de día en una escena de noche o inventar un ambiente iluminado a partir de un texto. Es útil para tantear ideas, pero no sabe dónde irá cada luminaria ni cuánto alumbra. Para estudiar un <strong>proyecto de iluminación</strong> real se sigue trabajando con un <strong>render nocturno</strong> hecho sobre el modelo 3D. Descubre más sobre la IA en arquitectura.</p>",
+   "s": 117,
+   "texto_propio": true
   },
   {
    "type": "button",

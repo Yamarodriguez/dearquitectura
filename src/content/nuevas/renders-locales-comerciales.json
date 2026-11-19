@@ -168,7 +168,7 @@
    "items": [
     {
      "title": "¿Qué es un render de Locales y cómo se realizan?",
-     "html": "<div id=\"cc-m-9791684519\" class=\"j-module n j-text \"><p data-start=\"5254\" data-end=\"5799\">Un <strong data-start=\"5257\" data-end=\"5275\">render de local</strong> es una representación digital fotorrealista de un proyecto arquitectónico, creada mediante <strong data-start=\"5367\" data-end=\"5394\">software de modelado 3D</strong>, <strong data-start=\"5396\" data-end=\"5419\">renderizado digital</strong> y <strong data-start=\"5422\" data-end=\"5446\">texturizado avanzado</strong>. Este servicio permite visualizar el <strong data-start=\"5484\" data-end=\"5509\">diseño arquitectónico</strong>, los <strong data-start=\"5515\" data-end=\"5528\">planos 2D</strong> y <strong data-start=\"5531\" data-end=\"5544\">planos 3D</strong> del proyecto, facilitando la comunicación entre arquitectos, diseñadores y clientes.</p><p>El proceso para realizar un render de Locales incluye:</p><ol><li><strong>Modelado 3D:</strong> Creación del modelo tridimensional de la estructura arquitectónica y su entorno.</li><li><strong>Texturizado:</strong> Aplicación de materiales como vidrio, concreto, ladrillo, y detalles como vegetación o mobiliario urbano.</li><li><strong>Iluminación:</strong> Configuración de luz natural o artificial para simular el aspecto diurno, nocturno o en diferentes condiciones climáticas.</li><li><strong>Renderizado:</strong> Generación de imágenes de alta calidad utilizando motores de render especializados.</li><li><strong>Postproducción:</strong> Refinamiento de la imagen en software de edición para ajustar colores, contrastes y efectos especiales.</li></ol></div>"
+     "html": "<p>Un <strong>render de local comercial</strong> es una imagen fotorrealista, generada por ordenador, que muestra cómo quedará una tienda, un restaurante, una oficina a pie de calle o cualquier negocio antes de la obra: su interior, su <strong>escaparate</strong> y su fachada. Con él se ven la distribución, el mobiliario, la iluminación y la imagen de marca tal y como las verá el cliente al entrar.</p><p>El proceso tiene cinco fases:</p><ul><li>Modelado: se construye en 3D el local con sus medidas, pilares, techos y huecos.</li><li>Mobiliario y marca: se colocan mostradores, estanterías, expositores, rótulos y colores corporativos.</li><li>Materiales: suelos, revestimientos, vidrios y metales con su textura.</li><li>Iluminación: luz de escaparate, focos sobre el producto y luz ambiente.</li><li>Render y retoque: se calcula la imagen y se ajustan color y contraste.</li></ul>"
     }
    ],
    "s": 30
@@ -178,39 +178,39 @@
    "items": [
     {
      "title": "¿Qué programas se utilizan para realizar renders de Locales?",
-     "html": "<p>Para crear renders de Locales, los profesionales emplean herramientas avanzadas de modelado y renderizado. Algunos de los programas más comunes son:</p><ol><li><strong>SketchUp:</strong> Popular por su facilidad de uso para modelado arquitectónico inicial.</li><li><strong>3ds Max:</strong> Ideal para proyectos complejos con gran detalle en texturizado y animaciones.</li><li><strong>Revit:</strong> Especializado en arquitectura e ingeniería, permite trabajar con modelos BIM.</li><li><strong>Lumion:</strong> Excelente para renders rápidos, con efectos de paisajismo y ambientes realistas.</li><li><strong>Blender:</strong> Alternativa gratuita y versátil para modelado y renderizado de alta calidad.</li><li><strong>V-Ray:</strong> Motor de render avanzado para obtener resultados fotorrealistas integrados con otros programas como SketchUp, Revit o 3ds Max.</li><li><strong>Unreal Engine:</strong> Perfecto para recorridos interactivos y renders en tiempo real.</li><li><strong>Corona Renderer:</strong> Reconocido por su facilidad de uso y resultados altamente realistas.</li></ol>"
+     "html": "<p>Los <strong>renders de locales</strong> se preparan con programas de modelado y de render como estos:</p><ul><li>SketchUp: muy usado para encajar la distribución del local y probar mobiliario.</li><li>Revit: permite trabajar en BIM cuando el local forma parte de un proyecto técnico con instalaciones.</li><li>3ds Max: ofrece mucho control sobre expositores, lámparas y piezas a medida.</li><li>Rhino: útil para mostradores curvos o elementos de diseño singulares.</li><li>Corona y V-Ray: reproducen con realismo los reflejos del vidrio, el brillo del metal y la luz artificial de una tienda.</li><li>Enscape y Twinmotion: permiten revisar el interior casi en tiempo real junto al cliente.</li><li>Unreal Engine: para recorridos interactivos por la tienda.</li><li>Blender: opción gratuita y completa, con la que se modela y se <strong>renderiza</strong> en un mismo programa.</li></ul>"
     },
     {
      "title": "¿Por qué usar renders de Locales?",
-     "html": "<p>Los renders de Locales son herramientas clave por varias razones:</p><ol><li><strong>Visualización realista:</strong> Ayudan a clientes y desarrolladores a imaginar cómo se verá el Local en su entorno.</li><li><strong>Toma de decisiones:</strong> Facilitan la selección de materiales, colores y acabados antes de construir.</li><li><strong>Marketing inmobiliario:</strong> Ofrecen imágenes impactantes que incrementan las ventas y la presentación de proyectos.</li><li><strong>Optimización del diseño:</strong> Permiten detectar posibles errores o inconsistencias antes de iniciar la obra.</li><li><strong>Impacto en presentaciones:</strong> Aumentan la profesionalidad en presentaciones comerciales y licitaciones.</li></ol>"
+     "html": "<ul><li>Aprobar el proyecto: el propietario, el inquilino o la <strong>franquicia</strong> validan el diseño viendo la tienda terminada.</li><li>Pedir presupuestos con criterio: los gremios saben qué se espera de ellos y comparan sobre lo mismo.</li><li>Comercializar el espacio: un local vacío se <strong>alquila o vende</strong> mejor si se ven sus posibilidades.</li><li>Cuidar la marca: se comprueba que colores, rótulo y escaparate transmiten la <strong>imagen del negocio</strong>.</li><li>Corregir a tiempo: se detectan pasillos estrechos o zonas mal iluminadas antes de la obra.</li></ul>"
     },
     {
      "title": "¿Por qué es Importante Tener un Render de Local?",
-     "html": "<p data-start=\"5862\" data-end=\"6531\">Contar con un <strong data-start=\"5876\" data-end=\"5894\">render de local</strong> es crucial para comunicar la visión del proyecto de manera clara y precisa. Permite visualizar el <strong data-start=\"5993\" data-end=\"6018\">diseño arquitectónico</strong>, las <strong data-start=\"6024\" data-end=\"6049\">ideas de construcción</strong>, la distribución en los <strong data-start=\"6074\" data-end=\"6095\">planos interiores</strong> y <strong data-start=\"6098\" data-end=\"6112\">exteriores</strong> en <strong data-start=\"6116\" data-end=\"6122\">2D</strong> y <strong data-start=\"6125\" data-end=\"6131\">3D</strong>, y detectar posibles mejoras desde las primeras etapas. Además, un render bien realizado potencia el <strong data-start=\"6233\" data-end=\"6259\">marketing inmobiliario</strong> y la <strong data-start=\"6265\" data-end=\"6287\">venta de proyectos</strong>.</p>"
+     "html": "<p>Abrir o reformar un negocio supone una inversión importante, y el diseño del local influye en cómo lo percibe el cliente desde la puerta. Un <strong>render de local</strong> permite comprobar la distribución, el recorrido, la luz y la <strong>marca</strong> antes de gastar en obra, y que todas las partes, desde la propiedad hasta los instaladores, trabajen con la misma idea.</p>"
     },
     {
      "title": "¿Cuánto Cuesta un Render de Local?",
-     "html": "<p data-start=\"6580\" data-end=\"7197\">El <strong data-start=\"6583\" data-end=\"6613\">costo de un render de local</strong> depende de la <strong data-start=\"6628\" data-end=\"6656\">complejidad del proyecto</strong>, el <strong data-start=\"6661\" data-end=\"6681\">nivel de detalle</strong> requerido y el <strong data-start=\"6697\" data-end=\"6722\">tiempo de renderizado</strong>. Además, el precio puede variar si se incluyen <strong data-start=\"6770\" data-end=\"6786\">planos en 2D</strong> y <strong data-start=\"6789\" data-end=\"6805\">planos en 3D</strong> detallados, junto con el render. Los precios se adaptan a <strong data-start=\"6864\" data-end=\"6895\">presupuestos personalizados</strong>, desde <strong data-start=\"6903\" data-end=\"6925\">renders económicos</strong> para proyectos simples hasta <strong data-start=\"6955\" data-end=\"6974\">renders premium</strong> para un alto fotorrealismo.</p>"
+     "html": "<p>El <strong>coste de un render de local</strong> depende de la superficie, del número de vistas (interior, escaparate, fachada), del mobiliario a medida que haya que modelar y del grado de detalle de la marca. También cuenta si hay que hacer antes los <strong>planos</strong> de distribución. El presupuesto se ajusta a cada caso, desde una vista para alquilar un local vacío hasta un juego completo para una franquicia.</p>"
     },
     {
      "title": "¿Qué Necesito para Tener un Render de Local?",
-     "html": "<p data-start=\"7256\" data-end=\"7948\">Para obtener un <strong data-start=\"7272\" data-end=\"7290\">render de local</strong> de alta calidad, es fundamental contar con <strong data-start=\"7334\" data-end=\"7355\">planos detallados</strong>, <strong data-start=\"7357\" data-end=\"7384\">diseños arquitectónicos</strong> y referencias visuales de <strong data-start=\"7411\" data-end=\"7421\">estilo</strong> y <strong data-start=\"7424\" data-end=\"7436\">acabados</strong>. Además, se deben desarrollar <strong data-start=\"7467\" data-end=\"7488\">planos interiores</strong> y <strong data-start=\"7491\" data-end=\"7505\">exteriores</strong> en <strong data-start=\"7509\" data-end=\"7515\">2D</strong> y <strong data-start=\"7518\" data-end=\"7524\">3D</strong>, que complementen la visualización digital. La colaboración con un equipo profesional de <strong data-start=\"7614\" data-end=\"7629\">modelado 3D</strong> y <strong data-start=\"7632\" data-end=\"7655\">renderizado digital</strong> garantiza resultados que cumplan con las expectativas de <strong data-start=\"7713\" data-end=\"7725\">realismo</strong> y <strong data-start=\"7728\" data-end=\"7741\">precisión</strong>.</p>"
+     "html": "<p>Lo básico es un <strong>plano del local</strong> con sus medidas, o fotos y cotas si el espacio ya existe. Ayudan mucho el <strong>manual de marca</strong> o los colores corporativos, ejemplos de tiendas que te gusten y la lista del mobiliario o del producto que se va a exponer. Con todo ello modelamos el espacio y el <strong>render</strong> reflejará tu negocio con fidelidad.</p>"
     },
     {
      "title": "¿Cuánto Tiempo se Tarda en Hacer un Render de Local?",
-     "html": "<p>El <strong data-start=\"8018\" data-end=\"8064\">tiempo de realización de un render de local</strong> varía según la <strong data-start=\"8080\" data-end=\"8108\">complejidad del proyecto</strong> y el <strong data-start=\"8114\" data-end=\"8134\">nivel de detalle</strong> requerido. Proyectos simples pueden completarse en <strong data-start=\"8186\" data-end=\"8200\">pocos días</strong>, mientras que aquellos que incluyen <strong data-start=\"8237\" data-end=\"8258\">planos interiores</strong> y <strong data-start=\"8261\" data-end=\"8275\">exteriores</strong> en <strong data-start=\"8279\" data-end=\"8285\">2D</strong> y <strong data-start=\"8288\" data-end=\"8294\">3D</strong> pueden requerir <strong data-start=\"8311\" data-end=\"8329\">varias semanas</strong> para alcanzar un resultado <strong data-start=\"8357\" data-end=\"8374\">fotorrealista</strong> y <strong data-start=\"8377\" data-end=\"8396\">de alta calidad</strong>.</p>"
+     "html": "<p>El plazo varía con el tamaño del local y con las vistas que se pidan. Un pequeño comercio con una o dos imágenes puede resolverse en <strong>pocos días</strong>; un local grande, con mobiliario a medida, fachada y varias vistas interiores, puede llevar <strong>varias semanas</strong> hasta alcanzar un resultado fotorrealista.</p>"
     },
     {
      "title": "Tipos de renderizado de Locales",
-     "html": "<ol><li><strong>Render estático:</strong> Imágenes fijas de alta calidad que destacan el diseño arquitectónico y el entorno.</li><li><strong>Render animado:</strong> Videos que muestran recorridos virtuales o cambios a lo largo del tiempo, como iluminación diurna y nocturna.</li><li><strong>Render interactivo:</strong> Herramientas que permiten al usuario explorar el Local en 3D desde diferentes ángulos y perspectivas.</li><li><strong>Render aéreo:</strong> Vista panorámica o de drones que muestra el Local en su contexto urbano.</li><li><strong>Render de detalle:</strong> Enfocado en acabados específicos, como fachadas, interiores o texturas.</li></ol>"
+     "html": "<ul><li>Vista interior: el espacio de venta tal como lo ve el cliente al entrar.</li><li>Vista de <strong>escaparate</strong> y fachada: el local desde la acera, con su rótulo.</li><li>Vista cenital: la distribución completa desde arriba, útil para explicar recorridos.</li><li>Render 360°: una imagen esférica que se gira con el ratón o el móvil.</li><li>Vídeo render: un paseo por la tienda desde la entrada hasta la caja.</li><li>Render de detalle: un mostrador, un expositor o un <strong>producto</strong> en su sitio.</li></ul>"
     },
     {
      "title": "Ventajas de usar renders en proyectos para Locales",
-     "html": "<ol><li><strong>Reducción de costos:</strong> Elimina la necesidad de maquetas físicas o sesiones fotográficas costosas.</li><li><strong>Flexibilidad:</strong> Permite probar múltiples diseños, configuraciones y materiales sin gastos adicionales.</li><li><strong>Impacto visual:</strong> Genera imágenes impresionantes que cautivan a clientes y partes interesadas.</li><li><strong>Comunicación efectiva:</strong> Mejora la comprensión entre arquitectos, diseñadores y clientes.</li><li><strong>Aumento de ventas:</strong> Incrementa el interés en proyectos inmobiliarios al mostrar un producto atractivo y profesional.</li></ol>"
+     "html": "<ul><li>Menos riesgos: se decide la distribución sin mover un tabique.</li><li>Pruebas sin coste de obra: se cambian mobiliario, colores o iluminación sobre la imagen.</li><li>Presentaciones más sólidas: la <strong>franquicia</strong> o el inversor ven el resultado de forma clara.</li><li>Comunicación con los <strong>gremios</strong>: carpinteros, electricistas e instaladores trabajan con una referencia visual.</li><li>Promoción anticipada: las imágenes sirven para anunciar la <strong>apertura</strong> en redes y en la web con antelación.</li></ul>"
     },
     {
      "title": "Contratar servicios de renders de Locales online: una guía para clientes",
-     "html": "<ol><li><strong>Investiga el portafolio:</strong> Busca estudios o profesionales con experiencia en renders de Locales similares a tu proyecto.</li><li><strong>Define tus necesidades:</strong> Especifica el nivel de detalle, estilo y plazos que requieres.</li><li><strong>Solicita referencias:</strong> Lee opiniones o casos de éxito de clientes anteriores.</li><li><strong>Presupuesto claro:</strong> Asegúrate de que el costo incluye revisiones y postproducción.</li><li><strong>Comunicación continua:</strong> Trabaja de la mano con el profesional para garantizar que el resultado final cumpla tus expectativas.</li></ol><p>Los renders de Locales online son una solución práctica y eficiente para visualizar proyectos arquitectónicos de forma profesional, rápida y accesible.</p>"
+     "html": "<ul><li>Mira trabajos previos: busca un estudio que haya mostrado tiendas, restaurantes o negocios parecidos al tuyo.</li><li>Reúne la documentación: plano del local, fotos del estado actual y <strong>manual de marca</strong>.</li><li>Decide qué vistas necesitas: interior, escaparate, fachada o un recorrido en vídeo.</li><li>Aclara el presupuesto: qué incluye en revisiones y en postproducción.</li><li>Sigue el trabajo de cerca: comenta los primeros borradores y da el visto bueno solo cuando estés conforme.</li></ul><p>Encargar <strong>renders de locales online</strong> es una forma práctica y ágil de ver cómo será tu <strong>negocio</strong> cuando aún no se ha empezado la reforma.</p>"
     }
    ],
    "s": 30
@@ -223,9 +223,10 @@
   },
   {
    "type": "text",
-   "text": "Los tipos de renders en el campo de la arquitectura y el diseño abarcan diversas técnicas para crear representaciones visuales. Entre los más comunes se encuentran, render de alta calidad renderizado en 4K y rendrings en 8K (UHD)",
-   "html": "<p>Los tipos de renders en el campo de la arquitectura y el diseño abarcan diversas técnicas para crear representaciones visuales. Entre los más comunes se encuentran, <strong>render de alta calidad</strong> <strong>renderizado en 4K y rendrings en 8K</strong> (UHD)</p>",
-   "s": 33
+   "text": "Un local rara vez se muestra solo por dentro: el proyecto suele completarse con renders de fachadas para el escaparate, imágenes de cafeterías y restaurantes, renders de producto para los expositores o vistas nocturnas con el rótulo encendido. Estos tipos de render encajan bien con el tuyo.",
+   "html": "<p>Un local rara vez se muestra solo por dentro: el proyecto suele completarse con <strong>renders de fachadas</strong> para el escaparate, imágenes de <strong>cafeterías</strong> y restaurantes, <strong>renders de producto</strong> para los expositores o vistas nocturnas con el rótulo encendido. Estos tipos de render encajan bien con el tuyo.</p>",
+   "s": 33,
+   "texto_propio": true
   },
   {
    "type": "image",
@@ -627,9 +628,10 @@
   },
   {
    "type": "text",
-   "text": "Los renders de arquitectura son herramientas indispensables que permiten visualizar y presentar proyectos de manera atractiva y efectiva. Ofrecen una vista previa detallada y realista que facilita la toma de decisiones y la promoción de diseños arquitectónicos.",
-   "html": "<p>Los <strong>renders de arquitectura</strong> son<strong> herramientas</strong> indispensables que permiten <strong>visualizar y presentar proyectos</strong> de manera atractiva y efectiva. Ofrecen una <strong>vista previa detallada y realista</strong> que facilita la toma de decisiones y la <strong>promoción de diseños arquitectónicos</strong>.</p>",
-   "s": 47
+   "text": "Los renders de arquitectura aplicados a un local muestran cómo se organiza el espacio comercial: accesos, zonas de venta, almacén y atención al público. Son una vista previa realista que ayuda a decidir y a promocionar el negocio desde el primer día.",
+   "html": "<p>Los <strong>renders de arquitectura</strong> aplicados a un local muestran cómo se organiza el espacio comercial: accesos, zonas de venta, almacén y atención al público. Son una vista previa realista que ayuda a decidir y a <strong>promocionar</strong> el negocio desde el primer día.</p>",
+   "s": 47,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -656,9 +658,10 @@
   },
   {
    "type": "text",
-   "text": "El render de interiores es una técnica que permite crear representaciones visuales realistas y detalladas de los espacios internos de una construcción. muestra con precisión los elementos decorativos, la distribución del mobiliario, la iluminación y los acabados internos.",
-   "html": "<p>El <strong>render de interiores</strong> es una <strong>técnica que permite crear representaciones visuales realistas y detalladas de los espacios internos de una construcción</strong>. muestra con precisión los elementos <strong>decorativos</strong>, la <strong>distribución</strong> del <strong>mobiliario</strong>, la<strong> iluminación y los acabados internos.</strong></p>",
-   "s": 47
+   "text": "El render de interiores de un local enseña lo que vivirá el cliente al cruzar la puerta: el mostrador, los expositores, el recorrido entre estanterías, la iluminación sobre el producto y los acabados de suelos y paredes. Suele ser la vista clave para aprobar el diseño.",
+   "html": "<p>El <strong>render de interiores</strong> de un local enseña lo que vivirá el cliente al cruzar la puerta: el mostrador, los expositores, el recorrido entre estanterías, la <strong>iluminación</strong> sobre el producto y los acabados de suelos y paredes. Suele ser la vista clave para aprobar el diseño.</p>",
+   "s": 47,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -686,9 +689,10 @@
   },
   {
    "type": "text",
-   "text": "Los renders online ofrecen una manera efectiva y eficiente de visualizar proyectos arquitectónicos antes de que se materialicen. Utilizando software avanzado de modelado 3D y renderizado, los profesionales pueden transformar planos y conceptos en imágenes...",
-   "html": "<p>Los <strong>renders online</strong> ofrecen una manera efectiva y eficiente de <strong>visualizar proyectos arquitectónicos antes de que se materialicen</strong>. Utilizando <strong>software avanzado de modelado 3D y renderizad</strong>o, los profesionales pueden transformar <strong>planos</strong> y conceptos en imágenes...</p>",
-   "s": 47
+   "text": "Con un render de local online no importa dónde esté el negocio: se envían el plano, unas fotos del espacio y el manual de marca , y el estudio trabaja a distancia hasta entregar imágenes listas para aprobar o anunciar.",
+   "html": "<p>Con un <strong>render de local online</strong> no importa dónde esté el negocio: se envían el plano, unas fotos del espacio y el <strong>manual de marca</strong>, y el estudio trabaja a distancia hasta entregar imágenes listas para aprobar o anunciar.</p>",
+   "s": 47,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -705,9 +709,10 @@
   },
   {
    "type": "text",
-   "text": "¡Descubre nuestros servicios de renders y arquitectura! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.",
-   "html": "<p>¡Descubre nuestros<strong> servicios de renders y arquitectura</strong>! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.</p>",
-   "s": 48
+   "text": "¡Descubre nuestro servicio de render de locales ! Tiendas , restaurantes y oficinas, tanto el interior como el escaparate. Contáctanos y analizamos tu idea.",
+   "html": "<p>¡Descubre nuestro <strong>servicio de render de locales</strong>! <strong>Tiendas</strong>, restaurantes y oficinas, tanto el interior como el escaparate. Contáctanos y analizamos tu idea.</p>",
+   "s": 48,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -734,9 +739,10 @@
   },
   {
    "type": "text",
-   "text": "El modelado 3D es el proceso de creación de objetos tridimensionales utilizando software especializado. Permite construir estructuras, paisajes, mobiliario y elementos arquitectónicos con gran detalle y realismo.",
-   "html": "<p>El <strong>modelado 3D</strong> es el proceso de<strong> creación de objetos tridimensionales utilizando software especializado</strong>. Permite construir <strong>estructuras</strong>, <strong>paisajes</strong>, <strong>mobiliario</strong> y <strong>elementos arquitectónicos</strong> con gran <strong>detalle</strong> y <strong>realismo</strong>. </p>",
-   "s": 49
+   "text": "El modelado 3D de un local recrea el espacio con sus pilares, techos, huecos y escaparate, y añade el mobiliario comercial : mostradores, estanterías y probadores a medida.",
+   "html": "<p>El <strong>modelado 3D</strong> de un local recrea el espacio con sus pilares, techos, huecos y escaparate, y añade el <strong>mobiliario comercial</strong>: mostradores, estanterías y probadores a medida.</p>",
+   "s": 49,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -763,9 +769,10 @@
   },
   {
    "type": "text",
-   "text": "Realizamos todo tipo de planos, Plano de situación, Plano de planta, El alzado, Plano de emplazamiento, vista de secciones, perspectiva arquitectónicas, planos de locales y Locales, Ideas, imágenes y decoración",
-   "html": "<p>Realizamos todo tipo de <strong>planos</strong>, <strong>Plano de situación</strong>,&nbsp;<strong>Plano de planta</strong>, <strong>El alzado</strong>,&nbsp; <strong>Plano de emplazamiento</strong>, <strong>vista de secciones</strong>, <strong>perspectiva arquitectónicas</strong>, <strong>planos de locales y Locales</strong>,&nbsp; Ideas, imágenes y <strong>decoración&nbsp;</strong></p>",
-   "s": 49
+   "text": "Para modelar un local hace falta el plano de planta con cotas, la sección para conocer la altura libre y el alzado de la fachada si se va a mostrar el escaparate. También resulta útil la distribución del mobiliario. Si no tienes esos planos, los realizamos.",
+   "html": "<p>Para modelar un local hace falta el <strong>plano de planta</strong> con cotas, la <strong>sección</strong> para conocer la altura libre y el alzado de la fachada si se va a mostrar el escaparate. También resulta útil la <strong>distribución</strong> del mobiliario. Si no tienes esos planos, los realizamos.</p>",
+   "s": 49,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -792,9 +799,10 @@
   },
   {
    "type": "text",
-   "text": "El Home Staging Virtual es una técnica para transformar digitalmente espacios inmobiliarios. Esta estrategia ofrece una visión realista y atractiva de un inmueble, facilitando la venta o alquiler para los posibles compradores o inquilinos.",
-   "html": "<p>El <strong>Home Staging Virtual</strong> es una <strong>técnica para transformar digitalmente espacios inmobiliarios</strong>. Esta estrategia ofrece una<strong> visión realista y atractiva de un inmueble</strong>, facilitando la venta o alquiler para los posibles compradores o inquilinos.</p>",
-   "s": 49
+   "text": "Un local vacío cuesta imaginarlo funcionando. El home staging virtual lo amuebla digitalmente sobre sus fotos, como tienda, cafetería u oficina, para que quien busca alquilar o comprar vea todas sus posibilidades.",
+   "html": "<p>Un local vacío cuesta imaginarlo funcionando. El <strong>home staging virtual</strong> lo amuebla digitalmente sobre sus fotos, como tienda, cafetería u oficina, para que quien busca <strong>alquilar o comprar</strong> vea todas sus posibilidades.</p>",
+   "s": 49,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -821,9 +829,10 @@
   },
   {
    "type": "text",
-   "text": "Realidad Virtual (RV) entornos interactivos, experiencia inmersiva. Ofrece recorridos virtuales, permitiendo a los clientes explorar e interactuar y experimentar la sensación de estar dentro de un entorno antes de su construcción.",
-   "html": "<p><strong>Realidad Virtual (RV)</strong> <strong>entornos interactivos, experiencia inmersiva.</strong> Ofrece <strong>recorridos virtuales</strong>, permitiendo a los clientes explorar e interactuar y experimentar la sensación de estar dentro de un entorno antes de su construcción.</p>",
-   "s": 49
+   "text": "Con realidad virtual , el dueño del negocio o la franquicia pueden pasear por el local, situarse detrás del mostrador o ponerse en el lugar del cliente que entra, todo antes de la obra.",
+   "html": "<p>Con <strong>realidad virtual</strong>, el dueño del negocio o la <strong>franquicia</strong> pueden pasear por el local, situarse detrás del mostrador o ponerse en el lugar del cliente que entra, todo antes de la obra.</p>",
+   "s": 49,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -909,9 +918,10 @@
   },
   {
    "type": "text",
-   "text": "Ya sea que busques a un renderista o arquitectos renderistas, aparejadores o arquitectos técnicos, estamos aquí para ofrecerte respuestas a tus problemas o dudas de diseño. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus proyectos y consultas relacionadas con la arquitectura.",
-   "html": "<p>Ya sea que busques a un <strong>renderista</strong> o <strong>arquitectos renderistas</strong>, <strong>aparejadores</strong> o <strong>arquitectos técnicos</strong>, estamos aquí para ofrecerte respuestas a tus problemas o dudas <strong>de diseño</strong>. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus <strong>proyectos y consultas relacionadas con la arquitectura</strong>.</p>",
-   "s": 53
+   "text": "Un renderista de locales combina arquitectura e imagen de marca : sabe colocar el producto, iluminar un escaparate y reflejar los colores corporativos sin perder realismo. ¿Buscas renderista o arquitectos renderistas para tu comercio? Estamos aquí para responder a tus dudas.",
+   "html": "<p>Un <strong>renderista de locales</strong> combina arquitectura e <strong>imagen de marca</strong>: sabe colocar el producto, iluminar un escaparate y reflejar los colores corporativos sin perder realismo. ¿Buscas renderista o <strong>arquitectos renderistas</strong> para tu comercio? Estamos aquí para responder a tus dudas.</p>",
+   "s": 53,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -938,9 +948,10 @@
   },
   {
    "type": "text",
-   "text": "El renderizado 3D es el proceso de transformar modelos tridimensionales en imágenes bidimensionales o videos. Utiliza la iluminación, texturas y cámaras virtuales para crear representaciones visuales realistas y detalladas de diseños arquitectónicos. Esta técnica ofrece una vista final de cómo se verá un proyecto una vez construido, mostrando detalles, texturas y efectos visuales para una presentación impactante y precisa.",
-   "html": "<p>El renderizado 3D es el proceso de transformar modelos tridimensionales en imágenes bidimensionales o videos. Utiliza la iluminación, texturas y cámaras virtuales para crear representaciones visuales realistas y detalladas de diseños arquitectónicos. Esta técnica ofrece una vista final de cómo se verá un proyecto una vez construido, mostrando detalles, texturas y efectos visuales para una presentación impactante y precisa.</p>",
-   "s": 54
+   "text": "El renderizado de locales exige trabajar bien la luz artificial: focos que destacan el producto, tiras led en estanterías, lámparas sobre el mostrador y la claridad que entra por el escaparate. El programa calcula los reflejos en vidrios, espejos y suelos pulidos para obtener una imagen realista de cómo se verá la tienda abierta al público.",
+   "html": "<p>El <strong>renderizado de locales</strong> exige trabajar bien la luz artificial: focos que destacan el producto, tiras led en estanterías, lámparas sobre el mostrador y la claridad que entra por el escaparate. El programa calcula los reflejos en vidrios, espejos y suelos pulidos para obtener una <strong>imagen realista</strong> de cómo se verá la tienda abierta al público.</p>",
+   "s": 54,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -967,9 +978,10 @@
   },
   {
    "type": "text",
-   "text": "Los precios de render varían según el proyecto a realizar. Conoce la tabla de precios renders, para que puedas tener una aproximación de los precio render 3D, precio por render para tu proyecto",
-   "html": "<p>Los&nbsp;<strong>precios de render&nbsp;</strong>varían según el proyecto a realizar. Conoce la <strong>tabla de precios renders, </strong>para que puedas tener una aproximación&nbsp;<strong>de los&nbsp;</strong><strong>precio render 3D, precio por render&nbsp;</strong>para tu proyecto</p>",
-   "s": 55
+   "text": "Para un local, el precio del render cambia según la superficie, el mobiliario a medida y el número de vistas. Echa un vistazo a la tabla de precios y calcula una aproximación antes de pedir presupuesto.",
+   "html": "<p>Para un local, el <strong>precio del render</strong> cambia según la superficie, el mobiliario a medida y el número de vistas. Echa un vistazo a la <strong>tabla de precios</strong> y calcula una aproximación antes de pedir presupuesto.</p>",
+   "s": 55,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1000,9 +1012,10 @@
   },
   {
    "type": "text",
-   "text": "Los videos render son una herramienta versátil y efectiva para comunicar, promocionar y mejorar proyectos, ofreciendo una representación dinámica y detallada que va más allá de las imágenes estáticas. recorridos virtuales. Conoce algunos de nuestros proyectos.",
-   "html": "<p>Los <strong>videos render</strong> son una<strong> herramienta versátil y efectiva</strong> para <strong>comunicar</strong>, <strong>promocionar</strong> y<strong> mejorar proyectos</strong>, ofreciendo una r<strong>epresentación dinámica y detallada</strong> que va más allá de las imágenes estáticas. <strong>recorridos virtuales</strong>. Conoce algunos de nuestros <strong>proyectos</strong>.</p>",
-   "s": 56
+   "text": "Un vídeo render de local lleva al espectador desde la acera hasta el interior, pasando por el escaparate, los pasillos y la zona de caja. Funciona muy bien para presentar el proyecto a la franquicia o anunciar una apertura. Conoce algunos de nuestros trabajos.",
+   "html": "<p>Un <strong>vídeo render de local</strong> lleva al espectador desde la acera hasta el interior, pasando por el escaparate, los pasillos y la zona de caja. Funciona muy bien para presentar el proyecto a la <strong>franquicia</strong> o anunciar una apertura. Conoce algunos de nuestros trabajos.</p>",
+   "s": 56,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1029,9 +1042,10 @@
   },
   {
    "type": "text",
-   "text": "Descubre nuestra empresa de renders, donde ofrecemos soluciones avanzadas para estudios de arquitectura, arquitectos y diseñadores. Nuestros equipos multidisciplinarios están preparados para abordar una amplia gama de proyectos arquitectónicos, garantizando resultados precisos y de alta calidad.",
-   "html": "<p>Descubre nuestra <strong>empresa de renders</strong>, donde ofrecemos soluciones avanzadas para <strong>estudios de arquitectura</strong>, <strong>arquitectos</strong> y <strong>diseñadores</strong>. Nuestros <strong>equipos multidisciplinarios</strong> están preparados para abordar una amplia gama de <strong>proyectos arquitectónicos</strong>, garantizando resultados precisos y de alta calidad.</p>",
-   "s": 57
+   "text": "Como empresa de renders , ayudamos a interioristas, estudios de arquitectura , franquicias y dueños de negocios que necesitan mostrar un local antes de abrirlo, con imágenes precisas y cuidadas en cada detalle. Descubre nuestra forma de trabajar.",
+   "html": "<p>Como <strong>empresa de renders</strong>, ayudamos a interioristas, <strong>estudios de arquitectura</strong>, franquicias y dueños de negocios que necesitan mostrar un local antes de abrirlo, con imágenes precisas y cuidadas en cada detalle. Descubre nuestra forma de trabajar.</p>",
+   "s": 57,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1058,9 +1072,10 @@
   },
   {
    "type": "text",
-   "text": "Nuestros servicios de renders freelance están diseñados para satisfacer las necesidades específicas de cada cliente. Utilizamos la última tecnología para crear visualizaciones 3D detalladas y realistas que reflejan fielmente los diseños arquitectónicos. Trabajamos para todo el mundo y en estrecha colaboración con los estudios para asegurar que cada render cumpla con sus estándares de calidad y precisión.",
-   "html": "<p>Nuestros servicios de<strong> renders freelance</strong> están diseñados para satisfacer las necesidades específicas de cada cliente. Utilizamos la última tecnología para crear <strong>visualizaciones 3D</strong> detalladas y realistas que reflejan fielmente los <strong>diseños arquitectónicos</strong>. Trabajamos para todo el mundo y en estrecha colaboración con los estudios para asegurar que cada render cumpla con sus estándares de calidad y precisión.</p>",
-   "s": 58
+   "text": "Los renders de locales freelance que preparamos parten de las necesidades de cada negocio: una imagen para anunciar un bajo en alquiler o una serie completa para la apertura de una tienda. Colaboramos a distancia, estés donde estés, y en contacto directo con el interiorista o el estudio, de modo que cada vista respete la distribución y la marca .",
+   "html": "<p>Los <strong>renders de locales freelance</strong> que preparamos parten de las necesidades de cada negocio: una imagen para anunciar un bajo en alquiler o una serie completa para la apertura de una tienda. Colaboramos a distancia, estés donde estés, y en contacto directo con el interiorista o el estudio, de modo que cada vista respete la <strong>distribución</strong> y la <strong>marca</strong>.</p>",
+   "s": 58,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1087,9 +1102,10 @@
   },
   {
    "type": "text",
-   "text": "Descubre los mejores Cursos Online de renders, donde te mostramos formaciones a distancia en diversas áreas como estructuras, mediciones, instalaciones, dibujo 2D, modelado 3D, fotografía, vídeo y diseño. accede a cursos especializados en urbanismo y paisajismo. Aprende a redactar proyectos de edificación, instrumentos de planeamiento urbanístico y gestión, así como proyectos de urbanización desde cualquier lugar y a tu propio ritmo.",
-   "html": "<p>Descubre los mejores <strong>Cursos Online de renders</strong>, donde te mostramos <strong>formaciones</strong> a distancia en diversas áreas como <strong>estructuras</strong>, <strong>mediciones</strong>, <strong>instalaciones</strong>, <strong>dibujo 2D</strong>, <strong>modelado 3D</strong>, <strong>fotografía</strong>, <strong>vídeo</strong> y <strong>diseño</strong>. accede a <strong>cursos especializados en urbanismo y paisajismo</strong>. Aprende a redactar <strong>proyectos de edificación, instrumentos de planeamiento urbanístico y gestión</strong>, así como <strong>proyectos de urbanización</strong> desde cualquier lugar y a tu propio ritmo.</p>",
-   "s": 59
+   "text": "¿Te interesa formarte en renders de locales comerciales ? Elige cursos online que enseñen a distribuir un espacio de venta, modelar mobiliario a medida, crear materiales como vidrio, metal o madera y, sobre todo, a trabajar la iluminación artificial . Conviene que incluyan programas como 3ds Max, Corona, Enscape o Blender y nociones de escaparatismo . Consulta los cursos de renders y avanza a tu ritmo.",
+   "html": "<p>¿Te interesa formarte en <strong>renders de locales comerciales</strong>? Elige cursos online que enseñen a distribuir un espacio de venta, modelar mobiliario a medida, crear materiales como vidrio, metal o madera y, sobre todo, a trabajar la <strong>iluminación artificial</strong>. Conviene que incluyan programas como 3ds Max, Corona, Enscape o Blender y nociones de <strong>escaparatismo</strong>. Consulta los cursos de renders y avanza a tu ritmo.</p>",
+   "s": 59,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1122,9 +1138,10 @@
   },
   {
    "type": "text",
-   "text": "¡Descubre nuestros servicios de Studio render y arquitectura! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.",
-   "html": "<p>¡Descubre nuestros<strong> servicios de Studio render y arquitectura</strong>! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.</p>",
-   "s": 61
+   "text": "¿Quieres ver tu local terminado antes de abrir? Nuestro render studio lo hace posible. Contáctanos y hablamos de tu negocio.",
+   "html": "<p>¿Quieres ver tu <strong>local terminado</strong> antes de abrir? Nuestro <strong>render studio</strong> lo hace posible. Contáctanos y hablamos de tu negocio.</p>",
+   "s": 61,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1150,9 +1167,10 @@
   },
   {
    "type": "text",
-   "text": "¡Descubre nuestros servicios de render profesional y arquitectura! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.",
-   "html": "<p>¡Descubre nuestros<strong> servicios de render profesional y arquitectura</strong>! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.</p>",
-   "s": 61
+   "text": "¿Buscas un render de local profesional para tu franquicia , una tienda o un bar? Cuéntanos tu idea y te enviamos una propuesta.",
+   "html": "<p>¿Buscas un <strong>render de local profesional</strong> para tu <strong>franquicia</strong>, una tienda o un bar? Cuéntanos tu idea y te enviamos una propuesta.</p>",
+   "s": 61,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1171,9 +1189,10 @@
   },
   {
    "type": "text",
-   "text": "Somos De Arquitectura, estudio de arquitectura e interiorismo que ofrece una plataforma online donde podrás encontrar arquitectos e interioristas profesionales. Nuestros servicios incluyen diseño 3D, renderizado, planificación, anteproyectos, proyectos, reforma y construcción. Además, contamos con un blog donde podrás consultar ideas y noticias arquitectónicas. Nuestro objetivo es brindarte un servicio rápido, personalizado y eficiente, optimizando el tiempo y los recursos de tus proyectos. Estamos a tu disposición para resolver cualquier duda o consulta que tengas. ¡Te damos la bienvenida a Dearquitectura.info!",
-   "html": "<p>Somos <a href=\"https://dearquitectura.info/\"><strong>De Arquitectura</strong></a>, <strong>estudio de arquitectura e interiorismo</strong> que ofrece una <strong>plataforma</strong> online donde podrás encontrar <strong>arquitectos</strong> e <strong>interioristas</strong> profesionales. Nuestros servicios incluyen <strong>diseño 3D, renderizado, planificación, anteproyectos, proyectos, reforma y construcción</strong>. Además, contamos con un blog donde podrás consultar <strong>ideas y noticias arquitectónicas</strong>.</p><p>Nuestro objetivo es brindarte un servicio rápido, personalizado y eficiente, optimizando el tiempo y los recursos de tus proyectos.</p><p>Estamos a tu disposición para resolver cualquier duda o consulta que tengas. ¡Te damos la bienvenida a <strong>Dearquitectura.info</strong>!</p>",
-   "s": 63
+   "text": "En De Arquitectura somos un estudio de interiorismo y arquitectura, y desde nuestra plataforma online te ponemos en contacto con arquitectos e interioristas profesionales. Hacemos renders de locales comerciales por dentro y por fuera, y también el diseño 3D , los planos, los anteproyectos y los proyectos que los acompañan. En el blog encontrarás novedades e ideas del mundo arquitectónico. Queremos que tu negocio llegue a la apertura con un servicio ágil y personalizado. Cuéntanos qué negocio vas a abrir y te orientamos. ¡Te damos la bienvenida a Dearquitectura.info!",
+   "html": "<p>En <strong>De Arquitectura</strong> somos un estudio de interiorismo y arquitectura, y desde nuestra plataforma online te ponemos en contacto con arquitectos e interioristas profesionales. Hacemos <strong>renders de locales comerciales</strong> por dentro y por fuera, y también el <strong>diseño 3D</strong>, los planos, los anteproyectos y los proyectos que los acompañan. En el blog encontrarás novedades e ideas del mundo arquitectónico. Queremos que tu negocio llegue a la apertura con un servicio ágil y personalizado. Cuéntanos qué negocio vas a abrir y te orientamos. ¡Te damos la bienvenida a Dearquitectura.info!</p>",
+   "s": 63,
+   "texto_propio": true
   },
   {
    "type": "image",
@@ -1226,9 +1245,10 @@
   },
   {
    "type": "text",
-   "text": "Ya sea que busques arquitectos, aparejadores o arquitectos técnicos, estamos aquí para ofrecerte respuestas a tus problemas o dudas arquitectónicas. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus proyectos y consultas relacionadas con la arquitectura.",
-   "html": "<p>Ya sea que busques <strong>arquitectos</strong>, <strong>aparejadores</strong> o <strong>arquitectos técnicos</strong>, estamos aquí para ofrecerte respuestas a tus problemas o dudas <strong>arquitectónicas</strong>. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus <strong>proyectos y consultas relacionadas con la arquitectura</strong>.</p>",
-   "s": 65
+   "text": "Abrir un negocio suele implicar cambios de distribución, instalaciones o fachada. Si tu local necesita arquitectos , arquitectos técnicos o aparejadores , aquí te ayudamos a encontrar el perfil adecuado para el proyecto y a aclarar tus dudas arquitectónicas.",
+   "html": "<p>Abrir un negocio suele implicar cambios de distribución, instalaciones o fachada. Si tu <strong>local</strong> necesita <strong>arquitectos</strong>, arquitectos técnicos o <strong>aparejadores</strong>, aquí te ayudamos a encontrar el perfil adecuado para el proyecto y a aclarar tus dudas arquitectónicas.</p>",
+   "s": 65,
+   "texto_propio": true
   },
   {
    "type": "text",
@@ -1279,9 +1299,10 @@
   },
   {
    "type": "text",
-   "text": "Sumérgete en el mundo arquitectónico. Mas que una web somos una plataforma de arquitectura, aquí encontraras noticias, servicios, cursos, libros, proyectos y mucho mas, entra en el mundo arquitectónico y sorpréndete de todo lo que se puede lograr.",
-   "html": "<p>Sumérgete en el <strong>mundo arquitectónico</strong>. Mas que una web somos una <strong>plataforma de arquitectura</strong>, aquí encontraras <strong>noticias</strong>, <strong>servicios</strong>, <strong>cursos</strong>, <strong>libros</strong>, <strong>proyectos</strong> y mucho mas, entra en el mundo <strong>arquitectónico</strong> y sorpréndete de todo lo que se puede lograr.</p>",
-   "s": 69
+   "text": "Visita nuestra plataforma de arquitectura y descubre noticias, cursos, servicios, proyectos y libros. También hay ideas de interiorismo comercial , materiales y estilos que te servirán para dar forma a tu tienda o tu restaurante.",
+   "html": "<p>Visita nuestra <strong>plataforma de arquitectura</strong> y descubre noticias, cursos, servicios, proyectos y libros. También hay ideas de <strong>interiorismo comercial</strong>, materiales y estilos que te servirán para dar forma a tu tienda o tu restaurante.</p>",
+   "s": 69,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1308,9 +1329,10 @@
   },
   {
    "type": "text",
-   "text": "¿Tienes proyectos, diseños o ideas que ansías hacer realidad? Nuestro estudio de arquitectura e interiorismo está comprometido en ofrecerte soluciones creativas y funcionales. Desde el diseño conceptual hasta la ejecución, nos dedicamos a convertir tus visiones en estructuras concretas. Ponte en contacto con nuestra oficina de arquitectura",
-   "html": "<p>¿Tienes <strong>proyectos</strong>, <strong>diseños</strong> o ideas que ansías hacer realidad? <span style=\"font-size: 20px; letter-spacing: 0.1px; text-align: var(--text-align);\">Nuestro <strong>estudio de arquitectura e interiorismo</strong> está comprometido en ofrecerte <strong>soluciones creativas y funcionales</strong>. Desde el<strong> diseño conceptual</strong> hasta la ejecución, nos dedicamos a convertir tus visiones en <strong>estructuras concretas</strong>. Ponte en contacto con nuestra <strong>oficina de arquitectura</strong></span></p>",
-   "s": 71
+   "text": "¿Tienes en mente un negocio y quieres verlo antes de invertir en la obra? Nuestro estudio de render transforma tu plano, tu marca y tus referencias en imágenes del local acabado. Proponemos ideas prácticas y con carácter para tiendas, restaurantes y oficinas . Habla con nuestro equipo y lo estudiamos.",
+   "html": "<p>¿Tienes en mente un negocio y quieres verlo antes de invertir en la obra? Nuestro <strong>estudio de render</strong> transforma tu plano, tu marca y tus referencias en imágenes del local acabado. Proponemos ideas prácticas y con carácter para tiendas, restaurantes y <strong>oficinas</strong>. Habla con nuestro equipo y lo estudiamos.</p>",
+   "s": 71,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1337,9 +1359,10 @@
   },
   {
    "type": "text",
-   "text": "Nos dedicamos a transformar conceptos innovadores en soluciones de diseño impactantes. Agencia de diseño grafico y arquitectura ofrecemos servicios personalizados en identidad visual, diseño gráfico, diseño web y experiencias interactivas.",
-   "html": "<div class=\"flex flex-grow flex-col max-w-full\"><div class=\"min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-2\" dir=\"auto\" data-message-author-role=\"assistant\" data-message-id=\"f8892441-9d0e-4ee7-856e-e762d71b61a4\"><div class=\"flex w-full flex-col gap-1 juice:empty:hidden juice:first:pt-[3px]\"><div class=\"markdown prose w-full break-words dark:prose-invert light\"><div class=\"flex flex-grow flex-col max-w-full\"><div class=\"min-h-[20px] text-message flex flex-col items-start whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 juice:w-full juice:items-end overflow-x-auto gap-2\" dir=\"auto\" data-message-author-role=\"assistant\" data-message-id=\"d01259ce-aaa0-4e41-9212-f34eee3bdb37\"><div class=\"flex w-full flex-col gap-1 juice:empty:hidden juice:first:pt-[3px]\"><div class=\"markdown prose w-full break-words dark:prose-invert light\"><p>Nos dedicamos a transformar conceptos innovadores en soluciones de diseño impactantes. <strong>Agencia de diseño grafico y arquitectura</strong> ofrecemos servicios personalizados en <strong>identidad visual, diseño gráfico, diseño web y experiencias interactivas. </strong></p></div></div></div></div></div></div></div></div>",
-   "s": 73
+   "text": "Un local se vende con su imagen. Desde nuestra agencia de diseño cuidamos la identidad visual de tu marca, el diseño gráfico del escaparate y la web , para que se reconozca en la calle y en internet.",
+   "html": "<p>Un local se vende con su imagen. Desde nuestra <strong>agencia de diseño</strong> cuidamos la <strong>identidad visual</strong> de tu marca, el diseño gráfico del escaparate y la <strong>web</strong>, para que se reconozca en la calle y en internet.</p>",
+   "s": 73,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1365,9 +1388,10 @@
   },
   {
    "type": "text",
-   "text": "¿Buscas construir? ¿tienes dudas? Empresas de construcción, asesoramiento profesional para tus ideas y proyectos",
-   "html": "<p>¿Buscas <strong>construir</strong>? ¿tienes dudas? <strong>Empresas de construcción</strong>, asesoramiento profesional para tus <strong>ideas y proyectos</strong> </p>",
-   "s": 77
+   "text": "¿Vas a construir un edificio con locales en planta baja? Muestra cómo serán los bajos comerciales desde el principio.",
+   "html": "<p>¿Vas a <strong>construir</strong> un edificio con locales en planta baja? Muestra cómo serán los <strong>bajos comerciales</strong> desde el principio.</p>",
+   "s": 77,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1393,9 +1417,10 @@
   },
   {
    "type": "text",
-   "text": "¿Estas pensando en reformar tu local? Reformistas e interioristas dispuestos a analizar tu reforma. Obtiene asesoramiento ideas y precios.",
-   "html": "<p>¿Estas pensando en<strong> reformar tu local</strong>? <strong>Reformistas</strong> e <strong>interioristas</strong> dispuestos a analizar tu <strong>reforma</strong>. Obtiene asesoramiento<strong> ideas y precios</strong>.</p>",
-   "s": 77
+   "text": "¿Quieres reformar tu local o adaptarlo a un nuevo negocio? Mira la propuesta en imágenes y pide presupuestos con una idea clara.",
+   "html": "<p>¿Quieres <strong>reformar tu local</strong> o adaptarlo a un nuevo negocio? Mira la propuesta en imágenes y pide <strong>presupuestos</strong> con una idea clara.</p>",
+   "s": 77,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1421,9 +1446,10 @@
   },
   {
    "type": "text",
-   "text": "Diseño arquitectónico. Diferentes propuestas arquitectónicas, siguiendo o proponiendo las nuevas tendencias de interiorismo y diseño arquitectónico.",
-   "html": "<p><strong>Diseño arquitectónico</strong>. Diferentes<strong> propuestas arquitectónicas</strong>, siguiendo o proponiendo las nuevas <strong>tendencias de interiorismo y diseño arquitectónico.</strong> </p>",
-   "s": 77
+   "text": "Diseño arquitectónico para negocios: propuestas de distribución, mobiliario y ambiente, atentas a las nuevas tendencias del interiorismo comercial .",
+   "html": "<p><strong>Diseño arquitectónico</strong> para negocios: propuestas de distribución, mobiliario y ambiente, atentas a las nuevas tendencias del <strong>interiorismo comercial</strong>.</p>",
+   "s": 77,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1449,9 +1475,10 @@
   },
   {
    "type": "text",
-   "text": "Renueva y Decora: Ideas para reformar y decorar un espacio, estudio de interiorismo por interioristas y decoradores profesionales",
-   "html": "<div class=\"flex-1 overflow-hidden\"><div class=\"react-scroll-to-bottom--css-zxvqf-79elbk h-full\"><div class=\"react-scroll-to-bottom--css-zxvqf-1n7m0yu\"><div class=\"flex flex-col pb-9 text-sm\"><div class=\"w-full text-token-text-primary\" data-testid=\"conversation-turn-259\"><div class=\"px-4 py-2 justify-center text-base md:gap-6 m-auto\"><div class=\"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] } group final-completion\"><div class=\"relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn\"><div class=\"flex-col gap-1 md:gap-3\"><div class=\"flex flex-grow flex-col max-w-full\"><div class=\"min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto\" data-message-author-role=\"assistant\" data-message-id=\"70b9b05a-0240-4569-a475-16d23390c118\"><div class=\"markdown prose w-full break-words dark:prose-invert light\"><p><strong>Renueva y Decora:</strong> <strong>Ideas para reformar y decorar  un espacio</strong>, <strong>estudio de interiorismo</strong> por <strong>interioristas</strong> y <strong>decoradores</strong> profesionales</p></div></div></div></div></div></div></div></div></div></div></div></div>",
-   "s": 77
+   "text": "Ideas para dar un aire nuevo a tu negocio: interiorismo y decoración de locales de la mano de interioristas y decoradores profesionales.",
+   "html": "<p>Ideas para dar un aire nuevo a tu negocio: <strong>interiorismo y decoración</strong> de <strong>locales</strong> de la mano de interioristas y decoradores profesionales.</p>",
+   "s": 77,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1478,9 +1505,10 @@
   },
   {
    "type": "text",
-   "text": "Conoce las mejores empresas que trabajan con nosotros, estudios de arquitectura, arquitectos y diseñadores. Equipos multidisciplinario para dar respuestas a los diferentes tipos de proyectos arquitectónicos",
-   "html": "<p>Conoce las <strong>mejores empresas</strong> que trabajan con nosotros, <strong>estudios de arquitectura</strong>, <strong>arquitectos</strong> y <strong>diseñadores</strong>. <strong>Equipos multidisciplinario</strong> para dar respuestas a los diferentes tipos de <strong>proyectos arquitectónicos</strong></p>",
-   "s": 79
+   "text": "Descubre las empresas de arquitectura , estudios y diseñadores que trabajan con nosotros: equipos multidisciplinares capaces de responder a distintos tipos de proyectos, desde viviendas hasta espacios comerciales .",
+   "html": "<p>Descubre las <strong>empresas de arquitectura</strong>, estudios y diseñadores que trabajan con nosotros: equipos multidisciplinares capaces de responder a distintos tipos de proyectos, desde viviendas hasta <strong>espacios comerciales</strong>.</p>",
+   "s": 79,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1513,9 +1541,10 @@
   },
   {
    "type": "text",
-   "text": "En nuestro despacho de arquitectura, convertimos tus ideas y emociones en proyectos tangibles. Te guiamos para materializar tu visión en el hogar o espacio que siempre has imaginado. Encargados en Diseñar los espacios, Interiorismos, Dirección de obra, Estudio de viabilidad, Rehabilitaciones, Gestión de proyectos. Planes, presupuesto, Supervisión",
-   "html": "<p>En nuestro <strong>despacho de arquitectura</strong>, convertimos tus ideas y emociones en proyectos tangibles. Te guiamos para materializar tu visión en el hogar o espacio que siempre has imaginado. Encargados en <strong>Diseñar los espacios</strong>, <strong>Interiorismos</strong>, <strong>Dirección de obra</strong>, <strong>Estudio de viabilidad</strong>, <strong>Rehabilitaciones</strong>, <strong>Gestión de proyectos</strong>. <strong>Planes</strong>, <strong>presupuesto</strong>, <strong>Supervisión</strong></p>",
-   "s": 81
+   "text": "En nuestro despacho convertimos la idea de tu negocio en un espacio que funciona: analizamos el local, definimos la distribución y el mobiliario y te lo enseñamos en imágenes. Nos ocupamos del interiorismo , el diseño de espacios , la gestión de proyectos, los estudios de viabilidad, la planificación y el presupuesto. Escríbenos para ponernos en marcha.",
+   "html": "<p>En nuestro <strong>despacho</strong> convertimos la idea de tu negocio en un espacio que funciona: analizamos el local, definimos la distribución y el mobiliario y te lo enseñamos en imágenes. Nos ocupamos del <strong>interiorismo</strong>, el <strong>diseño de espacios</strong>, la gestión de proyectos, los estudios de viabilidad, la planificación y el presupuesto. Escríbenos para ponernos en marcha.</p>",
+   "s": 81,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1548,9 +1577,10 @@
   },
   {
    "type": "text",
-   "text": "¿Eres arquitecto, ingeniero. estudios arquitectónicos o empresa y quieres trabajar con nosotros? Trabajamos freelance y online, Contáctanos y organizaremos una Reunión. Conoce nuestros trabajos dearquitectura.",
-   "html": "<p>¿Eres <strong>arquitecto</strong>, <strong>ingeniero</strong>. <strong>estudios </strong><b>arquitectónicos</b> o<strong> empresa</strong> y quieres <strong>trabajar</strong> con nosotros? <strong>Trabajamos freelance</strong> y <strong>online</strong>, Contáctanos y organizaremos una Reunión. Conoce nuestros <strong>trabajos dearquitectura.</strong></p>",
-   "s": 83
+   "text": "¿Eres arquitecto, interiorista, ingeniero o empresa y tienes experiencia en espacios comerciales ? Trabajamos como freelance y online. Contáctanos y fijamos una reunión. Conoce nuestros trabajos.",
+   "html": "<p>¿Eres arquitecto, interiorista, ingeniero o empresa y tienes experiencia en <strong>espacios comerciales</strong>? Trabajamos como <strong>freelance</strong> y online. Contáctanos y fijamos una reunión. Conoce nuestros trabajos.</p>",
+   "s": 83,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1577,9 +1607,10 @@
   },
   {
    "type": "text",
-   "text": "Descubre los mejores Cursos Online deArquitectura, donde te mostramos formaciones a distancia en diversas áreas como estructuras, mediciones, instalaciones, dibujo 2D, modelado 3D, fotografía, vídeo y diseño. accede a cursos especializados en urbanismo y paisajismo. Aprende a redactar proyectos de edificación, instrumentos de planeamiento urbanístico y gestión, así como proyectos de urbanización desde cualquier lugar y a tu propio ritmo.",
-   "html": "<p>Descubre los mejores <strong>Cursos Online deArquitectura</strong>, donde te mostramos <strong>formaciones</strong> a distancia en diversas áreas como <strong>estructuras</strong>, <strong>mediciones</strong>, <strong>instalaciones</strong>, <strong>dibujo 2D</strong>, <strong>modelado 3D</strong>, <strong>fotografía</strong>, <strong>vídeo</strong> y <strong>diseño</strong>. accede a <strong>cursos especializados en urbanismo y paisajismo</strong>. Aprende a redactar <strong>proyectos de edificación, instrumentos de planeamiento urbanístico y gestión</strong>, así como <strong>proyectos de urbanización</strong> desde cualquier lugar y a tu propio ritmo.</p>",
-   "s": 85
+   "text": "Explora cursos online de arquitectura : a distancia puedes formarte en instalaciones , estructuras, dibujo 2D y modelado 3D, mediciones, fotografía, vídeo y diseño. Para proyectar locales interesan especialmente los de instalaciones, accesibilidad e interiorismo , porque ayudan a entender cómo funciona un espacio comercial bien resuelto. Estudia desde donde quieras y al ritmo que te venga bien.",
+   "html": "<p>Explora <strong>cursos online de arquitectura</strong>: a distancia puedes formarte en <strong>instalaciones</strong>, estructuras, dibujo 2D y modelado 3D, mediciones, fotografía, vídeo y diseño. Para proyectar locales interesan especialmente los de instalaciones, accesibilidad e <strong>interiorismo</strong>, porque ayudan a entender cómo funciona un espacio comercial bien resuelto. Estudia desde donde quieras y al ritmo que te venga bien.</p>",
+   "s": 85,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1922,9 +1953,10 @@
   },
   {
    "type": "text",
-   "text": "Los mejores dibujos arquitectónicos, Croquis arquitectónicos, Diseños conceptuales, Collages e ilustraciones arquitectónicas, Diagramas",
-   "html": "<p>Los mejores <strong>dibujos arquitectónicos</strong>, <strong>Croquis arquitectónicos</strong>,  <strong>Diseños conceptuales</strong>, <strong>Collages</strong> e <strong>ilustraciones arquitectónicas</strong>, <strong>Diagramas</strong></p>",
-   "s": 96
+   "text": "Los dibujos arquitectónicos dan forma a la primera idea del local: croquis de la distribución, bocetos del escaparate y diagramas de recorrido.",
+   "html": "<p>Los <strong>dibujos arquitectónicos</strong> dan forma a la primera idea del local: croquis de la distribución, bocetos del escaparate y <strong>diagramas</strong> de recorrido.</p>",
+   "s": 96,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1951,9 +1983,10 @@
   },
   {
    "type": "text",
-   "text": "Realizamos todo tipo de planos, ¿Qué son los planos de arquitectura? Tipos de planos, Plano de situación, Plano de planta, El alzado, Plano de emplazamiento, vista de secciones, perspectiva arquitectónicas, planos de locales y Locales, Ideas, imágenes y decoración",
-   "html": "<p>Realizamos todo tipo de <strong>planos</strong>, <strong>¿Qué son los planos de arquitectura?</strong> <strong>Tipos de planos</strong>, <strong>Plano de situación</strong>, <strong> Plano de planta</strong>, <strong>El alzado</strong>,  <strong>Plano de emplazamiento</strong>, <strong>vista de secciones</strong>, <strong>perspectiva arquitectónicas</strong>, <strong>planos de locales y Locales</strong>,  Ideas, imágenes y <strong>decoración </strong></p>",
-   "s": 98
+   "text": "¿Qué son los planos de arquitectura y cuáles pide un local? La planta de distribución con mobiliario, el plano de techos con la iluminación, las secciones, que marcan la altura disponible, y el alzado del escaparate. Hacemos planos de todo tipo, también los del local tal y como está hoy, para partir de su estado real .",
+   "html": "<p>¿Qué son los <strong>planos de arquitectura</strong> y cuáles pide un local? La <strong>planta de distribución</strong> con mobiliario, el plano de techos con la iluminación, las secciones, que marcan la altura disponible, y el alzado del escaparate. Hacemos planos de todo tipo, también los del local tal y como está hoy, para partir de su <strong>estado real</strong>.</p>",
+   "s": 98,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1980,9 +2013,10 @@
   },
   {
    "type": "text",
-   "text": "Maqueta de arquitectura, industriales, conceptuales y urbanísticas, creamos maquetas arquitectónicas de alta precisión y detalle utilizando tecnologías avanzadas como impresión 3D, CNC y corte láser. Trabajamos con arquitectos y constructoras, convirtiendo ideas en representaciones visuales reales y propositivas.",
-   "html": "<p><strong>Maqueta de arquitectura,</strong> <strong>industriales</strong>, <strong>conceptuales</strong> y <strong>urbanísticas</strong>,<strong> creamos maquetas arquitectónicas de alta precisión</strong> y detalle utilizando tecnologías avanzadas como <strong>impresión 3D</strong>, <strong>CNC</strong> y <strong>corte láser</strong>. Trabajamos con <strong>arquitectos</strong> y <strong>constructoras</strong>, convirtiendo ideas en<strong> representaciones visuales</strong> reales y propositivas.</p>",
-   "s": 102
+   "text": "Una maqueta de arquitectura de un local ayuda a estudiar la distribución sobre la mesa. Las maquetas conceptuales o de interiorismo, hechas con corte láser o impresión 3D, siguen siendo útiles en presentaciones, y el render completa la experiencia mostrando el ambiente del espacio comercial con su iluminación y sus acabados.",
+   "html": "<p>Una <strong>maqueta de arquitectura</strong> de un local ayuda a estudiar la distribución sobre la mesa. Las maquetas conceptuales o de interiorismo, hechas con <strong>corte láser</strong> o impresión 3D, siguen siendo útiles en presentaciones, y el render completa la experiencia mostrando el ambiente del <strong>espacio comercial</strong> con su iluminación y sus acabados.</p>",
+   "s": 102,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2009,9 +2043,10 @@
   },
   {
    "type": "text",
-   "text": "Maximiza la presentación de tus Plantillas para portafolio de arquitectura. Te ofrecemos la oportunidad de presentar tu obra de manera impactante, ya sea en formato impreso o en línea. Para que tu portafolio destaque",
-   "html": "<p><strong>Maximiza la presentación de tus Plantillas</strong> para <strong>portafolio de arquitectura. T</strong>e ofrecemos la oportunidad de presentar tu <strong>obra</strong> de manera impactante, ya sea en formato impreso o en línea. Para que tu <strong>portafolio</strong> destaque</p>",
-   "s": 105
+   "text": "Si diseñas tiendas o restaurantes, incluye tus renders de locales en el portafolio de arquitectura , porque transmiten el ambiente y la marca de un vistazo. Te ofrecemos plantillas para presentar tu obra impresa o en línea.",
+   "html": "<p>Si diseñas tiendas o restaurantes, incluye tus <strong>renders de locales</strong> en el <strong>portafolio de arquitectura</strong>, porque transmiten el ambiente y la marca de un vistazo. Te ofrecemos plantillas para presentar tu obra impresa o en línea.</p>",
+   "s": 105,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2037,9 +2072,10 @@
   },
   {
    "type": "text",
-   "text": "Explora una amplia gama de imágenes sobre arquitectura, arquitectos y construcción, Descubre una colección de fotografías. impresionantes fotos urbanas, paisajes urbanos, arte conceptual, ilustraciones arquitectónicas y ciudades imaginarias. diversidad del diseño arquitectónico y la construcción.",
-   "html": "<p>Explora una amplia gama de<strong> imágenes sobre arquitectura</strong>, <strong>arquitectos</strong> y <strong>construcción</strong>, Descubre una <strong>colección de fotografías</strong>.  impresionantes fotos urbanas, paisajes urbanos, arte conceptual, ilustraciones arquitectónicas y ciudades imaginarias. diversidad del <strong>diseño arquitectónico y la construcción.</strong></p>",
-   "s": 107
+   "text": "Busca inspiración para tu negocio en nuestras imágenes de arquitectura : interiores de tiendas, escaparates, calles comerciales y paisajes urbanos, junto a arte conceptual e ilustraciones. Una colección de fotografías que muestra la diversidad del diseño.",
+   "html": "<p>Busca inspiración para tu negocio en nuestras <strong>imágenes de arquitectura</strong>: interiores de tiendas, escaparates, calles comerciales y paisajes urbanos, junto a arte conceptual e ilustraciones. Una colección de <strong>fotografías</strong> que muestra la diversidad del diseño.</p>",
+   "s": 107,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2065,9 +2101,10 @@
   },
   {
    "type": "text",
-   "text": "Explora nuestra selección de libros dearquitectura, una recopilación ideal para aficionados a la historia, teoría y práctica. Desde manuales técnicos hasta ejemplares sobre diseño interior, regala conocimiento arquitectónico con los mejores libros en formato impreso y digital",
-   "html": "<p>Explora nuestra selección de<strong> libros dearquitectura</strong>, una recopilación ideal para aficionados a la <strong>historia</strong>, <strong>teoría</strong> y <strong>práctica</strong>. Desde <strong>manuales técnicos</strong> hasta ejemplares sobre <strong>diseño interior</strong>, regala conocimiento <strong>arquitectónico</strong> con los mejores <strong>libros en formato impreso y digital</strong></p>",
-   "s": 109
+   "text": "Entre nuestros libros de arquitectura hay títulos sobre la historia, la teoría y la práctica del oficio, y también ejemplares de diseño interior , útiles para quien piensa en la imagen de su propio local. Regala conocimiento en papel o en digital.",
+   "html": "<p>Entre nuestros <strong>libros de arquitectura</strong> hay títulos sobre la historia, la teoría y la práctica del oficio, y también ejemplares de <strong>diseño interior</strong>, útiles para quien piensa en la imagen de su propio local. Regala conocimiento en papel o en digital.</p>",
+   "s": 109,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2093,9 +2130,10 @@
   },
   {
    "type": "text",
-   "text": "Revistas de arquitectura innovación y belleza en el mundo de la construcción! Exploramos los rincones más inspiradores del diseño arquitectónico, desde icónicos rascacielos hasta proyectos residenciales únicos y sostenibles. Sumérgete en análisis detallados de los estilos arquitectónicos, desde los clásicos hasta las tendencias contemporáneas más vanguardistas.",
-   "html": "<p><strong>Revistas de arquitectura innovación y belleza</strong> en el mundo de la <strong>construcción</strong>! Exploramos los rincones más inspiradores del <strong>diseño arquitectónico</strong>, desde icónicos rascacielos hasta <strong>proyectos residenciales únicos y sostenibles</strong>. Sumérgete en análisis detallados de los <strong>estilos arquitectónicos</strong>, desde los clásicos hasta las<strong> tendencias contemporáneas más vanguardistas</strong>.</p>",
-   "s": 111
+   "text": "Las revistas de arquitectura exploran lo más inspirador del diseño, desde grandes torres hasta proyectos residenciales y sostenibles. En sus páginas aparecen tiendas, restaurantes y locales con propuestas de interiorismo comercial, y análisis de los estilos más actuales que pueden darte ideas para tu negocio.",
+   "html": "<p>Las <strong>revistas de arquitectura</strong> exploran lo más inspirador del diseño, desde grandes torres hasta proyectos residenciales y sostenibles. En sus páginas aparecen tiendas, restaurantes y <strong>locales</strong> con propuestas de interiorismo comercial, y análisis de los <strong>estilos</strong> más actuales que pueden darte ideas para tu negocio.</p>",
+   "s": 111,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2122,9 +2160,10 @@
   },
   {
    "type": "text",
-   "text": "Conce los programas mas utilizados en arquitectura como AutoCAD, Revit, Archicad, Rhinoceros 3D, Sketchup, Vectorworks, V-Ray, Lumion. Postproducción y Visualización arquitectónica",
-   "html": "<p>Conce los<strong> programas mas utilizados en arquitectura</strong> como <strong>AutoCAD</strong>, <strong>Revit</strong>, <strong>Archicad</strong>, <strong>Rhinoceros 3D</strong>, <strong>Sketchup</strong>, <strong>Vectorworks</strong>,<strong> V-Ray</strong>, <strong>Lumion</strong>. <strong>Postproducción</strong> y <strong>Visualización arquitectónica</strong></p><div> </div>",
-   "s": 113
+   "text": "Para un local se dibuja con AutoCAD o Vectorworks, se modela con SketchUp , Archicad o 3ds Max y se renderiza con Corona , Lumion o Twinmotion. Conoce los programas más usados en arquitectura.",
+   "html": "<p>Para un local se dibuja con <strong>AutoCAD</strong> o Vectorworks, se modela con <strong>SketchUp</strong>, Archicad o 3ds Max y se renderiza con <strong>Corona</strong>, Lumion o Twinmotion. Conoce los programas más usados en arquitectura.</p>",
+   "s": 113,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2151,9 +2190,10 @@
   },
   {
    "type": "text",
-   "text": "Explora las últimas y más destacadas obras arquitectónicas, desde inspiradoras residencias hasta proyectos emblemáticos. Descubre los secretos para crear un proyecto arquitectónicos exitoso y cómo llevar a cabo su desarrollo. Sumérgete en nuestro portafolio para conocer algunos de los proyectos más destacados y visitados en el mundo",
-   "html": "<p>Explora las últimas y más destacadas obras arquitectónicas, desde inspiradoras residencias hasta proyectos emblemáticos. Descubre los secretos para crear un proyecto arquitectónicos exitoso y cómo llevar a cabo su desarrollo. Sumérgete en nuestro portafolio para conocer algunos de los proyectos más destacados y visitados en el mundo</p>",
-   "s": 115
+   "text": "Descubre proyectos de arquitectura recientes y destacados, de viviendas a espacios comerciales emblemáticos, y aprende cómo se lleva un proyecto de la idea a la realidad. Entra en nuestro portafolio para ver algunos de los trabajos más visitados.",
+   "html": "<p>Descubre <strong>proyectos de arquitectura</strong> recientes y destacados, de viviendas a <strong>espacios comerciales</strong> emblemáticos, y aprende cómo se lleva un proyecto de la idea a la realidad. Entra en nuestro portafolio para ver algunos de los trabajos más visitados.</p>",
+   "s": 115,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -2179,9 +2219,10 @@
   },
   {
    "type": "text",
-   "text": "La incursión de la inteligencia artificial en la industria arquitectónica ha sido significativa, ofreciendo a los arquitectos un aliado invaluable en el proceso de diseño, proyectos y obras. Explora cómo esta tecnología redefine la arquitectura y descubre sus ventajas, desventajas y ejemplos más relevantes. Desde el diseño asistido hasta la visualización en realidad virtual, la Inteligencia Artificial abre un abanico de aplicaciones para este campo",
-   "html": "<p>La incursión de la<strong> inteligencia artificial en la industria arquitectónica</strong> ha sido significativa, ofreciendo a los <strong>arquitectos</strong> un aliado invaluable en el <strong>proceso de diseño, proyectos y obras</strong>. Explora cómo esta <strong>tecnología</strong> redefine la <strong>arquitectura</strong> y descubre sus <strong>ventajas</strong>, <strong>desventajas</strong> y ejemplos más relevantes. Desde el <strong>diseño asistido</strong> hasta la v<strong>isualización en realidad virtual,</strong> la<strong> Inteligencia Artificial</strong> abre un abanico de aplicaciones para este campo</p>",
-   "s": 117
+   "text": "La inteligencia artificial se ha convertido en un aliado más del diseño arquitectónico: genera rápidamente ambientaciones de una tienda o variantes de escaparate a partir de un texto. Es práctica para buscar inspiración, aunque lo que muestra no tiene por qué caber en el local ni coincidir con el mobiliario elegido; para aprobar un proyecto y pedir presupuestos se recurre al render del local hecho con sus medidas reales. Descubre qué aporta y dónde tiene límites.",
+   "html": "<p>La <strong>inteligencia artificial</strong> se ha convertido en un aliado más del diseño arquitectónico: genera rápidamente ambientaciones de una tienda o variantes de escaparate a partir de un texto. Es práctica para buscar inspiración, aunque lo que muestra no tiene por qué caber en el local ni coincidir con el mobiliario elegido; para aprobar un proyecto y pedir presupuestos se recurre al <strong>render del local</strong> hecho con sus medidas reales. Descubre qué aporta y dónde tiene límites.</p>",
+   "s": 117,
+   "texto_propio": true
   },
   {
    "type": "button",

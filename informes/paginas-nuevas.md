@@ -147,3 +147,19 @@ Yama: «mirar esa estructura [render-casa] y agregar lo que falta en las que hic
 - **Colocación:** la página carga también el `post-<id>.css` de su modelo (`modelo_id`).
 - **Tamaño:** las páginas pasan de 600–1.000 a 2.400–3.800 palabras, como las de WordPress.
 - **Aviso:** es el mismo bloque repetido que el análisis señaló como el problema número 1 (P1). Se hace porque Yama lo pidió expresamente. Si un día se aplica la parte C, se quitaría de todas a la vez.
+
+## Hecho: textos propios en el bloque común de las 18 páginas nuevas (19-11-2026)
+Yama: «cámbialo, modifícalo sin sacar las palabras clave y haz lo mismo pero diferente». Primero se probó en Renders exteriores («sí») y luego en las otras 17 («Sí, las 17»).
+- **Qué cambia:** el texto de debajo de cada título del bloque común se escribe de nuevo para el tema de la página. Los títulos, las palabras clave, los botones y los enlaces no cambian.
+- **Dónde está:** en `comun.textos` (por id del elemento de Elementor) y `comun.preguntas` (por «id#número» del desplegable) de cada `src/data/nuevas/<slug>.json`.
+- **Cuántos:** por página, 41 textos y 10 respuestas en renders, 23 y 1 en estilos, y 18 y 6 en servicios e IA; unos 550 en total.
+- **Qué no se toca:** la misión y los rótulos cortos de navegación (3 o 4 por página) siguen como en el modelo.
+- **Revisado con un script:**
+  - todos los ids están;
+  - la longitud es parecida a la del original;
+  - no hay precios, cifras ni plazos nuevos, salvo «pocos días» o «varias semanas», que ya estaban;
+  - no hay enlaces dentro del texto;
+  - no se dice que el estudio construya ni que use IA;
+  - no se repiten frases entre las 17 páginas, salvo la presentación «Somos De Arquitectura, estudio de arquitectura e interiorismo».
+- **Datos históricos (estilos):** solo los de manual, como Imhotep, Villard de Honnecourt, Brunelleschi, Palladio, el Templo Mayor (Matos Moctezuma), la Unité d'Habitation o Torres Blancas.
+- **Lo que sigue saliendo porque ya estaba en el texto original del modelo:** dirección de obra (estilos góticos y renacentistas), maquetas y agencia de diseño. Yama puede pedir que se quite.

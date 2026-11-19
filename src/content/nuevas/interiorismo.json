@@ -333,9 +333,10 @@
   },
   {
    "type": "text",
-   "text": "¿Tienes proyectos, diseños o ideas que ansías hacer realidad? Nuestro estudio de arquitectura e interiorismo está comprometido en ofrecerte soluciones creativas y funcionales. Desde el diseño conceptual hasta la ejecución, nos dedicamos a convertir tus visiones en estructuras concretas. Ponte en contacto con nuestra oficina de arquitectura",
-   "html": "<p>¿Tienes <strong>proyectos</strong>, <strong>diseños</strong> o ideas que ansías hacer realidad? <span style=\"font-size: 20px; letter-spacing: 0.1px; text-align: var(--text-align);\">Nuestro <strong>estudio de arquitectura e interiorismo</strong> está comprometido en ofrecerte <strong>soluciones creativas y funcionales</strong>. Desde el<strong> diseño conceptual</strong> hasta la ejecución, nos dedicamos a convertir tus visiones en <strong>estructuras concretas</strong>. Ponte en contacto con nuestra <strong>oficina de arquitectura</strong></span></p>",
-   "s": 10
+   "text": "¿Quieres cambiar tu salón, tu cocina o tu local y no sabes cómo? Nuestro estudio de arquitectura e interiorismo diseña espacios interiores a tu medida: estudiamos la distribución , proponemos materiales, luz y mobiliario y te lo enseñamos en renders de interiores antes de dar el paso. Contacta con nuestro estudio y empezamos.",
+   "html": "<p>¿Quieres cambiar tu salón, tu cocina o tu local y no sabes cómo? Nuestro <strong>estudio de arquitectura e interiorismo</strong> diseña espacios interiores a tu medida: estudiamos la <strong>distribución</strong>, proponemos materiales, luz y mobiliario y te lo enseñamos en <strong>renders de interiores</strong> antes de dar el paso. Contacta con nuestro estudio y empezamos.</p>",
+   "s": 10,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -349,23 +350,23 @@
    "items": [
     {
      "title": "¿Qué Son los Proyectos de Arquitectura?",
-     "html": "<p>Los proyectos de arquitectura son procesos creativos que transforman ideas en estructuras concretas, abarcando desde el diseño conceptual hasta la ejecución física de un espacio habitable o utilizable. Estos proyectos requieren habilidades técnicas, creatividad y comprensión profunda de las necesidades del cliente y del entorno.</p><p>Los proyectos de arquitectura son diseños y planes elaborados por profesionales de la arquitectura para la construcción o remodelación de espacios, ya sea residenciales, comerciales o industriales. Estos proyectos buscan satisfacer las necesidades funcionales, estéticas y técnicas del cliente, considerando factores como el presupuesto, la ubicación y las regulaciones locales.</p>"
+     "html": "<p>Un <strong>proyecto de arquitectura</strong> define cómo será un espacio y cómo se va a hacer, con planos, materiales y especificaciones técnicas. Cuando se trata de interiores, se centra en lo que pasa de puertas adentro: la <strong>distribución</strong> de las estancias, los acabados de suelos y paredes, la iluminación, el mobiliario y los recorridos.</p><p>Un <strong>proyecto de interiorismo</strong> parte de cómo vive o trabaja quien va a usar el espacio y busca que resulte cómodo, práctico y agradable. Tiene en cuenta el presupuesto, la luz natural, las instalaciones existentes y, si hay obra, la normativa que corresponda.</p>"
     },
     {
      "title": "¿Cómo se Realizan los Proyectos de Arquitectura?",
-     "html": "<h3><strong>Etapa de Diseño:</strong></h3><p>Comienza con la recopilación de requisitos del cliente, seguido por la conceptualización y creación de bocetos preliminares.</p><h3><strong>Planificación y Desarrollo:</strong></h3><p>Se desarrollan los planos detallados, se analizan los materiales, se elaboran maquetas y se definen las especificaciones técnicas.</p><h3><strong>Aprobación y Licencias:</strong></h3><p>Se obtienen los permisos necesarios de las autoridades correspondientes antes de avanzar a la etapa de construcción.</p><h3><strong>Construcción:</strong></h3><p>Se lleva a cabo la ejecución del proyecto, siguiendo los planos y especificaciones definidas.</p><h3><strong>Entrega y Seguimiento:</strong></h3><p>Se entrega el proyecto al cliente y se realizan posibles ajustes según requerimientos adicionales.</p>"
+     "html": "<ul><li><strong>Encargo y toma de datos</strong>: se escucha lo que necesitas, se mide el espacio y se fotografía su estado actual.</li><li><strong>Anteproyecto</strong>: propuestas de distribución, estilo y paleta de materiales, con bocetos o primeras vistas.</li><li><strong>Proyecto</strong>: planos de planta, iluminación, mobiliario y acabados, y renders de interiores para validar el resultado.</li><li><strong>Elección de piezas</strong>: muebles, textiles, lámparas y objetos de decoración.</li><li><strong>Puesta en marcha</strong>: con el proyecto aprobado ya se pueden pedir presupuestos, hacer la reforma si hace falta y amueblar.</li></ul>"
     },
     {
      "title": "Tipos de Proyectos de Arquitectura",
-     "html": "<h3><strong>Residencial:</strong></h3><p>Diseño de viviendas y complejos habitacionales.</p><h3><strong>Comercial:</strong></h3><p>Desarrollo de espacios para negocios, tiendas o edificios de oficinas.</p><h3><strong>Industrial</strong></h3><p>Creación de estructuras para fábricas o plantas de producción.</p><h3><strong>Restauración y Renovación:</strong></h3><p>Rehabilitación de edificios históricos o remodelaciones.</p>"
+     "html": "<ul><li><strong>Residencial</strong>: viviendas, desde una habitación hasta la casa entera.</li><li><strong>Comercial</strong>: tiendas, showrooms y locales.</li><li><strong>Corporativo</strong>: oficinas y espacios de trabajo.</li><li><strong>Hostelería</strong>: hoteles, restaurantes y cafeterías.</li></ul>"
     },
     {
      "title": "¿Cuánto tiempo lleva completar un proyecto de arquitectura?",
-     "html": "<p>La duración varía según la escala y complejidad del proyecto, desde meses hasta años.</p>"
+     "html": "<p>Depende de los metros, del número de estancias y de si hace falta hacer obra o basta con amueblar.</p>"
     },
     {
      "title": "¿Cómo seleccionar al arquitecto adecuado para mi proyecto?",
-     "html": "<p>Considera su experiencia, estilo, costos y el tipo de proyectos que ha completado.</p>"
+     "html": "<p>Mira sus interiores anteriores, si su estilo te gusta, qué incluye y cómo presenta las propuestas.</p>"
     }
    ],
    "s": 11
@@ -387,9 +388,10 @@
   },
   {
    "type": "text",
-   "text": "Ya sea que busques arquitectos, aparejadores o arquitectos técnicos, estamos aquí para ofrecerte respuestas a tus problemas o dudas arquitectónicas. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus proyectos y consultas relacionadas con la arquitectura.",
-   "html": "<p>Ya sea que busques <strong>arquitectos</strong>, <strong>aparejadores</strong> o <strong>arquitectos técnicos</strong>, estamos aquí para ofrecerte respuestas a tus problemas o dudas <strong>arquitectónicas</strong>. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus <strong>proyectos y consultas relacionadas con la arquitectura</strong>.</p>",
-   "s": 13
+   "text": "Para un interior bien resuelto a veces basta con un interiorista o un decorador; si hay que mover tabiques, cambiar instalaciones o abrir huecos, conviene contar también con un arquitecto o un arquitecto técnico. Resolvemos tus dudas sobre qué profesional necesita tu espacio y cómo se reparten el trabajo.",
+   "html": "<p>Para un interior bien resuelto a veces basta con un <strong>interiorista</strong> o un decorador; si hay que mover tabiques, cambiar instalaciones o abrir huecos, conviene contar también con un <strong>arquitecto</strong> o un arquitecto técnico. Resolvemos tus dudas sobre qué profesional necesita tu espacio y cómo se reparten el trabajo.</p>",
+   "s": 13,
+   "texto_propio": true
   },
   {
    "type": "text",
@@ -433,9 +435,10 @@
   },
   {
    "type": "text",
-   "text": "Sumérgete en el mundo arquitectónico. Mas que una web somos una plataforma de arquitectura, aquí encontraras noticias, servicios, cursos, libros, proyectos y mucho mas, entra en el mundo arquitectónico y sorpréndete de todo lo que se puede lograr.",
-   "html": "<p>Sumérgete en el <strong>mundo arquitectónico</strong>. Mas que una web somos una <strong>plataforma de arquitectura</strong>, aquí encontraras <strong>noticias</strong>, <strong>servicios</strong>, <strong>cursos</strong>, <strong>libros</strong>, <strong>proyectos</strong> y mucho mas, entra en el mundo <strong>arquitectónico</strong> y sorpréndete de todo lo que se puede lograr.</p>",
-   "s": 17
+   "text": "Nuestra plataforma de arquitectura reúne inspiración para el diseño de interiores: estilos, materiales, ideas de decoración , libros y cursos. Entra y descubre todo lo que puede cambiar una casa con una buena distribución y la luz adecuada.",
+   "html": "<p>Nuestra <strong>plataforma de arquitectura</strong> reúne inspiración para el diseño de interiores: estilos, materiales, ideas de <strong>decoración</strong>, libros y cursos. Entra y descubre todo lo que puede cambiar una casa con una buena distribución y la luz adecuada.</p>",
+   "s": 17,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -452,9 +455,10 @@
   },
   {
    "type": "text",
-   "text": "Somos De Arquitectura, estudio de arquitectura e interiorismo que ofrece una plataforma online donde podrás encontrar arquitectos e interioristas profesionales. Nuestros servicios incluyen diseño 3D, renderizado, planificación, anteproyectos, proyectos, reforma y construcción. Además, contamos con un blog donde podrás consultar ideas y noticias arquitectónicas. Nuestro objetivo es brindarte un servicio rápido, personalizado y eficiente, optimizando el tiempo y los recursos de tus proyectos. Estamos a tu disposición para resolver cualquier duda o consulta que tengas. ¡Te damos la bienvenida a Dearquitectura.info!",
-   "html": "<p>Somos <a href=\"https://dearquitectura.info/\"><strong>De Arquitectura</strong></a>, <strong>estudio de arquitectura e interiorismo</strong> que ofrece una <strong>plataforma</strong> online donde podrás encontrar <strong>arquitectos</strong> e <strong>interioristas</strong> profesionales. Nuestros servicios incluyen <strong>diseño 3D, renderizado, planificación, anteproyectos, proyectos, reforma y construcción</strong>. Además, contamos con un blog donde podrás consultar <strong>ideas y noticias arquitectónicas</strong>.</p><p>Nuestro objetivo es brindarte un servicio rápido, personalizado y eficiente, optimizando el tiempo y los recursos de tus proyectos.</p><p>Estamos a tu disposición para resolver cualquier duda o consulta que tengas. ¡Te damos la bienvenida a <strong>Dearquitectura.info</strong>!</p>",
-   "s": 19
+   "text": "Somos De Arquitectura , estudio de arquitectura e interiorismo con una plataforma online donde encontrar arquitectos e interioristas profesionales. Diseñamos espacios interiores para viviendas y negocios: distribución, materiales, iluminación y mobiliario, con planos y renders de interiores para que veas el resultado antes de decidir. En nuestro blog compartimos ideas de decoración y novedades del sector. Queremos que tu proyecto sea ágil y personalizado. ¿Tienes alguna duda? Escríbenos y te respondemos.",
+   "html": "<p>Somos <strong>De Arquitectura</strong>, estudio de arquitectura e interiorismo con una plataforma online donde encontrar arquitectos e <strong>interioristas</strong> profesionales. Diseñamos espacios interiores para viviendas y negocios: distribución, materiales, iluminación y mobiliario, con <strong>planos</strong> y <strong>renders de interiores</strong> para que veas el resultado antes de decidir. En nuestro blog compartimos ideas de decoración y novedades del sector. Queremos que tu proyecto sea ágil y personalizado. ¿Tienes alguna duda? Escríbenos y te respondemos.</p>",
+   "s": 19,
+   "texto_propio": true
   },
   {
    "type": "image",
@@ -494,7 +498,7 @@
    "items": [
     {
      "title": "¿Qué es la Arquitectura? Significado",
-     "html": "<p>Es una de las <strong>expresiones artísticas más antiguas y universales de la humanidad</strong>. Desde que el ser humano empezó a construir refugios para protegerse de las inclemencias del tiempo, la arquitectura ha acompañado su historia, su cultura, su religión y su forma de vida. <strong>La arquitectura no solo satisface las necesidades prácticas de las personas, sino que también refleja sus valores, sus sueños, sus emociones y su identidad. Es, en definitiva, un arte que transforma el mundo</strong>.</p><p><strong>La arquitectura es el arte y la ciencia de diseñar y construir edificios, estructuras y espacios que cumplen una función estética, funcional y social</strong>. La arquitectura <strong>abarca desde el diseño de una casa hasta el de una ciudad, pasando por el de un parque, un monumento, un puente o un rascacielos</strong>. La arquitectura <strong>se basa en principios como la proporción, la simetría, la armonía, el equilibrio, el contraste, el ritmo, la escala y la composición.</strong></p><p style=\"text-align: center;\"><strong>La arquitectura: un arte que transforma el mundo</strong></p><h3><strong>Origen y evolución</strong></h3><p>El origen se remonta a las primeras civilizaciones que buscaban refugio y seguridad. Desde las estructuras primitivas hasta los majestuosos templos y monumentos de la antigüedad, ha evolucionado a lo largo de milenios, influenciada por culturas, tecnologías y estilos de vida cambiantes.</p><h3><strong>Elementos y principios de la arquitectura</strong></h3><p>Los elementos fundamentales incluyen la forma, el espacio, la luz, la textura y el color. Los principios básicos guían el diseño arquitectónico, como la funcionalidad, la estética, la durabilidad, la sostenibilidad y la armonía con el entorno. Estos elementos y principios se combinan para crear estructuras significativas y coherentes.</p>"
+     "html": "<p>La <strong>arquitectura</strong> es la disciplina que diseña los edificios y los espacios donde transcurre la vida de las personas. Es una de las actividades más antiguas del ser humano: empezó con la búsqueda de un refugio y, con los siglos, pasó a reflejar las creencias, la cultura y los valores de cada sociedad.</p><p>Pero la arquitectura no termina en la fachada. Lo que más se vive de un edificio es su <strong>interior</strong>: la altura de los techos, la luz que entra por las ventanas, el tamaño de las estancias o el modo en que se pasa de una a otra. Ahí es donde arquitectura e <strong>interiorismo</strong> se encuentran: la primera define el espacio y el segundo lo hace habitable y propio.</p><p><strong>Origen y evolución.</strong> Desde las casas con patio de la Antigüedad hasta los palacios, las viviendas burguesas o los lofts actuales, la forma de organizar el interior ha cambiado con las costumbres: salones de recibir que hoy son espacios abiertos, cocinas que antes se escondían y ahora se integran en la zona de día.</p><p><strong>Elementos y principios.</strong> Forma, espacio, luz, textura y color son los elementos con los que trabaja cualquier arquitecto o interiorista. Los principios que los ordenan son la proporción, el equilibrio, el ritmo, el contraste y la escala, junto a la <strong>funcionalidad</strong> y la durabilidad. Bien combinados, dan como resultado espacios cómodos, coherentes y agradables de habitar.</p>"
     }
    ],
    "s": 20
@@ -753,9 +757,10 @@
   },
   {
    "type": "text",
-   "text": "Los mejores dibujos arquitectónicos, Croquis arquitectónicos, Diseños conceptuales, Collages e ilustraciones arquitectónicas, Diagramas",
-   "html": "<p>Los mejores <strong>dibujos arquitectónicos</strong>, <strong>Croquis arquitectónicos</strong>,  <strong>Diseños conceptuales</strong>, <strong>Collages</strong> e <strong>ilustraciones arquitectónicas</strong>, <strong>Diagramas</strong></p>",
-   "s": 31
+   "text": "Bocetos de estancias, croquis de mobiliario, collages de materiales, perspectivas e ilustraciones de interiores.",
+   "html": "<p>Bocetos de estancias, <strong>croquis</strong> de mobiliario, collages de materiales, perspectivas e <strong>ilustraciones</strong> de interiores.</p>",
+   "s": 31,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -781,9 +786,10 @@
   },
   {
    "type": "text",
-   "text": "Realizamos todo tipo de planos, ¿Qué son los planos de arquitectura? Tipos de planos, Plano de situación, Plano de planta, El alzado, Plano de emplazamiento, vista de secciones, perspectiva arquitectónicas, planos de casas y edificios, Ideas, imágenes y decoración",
-   "html": "<p>Realizamos todo tipo de <strong>planos</strong>, <strong>¿Qué son los planos de arquitectura?</strong> <strong>Tipos de planos</strong>, <strong>Plano de situación</strong>, <strong> Plano de planta</strong>, <strong>El alzado</strong>,  <strong>Plano de emplazamiento</strong>, <strong>vista de secciones</strong>, <strong>perspectiva arquitectónicas</strong>, <strong>planos de casas y edificios</strong>,  Ideas, imágenes y <strong>decoración </strong></p>",
-   "s": 33
+   "text": "Un buen interior empieza en los planos : el plano de planta con la distribución y el mobiliario, el de iluminación, los alzados de cocina o baño con sus revestimientos y las secciones con las alturas de techo. Dibujamos todo tipo de planos de viviendas y locales, también con ideas de decoración.",
+   "html": "<p>Un buen interior empieza en los <strong>planos</strong>: el <strong>plano de planta</strong> con la distribución y el mobiliario, el de iluminación, los alzados de cocina o baño con sus revestimientos y las secciones con las alturas de techo. Dibujamos todo tipo de planos de viviendas y locales, también con ideas de decoración.</p>",
+   "s": 33,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -808,9 +814,10 @@
   },
   {
    "type": "text",
-   "text": "Especializados en realización de Renders 3D, modelado 3D, vídeo y tour virtual, renderizamos proyectos de cualquier envergadura y complejidad. ¿Qué es un render en arquitectura? Tipos de Render 3D, renders de interiores, render de casas, edificio... Precios",
-   "html": "<p class=\"LC20lb MBeuO DKV0Md\">Especializados en realización de <strong><em>Renders 3D</em></strong>, <strong>modelado 3D</strong>, <strong>vídeo</strong> y<strong> tour virtual</strong>, <strong>renderizamos </strong>proyectos de cualquier envergadura y complejidad<b>.</b>  <strong>¿Qué es un render en arquitectura?</strong> <strong>Tipos de Render 3D</strong>, <strong>renders de interiores</strong>, <strong>render de casas</strong>, <strong>edificio</strong>... <strong>Precios</strong></p>",
-   "s": 35
+   "text": "Con un render de interiores ves tu salón, tu cocina o tu dormitorio terminados antes de comprar un solo mueble. Hacemos renders 3D , modelado, vídeo y tour virtual para comparar colores, materiales y luz. Conoce qué es un render y qué tipos existen.",
+   "html": "<p>Con un <strong>render de interiores</strong> ves tu salón, tu cocina o tu dormitorio terminados antes de comprar un solo mueble. Hacemos <strong>renders 3D</strong>, modelado, vídeo y tour virtual para comparar colores, materiales y luz. Conoce qué es un render y qué tipos existen.</p>",
+   "s": 35,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -843,9 +850,10 @@
   },
   {
    "type": "text",
-   "text": "En nuestro despacho de arquitectura, convertimos tus ideas y emociones en proyectos tangibles. Te guiamos para materializar tu visión en el hogar o espacio que siempre has imaginado. Encargados en Diseñar los espacios, Interiorismos, Dirección de obra, Estudio de viabilidad, Rehabilitaciones, Gestión de proyectos. Planes, presupuesto, Supervisión",
-   "html": "<p>En nuestro <strong>despacho de arquitectura</strong>, convertimos tus ideas y emociones en proyectos tangibles. Te guiamos para materializar tu visión en el hogar o espacio que siempre has imaginado. Encargados en <strong>Diseñar los espacios</strong>, <strong>Interiorismos</strong>, <strong>Dirección de obra</strong>, <strong>Estudio de viabilidad</strong>, <strong>Rehabilitaciones</strong>, <strong>Gestión de proyectos</strong>. <strong>Planes</strong>, <strong>presupuesto</strong>, <strong>Supervisión</strong></p>",
-   "s": 37
+   "text": "En nuestro despacho de arquitectura damos forma a la casa o al local que tienes en la cabeza. Nos encargamos del diseño de los espacios interiores, de la distribución y de la elección de acabados, iluminación y mobiliario, y te asesoramos si el cambio incluye una reforma . Cuéntanos tu idea y empezamos a darle vueltas.",
+   "html": "<p>En nuestro <strong>despacho de arquitectura</strong> damos forma a la casa o al local que tienes en la cabeza. Nos encargamos del <strong>diseño de los espacios</strong> interiores, de la distribución y de la elección de acabados, iluminación y mobiliario, y te asesoramos si el cambio incluye una <strong>reforma</strong>. Cuéntanos tu idea y empezamos a darle vueltas.</p>",
+   "s": 37,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -877,9 +885,10 @@
   },
   {
    "type": "text",
-   "text": "¿Eres arquitecto, ingeniero. estudios arquitectónicos o empresa y quieres trabajar con nosotros? Trabajamos freelance y online, Contáctanos y organizaremos una Reunión. Conoce nuestros trabajos dearquitectura.",
-   "html": "<p>¿Eres <strong>arquitecto</strong>, <strong>ingeniero</strong>. <strong>estudios </strong><b>arquitectónicos</b> o<strong> empresa</strong> y quieres <strong>trabajar</strong> con nosotros? <strong>Trabajamos freelance</strong> y <strong>online</strong>, Contáctanos y organizaremos una Reunión. Conoce nuestros <strong>trabajos dearquitectura.</strong></p>",
-   "s": 39
+   "text": "¿Eres interiorista , decorador, arquitecto o diseñador de mobiliario y te gustaría colaborar con nosotros? Trabajamos online y como freelance. Contáctanos y concertamos una reunión.",
+   "html": "<p>¿Eres <strong>interiorista</strong>, decorador, arquitecto o diseñador de mobiliario y te gustaría colaborar con nosotros? Trabajamos <strong>online</strong> y como freelance. Contáctanos y concertamos una reunión.</p>",
+   "s": 39,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -905,9 +914,10 @@
   },
   {
    "type": "text",
-   "text": "Maqueta de arquitectura, industriales, conceptuales y urbanísticas, creamos maquetas arquitectónicas de alta precisión y detalle utilizando tecnologías avanzadas como impresión 3D, CNC y corte láser. Trabajamos con arquitectos y constructoras, convirtiendo ideas en representaciones visuales reales y propositivas.",
-   "html": "<p><strong>Maqueta de arquitectura,</strong> <strong>industriales</strong>, <strong>conceptuales</strong> y <strong>urbanísticas</strong>,<strong> creamos maquetas arquitectónicas de alta precisión</strong> y detalle utilizando tecnologías avanzadas como <strong>impresión 3D</strong>, <strong>CNC</strong> y <strong>corte láser</strong>. Trabajamos con <strong>arquitectos</strong> y <strong>constructoras</strong>, convirtiendo ideas en<strong> representaciones visuales</strong> reales y propositivas.</p>",
-   "s": 41
+   "text": "Las maquetas también sirven para el interior: una maqueta seccionada o sin cubierta deja ver la distribución de una vivienda y cómo se relacionan sus estancias. Hechas con impresión 3D o corte láser, ayudan a explicar un proyecto de interiorismo de forma física y cercana.",
+   "html": "<p>Las <strong>maquetas</strong> también sirven para el interior: una maqueta seccionada o sin cubierta deja ver la distribución de una vivienda y cómo se relacionan sus estancias. Hechas con <strong>impresión 3D</strong> o corte láser, ayudan a explicar un proyecto de interiorismo de forma física y cercana.</p>",
+   "s": 41,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -933,9 +943,10 @@
   },
   {
    "type": "text",
-   "text": "Conoce las mejores empresas que trabajan con nosotros, estudios de arquitectura, arquitectos y diseñadores. Equipos multidisciplinario para dar respuestas a los diferentes tipos de proyectos arquitectónicos",
-   "html": "<p>Conoce las <strong>mejores empresas</strong> que trabajan con nosotros, <strong>estudios de arquitectura</strong>, <strong>arquitectos</strong> y <strong>diseñadores</strong>. <strong>Equipos multidisciplinario</strong> para dar respuestas a los diferentes tipos de <strong>proyectos arquitectónicos</strong></p>",
-   "s": 43
+   "text": "Descubre las empresas que colaboran con nosotros: estudios, arquitectos, interioristas y diseñadores que forman equipos para cada tipo de espacio interior.",
+   "html": "<p>Descubre las <strong>empresas</strong> que colaboran con nosotros: estudios, arquitectos, <strong>interioristas</strong> y diseñadores que forman equipos para cada tipo de espacio interior.</p>",
+   "s": 43,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -961,9 +972,10 @@
   },
   {
    "type": "text",
-   "text": "Maximiza la presentación de tus Plantillas para portafolio de arquitectura. Te ofrecemos la oportunidad de presentar tu obra de manera impactante, ya sea en formato impreso o en línea. Para que tu portafolio destaque",
-   "html": "<p><strong>Maximiza la presentación de tus Plantillas</strong> para <strong>portafolio de arquitectura. T</strong>e ofrecemos la oportunidad de presentar tu <strong>obra</strong> de manera impactante, ya sea en formato impreso o en línea. Para que tu <strong>portafolio</strong> destaque</p>",
-   "s": 45
+   "text": "Los interiores lucen especialmente bien en un portafolio de arquitectura . Encuentra plantillas para presentar tus proyectos de interiorismo , en papel o en la web, con fotos, renders y planos que muestren tu forma de trabajar.",
+   "html": "<p>Los interiores lucen especialmente bien en un <strong>portafolio de arquitectura</strong>. Encuentra plantillas para presentar tus proyectos de <strong>interiorismo</strong>, en papel o en la web, con fotos, renders y planos que muestren tu forma de trabajar.</p>",
+   "s": 45,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -989,9 +1001,10 @@
   },
   {
    "type": "text",
-   "text": "Explora una amplia gama de imágenes sobre arquitectura, arquitectos y construcción, Descubre una colección de fotografías. impresionantes fotos urbanas, paisajes urbanos, arte conceptual, ilustraciones arquitectónicas y ciudades imaginarias. diversidad del diseño arquitectónico y la construcción.",
-   "html": "<p>Explora una amplia gama de<strong> imágenes sobre arquitectura</strong>, <strong>arquitectos</strong> y <strong>construcción</strong>, Descubre una <strong>colección de fotografías</strong>.  impresionantes fotos urbanas, paisajes urbanos, arte conceptual, ilustraciones arquitectónicas y ciudades imaginarias. diversidad del <strong>diseño arquitectónico y la construcción.</strong></p>",
-   "s": 47
+   "text": "Explora nuestras imágenes de arquitectura : fotografías urbanas, arte conceptual e ilustraciones de edificios de todo el mundo. Fijarse en la luz, los materiales y las formas de otros proyectos ayuda a encontrar el estilo que quieres para tus interiores.",
+   "html": "<p>Explora nuestras <strong>imágenes de arquitectura</strong>: fotografías urbanas, arte conceptual e ilustraciones de edificios de todo el mundo. Fijarse en la luz, los materiales y las formas de otros proyectos ayuda a encontrar el <strong>estilo</strong> que quieres para tus interiores.</p>",
+   "s": 47,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1017,9 +1030,10 @@
   },
   {
    "type": "text",
-   "text": "Explora nuestra selección de libros dearquitectura, una recopilación ideal para aficionados a la historia, teoría y práctica. Desde manuales técnicos hasta ejemplares sobre diseño interior, regala conocimiento arquitectónico con los mejores libros en formato impreso y digital",
-   "html": "<p>Explora nuestra selección de<strong> libros dearquitectura</strong>, una recopilación ideal para aficionados a la <strong>historia</strong>, <strong>teoría</strong> y <strong>práctica</strong>. Desde <strong>manuales técnicos</strong> hasta ejemplares sobre <strong>diseño interior</strong>, regala conocimiento <strong>arquitectónico</strong> con los mejores <strong>libros en formato impreso y digital</strong></p>",
-   "s": 49
+   "text": "Nuestra selección de libros de arquitectura incluye ejemplares sobre diseño interior , además de historia, teoría y manuales técnicos. Una lectura útil para quien quiere decorar su casa con criterio o dedicarse al interiorismo, en papel o en digital.",
+   "html": "<p>Nuestra selección de <strong>libros de arquitectura</strong> incluye ejemplares sobre <strong>diseño interior</strong>, además de historia, teoría y manuales técnicos. Una lectura útil para quien quiere decorar su casa con criterio o dedicarse al interiorismo, en papel o en digital.</p>",
+   "s": 49,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1045,9 +1059,10 @@
   },
   {
    "type": "text",
-   "text": "Descubre los mejores Cursos Online deArquitectura, donde te mostramos formaciones a distancia en diversas áreas como estructuras, mediciones, instalaciones, dibujo 2D, modelado 3D, fotografía, vídeo y diseño. accede a cursos especializados en urbanismo y paisajismo. Aprende a redactar proyectos de edificación, instrumentos de planeamiento urbanístico y gestión, así como proyectos de urbanización desde cualquier lugar y a tu propio ritmo.",
-   "html": "<p>Descubre los mejores <strong>Cursos Online deArquitectura</strong>, donde te mostramos <strong>formaciones</strong> a distancia en diversas áreas como <strong>estructuras</strong>, <strong>mediciones</strong>, <strong>instalaciones</strong>, <strong>dibujo 2D</strong>, <strong>modelado 3D</strong>, <strong>fotografía</strong>, <strong>vídeo</strong> y <strong>diseño</strong>. accede a <strong>cursos especializados en urbanismo y paisajismo</strong>. Aprende a redactar <strong>proyectos de edificación, instrumentos de planeamiento urbanístico y gestión</strong>, así como <strong>proyectos de urbanización</strong> desde cualquier lugar y a tu propio ritmo.</p>",
-   "s": 51
+   "text": "¿Te gustaría formarte en interiorismo ? Entre los cursos online de arquitectura que recopilamos hay formaciones a distancia en dibujo 2D, modelado 3D , diseño, fotografía y vídeo, muy útiles para representar y presentar espacios interiores. También encontrarás cursos de instalaciones, urbanismo y paisajismo, para ampliar conocimientos cuando y donde quieras.",
+   "html": "<p>¿Te gustaría formarte en <strong>interiorismo</strong>? Entre los <strong>cursos online de arquitectura</strong> que recopilamos hay formaciones a distancia en dibujo 2D, <strong>modelado 3D</strong>, diseño, fotografía y vídeo, muy útiles para representar y presentar espacios interiores. También encontrarás cursos de instalaciones, urbanismo y paisajismo, para ampliar conocimientos cuando y donde quieras.</p>",
+   "s": 51,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1073,9 +1088,10 @@
   },
   {
    "type": "text",
-   "text": "Revistas de arquitectura innovación y belleza en el mundo de la construcción! Exploramos los rincones más inspiradores del diseño arquitectónico, desde icónicos rascacielos hasta proyectos residenciales únicos y sostenibles. Sumérgete en análisis detallados de los estilos arquitectónicos, desde los clásicos hasta las tendencias contemporáneas más vanguardistas.",
-   "html": "<p><strong>Revistas de arquitectura innovación y belleza</strong> en el mundo de la <strong>construcción</strong>! Exploramos los rincones más inspiradores del <strong>diseño arquitectónico</strong>, desde icónicos rascacielos hasta <strong>proyectos residenciales únicos y sostenibles</strong>. Sumérgete en análisis detallados de los <strong>estilos arquitectónicos</strong>, desde los clásicos hasta las<strong> tendencias contemporáneas más vanguardistas</strong>.</p>",
-   "s": 53
+   "text": "Hojear revistas de arquitectura es una de las mejores formas de descubrir tendencias de interiorismo : casas reformadas, locales con personalidad y materiales que se ponen de moda. Incluyen análisis de estilos, desde los clásicos hasta los más vanguardistas, para llevarte ideas a tu propio espacio.",
+   "html": "<p>Hojear <strong>revistas de arquitectura</strong> es una de las mejores formas de descubrir <strong>tendencias de interiorismo</strong>: casas reformadas, locales con personalidad y materiales que se ponen de moda. Incluyen análisis de estilos, desde los clásicos hasta los más vanguardistas, para llevarte ideas a tu propio espacio.</p>",
+   "s": 53,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1101,9 +1117,10 @@
   },
   {
    "type": "text",
-   "text": "Conce los programas mas utilizados en arquitectura como AutoCAD, Revit, Archicad, Rhinoceros 3D, Sketchup, Vectorworks, V-Ray, Lumion. Postproducción y Visualización arquitectónica",
-   "html": "<p>Conce los<strong> programas mas utilizados en arquitectura</strong> como <strong>AutoCAD</strong>, <strong>Revit</strong>, <strong>Archicad</strong>, <strong>Rhinoceros 3D</strong>, <strong>Sketchup</strong>, <strong>Vectorworks</strong>,<strong> V-Ray</strong>, <strong>Lumion</strong>. <strong>Postproducción</strong> y <strong>Visualización arquitectónica</strong></p><div> </div>",
-   "s": 55
+   "text": "En interiorismo se usan SketchUp , AutoCAD o Revit para dibujar y modelar, y V-Ray , Corona o Lumion para los renders de interiores . Conoce los programas más usados.",
+   "html": "<p>En interiorismo se usan <strong>SketchUp</strong>, AutoCAD o Revit para dibujar y modelar, y <strong>V-Ray</strong>, Corona o Lumion para los <strong>renders de interiores</strong>. Conoce los programas más usados.</p>",
+   "s": 55,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1128,9 +1145,10 @@
   },
   {
    "type": "text",
-   "text": "La incursión de la inteligencia artificial en la industria arquitectónica ha sido significativa, ofreciendo a los arquitectos un aliado invaluable en el proceso de diseño, proyectos y obras. Explora cómo esta tecnología redefine la arquitectura y descubre sus ventajas, desventajas y ejemplos más relevantes. Desde el diseño asistido hasta la visualización en realidad virtual, la Inteligencia Artificial abre un abanico de aplicaciones para este campo",
-   "html": "<p>La incursión de la<strong> inteligencia artificial en la industria arquitectónica</strong> ha sido significativa, ofreciendo a los <strong>arquitectos</strong> un aliado invaluable en el <strong>proceso de diseño, proyectos y obras</strong>. Explora cómo esta <strong>tecnología</strong> redefine la <strong>arquitectura</strong> y descubre sus <strong>ventajas</strong>, <strong>desventajas</strong> y ejemplos más relevantes. Desde el <strong>diseño asistido</strong> hasta la v<strong>isualización en realidad virtual,</strong> la<strong> Inteligencia Artificial</strong> abre un abanico de aplicaciones para este campo</p>",
-   "s": 57
+   "text": "La inteligencia artificial ha entrado en el diseño de interiores con herramientas que proponen distribuciones, cambian el estilo de una habitación a partir de una foto o sugieren paletas de color. Descubre sus ventajas, sus inconvenientes y algunos ejemplos. Son útiles para inspirarse; para decidir medidas, materiales y muebles reales sigue haciendo falta un proyecto de interiorismo .",
+   "html": "<p>La <strong>inteligencia artificial</strong> ha entrado en el diseño de interiores con herramientas que proponen distribuciones, cambian el estilo de una habitación a partir de una foto o sugieren paletas de color. Descubre sus ventajas, sus inconvenientes y algunos ejemplos. Son útiles para inspirarse; para decidir medidas, materiales y muebles reales sigue haciendo falta un <strong>proyecto de interiorismo</strong>.</p>",
+   "s": 57,
+   "texto_propio": true
   },
   {
    "type": "button",

@@ -350,9 +350,10 @@
   },
   {
    "type": "text",
-   "text": "¿Tienes proyectos, diseños o ideas que ansías hacer realidad? Nuestro estudio de arquitectura e interiorismo está comprometido en ofrecerte soluciones creativas y funcionales. Desde el diseño conceptual hasta la ejecución, nos dedicamos a convertir tus visiones en estructuras concretas. Ponte en contacto con nuestra oficina de arquitectura",
-   "html": "<p>¿Tienes <strong>proyectos</strong>, <strong>diseños</strong> o ideas que ansías hacer realidad? <span style=\"font-size: 20px; letter-spacing: 0.1px; text-align: var(--text-align);\">Nuestro <strong>estudio de arquitectura e interiorismo</strong> está comprometido en ofrecerte <strong>soluciones creativas y funcionales</strong>. Desde el<strong> diseño conceptual</strong> hasta la ejecución, nos dedicamos a convertir tus visiones en <strong>estructuras concretas</strong>. Ponte en contacto con nuestra <strong>oficina de arquitectura</strong></span></p>",
-   "s": 10
+   "text": "¿Has probado a generar ideas con inteligencia artificial y ahora quieres convertirlas en un proyecto de verdad? Una imagen bonita todavía no es una casa: hay que comprobar medidas, estructura, normativa y presupuesto. En nuestro estudio de arquitectura te ayudamos a pasar de esa primera idea a un diseño con planos , modelado 3D y renders.",
+   "html": "<p>¿Has probado a generar ideas con <strong>inteligencia artificial</strong> y ahora quieres convertirlas en un proyecto de verdad? Una imagen bonita todavía no es una casa: hay que comprobar medidas, estructura, normativa y presupuesto. En nuestro <strong>estudio de arquitectura</strong> te ayudamos a pasar de esa primera idea a un <strong>diseño con planos</strong>, modelado 3D y renders.</p>",
+   "s": 10,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -366,23 +367,23 @@
    "items": [
     {
      "title": "¿Qué Son los Proyectos de Arquitectura?",
-     "html": "<p>Los proyectos de arquitectura son procesos creativos que transforman ideas en estructuras concretas, abarcando desde el diseño conceptual hasta la ejecución física de un espacio habitable o utilizable. Estos proyectos requieren habilidades técnicas, creatividad y comprensión profunda de las necesidades del cliente y del entorno.</p><p>Los proyectos de arquitectura son diseños y planes elaborados por profesionales de la arquitectura para la construcción o remodelación de espacios, ya sea residenciales, comerciales o industriales. Estos proyectos buscan satisfacer las necesidades funcionales, estéticas y técnicas del cliente, considerando factores como el presupuesto, la ubicación y las regulaciones locales.</p>"
+     "html": "<p>Un <strong>proyecto de arquitectura</strong> es el conjunto de documentos que define un edificio antes de construirlo o reformarlo: memoria, planos, cálculos, mediciones y presupuesto. Es el camino que lleva de una idea a algo que se puede levantar con seguridad y que cumple las normas del lugar.</p><p>La <strong>inteligencia artificial</strong> puede intervenir en algunas partes de ese camino, sobre todo al principio: para explorar ideas, generar imágenes de concepto o comparar variantes. Pero el proyecto sigue necesitando a un profesional que tome las decisiones, compruebe que todo encaja y <strong>responda de lo que se construye</strong>. La IA aporta opciones; el proyecto lo hace el arquitecto.</p>"
     },
     {
      "title": "¿Cómo se Realizan los Proyectos de Arquitectura?",
-     "html": "<h3><strong>Etapa de Diseño:</strong></h3><p>Comienza con la recopilación de requisitos del cliente, seguido por la conceptualización y creación de bocetos preliminares.</p><h3><strong>Planificación y Desarrollo:</strong></h3><p>Se desarrollan los planos detallados, se analizan los materiales, se elaboran maquetas y se definen las especificaciones técnicas.</p><h3><strong>Aprobación y Licencias:</strong></h3><p>Se obtienen los permisos necesarios de las autoridades correspondientes antes de avanzar a la etapa de construcción.</p><h3><strong>Construcción:</strong></h3><p>Se lleva a cabo la ejecución del proyecto, siguiendo los planos y especificaciones definidas.</p><h3><strong>Entrega y Seguimiento:</strong></h3><p>Se entrega el proyecto al cliente y se realizan posibles ajustes según requerimientos adicionales.</p>"
+     "html": "<ul><li><strong>Diseño:</strong> se recogen las necesidades del cliente y se dibujan los primeros bocetos. Aquí la IA puede ayudar a generar imágenes de referencia y a probar ideas con rapidez.</li><li><strong>Desarrollo:</strong> se dibujan los planos detallados y se definen materiales y soluciones técnicas. Algunas herramientas automatizan tareas repetitivas, pero cada plano se revisa.</li><li><strong>Licencias:</strong> se presenta el proyecto ante el ayuntamiento o la autoridad que corresponda para obtener los permisos.</li><li><strong>Obra:</strong> se construye siguiendo los planos y las especificaciones.</li><li><strong>Entrega:</strong> se entrega el edificio y se resuelven los ajustes finales.</li></ul>"
     },
     {
      "title": "Tipos de Proyectos de Arquitectura",
-     "html": "<h3><strong>Residencial:</strong></h3><p>Diseño de viviendas y complejos habitacionales.</p><h3><strong>Comercial:</strong></h3><p>Desarrollo de espacios para negocios, tiendas o edificios de oficinas.</p><h3><strong>Industrial</strong></h3><p>Creación de estructuras para fábricas o plantas de producción.</p><h3><strong>Restauración y Renovación:</strong></h3><p>Rehabilitación de edificios históricos o remodelaciones.</p>"
+     "html": "<ul><li><strong>Residencial:</strong> viviendas y edificios de pisos.</li><li><strong>Comercial:</strong> tiendas, oficinas y locales.</li><li><strong>Industrial:</strong> naves, fábricas y almacenes.</li><li><strong>Rehabilitación:</strong> reformas y edificios históricos.</li></ul><p>En todos ellos la IA puede servir para tantear ideas al inicio, nunca para sustituir el proyecto.</p>"
     },
     {
      "title": "¿Cuánto tiempo lleva completar un proyecto de arquitectura?",
-     "html": "<p>La duración varía según la escala y complejidad del proyecto, desde meses hasta años.</p>"
+     "html": "<p>Va de meses a años según la <strong>escala y complejidad</strong>. La IA agiliza tareas, no permisos ni obra.</p>"
     },
     {
      "title": "¿Cómo seleccionar al arquitecto adecuado para mi proyecto?",
-     "html": "<p>Considera su experiencia, estilo, costos y el tipo de proyectos que ha completado.</p>"
+     "html": "<p>Mira su <strong>experiencia</strong>, su estilo y sus obras, y cómo usa las herramientas digitales.</p>"
     }
    ],
    "s": 11
@@ -404,9 +405,10 @@
   },
   {
    "type": "text",
-   "text": "Ya sea que busques arquitectos, aparejadores o arquitectos técnicos, estamos aquí para ofrecerte respuestas a tus problemas o dudas arquitectónicas. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus proyectos y consultas relacionadas con la arquitectura.",
-   "html": "<p>Ya sea que busques <strong>arquitectos</strong>, <strong>aparejadores</strong> o <strong>arquitectos técnicos</strong>, estamos aquí para ofrecerte respuestas a tus problemas o dudas <strong>arquitectónicas</strong>. Nuestro equipo de expertos se dedica a brindar soluciones precisas y efectivas para tus <strong>proyectos y consultas relacionadas con la arquitectura</strong>.</p>",
-   "s": 13
+   "text": "La IA no cambia lo esencial del oficio: arquitectos , aparejadores y arquitectos técnicos siguen siendo quienes deciden, calculan y responden de cada proyecto. Lo que cambia es que pueden dedicar menos tiempo a tareas repetitivas y más a pensar. Si tienes dudas sobre tu proyecto, te ayudamos a resolverlas con criterio profesional .",
+   "html": "<p>La IA no cambia lo esencial del oficio: <strong>arquitectos</strong>, aparejadores y <strong>arquitectos técnicos</strong> siguen siendo quienes deciden, calculan y responden de cada proyecto. Lo que cambia es que pueden dedicar menos tiempo a tareas repetitivas y más a pensar. Si tienes dudas sobre tu proyecto, te ayudamos a resolverlas con <strong>criterio profesional</strong>.</p>",
+   "s": 13,
+   "texto_propio": true
   },
   {
    "type": "text",
@@ -450,9 +452,10 @@
   },
   {
    "type": "text",
-   "text": "Sumérgete en el mundo arquitectónico. Mas que una web somos una plataforma de arquitectura, aquí encontraras noticias, servicios, cursos, libros, proyectos y mucho mas, entra en el mundo arquitectónico y sorpréndete de todo lo que se puede lograr.",
-   "html": "<p>Sumérgete en el <strong>mundo arquitectónico</strong>. Mas que una web somos una <strong>plataforma de arquitectura</strong>, aquí encontraras <strong>noticias</strong>, <strong>servicios</strong>, <strong>cursos</strong>, <strong>libros</strong>, <strong>proyectos</strong> y mucho mas, entra en el mundo <strong>arquitectónico</strong> y sorpréndete de todo lo que se puede lograr.</p>",
-   "s": 17
+   "text": "La inteligencia artificial es solo uno de los temas que tratamos. Esta web es, sobre todo, una plataforma de arquitectura : aquí encontrarás noticias, servicios, cursos, libros, programas y proyectos para seguir de cerca cómo cambia la profesión, sin perder de vista lo que siempre ha importado: el buen diseño.",
+   "html": "<p>La <strong>inteligencia artificial</strong> es solo uno de los temas que tratamos. Esta web es, sobre todo, una <strong>plataforma de arquitectura</strong>: aquí encontrarás noticias, servicios, cursos, libros, programas y proyectos para seguir de cerca cómo cambia la profesión, sin perder de vista lo que siempre ha importado: el buen diseño.</p>",
+   "s": 17,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -469,9 +472,10 @@
   },
   {
    "type": "text",
-   "text": "Somos De Arquitectura, estudio de arquitectura e interiorismo que ofrece una plataforma online donde podrás encontrar arquitectos e interioristas profesionales. Nuestros servicios incluyen diseño 3D, renderizado, planificación, anteproyectos, proyectos, reforma y construcción. Además, contamos con un blog donde podrás consultar ideas y noticias arquitectónicas. Nuestro objetivo es brindarte un servicio rápido, personalizado y eficiente, optimizando el tiempo y los recursos de tus proyectos. Estamos a tu disposición para resolver cualquier duda o consulta que tengas. ¡Te damos la bienvenida a Dearquitectura.info!",
-   "html": "<p>Somos <a href=\"https://dearquitectura.info/\"><strong>De Arquitectura</strong></a>, <strong>estudio de arquitectura e interiorismo</strong> que ofrece una <strong>plataforma</strong> online donde podrás encontrar <strong>arquitectos</strong> e <strong>interioristas</strong> profesionales. Nuestros servicios incluyen <strong>diseño 3D, renderizado, planificación, anteproyectos, proyectos, reforma y construcción</strong>. Además, contamos con un blog donde podrás consultar <strong>ideas y noticias arquitectónicas</strong>.</p><p>Nuestro objetivo es brindarte un servicio rápido, personalizado y eficiente, optimizando el tiempo y los recursos de tus proyectos.</p><p>Estamos a tu disposición para resolver cualquier duda o consulta que tengas. ¡Te damos la bienvenida a <strong>Dearquitectura.info</strong>!</p>",
-   "s": 19
+   "text": "Somos De Arquitectura , un estudio de arquitectura e interiorismo con una plataforma online sobre el mundo arquitectónico. Ofrecemos diseño , planos, modelado 3D, renders y asesoramiento para tus proyectos. Si has empezado a darle forma a una idea, aunque sea con herramientas de inteligencia artificial, podemos revisarla contigo y convertirla en un diseño claro y bien documentado. En nuestro blog encontrarás artículos como este para entender las nuevas tecnologías en arquitectura. Escríbenos con cualquier duda o consulta: te damos la bienvenida a Dearquitectura.info.",
+   "html": "<p>Somos <strong>De Arquitectura</strong>, un estudio de arquitectura e interiorismo con una plataforma online sobre el mundo arquitectónico. Ofrecemos <strong>diseño</strong>, planos, modelado 3D, renders y <strong>asesoramiento</strong> para tus proyectos. Si has empezado a darle forma a una idea, aunque sea con herramientas de inteligencia artificial, podemos revisarla contigo y convertirla en un diseño claro y bien documentado. En nuestro blog encontrarás artículos como este para entender las <strong>nuevas tecnologías</strong> en arquitectura. Escríbenos con cualquier duda o consulta: te damos la bienvenida a Dearquitectura.info.</p>",
+   "s": 19,
+   "texto_propio": true
   },
   {
    "type": "image",
@@ -511,7 +515,7 @@
    "items": [
     {
      "title": "¿Qué es la Arquitectura? Significado",
-     "html": "<p>Es una de las <strong>expresiones artísticas más antiguas y universales de la humanidad</strong>. Desde que el ser humano empezó a construir refugios para protegerse de las inclemencias del tiempo, la arquitectura ha acompañado su historia, su cultura, su religión y su forma de vida. <strong>La arquitectura no solo satisface las necesidades prácticas de las personas, sino que también refleja sus valores, sus sueños, sus emociones y su identidad. Es, en definitiva, un arte que transforma el mundo</strong>.</p><p><strong>La arquitectura es el arte y la ciencia de diseñar y construir edificios, estructuras y espacios que cumplen una función estética, funcional y social</strong>. La arquitectura <strong>abarca desde el diseño de una casa hasta el de una ciudad, pasando por el de un parque, un monumento, un puente o un rascacielos</strong>. La arquitectura <strong>se basa en principios como la proporción, la simetría, la armonía, el equilibrio, el contraste, el ritmo, la escala y la composición.</strong></p><p style=\"text-align: center;\"><strong>La arquitectura: un arte que transforma el mundo</strong></p><h3><strong>Origen y evolución</strong></h3><p>El origen se remonta a las primeras civilizaciones que buscaban refugio y seguridad. Desde las estructuras primitivas hasta los majestuosos templos y monumentos de la antigüedad, ha evolucionado a lo largo de milenios, influenciada por culturas, tecnologías y estilos de vida cambiantes.</p><h3><strong>Elementos y principios de la arquitectura</strong></h3><p>Los elementos fundamentales incluyen la forma, el espacio, la luz, la textura y el color. Los principios básicos guían el diseño arquitectónico, como la funcionalidad, la estética, la durabilidad, la sostenibilidad y la armonía con el entorno. Estos elementos y principios se combinan para crear estructuras significativas y coherentes.</p>"
+     "html": "<p>La <strong>arquitectura</strong> es el arte y la técnica de proyectar y construir edificios, espacios y ciudades que cumplan una función, resistan el paso del tiempo y resulten agradables para quien los vive. Es una de las expresiones más antiguas de la humanidad: desde los primeros refugios hasta los rascacielos, cada época ha dejado en sus construcciones su forma de vivir, sus creencias y su técnica.</p><p>Abarca escalas muy distintas, de una vivienda a un barrio entero, y se apoya en principios que no cambian: proporción, escala, luz, ritmo, equilibrio y relación con el entorno. A ellos se suman la funcionalidad, la durabilidad y, cada vez más, la <strong>sostenibilidad</strong>.</p><p><strong>Las herramientas cambian, el oficio permanece</strong></p><p>A lo largo de la historia, los arquitectos han pasado de dibujar a mano a trabajar con programas de dibujo asistido por ordenador, después con modelos 3D y hoy también con <strong>inteligencia artificial</strong>. Cada herramienta ha permitido dibujar más rápido o ver antes el resultado, pero ninguna ha cambiado la pregunta de fondo: cómo hacer un espacio que sirva a las personas y encaje en su lugar.</p><p>Por eso la IA se entiende mejor como una ayuda más dentro de esa larga historia. Puede proponer formas o imágenes, pero no conoce a quien va a vivir en la casa ni el clima, la cultura o las normas del sitio. Esa lectura, que es la esencia de la arquitectura, sigue siendo cosa del arquitecto.</p>"
     }
    ],
    "s": 20
@@ -770,9 +774,10 @@
   },
   {
    "type": "text",
-   "text": "Los mejores dibujos arquitectónicos, Croquis arquitectónicos, Diseños conceptuales, Collages e ilustraciones arquitectónicas, Diagramas",
-   "html": "<p>Los mejores <strong>dibujos arquitectónicos</strong>, <strong>Croquis arquitectónicos</strong>,  <strong>Diseños conceptuales</strong>, <strong>Collages</strong> e <strong>ilustraciones arquitectónicas</strong>, <strong>Diagramas</strong></p>",
-   "s": 31
+   "text": "Aunque la IA genere imágenes, el croquis a mano sigue siendo clave para pensar. Descubre dibujos, collages e ilustraciones arquitectónicas .",
+   "html": "<p>Aunque la IA genere imágenes, el <strong>croquis a mano</strong> sigue siendo clave para pensar. Descubre dibujos, collages e <strong>ilustraciones arquitectónicas</strong>.</p>",
+   "s": 31,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -798,9 +803,10 @@
   },
   {
    "type": "text",
-   "text": "Realizamos todo tipo de planos, ¿Qué son los planos de arquitectura? Tipos de planos, Plano de situación, Plano de planta, El alzado, Plano de emplazamiento, vista de secciones, perspectiva arquitectónicas, planos de casas y edificios, Ideas, imágenes y decoración",
-   "html": "<p>Realizamos todo tipo de <strong>planos</strong>, <strong>¿Qué son los planos de arquitectura?</strong> <strong>Tipos de planos</strong>, <strong>Plano de situación</strong>, <strong> Plano de planta</strong>, <strong>El alzado</strong>,  <strong>Plano de emplazamiento</strong>, <strong>vista de secciones</strong>, <strong>perspectiva arquitectónicas</strong>, <strong>planos de casas y edificios</strong>,  Ideas, imágenes y <strong>decoración </strong></p>",
-   "s": 33
+   "text": "La IA puede proponer distribuciones o automatizar partes del dibujo, pero por sí sola no da planos de arquitectura listos para obra: no garantiza ni las medidas, ni la estructura ni la normativa. Realizamos todo tipo de planos revisados por profesionales: plano de situación , de planta, alzados, secciones y perspectivas de casas y edificios.",
+   "html": "<p>La IA puede proponer distribuciones o automatizar partes del dibujo, pero por sí sola no da <strong>planos de arquitectura</strong> listos para obra: no garantiza ni las medidas, ni la estructura ni la normativa. Realizamos todo tipo de planos revisados por profesionales: <strong>plano de situación</strong>, de planta, alzados, secciones y perspectivas de casas y edificios.</p>",
+   "s": 33,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -825,9 +831,10 @@
   },
   {
    "type": "text",
-   "text": "Especializados en realización de Renders 3D, modelado 3D, vídeo y tour virtual, renderizamos proyectos de cualquier envergadura y complejidad. ¿Qué es un render en arquitectura? Tipos de Render 3D, renders de interiores, render de casas, edificio... Precios",
-   "html": "<p class=\"LC20lb MBeuO DKV0Md\">Especializados en realización de <strong><em>Renders 3D</em></strong>, <strong>modelado 3D</strong>, <strong>vídeo</strong> y<strong> tour virtual</strong>, <strong>renderizamos </strong>proyectos de cualquier envergadura y complejidad<b>.</b>  <strong>¿Qué es un render en arquitectura?</strong> <strong>Tipos de Render 3D</strong>, <strong>renders de interiores</strong>, <strong>render de casas</strong>, <strong>edificio</strong>... <strong>Precios</strong></p>",
-   "s": 35
+   "text": "Un render hecho con IA sirve para tantear una idea; un render profesional parte de un modelo 3D fiel al proyecto, con sus medidas, materiales y luz reales. Hacemos renders 3D, modelado, vídeo y tour virtual de proyectos de cualquier tamaño: interiores, casas, edificios y más. Consulta tipos y precios .",
+   "html": "<p>Un render hecho con IA sirve para tantear una idea; un <strong>render profesional</strong> parte de un <strong>modelo 3D</strong> fiel al proyecto, con sus medidas, materiales y luz reales. Hacemos renders 3D, modelado, vídeo y tour virtual de proyectos de cualquier tamaño: interiores, casas, edificios y más. Consulta tipos y <strong>precios</strong>.</p>",
+   "s": 35,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -860,9 +867,10 @@
   },
   {
    "type": "text",
-   "text": "En nuestro despacho de arquitectura, convertimos tus ideas y emociones en proyectos tangibles. Te guiamos para materializar tu visión en el hogar o espacio que siempre has imaginado. Encargados en Diseñar los espacios, Interiorismos, Dirección de obra, Estudio de viabilidad, Rehabilitaciones, Gestión de proyectos. Planes, presupuesto, Supervisión",
-   "html": "<p>En nuestro <strong>despacho de arquitectura</strong>, convertimos tus ideas y emociones en proyectos tangibles. Te guiamos para materializar tu visión en el hogar o espacio que siempre has imaginado. Encargados en <strong>Diseñar los espacios</strong>, <strong>Interiorismos</strong>, <strong>Dirección de obra</strong>, <strong>Estudio de viabilidad</strong>, <strong>Rehabilitaciones</strong>, <strong>Gestión de proyectos</strong>. <strong>Planes</strong>, <strong>presupuesto</strong>, <strong>Supervisión</strong></p>",
-   "s": 37
+   "text": "En nuestro despacho de arquitectura , cada proyecto empieza escuchando: qué necesitas, cómo vives y qué espacio imaginas. Las herramientas digitales permiten enseñar opciones antes, pero las decisiones se toman contigo, una a una. Nos encargamos del diseño de espacios , el interiorismo, el estudio de viabilidad y los proyectos de rehabilitación, con planos y asesoramiento en cada paso.",
+   "html": "<p>En nuestro <strong>despacho de arquitectura</strong>, cada proyecto empieza escuchando: qué necesitas, cómo vives y qué espacio imaginas. Las herramientas digitales permiten enseñar opciones antes, pero las decisiones se toman contigo, una a una. Nos encargamos del <strong>diseño de espacios</strong>, el interiorismo, el <strong>estudio de viabilidad</strong> y los proyectos de rehabilitación, con planos y asesoramiento en cada paso.</p>",
+   "s": 37,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -894,9 +902,10 @@
   },
   {
    "type": "text",
-   "text": "¿Eres arquitecto, ingeniero. estudios arquitectónicos o empresa y quieres trabajar con nosotros? Trabajamos freelance y online, Contáctanos y organizaremos una Reunión. Conoce nuestros trabajos dearquitectura.",
-   "html": "<p>¿Eres <strong>arquitecto</strong>, <strong>ingeniero</strong>. <strong>estudios </strong><b>arquitectónicos</b> o<strong> empresa</strong> y quieres <strong>trabajar</strong> con nosotros? <strong>Trabajamos freelance</strong> y <strong>online</strong>, Contáctanos y organizaremos una Reunión. Conoce nuestros <strong>trabajos dearquitectura.</strong></p>",
-   "s": 39
+   "text": "¿Eres arquitecto, ingeniero o diseñador y te interesan las herramientas digitales y la inteligencia artificial aplicadas al proyecto? Trabajamos online y en remoto. Contáctanos y organizaremos una reunión.",
+   "html": "<p>¿Eres arquitecto, ingeniero o <strong>diseñador</strong> y te interesan las herramientas digitales y la <strong>inteligencia artificial</strong> aplicadas al proyecto? Trabajamos online y en remoto. Contáctanos y organizaremos una reunión.</p>",
+   "s": 39,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -922,9 +931,10 @@
   },
   {
    "type": "text",
-   "text": "Maqueta de arquitectura, industriales, conceptuales y urbanísticas, creamos maquetas arquitectónicas de alta precisión y detalle utilizando tecnologías avanzadas como impresión 3D, CNC y corte láser. Trabajamos con arquitectos y constructoras, convirtiendo ideas en representaciones visuales reales y propositivas.",
-   "html": "<p><strong>Maqueta de arquitectura,</strong> <strong>industriales</strong>, <strong>conceptuales</strong> y <strong>urbanísticas</strong>,<strong> creamos maquetas arquitectónicas de alta precisión</strong> y detalle utilizando tecnologías avanzadas como <strong>impresión 3D</strong>, <strong>CNC</strong> y <strong>corte láser</strong>. Trabajamos con <strong>arquitectos</strong> y <strong>constructoras</strong>, convirtiendo ideas en<strong> representaciones visuales</strong> reales y propositivas.</p>",
-   "s": 41
+   "text": "Ni la imagen más espectacular hecha con IA sustituye a una maqueta de arquitectura : se toca, se rodea y se entiende de un vistazo. Las maquetas conceptuales, urbanísticas o industriales combinan hoy el trabajo manual con la impresión 3D , el CNC y el corte láser.",
+   "html": "<p>Ni la imagen más espectacular hecha con IA sustituye a una <strong>maqueta de arquitectura</strong>: se toca, se rodea y se entiende de un vistazo. Las maquetas conceptuales, urbanísticas o industriales combinan hoy el trabajo manual con la <strong>impresión 3D</strong>, el CNC y el corte láser.</p>",
+   "s": 41,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -950,9 +960,10 @@
   },
   {
    "type": "text",
-   "text": "Conoce las mejores empresas que trabajan con nosotros, estudios de arquitectura, arquitectos y diseñadores. Equipos multidisciplinario para dar respuestas a los diferentes tipos de proyectos arquitectónicos",
-   "html": "<p>Conoce las <strong>mejores empresas</strong> que trabajan con nosotros, <strong>estudios de arquitectura</strong>, <strong>arquitectos</strong> y <strong>diseñadores</strong>. <strong>Equipos multidisciplinario</strong> para dar respuestas a los diferentes tipos de <strong>proyectos arquitectónicos</strong></p>",
-   "s": 43
+   "text": "Conoce las empresas que trabajan con nosotros: estudios, arquitectos y diseñadores. En una profesión que cambia con la tecnología, los equipos multidisciplinares dan mejores respuestas a cada tipo de proyecto.",
+   "html": "<p>Conoce las <strong>empresas</strong> que trabajan con nosotros: estudios, arquitectos y diseñadores. En una profesión que cambia con la tecnología, los <strong>equipos multidisciplinares</strong> dan mejores respuestas a cada tipo de proyecto.</p>",
+   "s": 43,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -978,9 +989,10 @@
   },
   {
    "type": "text",
-   "text": "Maximiza la presentación de tus Plantillas para portafolio de arquitectura. Te ofrecemos la oportunidad de presentar tu obra de manera impactante, ya sea en formato impreso o en línea. Para que tu portafolio destaque",
-   "html": "<p><strong>Maximiza la presentación de tus Plantillas</strong> para <strong>portafolio de arquitectura. T</strong>e ofrecemos la oportunidad de presentar tu <strong>obra</strong> de manera impactante, ya sea en formato impreso o en línea. Para que tu <strong>portafolio</strong> destaque</p>",
-   "s": 45
+   "text": "Un buen portafolio de arquitectura enseña cómo piensas, no solo imágenes bonitas. Si incluyes trabajos apoyados en IA, explica qué parte es tuya. Descubre plantillas para presentar tu obra en papel o en línea.",
+   "html": "<p>Un buen <strong>portafolio de arquitectura</strong> enseña cómo piensas, no solo imágenes bonitas. Si incluyes trabajos apoyados en IA, explica qué parte es tuya. Descubre <strong>plantillas</strong> para presentar tu obra en papel o en línea.</p>",
+   "s": 45,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1006,9 +1018,10 @@
   },
   {
    "type": "text",
-   "text": "Explora una amplia gama de imágenes sobre arquitectura, arquitectos y construcción, Descubre una colección de fotografías. impresionantes fotos urbanas, paisajes urbanos, arte conceptual, ilustraciones arquitectónicas y ciudades imaginarias. diversidad del diseño arquitectónico y la construcción.",
-   "html": "<p>Explora una amplia gama de<strong> imágenes sobre arquitectura</strong>, <strong>arquitectos</strong> y <strong>construcción</strong>, Descubre una <strong>colección de fotografías</strong>.  impresionantes fotos urbanas, paisajes urbanos, arte conceptual, ilustraciones arquitectónicas y ciudades imaginarias. diversidad del <strong>diseño arquitectónico y la construcción.</strong></p>",
-   "s": 47
+   "text": "Explora imágenes de arquitectura : fotografías de edificios y ciudades, paisajes urbanos, arte conceptual y ciudades imaginarias. Junto a las fotos reales circulan cada vez más imágenes creadas con IA; conviene saber distinguirlas antes de tomarlas como referencia .",
+   "html": "<p>Explora <strong>imágenes de arquitectura</strong>: fotografías de edificios y ciudades, paisajes urbanos, arte conceptual y ciudades imaginarias. Junto a las fotos reales circulan cada vez más imágenes creadas con IA; conviene saber distinguirlas antes de tomarlas como <strong>referencia</strong>.</p>",
+   "s": 47,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1034,9 +1047,10 @@
   },
   {
    "type": "text",
-   "text": "Explora nuestra selección de libros dearquitectura, una recopilación ideal para aficionados a la historia, teoría y práctica. Desde manuales técnicos hasta ejemplares sobre diseño interior, regala conocimiento arquitectónico con los mejores libros en formato impreso y digital",
-   "html": "<p>Explora nuestra selección de<strong> libros dearquitectura</strong>, una recopilación ideal para aficionados a la <strong>historia</strong>, <strong>teoría</strong> y <strong>práctica</strong>. Desde <strong>manuales técnicos</strong> hasta ejemplares sobre <strong>diseño interior</strong>, regala conocimiento <strong>arquitectónico</strong> con los mejores <strong>libros en formato impreso y digital</strong></p>",
-   "s": 49
+   "text": "Para entender bien lo que la IA puede aportar, antes hay que conocer la base del oficio. Explora nuestra selección de libros de arquitectura : historia, teoría, manuales técnicos y diseño interior, en papel y en digital.",
+   "html": "<p>Para entender bien lo que la IA puede aportar, antes hay que conocer la base del oficio. Explora nuestra selección de <strong>libros de arquitectura</strong>: historia, teoría, <strong>manuales técnicos</strong> y diseño interior, en papel y en digital.</p>",
+   "s": 49,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1062,9 +1076,10 @@
   },
   {
    "type": "text",
-   "text": "Descubre los mejores Cursos Online deArquitectura, donde te mostramos formaciones a distancia en diversas áreas como estructuras, mediciones, instalaciones, dibujo 2D, modelado 3D, fotografía, vídeo y diseño. accede a cursos especializados en urbanismo y paisajismo. Aprende a redactar proyectos de edificación, instrumentos de planeamiento urbanístico y gestión, así como proyectos de urbanización desde cualquier lugar y a tu propio ritmo.",
-   "html": "<p>Descubre los mejores <strong>Cursos Online deArquitectura</strong>, donde te mostramos <strong>formaciones</strong> a distancia en diversas áreas como <strong>estructuras</strong>, <strong>mediciones</strong>, <strong>instalaciones</strong>, <strong>dibujo 2D</strong>, <strong>modelado 3D</strong>, <strong>fotografía</strong>, <strong>vídeo</strong> y <strong>diseño</strong>. accede a <strong>cursos especializados en urbanismo y paisajismo</strong>. Aprende a redactar <strong>proyectos de edificación, instrumentos de planeamiento urbanístico y gestión</strong>, así como <strong>proyectos de urbanización</strong> desde cualquier lugar y a tu propio ritmo.</p>",
-   "s": 51
+   "text": "Descubre los mejores cursos online de arquitectura para formarte a distancia y a tu ritmo: estructuras, mediciones, instalaciones, dibujo 2D, modelado 3D , fotografía, vídeo y diseño, además de urbanismo y paisajismo. Las herramientas digitales, incluida la inteligencia artificial, cambian deprisa; una buena base técnica es lo que permite aprovechar cada novedad sin depender de ella.",
+   "html": "<p>Descubre los mejores <strong>cursos online de arquitectura</strong> para formarte a distancia y a tu ritmo: estructuras, mediciones, instalaciones, dibujo 2D, <strong>modelado 3D</strong>, fotografía, vídeo y diseño, además de urbanismo y paisajismo. Las herramientas digitales, incluida la inteligencia artificial, cambian deprisa; una buena <strong>base técnica</strong> es lo que permite aprovechar cada novedad sin depender de ella.</p>",
+   "s": 51,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1090,9 +1105,10 @@
   },
   {
    "type": "text",
-   "text": "Revistas de arquitectura innovación y belleza en el mundo de la construcción! Exploramos los rincones más inspiradores del diseño arquitectónico, desde icónicos rascacielos hasta proyectos residenciales únicos y sostenibles. Sumérgete en análisis detallados de los estilos arquitectónicos, desde los clásicos hasta las tendencias contemporáneas más vanguardistas.",
-   "html": "<p><strong>Revistas de arquitectura innovación y belleza</strong> en el mundo de la <strong>construcción</strong>! Exploramos los rincones más inspiradores del <strong>diseño arquitectónico</strong>, desde icónicos rascacielos hasta <strong>proyectos residenciales únicos y sostenibles</strong>. Sumérgete en análisis detallados de los <strong>estilos arquitectónicos</strong>, desde los clásicos hasta las<strong> tendencias contemporáneas más vanguardistas</strong>.</p>",
-   "s": 53
+   "text": "Las revistas de arquitectura son una buena forma de seguir el debate sobre la tecnología en el diseño, la IA incluida, con ejemplos y opiniones de profesionales. Encontrarás también análisis de estilos arquitectónicos , de los clásicos a las tendencias más actuales, y proyectos residenciales y sostenibles de todo el mundo.",
+   "html": "<p>Las <strong>revistas de arquitectura</strong> son una buena forma de seguir el debate sobre la tecnología en el diseño, la IA incluida, con ejemplos y opiniones de profesionales. Encontrarás también análisis de <strong>estilos arquitectónicos</strong>, de los clásicos a las tendencias más actuales, y proyectos residenciales y sostenibles de todo el mundo.</p>",
+   "s": 53,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1118,9 +1134,10 @@
   },
   {
    "type": "text",
-   "text": "Conce los programas mas utilizados en arquitectura como AutoCAD, Revit, Archicad, Rhinoceros 3D, Sketchup, Vectorworks, V-Ray, Lumion. Postproducción y Visualización arquitectónica",
-   "html": "<p>Conce los<strong> programas mas utilizados en arquitectura</strong> como <strong>AutoCAD</strong>, <strong>Revit</strong>, <strong>Archicad</strong>, <strong>Rhinoceros 3D</strong>, <strong>Sketchup</strong>, <strong>Vectorworks</strong>,<strong> V-Ray</strong>, <strong>Lumion</strong>. <strong>Postproducción</strong> y <strong>Visualización arquitectónica</strong></p><div> </div>",
-   "s": 55
+   "text": "Antes de probar herramientas de IA, conviene dominar los programas de arquitectura más usados: AutoCAD, Revit, Archicad, Rhinoceros 3D, SketchUp, V-Ray o Lumion, además de la postproducción .",
+   "html": "<p>Antes de probar herramientas de IA, conviene dominar los <strong>programas de arquitectura</strong> más usados: AutoCAD, Revit, Archicad, Rhinoceros 3D, SketchUp, V-Ray o Lumion, además de la <strong>postproducción</strong>.</p>",
+   "s": 55,
+   "texto_propio": true
   },
   {
    "type": "button",
@@ -1145,9 +1162,10 @@
   },
   {
    "type": "text",
-   "text": "La incursión de la inteligencia artificial en la industria arquitectónica ha sido significativa, ofreciendo a los arquitectos un aliado invaluable en el proceso de diseño, proyectos y obras. Explora cómo esta tecnología redefine la arquitectura y descubre sus ventajas, desventajas y ejemplos más relevantes. Desde el diseño asistido hasta la visualización en realidad virtual, la Inteligencia Artificial abre un abanico de aplicaciones para este campo",
-   "html": "<p>La incursión de la<strong> inteligencia artificial en la industria arquitectónica</strong> ha sido significativa, ofreciendo a los <strong>arquitectos</strong> un aliado invaluable en el <strong>proceso de diseño, proyectos y obras</strong>. Explora cómo esta <strong>tecnología</strong> redefine la <strong>arquitectura</strong> y descubre sus <strong>ventajas</strong>, <strong>desventajas</strong> y ejemplos más relevantes. Desde el <strong>diseño asistido</strong> hasta la v<strong>isualización en realidad virtual,</strong> la<strong> Inteligencia Artificial</strong> abre un abanico de aplicaciones para este campo</p>",
-   "s": 57
+   "text": "Si este tema te interesa, sigue explorando. La inteligencia artificial puede ser un buen aliado del arquitecto en el diseño, la visualización y la documentación de proyectos, siempre como apoyo y no como sustituto. En la sección de programas encontrarás las herramientas digitales más usadas por la profesión, el punto de partida para entender dónde encaja la IA. Uses la que uses, el resultado depende de quien la maneja.",
+   "html": "<p>Si este tema te interesa, sigue explorando. La <strong>inteligencia artificial</strong> puede ser un buen aliado del arquitecto en el diseño, la visualización y la documentación de proyectos, siempre como apoyo y no como sustituto. En la sección de programas encontrarás las <strong>herramientas digitales</strong> más usadas por la profesión, el punto de partida para entender dónde encaja la IA. Uses la que uses, el resultado depende de quien la maneja.</p>",
+   "s": 57,
+   "texto_propio": true
   },
   {
    "type": "button",
