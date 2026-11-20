@@ -23,3 +23,15 @@
 .elementor-nueva > .e-con.nueva-fila:first-child .e-con.nueva-col:last-child { text-align: center; }
 .elementor-nueva > .e-con.nueva-fila:first-child .e-con.nueva-col:last-child .elementor-divider { --divider-align: center; }
 .elementor-nueva > .e-con.nueva-fila:first-child .e-con.nueva-col:last-child .elementor-widget-container { margin-inline: auto; }
+
+/* Tablas de precios (¿Cuánto cuesta un render?, 20-11-2026) */
+.tabla-precios { margin-top: 8px; }
+.tabla-precios thead th { background: var(--tinta); color: #fff; font-weight: 700; padding: .75em .9em; }
+.tabla-precios td { padding: .7em .9em; }
+.tabla-precios td:last-child { white-space: nowrap; font-weight: 700; color: var(--tinta); }
+.tabla-precios tbody tr:nth-child(even) { background: var(--piedra); }
+.nota-precios { font-size: 14px; color: var(--suave); }
+@media (max-width: 767px) {
+  .tabla-precios { font-size: 14.5px; }
+  .tabla-precios td:last-child { white-space: normal; }
+}

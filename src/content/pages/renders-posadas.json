@@ -784,10 +784,8 @@
    "type": "button",
    "text": "Precios",
    "size": "sm",
-   "href": "/renders-economicos/",
-   "s": 26,
-   "href_original": "/precio-render/",
-   "cambio": "enlace_roto"
+   "href": "/precio-render/",
+   "s": 26
   },
   {
    "type": "image",
@@ -795,10 +793,8 @@
    "alt": "precio-render",
    "size": "large",
    "wpid": 2707,
-   "href": "/renders-economicos/",
-   "s": 26,
-   "href_original": "/precio-render/",
-   "cambio": "enlace_roto"
+   "href": "/precio-render/",
+   "s": 26
   },
   {
    "type": "heading",
