@@ -586,3 +586,7 @@ body { background: var(--fuera); }
 .estudio-lugares .lista-lugares a { color: var(--tinta); text-decoration: none; font-weight: 600; }
 .estudio-lugares .lista-lugares a::after { content: ' →'; color: var(--acento); }
 .estudio-lugares .lista-lugares a:hover { color: var(--acento); }
+
+/* Filas de tarjetas añadidas (scripts/anadidos.mjs, 20-11-2026): no tienen colocación de Elementor
+   (va por id), así que se ponen en fila como las de WordPress */
+.elementor > .e-con.anadido:has(> .e-con.con-texto) { --flex-direction: row; flex-direction: row !important; padding-top: 0; }

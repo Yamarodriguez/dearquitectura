@@ -173,3 +173,4 @@ Yama: «cámbialo, modifícalo sin sacar las palabras clave y haz lo mismo pero 
 - **Conexiones:** desplegable «Tipos» de los menús de renders, ruta «Inicio / Tipos de renders / …», bloque «Otros tipos de render», mapa del sitio y `llms.txt`.
 - **Palabra clave del bloque común:** «Casas» pasa a «Campings», «Hoteles» y «Arquitectos». En la de arquitectos, el título «ARQUITECTOS DE Casas» pasa a «ARQUITECTOS Y ESTUDIOS» para no decir «Arquitectos de Arquitectos».
 - Sin precios, plazos concretos ni promesas. `npm run todo` y `todo:visual`, a 0.
+- **Tarjetas en las páginas índice (20-11-2026, «sigue»):** Tipos de renders, Renders y Servicios de renders llevan una fila más con las 3 tarjetas (Campings, Hoteles, Para arquitectos), debajo de las de WordPress. Se añaden con `scripts/anadidos.mjs` (nuevo campo `tarjetas` en `src/data/anadidos/<slug>.json`), sin tocar lo de WordPress; una regla en `public/diseno/base.css` las pone en fila.

@@ -2137,6 +2137,51 @@
    "text": "Render San Nicolás de los Arroyos Render San Rafael Render Jujuy Render Santa fe Render Santiago del Estero Render Tandil Render Trelew Render Venado Tuerto",
    "html": "<ul><li><a href=\"https://dearquitectura.info/renders-san-nicolas-de-los-arroyos/\">Render San Nicolás de los Arroyos</a></li><li>Render San Rafael</li><li><a href=\"https://dearquitectura.info/renders-jujuy/\">Render Jujuy</a></li><li><a href=\"https://dearquitectura.info/renders-santa-fe/\">Render Santa fe </a></li><li>Render Santiago del Estero</li><li>Render Tandil</li><li>Render Trelew</li><li>Render Venado Tuerto</li></ul>",
    "s": 95
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Campings",
+   "href": "/renders-camping/",
+   "anadido": true
+  },
+  {
+   "type": "image",
+   "src": "/img/2025/03/render-parque-glamping.jpg",
+   "alt": "Render de la entrada de un camping con palmeras",
+   "size": "large",
+   "href": "/renders-camping/",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Hoteles",
+   "href": "/renders-hoteles/",
+   "anadido": true
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/07/render-habitacion-de-lujo.jpg",
+   "alt": "Render de una habitación con ventanal al jardín",
+   "size": "large",
+   "href": "/renders-hoteles/",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Para arquitectos",
+   "href": "/renders-para-arquitectos/",
+   "anadido": true
+  },
+  {
+   "type": "image",
+   "src": "/img/2025/03/render-casas-interior-planta-3D.jpg",
+   "alt": "Render de la planta en 3D de una vivienda",
+   "size": "large",
+   "href": "/renders-para-arquitectos/",
+   "anadido": true
   }
  ],
  "elementor": [
@@ -3097,6 +3142,83 @@
        "wt": "image",
        "cls": "elementor-widget elementor-widget-image",
        "b": 66
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "x2e56ff",
+   "cls": "e-con-full e-flex e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "xd62b19",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "xb2fcc2",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 288
+      },
+      {
+       "t": "w",
+       "id": "x0ff614",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 289
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "x289e80",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x885555",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 290
+      },
+      {
+       "t": "w",
+       "id": "xd9e10d",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 291
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "xd56b6e",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x0746be",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 292
+      },
+      {
+       "t": "w",
+       "id": "xa76af7",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 293
       }
      ]
     }
@@ -6539,5 +6661,7 @@
     }
    ]
   }
- ]
+ ],
+ "bloques_wordpress": 288,
+ "anadidos": true
 }

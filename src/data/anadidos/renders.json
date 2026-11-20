@@ -1,0 +1,10 @@
+{
+  "slug": "renders",
+  "_nota": "Tarjetas de los 3 tipos de render nuevos del 20-11-2026 (Yama: «armar los que nos faltan»), en una fila más debajo de las de WordPress (inmobiliarias y marketing). Se añade sin quitar nada.",
+  "despues_de": 20,
+  "tarjetas": [
+    { "titulo": "Campings", "url": "/renders-camping/", "foto": "/img/2025/03/render-parque-glamping.jpg", "alt": "Render de la entrada de un camping con palmeras" },
+    { "titulo": "Hoteles", "url": "/renders-hoteles/", "foto": "/img/2024/07/render-habitacion-de-lujo.jpg", "alt": "Render de una habitación con ventanal al jardín" },
+    { "titulo": "Para arquitectos", "url": "/renders-para-arquitectos/", "foto": "/img/2025/03/render-casas-interior-planta-3D.jpg", "alt": "Render de la planta en 3D de una vivienda" }
+  ]
+}

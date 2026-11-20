@@ -58,6 +58,20 @@ for (const f of fs.existsSync(ORIGEN) ? fs.readdirSync(ORIGEN).filter((x) => x.e
   }
   if (d.faq?.length) nuevas.push(seccion([h('h2', d.faq_titulo || 'Preguntas frecuentes'), w('toggle', { tag: 'div', b: b({ type: 'toggle', items: d.faq.map((x) => ({ title: x.q, html: `<p>${x.a}</p>` })) }) })]));
   if (d.fuentes?.length) nuevas.push(seccion([h('h2', 'Fuentes'), t(`<ul>${d.fuentes.map((x) => `<li><a href="${x.url}" rel="noopener">${x.texto}</a></li>`).join('')}</ul>`)], ' nueva-fuentes'));
+  // Fila de tarjetas como las de WordPress (título h3 y foto, los dos con enlace), p. ej. tipos de
+  // render nuevos en las páginas índice (20-11-2026)
+  if (d.tarjetas?.length) {
+    nuevas.push({
+      t: 'c', id: id(), cls: 'e-con-full e-flex e-con e-parent anadido', anadido: true,
+      hijos: d.tarjetas.map((x) => ({
+        t: 'c', id: id(), cls: 'e-con-full e-flex e-con e-child',
+        hijos: [
+          w('heading', { tag: 'h3', size: 'default', b: b({ type: 'heading', tag: 'h3', text: x.titulo, href: x.url }) }),
+          w('image', { b: b({ type: 'image', src: x.foto, alt: x.alt, size: 'large', href: x.url }) }),
+        ],
+      })),
+    });
+  }
 
   const pos = d.despues_de ?? 2;
   p.elementor.splice(pos, 0, ...nuevas);

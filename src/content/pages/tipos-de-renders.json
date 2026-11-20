@@ -2044,6 +2044,51 @@
    "size": "sm",
    "href": "/inteligencia-artificial-arquitectura/",
    "s": 91
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Campings",
+   "href": "/renders-camping/",
+   "anadido": true
+  },
+  {
+   "type": "image",
+   "src": "/img/2025/03/render-parque-glamping.jpg",
+   "alt": "Render de la entrada de un camping con palmeras",
+   "size": "large",
+   "href": "/renders-camping/",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Hoteles",
+   "href": "/renders-hoteles/",
+   "anadido": true
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/07/render-habitacion-de-lujo.jpg",
+   "alt": "Render de una habitación con ventanal al jardín",
+   "size": "large",
+   "href": "/renders-hoteles/",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Para arquitectos",
+   "href": "/renders-para-arquitectos/",
+   "anadido": true
+  },
+  {
+   "type": "image",
+   "src": "/img/2025/03/render-casas-interior-planta-3D.jpg",
+   "alt": "Render de la planta en 3D de una vivienda",
+   "size": "large",
+   "href": "/renders-para-arquitectos/",
+   "anadido": true
   }
  ],
  "elementor": [
@@ -2968,6 +3013,83 @@
        "wt": "image",
        "cls": "elementor-widget elementor-widget-image",
        "b": 64
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "xd95d31",
+   "cls": "e-con-full e-flex e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "x2e930a",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x51ed36",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 272
+      },
+      {
+       "t": "w",
+       "id": "xc469c4",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 273
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "x799716",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "xcf389d",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 274
+      },
+      {
+       "t": "w",
+       "id": "xca7e9b",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 275
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "xb3301f",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x02f626",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 276
+      },
+      {
+       "t": "w",
+       "id": "x7e50e2",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 277
       }
      ]
     }
@@ -6208,5 +6330,7 @@
     }
    ]
   }
- ]
+ ],
+ "bloques_wordpress": 272,
+ "anadidos": true
 }
