@@ -1296,7 +1296,7 @@
   },
   {
    "type": "text",
-   "html": "<p>Trabajamos a distancia para cualquier ciudad. Estas tienen página propia. Las de Argentina y México explican además dónde se pide el permiso de obra, qué colegio profesional corresponde, el clima y su arquitectura (Santa Fe, de momento, no).</p>",
+   "html": "<p>Trabajamos a distancia para cualquier ciudad. Estas tienen página propia; las de Latinoamérica explican además dónde se pide el permiso de obra, qué colegio o consejo profesional corresponde, el clima y su arquitectura.</p>",
    "anadido": true
   },
   {
@@ -1319,6 +1319,28 @@
   {
    "type": "text",
    "html": "<ul class=\"lista-lugares\"><li><a href=\"/despacho-de-arquitectura-ciudad-de-mexico/\" title=\"Despacho de arquitectura en Ciudad de México\">Ciudad de México</a></li><li><a href=\"/despacho-de-arquitectura-guadalajara/\" title=\"Despacho de arquitectura en Guadalajara\">Guadalajara</a></li><li><a href=\"/despacho-de-arquitectura-monterrey/\" title=\"Despacho de arquitectura en Monterrey\">Monterrey</a></li></ul>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Colombia",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<ul class=\"lista-lugares\"><li><a href=\"/estudio-de-arquitectura-bogota/\" title=\"Estudio de arquitectura en Bogotá\">Bogotá</a></li><li><a href=\"/estudio-de-arquitectura-medellin/\" title=\"Estudio de arquitectura en Medellín\">Medellín</a></li><li><a href=\"/estudio-de-arquitectura-barranquilla/\" title=\"Estudio de arquitectura en Barranquilla\">Barranquilla</a></li></ul>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Perú",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<ul class=\"lista-lugares\"><li><a href=\"/estudio-de-arquitectura-lima/\" title=\"Estudio de arquitectura en Lima\">Lima</a></li><li><a href=\"/estudio-de-arquitectura-arequipa/\" title=\"Estudio de arquitectura en Arequipa\">Arequipa</a></li></ul>",
    "anadido": true
   },
   {
@@ -1612,13 +1634,13 @@
   },
   {
    "t": "c",
-   "id": "xf72a14",
+   "id": "x737c32",
    "cls": "e-flex e-con-boxed e-con e-parent anadido estudio-lugares",
    "anadido": true,
    "hijos": [
     {
      "t": "c",
-     "id": "x1bf05c",
+     "id": "xa26ddc",
      "cls": "e-con-full e-flex e-con e-child",
      "hijos": [
       {
@@ -1684,6 +1706,38 @@
        "wt": "text-editor",
        "cls": "elementor-widget elementor-widget-text-editor",
        "b": 183
+      },
+      {
+       "t": "w",
+       "id": "xf72a14",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 184
+      },
+      {
+       "t": "w",
+       "id": "x1bf05c",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 185
+      },
+      {
+       "t": "w",
+       "id": "xef306c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 186
+      },
+      {
+       "t": "w",
+       "id": "xc7eb12",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 187
       }
      ]
     }
@@ -1691,31 +1745,31 @@
   },
   {
    "t": "c",
-   "id": "x737c32",
+   "id": "x266800",
    "cls": "e-flex e-con-boxed e-con e-parent anadido",
    "anadido": true,
    "hijos": [
     {
      "t": "c",
-     "id": "xa26ddc",
+     "id": "x9245d4",
      "cls": "e-con-full e-flex e-con e-child",
      "hijos": [
       {
        "t": "w",
-       "id": "xef306c",
+       "id": "xe14c2a",
        "wt": "heading",
        "cls": "elementor-widget elementor-widget-heading",
        "tag": "h2",
        "size": "default",
-       "b": 184
+       "b": 188
       },
       {
        "t": "w",
-       "id": "xc7eb12",
+       "id": "x515b1c",
        "wt": "toggle",
        "cls": "elementor-widget elementor-widget-toggle",
        "tag": "div",
-       "b": 185
+       "b": 189
       }
      ]
     }

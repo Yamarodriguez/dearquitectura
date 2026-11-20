@@ -1,0 +1,113 @@
+{
+  "slug": "santa-fe",
+  "_nota": "Santa Fe (capital provincial) mejorada con datos propios de la ciudad (20-11-2026, informes/estudio-por-lugar.md, mismo modelo que Rosario). Se añade a la página de WordPress sin quitar nada. Datos comprobados en las fuentes del final.",
+  "fecha": "2026-11-20",
+  "despues_de": 2,
+  "resumen": "¿Vas a construir o reformar en <strong>Santa Fe capital</strong>? En DE Arquitectura te preparamos a distancia el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los renders. El Permiso de Obra se gestiona en la Oficina Virtual de la Municipalidad de Santa Fe, y la profesión la regula el Colegio de Arquitectura y Urbanismo de la Provincia de Santa Fe, con su Distrito 1 en la propia ciudad.",
+  "datos": [
+    [
+      "Ciudad",
+      "Santa Fe de la Vera Cruz, capital de la provincia de Santa Fe (Argentina)"
+    ],
+    [
+      "Permiso de obra",
+      "Permiso de Obra de la Municipalidad de Santa Fe, en la Oficina Virtual; en digital y con firma digital (obligatorio desde el 1 de marzo de 2027)"
+    ],
+    [
+      "Normativa",
+      "Código de Habitabilidad (Ordenanza 12.783) y Reglamento de Ordenamiento Urbano (Ordenanza 11.748)"
+    ],
+    [
+      "Colegio profesional",
+      "Colegio de Arquitectura y Urbanismo de la Provincia de Santa Fe, Distrito 1 (Santa Fe)"
+    ],
+    [
+      "Clima",
+      "Templado y húmedo (subtropical húmedo, Cfa): veranos calurosos, inviernos frescos"
+    ],
+    [
+      "Qué hacemos",
+      "Diseño, planos, modelado 3D, renders, vídeo y tour virtual, a distancia"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "Del primer boceto al Permiso de Obra en Santa Fe",
+      "html": "<p>En la capital santafesina, una obra pasa por cuatro etapas antes del primer ladrillo:</p>",
+      "sub": [
+        {
+          "h3": "1. Programa y primeras ideas",
+          "html": "<p>Partimos de lo que necesitas y de lo que ya hay: el terreno, la casa actual o un local. Con eso armamos un <strong>anteproyecto</strong> y lo vemos en 3D para elegir entre varias opciones.</p>"
+        },
+        {
+          "h3": "2. Planos según el Código de Habitabilidad",
+          "html": "<p>Desde abril de 2022 rige el <strong>Código de Habitabilidad</strong>, que reemplazó al antiguo Reglamento de Edificaciones: fija las medidas de los ambientes, escaleras y patios, y llama <strong>obra menor</strong> a la de hasta 200 m². Las alturas y densidades de cada zona las marca el <strong>Reglamento de Ordenamiento Urbano</strong>.</p>"
+        },
+        {
+          "h3": "3. Permiso de Obra",
+          "html": "<p>Se pide antes de empezar una obra nueva, una ampliación o una reforma, y lo gestiona el <strong>profesional responsable</strong> en la <strong>Oficina Virtual</strong> municipal. Desde el 16 de noviembre de 2026 puede hacerse entero en digital, con <strong>firma digital</strong>; desde el 1 de marzo de 2027 será la única vía.</p>"
+        },
+        {
+          "h3": "4. Construcción",
+          "html": "<p>Con el permiso otorgado arranca la obra. Con planos, modelo 3D y renders a mano, cada gremio entiende lo mismo y los <strong>presupuestos</strong> se pueden comparar.</p>"
+        }
+      ]
+    },
+    {
+      "h2": "Diseñar para el clima de Santa Fe",
+      "html": "<p>Santa Fe tiene un clima <strong>templado y húmedo</strong> (subtropical húmedo, Cfa según Köppen), con <strong>veranos calurosos</strong> e inviernos frescos. En el hemisferio sur, orientar al norte los espacios que más usas te da sol en los meses fríos; contra el calor ayudan los aleros, las galerías y las aberturas enfrentadas. Un render con el sol de enero y el de julio te muestra cómo entra la luz en cada ambiente.</p>"
+    },
+    {
+      "h2": "Arquitectura de Santa Fe: el Puente Colgante",
+      "html": "<p>El símbolo de la ciudad es el <strong>Puente Colgante «Ingeniero Marcial Candioti»</strong>, sobre la laguna Setúbal. Lo diseñó hacia 1922 el ingeniero <strong>Antonio Paitoví</strong>, con torres metálicas fabricadas en Francia, y se abrió a todo el tránsito el 8 de junio de 1928. Tras un derrumbe casi total fue restaurado, y desde 2014 es <strong>Monumento Histórico Nacional</strong>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Cómo se pide el Permiso de Obra en la ciudad de Santa Fe?",
+      "a": "Lo gestiona el profesional responsable de la obra ante la Municipalidad, en su Oficina Virtual. Desde el 16 de noviembre de 2026 puede hacerse todo en digital con firma digital, y desde el 1 de marzo de 2027 será obligatorio."
+    },
+    {
+      "q": "¿Qué colegio de arquitectos hay en Santa Fe capital?",
+      "a": "El Colegio de Arquitectura y Urbanismo de la Provincia de Santa Fe, creado por la Ley provincial 10.653, que tiene su Distrito 1 en la ciudad de Santa Fe. Para ejercer en la provincia hay que estar matriculado en él."
+    },
+    {
+      "q": "¿Podéis diseñar mi casa en Santa Fe sin estar allí?",
+      "a": "Sí. Trabajamos online con tus medidas, fotos o planos: preparamos el diseño, los planos, el modelo 3D y los renders, y los ajustamos contigo en cada revisión. La documentación del permiso la firma y presenta un profesional matriculado en Santa Fe."
+    }
+  ],
+  "fuentes": [
+    {
+      "texto": "Colegio de Arquitectura y Urbanismo, Distrito 1: la Municipalidad de Santa Fe incorpora la modalidad digital para el Permiso y la Documentación de Obra (16-11-2026)",
+      "url": "https://d1.capsf.ar/blog/2026/11/16/la-municipalidad-de-santa-fe-incorpora-la-modalidad-digital-para-los-tramites-de-permiso-y-documentacion-de-obra/"
+    },
+    {
+      "texto": "Colegio de Arquitectura y Urbanismo, Distrito 1: puesta en vigencia del Código de Habitabilidad (Ordenanza 12.783)",
+      "url": "https://d1.capsf.ar/blog/2022/03/04/puesta-en-vigencia-del-codigo-de-habitabilidad-de-la-ciudad-de-santa-fe/"
+    },
+    {
+      "texto": "El Litoral: el Concejo aprobó el Código de Habitabilidad de Santa Fe",
+      "url": "https://www.ellitoral.com/area-metropolitana/concejo-aprobo-codigo-fija-nuevas-pautas-constructivas-santa-fe_0_s2g0ONgdc1.html"
+    },
+    {
+      "texto": "El Litoral: promulgación del Reglamento de Ordenamiento Urbano (Ordenanza 11.748)",
+      "url": "https://www.ellitoral.com/politica/intendente-promulgo-reglamento-ordenamiento-urbano_0_wHwFZXlJjP.html"
+    },
+    {
+      "texto": "Colegio de Arquitectura y Urbanismo de la Provincia de Santa Fe: quiénes somos (Ley 10.653 y distritos)",
+      "url": "https://capsf.ar/caupsf"
+    },
+    {
+      "texto": "Colegio de Arquitectura y Urbanismo, Distrito 1: ámbito jurisdiccional (sede en la ciudad de Santa Fe)",
+      "url": "https://d1.capsf.ar/ambito-jurisdiccional-d1/"
+    },
+    {
+      "texto": "Presidencia de la Nación: Puente Colgante «Ingeniero Marcial Candioti», Monumento Histórico Nacional",
+      "url": "https://www.argentina.gob.ar/capital-humano/cultura/monumentos/puente-colgante-ingeniero-marcial-candioti"
+    },
+    {
+      "texto": "Climate-Zone.com: clima de Santa Fe, Argentina (Köppen Cfa)",
+      "url": "https://www.climate-zone.com/climate/ar/santa-fe"
+    }
+  ]
+}

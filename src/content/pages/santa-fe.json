@@ -11,9 +11,9 @@
  "logo": "",
  "foto_destacada": "/img/2023/12/arquitectura-Santa-fe.jpg",
  "fecha": "2023-12-18 15:21:12",
- "modificada": "2026-01-13 21:34:45",
+ "modificada": "2026-11-20 12:00:00",
  "fecha_gmt": "2023-12-18 15:21:12",
- "modificada_gmt": "2026-01-13 21:34:45",
+ "modificada_gmt": "2026-11-20 12:00:00",
  "h1_es_titulo": false,
  "fondos": [],
  "resumen": {
@@ -1260,6 +1260,134 @@
    "type": "map",
    "address": "Santa Fe argentina",
    "s": 63
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>¿Vas a construir o reformar en <strong>Santa Fe capital</strong>? En DE Arquitectura te preparamos a distancia el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los renders. El Permiso de Obra se gestiona en la Oficina Virtual de la Municipalidad de Santa Fe, y la profesión la regula el Colegio de Arquitectura y Urbanismo de la Provincia de Santa Fe, con su Distrito 1 en la propia ciudad.</p>",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Ciudad</th><td>Santa Fe de la Vera Cruz, capital de la provincia de Santa Fe (Argentina)</td></tr><tr><th scope=\"row\">Permiso de obra</th><td>Permiso de Obra de la Municipalidad de Santa Fe, en la Oficina Virtual; en digital y con firma digital (obligatorio desde el 1 de marzo de 2027)</td></tr><tr><th scope=\"row\">Normativa</th><td>Código de Habitabilidad (Ordenanza 12.783) y Reglamento de Ordenamiento Urbano (Ordenanza 11.748)</td></tr><tr><th scope=\"row\">Colegio profesional</th><td>Colegio de Arquitectura y Urbanismo de la Provincia de Santa Fe, Distrito 1 (Santa Fe)</td></tr><tr><th scope=\"row\">Clima</th><td>Templado y húmedo (subtropical húmedo, Cfa): veranos calurosos, inviernos frescos</td></tr><tr><th scope=\"row\">Qué hacemos</th><td>Diseño, planos, modelado 3D, renders, vídeo y tour virtual, a distancia</td></tr></tbody></table>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Del primer boceto al Permiso de Obra en Santa Fe",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>En la capital santafesina, una obra pasa por cuatro etapas antes del primer ladrillo:</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "1. Programa y primeras ideas",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>Partimos de lo que necesitas y de lo que ya hay: el terreno, la casa actual o un local. Con eso armamos un <strong>anteproyecto</strong> y lo vemos en 3D para elegir entre varias opciones.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "2. Planos según el Código de Habitabilidad",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>Desde abril de 2022 rige el <strong>Código de Habitabilidad</strong>, que reemplazó al antiguo Reglamento de Edificaciones: fija las medidas de los ambientes, escaleras y patios, y llama <strong>obra menor</strong> a la de hasta 200 m². Las alturas y densidades de cada zona las marca el <strong>Reglamento de Ordenamiento Urbano</strong>.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "3. Permiso de Obra",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>Se pide antes de empezar una obra nueva, una ampliación o una reforma, y lo gestiona el <strong>profesional responsable</strong> en la <strong>Oficina Virtual</strong> municipal. Desde el 16 de noviembre de 2026 puede hacerse entero en digital, con <strong>firma digital</strong>; desde el 1 de marzo de 2027 será la única vía.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "4. Construcción",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>Con el permiso otorgado arranca la obra. Con planos, modelo 3D y renders a mano, cada gremio entiende lo mismo y los <strong>presupuestos</strong> se pueden comparar.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Diseñar para el clima de Santa Fe",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>Santa Fe tiene un clima <strong>templado y húmedo</strong> (subtropical húmedo, Cfa según Köppen), con <strong>veranos calurosos</strong> e inviernos frescos. En el hemisferio sur, orientar al norte los espacios que más usas te da sol en los meses fríos; contra el calor ayudan los aleros, las galerías y las aberturas enfrentadas. Un render con el sol de enero y el de julio te muestra cómo entra la luz en cada ambiente.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Arquitectura de Santa Fe: el Puente Colgante",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>El símbolo de la ciudad es el <strong>Puente Colgante «Ingeniero Marcial Candioti»</strong>, sobre la laguna Setúbal. Lo diseñó hacia 1922 el ingeniero <strong>Antonio Paitoví</strong>, con torres metálicas fabricadas en Francia, y se abrió a todo el tránsito el 8 de junio de 1928. Tras un derrumbe casi total fue restaurado, y desde 2014 es <strong>Monumento Histórico Nacional</strong>.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes",
+   "anadido": true
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Cómo se pide el Permiso de Obra en la ciudad de Santa Fe?",
+     "html": "<p>Lo gestiona el profesional responsable de la obra ante la Municipalidad, en su Oficina Virtual. Desde el 16 de noviembre de 2026 puede hacerse todo en digital con firma digital, y desde el 1 de marzo de 2027 será obligatorio.</p>"
+    },
+    {
+     "title": "¿Qué colegio de arquitectos hay en Santa Fe capital?",
+     "html": "<p>El Colegio de Arquitectura y Urbanismo de la Provincia de Santa Fe, creado por la Ley provincial 10.653, que tiene su Distrito 1 en la ciudad de Santa Fe. Para ejercer en la provincia hay que estar matriculado en él.</p>"
+    },
+    {
+     "title": "¿Podéis diseñar mi casa en Santa Fe sin estar allí?",
+     "html": "<p>Sí. Trabajamos online con tus medidas, fotos o planos: preparamos el diseño, los planos, el modelo 3D y los renders, y los ajustamos contigo en cada revisión. La documentación del permiso la firma y presenta un profesional matriculado en Santa Fe.</p>"
+    }
+   ],
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Fuentes",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><a href=\"https://d1.capsf.ar/blog/2026/11/16/la-municipalidad-de-santa-fe-incorpora-la-modalidad-digital-para-los-tramites-de-permiso-y-documentacion-de-obra/\" rel=\"noopener\">Colegio de Arquitectura y Urbanismo, Distrito 1: la Municipalidad de Santa Fe incorpora la modalidad digital para el Permiso y la Documentación de Obra (16-11-2026)</a></li><li><a href=\"https://d1.capsf.ar/blog/2022/03/04/puesta-en-vigencia-del-codigo-de-habitabilidad-de-la-ciudad-de-santa-fe/\" rel=\"noopener\">Colegio de Arquitectura y Urbanismo, Distrito 1: puesta en vigencia del Código de Habitabilidad (Ordenanza 12.783)</a></li><li><a href=\"https://www.ellitoral.com/area-metropolitana/concejo-aprobo-codigo-fija-nuevas-pautas-constructivas-santa-fe_0_s2g0ONgdc1.html\" rel=\"noopener\">El Litoral: el Concejo aprobó el Código de Habitabilidad de Santa Fe</a></li><li><a href=\"https://www.ellitoral.com/politica/intendente-promulgo-reglamento-ordenamiento-urbano_0_wHwFZXlJjP.html\" rel=\"noopener\">El Litoral: promulgación del Reglamento de Ordenamiento Urbano (Ordenanza 11.748)</a></li><li><a href=\"https://capsf.ar/caupsf\" rel=\"noopener\">Colegio de Arquitectura y Urbanismo de la Provincia de Santa Fe: quiénes somos (Ley 10.653 y distritos)</a></li><li><a href=\"https://d1.capsf.ar/ambito-jurisdiccional-d1/\" rel=\"noopener\">Colegio de Arquitectura y Urbanismo, Distrito 1: ámbito jurisdiccional (sede en la ciudad de Santa Fe)</a></li><li><a href=\"https://www.argentina.gob.ar/capital-humano/cultura/monumentos/puente-colgante-ingeniero-marcial-candioti\" rel=\"noopener\">Presidencia de la Nación: Puente Colgante «Ingeniero Marcial Candioti», Monumento Histórico Nacional</a></li><li><a href=\"https://www.climate-zone.com/climate/ar/santa-fe\" rel=\"noopener\">Climate-Zone.com: clima de Santa Fe, Argentina (Köppen Cfa)</a></li></ul>",
+   "anadido": true
   }
  ],
  "elementor": [
@@ -1368,6 +1496,264 @@
      "cls": "elementor-widget elementor-widget-toggle",
      "tag": "h3",
      "b": 7
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "x8b72d7",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido nueva-resumen",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "xe5625f",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "xeb27c0",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 169
+      },
+      {
+       "t": "w",
+       "id": "x05a40b",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 170
+      },
+      {
+       "t": "w",
+       "id": "x9df082",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 171
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "x3ff081",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "x178f41",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x96c1be",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 172
+      },
+      {
+       "t": "w",
+       "id": "xe07a37",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 173
+      },
+      {
+       "t": "w",
+       "id": "x2e29fc",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 174
+      },
+      {
+       "t": "w",
+       "id": "xa0220f",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 175
+      },
+      {
+       "t": "w",
+       "id": "xcf16b6",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 176
+      },
+      {
+       "t": "w",
+       "id": "x22381b",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 177
+      },
+      {
+       "t": "w",
+       "id": "xb1f1cc",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 178
+      },
+      {
+       "t": "w",
+       "id": "x1901aa",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 179
+      },
+      {
+       "t": "w",
+       "id": "x00f2d7",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 180
+      },
+      {
+       "t": "w",
+       "id": "x292c18",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 181
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "xcb7693",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "xb48f61",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x7154ce",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 182
+      },
+      {
+       "t": "w",
+       "id": "x39fa2e",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 183
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "x5231ad",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "x6469d4",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x62f0b9",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 184
+      },
+      {
+       "t": "w",
+       "id": "xa12a78",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 185
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "x254074",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "x9b99bf",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x6879fd",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 186
+      },
+      {
+       "t": "w",
+       "id": "xd46757",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 187
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "x4c505b",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido nueva-fuentes",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "xd9b78f",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "xe1955e",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 188
+      },
+      {
+       "t": "w",
+       "id": "x08e91b",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 189
+      }
+     ]
     }
    ]
   },
@@ -3985,5 +4371,7 @@
     }
    ]
   }
- ]
+ ],
+ "bloques_wordpress": 169,
+ "anadidos": true
 }

@@ -48,6 +48,36 @@
       ]
     },
     {
+      "nombre": "Colombia",
+      "lugares": [
+        {
+          "nombre": "Estudio de arquitectura en Bogotá",
+          "url": "/estudio-de-arquitectura-bogota/"
+        },
+        {
+          "nombre": "Estudio de arquitectura en Medellín",
+          "url": "/estudio-de-arquitectura-medellin/"
+        },
+        {
+          "nombre": "Estudio de arquitectura en Barranquilla",
+          "url": "/estudio-de-arquitectura-barranquilla/"
+        }
+      ]
+    },
+    {
+      "nombre": "Perú",
+      "lugares": [
+        {
+          "nombre": "Estudio de arquitectura en Lima",
+          "url": "/estudio-de-arquitectura-lima/"
+        },
+        {
+          "nombre": "Estudio de arquitectura en Arequipa",
+          "url": "/estudio-de-arquitectura-arequipa/"
+        }
+      ]
+    },
+    {
       "nombre": "España",
       "lugares": [
         {

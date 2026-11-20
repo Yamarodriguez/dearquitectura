@@ -139,3 +139,24 @@ Se enseñan a Yama antes de publicarlas. Si le gustan, se sigue con el resto de 
   - Fotos de Wikimedia Commons con su licencia comprobada: CC0, CC BY y CC BY-SA.
 - **Portada de la sección:** México aparece como país nuevo, y en Argentina se suman Buenos Aires y Mendoza (src/data/estudio-lugares.json).
 - **Comprobaciones:** todo a 0 y comprobación visual a 0.
+
+## 8. Tercera tanda (20-11-2026, Yama: «Sigue con esas»)
+- **Santa Fe:** sus secciones propias se añaden a la página de WordPress (src/data/anadidos/santa-fe.json):
+  - Permiso de Obra en la Oficina Virtual, en digital con firma digital; obligatorio así desde el 1-03-2027.
+  - Código de Habitabilidad (Ordenanza 12.783) y Reglamento de Ordenamiento Urbano.
+  - El colegio, ahora llamado Colegio de Arquitectura y Urbanismo (Distrito 1).
+  - Clima y el Puente Colgante.
+- **Rosario:** el nombre del colegio se pone al día («Colegio de Arquitectura y Urbanismo de la Provincia de Santa Fe», antes Colegio de Arquitectos).
+- **Colombia:**
+  - Bogotá: Torres del Parque; curadurías, POT de 2021, NSR-10 y microzonificación, CPNAA.
+  - Medellín: Parque Biblioteca España; cuatro curadurías, Acuerdo 48 de 2014, Ley 400.
+  - Barranquilla: Aduana; dos curadurías, POT de 2014, El Prado.
+- **Perú:**
+  - Lima: Palacio Arzobispal; Ley 29090 y sus modalidades A-D, zona sísmica 4, Centro Histórico (UNESCO).
+  - Arequipa: Plaza de Armas; zona sísmica 3, clima del SENAMHI, sillar y Centro Histórico (UNESCO 2000).
+- **Portada de la sección:** se añaden Colombia y Perú. El texto dice que todas las ciudades de Latinoamérica tienen ya datos propios.
+- **Revisión:**
+  - Fuentes probadas: todas abren, salvo la UNESCO, que bloquea robots.
+  - Licencias de las fotos comprobadas.
+  - 12 frases repetidas entre ciudades cambiadas.
+  - Todo a 0 y comprobación visual a 0.

@@ -1,0 +1,208 @@
+{
+  "slug": "estudio-de-arquitectura-medellin",
+  "tipo": "estudio",
+  "menu": "estudio",
+  "titulo": "Estudio de Arquitectura Medellín",
+  "h1": "Estudio de Arquitectura en Medellín",
+  "subtitulo": "Diseño, planos y renders para tu obra en Medellín (Colombia)",
+  "titulo_seo": "Estudio de arquitectura en Medellín: planos, 3D y renders",
+  "descripcion": "Estudio de arquitectura online para tu obra en Medellín: diseño, planos, modelado 3D y renders. Licencia en curaduría, matrícula, NSR-10 y clima.",
+  "palabra_clave": "estudio de arquitectura medellin",
+  "fecha": "2026-11-20 12:00:00",
+  "_nota": "Página de la sección «Estudio de arquitectura» por lugares (20-11-2026, informes/estudio-por-lugar.md). Datos de la ciudad comprobados en las fuentes del final, casi todas oficiales (Alcaldía de Medellín, normas nacionales, CPNAA). El estudio trabaja online desde Valencia: no se finge una oficina en Medellín. La foto es de 2009, antes de la reconstrucción de la biblioteca.",
+  "foto": {
+    "src": "/img/2026/11/parque-biblioteca-espana-medellin.jpg",
+    "alt": "El Parque Biblioteca España, de Giancarlo Mazzanti, sobre las casas de Santo Domingo Savio, con las cabinas del Metrocable (foto de 2009)",
+    "credito": {
+      "nombre": "Parque Biblioteca España y Metrocable, Medellín",
+      "autor": "JoranL",
+      "licencia": "CC BY-SA 4.0",
+      "ficha": "https://commons.wikimedia.org/wiki/File:Biblioteca_de_Espa%C3%B1a_and_Metrocable_01.jpg"
+    },
+    "_titulo_commons": "File:Biblioteca de España and Metrocable 01.jpg"
+  },
+  "boton": {
+    "texto": "Pide presupuesto",
+    "url": "/contacto/"
+  },
+  "intro": "<p>¿Tienes un lote o una casa para <strong>construir o remodelar en Medellín</strong>? En DE Arquitectura preparamos online el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu proyecto, para que lo veas terminado antes de empezar la obra.</p>",
+  "resumen": "Somos un <strong>estudio de arquitectura online</strong> —lo que en Colombia muchos llaman una firma de arquitectos u oficina de arquitectura— y trabajamos a distancia para obras en Medellín: diseño, planos, modelado 3D y renders. La <strong>licencia de construcción</strong> la expide una de las cuatro curadurías urbanas de la ciudad, y los planos los firma un arquitecto con <strong>matrícula profesional</strong> del CPNAA.",
+  "datos": [
+    [
+      "Ciudad",
+      "Medellín, Distrito y capital del departamento de Antioquia (Colombia), en el Valle de Aburrá"
+    ],
+    [
+      "Licencia de construcción",
+      "Una de las cuatro curadurías urbanas de Medellín (Decreto 1077 de 2015)"
+    ],
+    [
+      "Normativa",
+      "POT de Medellín (Acuerdo 48 de 2014) y reglamento sismorresistente NSR-10; zona de amenaza sísmica intermedia"
+    ],
+    [
+      "Matrícula profesional",
+      "Arquitectos: CPNAA, Consejo Profesional Nacional de Arquitectura (Ley 435 de 1998)"
+    ],
+    [
+      "Clima",
+      "Templado: 24 °C de media a 1.479 m de altitud; lluvias en abril-mayo y octubre-noviembre"
+    ],
+    [
+      "Qué hacemos",
+      "Diseño, planos, modelado 3D, renders, vídeo y tour virtual, a distancia"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "Construir o remodelar en Medellín, paso a paso",
+      "html": "<p>En Medellín la licencia de construcción no la da la Alcaldía, sino una curaduría urbana. Así se ordena un proyecto:</p>",
+      "sub": [
+        {
+          "h3": "1. Idea, anteproyecto y planos",
+          "html": "<p>Qué quieres construir, el lote o la casa y una primera <strong>distribución</strong>. Después, los planos arquitectónicos ajustados a la norma urbana del <strong>POT</strong> (Acuerdo 48 de 2014), que tiene en trámite una revisión de mediano plazo. Ese trabajo lo hacemos nosotros, apoyándonos en el modelo 3D y en los renders para que elijas con la imagen delante.</p>"
+        },
+        {
+          "h3": "2. Estructura y estudio de suelos",
+          "html": "<p>Medellín está en <strong>zona de amenaza sísmica intermedia</strong>, y las edificaciones deben cumplir la <strong>NSR-10</strong>, el Reglamento Colombiano de Construcción Sismorresistente. El diseño estructural y el estudio geotécnico los firma un ingeniero civil con matrícula: nosotros no calculamos estructuras.</p>"
+        },
+        {
+          "h3": "3. Licencia en una curaduría urbana",
+          "html": "<p>En la ciudad hay <strong>cuatro curadurías urbanas</strong>. No forman parte de la Alcaldía, pero su labor la regula el Gobierno nacional: estudian el proyecto, comprueban que cumple el POT y expiden la licencia, que puede ser de obra nueva, ampliación, adecuación, modificación, reforzamiento estructural o demolición, entre otras.</p>"
+        },
+        {
+          "h3": "4. Obra",
+          "html": "<p>Hace falta licencia para edificar, ampliar, modificar la estructura o cambiar el uso de un inmueble; pintar o cambiar los pisos no la necesita. Construir sin ella puede acabar en sanciones, suspensión o demolición. Con los renders y el modelo 3D pides cotizaciones comparables a los contratistas.</p>"
+        }
+      ]
+    },
+    {
+      "h2": "Quién firma el proyecto en Medellín",
+      "html": "<p>En Colombia la profesión la regula la <strong>Ley 435 de 1998</strong>, y el <strong>CPNAA</strong> (Consejo Profesional Nacional de Arquitectura y sus Profesiones Auxiliares) expide la matrícula profesional del arquitecto; su registro se puede consultar en línea. Según la Ley 400 de 1997, los planos arquitectónicos los firma el arquitecto responsable del diseño, y los diseños estructurales y el estudio geotécnico, un ingeniero civil, todos con matrícula. Nosotros preparamos el diseño, los planos, el modelado 3D y los renders para que la firma de arquitectos que radique el proyecto en la curaduría trabaje con ellos.</p>"
+    },
+    {
+      "h2": "El clima de Medellín y el diseño de tu casa",
+      "html": "<p>Medellín está a <strong>1.479 metros</strong> de altitud, en el Valle de Aburrá, con una temperatura promedio de <strong>24 °C</strong>: según la clasificación del IDEAM, el clima del valle es templado, y de ahí el apodo de «eterna primavera». No hay invierno ni verano, sino <strong>dos temporadas de lluvias</strong>, en abril-mayo y en octubre-noviembre, y dos más secas y cálidas, en enero-febrero y junio-julio. Los barrios del centro y de la parte norte de la ribera del río Medellín son los más calurosos. Por eso conviene prever aleros y cubiertas que evacúen bien el agua, protección del sol y <strong>ventilación cruzada</strong>. Los renders a distintas horas te enseñan cómo funcionará antes de la obra.</p>"
+    },
+    {
+      "h2": "Arquitectura de Medellín: el Parque Biblioteca España",
+      "html": "<p>En la comuna 1 (Popular), en la ladera de Santo Domingo Savio, el <strong>Parque Biblioteca España</strong> de <strong>Giancarlo Mazzanti</strong> ganó el concurso público de 2005 y se inauguró en 2007: tres volúmenes oscuros sobre la montaña, junto al Metrocable. En 2008 recibió premios en la Bienal Panamericana y en la Bienal Iberoamericana de Arquitectura. Cerró en 2015 por problemas estructurales y se reconstruyó como <strong>Parque Biblioteca Santo Domingo Savio</strong>: sus dos primeras «cajas» abrieron en junio de 2026 y la Alcaldía dio por terminadas las obras en noviembre de 2026.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Dónde se pide la licencia de construcción en Medellín?",
+      "a": "En una de las cuatro curadurías urbanas de la ciudad. Los curadores no forman parte de la Alcaldía, pero aplican el POT y la normativa nacional (Decreto 1077 de 2015) para estudiar el proyecto y expedir la licencia."
+    },
+    {
+      "q": "¿Quién firma los planos de una casa en Medellín?",
+      "a": "Los planos arquitectónicos, un arquitecto con matrícula profesional del CPNAA (Ley 435 de 1998). El diseño estructural y el estudio geotécnico, un ingeniero civil matriculado, según la Ley 400 de 1997."
+    },
+    {
+      "q": "¿Qué normativa deben cumplir los planos?",
+      "a": "El POT de Medellín (Acuerdo 48 de 2014, con una revisión de mediano plazo en trámite) y el reglamento sismorresistente NSR-10, porque la ciudad está en zona de amenaza sísmica intermedia."
+    },
+    {
+      "q": "¿Pueden hacer el proyecto de mi casa en Medellín a distancia?",
+      "a": "Sí. Trabajamos online desde Valencia: nos basta con tus planos, medidas o fotos para hacer el diseño, los planos, el modelo 3D y los renders, y los revisamos contigo en cada paso."
+    }
+  ],
+  "cierre": {
+    "h2": "¿Tienes un proyecto en Medellín?",
+    "html": "<p>Cuéntanos qué quieres construir o remodelar y te decimos cómo podemos ayudarte con el diseño, los planos y las imágenes 3D.</p>",
+    "boton": "Contacto"
+  },
+  "fuentes": [
+    {
+      "texto": "Alcaldía de Medellín: ¿Qué es la Comisión de Veeduría de las Curadurías Urbanas? (las cuatro curadurías y cuándo hace falta licencia)",
+      "url": "https://www.medellin.gov.co/es/sala-de-prensa/noticias/sabe-usted-que-es-la-comision-de-veeduria-de-las-curadurias-urbanas-de-medellin-y-para-que-sirve/"
+    },
+    {
+      "texto": "Alcaldía de Medellín: Subsecretaría de Control Urbanístico",
+      "url": "https://www.medellin.gov.co/es/secretaria-gestion-y-control-territorial/subsecretaria-de-control-urbanistico/"
+    },
+    {
+      "texto": "Decreto 1077 de 2015: licencias urbanísticas y modalidades de la licencia de construcción (Normograma de Cancillería)",
+      "url": "https://cancilleria.gov.co/sites/default/files/Normograma/docs/decreto_1077_2015_pr031.htm"
+    },
+    {
+      "texto": "Alcaldía de Medellín: revisión del POT (Acuerdo 48 de 2014)",
+      "url": "https://www.medellin.gov.co/es/sala-de-prensa/noticias/medellin-actualiza-los-documentos-que-explican-cada-decision-de-la-revision-del-pot/"
+    },
+    {
+      "texto": "Decreto 926 de 2010: Reglamento NSR-10",
+      "url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=39255"
+    },
+    {
+      "texto": "Alcaldía de Medellín: ¿Sabe qué hacer en caso de sismos o temblores? (zona de amenaza intermedia)",
+      "url": "https://www.medellin.gov.co/es/sala-de-prensa/noticias/sabe-que-hacer-en-caso-de-sismos-o-temblores/"
+    },
+    {
+      "texto": "Ley 400 de 1997: construcciones sismorresistentes y diseñadores",
+      "url": "https://normas.cra.gov.co/gestor/docs/ley_0400_1997.htm"
+    },
+    {
+      "texto": "CPNAA: Consejo Profesional Nacional de Arquitectura y sus Profesiones Auxiliares",
+      "url": "https://www.cpnaa.gov.co/"
+    },
+    {
+      "texto": "Alcaldía de Medellín: Información general del Distrito (2026)",
+      "url": "https://www.medellin.gov.co/es/wp-content/uploads/2026/04/1.-Informacion-general-del-Distrito.pdf"
+    },
+    {
+      "texto": "Alcaldía de Medellín: Plan de Acción Climática, tomo I (clima del Valle de Aburrá)",
+      "url": "https://www.medellin.gov.co/es/wp-content/uploads/2024/08/PASCCM-Tomo-I-Analisis-de-contexto-climatico-y-Salud.pdf"
+    },
+    {
+      "texto": "Alcaldía de Medellín: entrega del Parque Biblioteca Santo Domingo Savio (12-11-2026)",
+      "url": "https://www.medellin.gov.co/es/sala-de-prensa/noticias/me-alegra-darle-a-nuestra-comunidad-lo-mejor-el-alcalde-federico-gutierrez-termino-la-entrega-del-parque-biblioteca-santo-domingo-savio-y-anuncio-nuevas-obras-en-popular/"
+    },
+    {
+      "texto": "Arquitectura Viva: Biblioteca España, Medellín (Giancarlo Mazzanti)",
+      "url": "https://arquitecturaviva.com/works/biblioteca-espana-medellin"
+    },
+    {
+      "texto": "Publimetro: después de 11 años Medellín recuperó la Biblioteca España",
+      "url": "https://www.publimetro.co/medellin/2026/10/21/despues-de-11-anos-medellin-recupero-la-biblioteca-espana-esta-fue-la-millonaria-inversion-que-necesito/"
+    }
+  ],
+  "comun": {
+    "tipo": "estudio",
+    "_nota": "Bloque común de las páginas de estudio por lugar, copiado de Estudio de arquitectura Rosario (secciones 3 a 62) con la ciudad cambiada; textos propios de Medellín para no repetir la plantilla.",
+    "terminos": [
+      [
+        "ROSARIO",
+        "MEDELLÍN"
+      ],
+      [
+        "Rosario",
+        "Medellín"
+      ]
+    ],
+    "textos": {
+      "6950824": "<p>¿Eres <strong>arquitecto</strong> con matrícula del CPNAA, ingeniero civil o tienes una firma de arquitectos en Medellín y quieres trabajar con nosotros? Colaboramos a distancia. Cuéntanos.</p>",
+      "873698a": "<p>Una obra en Medellín necesita profesionales con <strong>matrícula</strong> que firmen los planos y radiquen el proyecto en la curaduría urbana. Te explicamos qué requiere tu caso y dejamos listos los planos, el diseño y las imágenes 3D que ellos van a usar. ¿Dudas entre <strong>arquitecto</strong>, ingeniero civil o maestro de obra? Aquí te ayudamos a aclararlo.</p>",
+      "c6a5f2b": "<p>Más allá del estudio, publicamos una <strong>web de arquitectura</strong> con estilos, software, formación, lecturas y obras. Te sirve para preparar con criterio tu proyecto en <strong>Medellín</strong>.</p>",
+      "43bfe28": "<p>¿Tienes un apartamento por remodelar, una casa que ampliar o un local comercial en <strong>Medellín</strong>? Diseñamos contigo, por internet, la distribución y el <strong>interior</strong>, y te enseñamos el resultado en imágenes realistas antes de elegir acabados. Escríbenos y arrancamos con tu idea.</p>",
+      "d6d3bf2": "<p>¿Vas a <strong>construir</strong> en Medellín? El orden es el diseño, la licencia en la curaduría y, al final, el contratista.</p>",
+      "21e6ab7": "<p>¿Vas a <strong>remodelar</strong> tu apartamento o tu casa en Medellín? Míralo antes en 3D y cotiza con el proyecto en la mano.</p>",
+      "d302822": "<p><strong>Diseño arquitectónico</strong> a la medida del valle: aleros para los aguaceros, sombra y aire que circule por toda la casa.</p>",
+      "fec78e4": "<p><strong>Interiorismo</strong> y decoración para apartamentos, casas y negocios de Medellín, con imágenes 3D para escoger materiales y paleta.</p>",
+      "764e04f": "<p>Funcionamos también como <strong>agencia de diseño</strong>: creamos la identidad, las láminas de presentación y la página web con la que tu proyecto se da a conocer.</p>",
+      "eea5803": "<p>Todo arranca con un <strong>croquis</strong>: esquemas rápidos de la planta, del lote y de las alturas.</p>",
+      "c803901": "<p>Para la curaduría se necesitan <strong>planos arquitectónicos</strong> —plantas, cortes, fachadas y localización en el predio— acordes con el <strong>POT</strong> de Medellín. Te los dibujamos en archivo digital, listos para que los revise y firme el arquitecto.</p>",
+      "e1acc54": "<p>Un <strong>render</strong> te enseña tu casa o tu negocio en Medellín tal como quedará: fachada, espacios interiores y luz del día. Hacemos además <strong>modelado 3D</strong>, recorridos en vídeo y tour virtual.</p>",
+      "09b4953": "<p>Desde nuestra <strong>oficina de arquitectura</strong> online analizamos el lote o el inmueble, planteamos la distribución y armamos la planimetría y las vistas 3D de tu proyecto en Medellín. Trabajamos el <strong>diseño de espacios</strong>, la decoración interior y la viabilidad de la idea, con cada decisión validada contigo por internet.</p>",
+      "fa5de7a": "<p>Con una <strong>maqueta</strong> física se capta de un vistazo la volumetría de una obra. El render la completa con texturas, colores y una luz realista.</p>",
+      "e0fc9cc": "<p>Trabajamos con <strong>firmas de arquitectos</strong>, ingenieros y diseñadores que arman equipos según el encargo, desde una vivienda hasta un edificio.</p>",
+      "7faf099": "<p>¿Eres arquitecto en Medellín? Un <strong>portafolio</strong> bien armado, con planos e imágenes 3D, muestra tu trabajo con orden, en papel o en la web.</p>",
+      "b4f3c04": "<p>Inspírate con nuestras <strong>imágenes de arquitectura</strong>: viviendas, fachadas, interiores y ciudades que pueden darte ideas para Medellín.</p>",
+      "b08800e": "<p>Leer antes de construir ayuda: los <strong>libros de arquitectura</strong> de diseño, construcción e historia dan una buena base. Te recomendamos títulos impresos y digitales.</p>",
+      "d743651": "<p>Si estudias arquitectura en Medellín o quieres formarte por tu cuenta, hay <strong>cursos online</strong> para aprender dibujo técnico, <strong>modelado 3D</strong>, render, instalaciones y estructuras. Hemos reunido opciones para estudiar sin horarios fijos.</p>",
+      "389e7a0": "<p>Las <strong>revistas de arquitectura</strong> muestran obras de toda Latinoamérica: ideas de ladrillo a la vista, terrazas y balcones que encajan con el clima templado de Medellín.</p>",
+      "ab4b62c": "<p>El dibujo técnico suele hacerse en <strong>AutoCAD</strong> o <strong>Revit</strong>; el modelo y las imágenes, en SketchUp, Lumion o V-Ray. Repasa los programas más comunes.</p>",
+      "a3f94c2": "<p>Revisa <strong>proyectos de arquitectura</strong> de casas, comercios y edificios y observa cómo resuelven la ventilación, la pendiente del terreno y el vínculo con la calle. Son una buena referencia para tu obra en Medellín.</p>",
+      "aa5d488": "<p>Las herramientas de <strong>inteligencia artificial</strong> producen en segundos imágenes sugerentes de espacios. Son útiles para buscar ideas, pero no saben las medidas de tu predio ni lo que exigen el POT o la NSR-10: un proyecto real sigue pidiendo <strong>planos</strong> exactos y un modelo en 3D fiel. Te contamos para qué sirven y cuáles son sus límites.</p>"
+    }
+  }
+}

@@ -11618,6 +11618,15 @@
    1920
   ]
  },
+ "/img/2026/11/aduana-barranquilla.jpg": {
+  "w": 1280,
+  "h": 960,
+  "ws": [
+   400,
+   800,
+   1280
+  ]
+ },
  "/img/2026/11/barbican-estate.jpg": {
   "w": 1920,
   "h": 1576,
@@ -11725,9 +11734,27 @@
    1920
   ]
  },
+ "/img/2026/11/palacio-arzobispal-lima.jpg": {
+  "w": 1280,
+  "h": 854,
+  "ws": [
+   400,
+   800,
+   1280
+  ]
+ },
  "/img/2026/11/palacio-bellas-artes-cdmx.jpg": {
   "w": 1280,
   "h": 853,
+  "ws": [
+   400,
+   800,
+   1280
+  ]
+ },
+ "/img/2026/11/parque-biblioteca-espana-medellin.jpg": {
+  "w": 1280,
+  "h": 850,
   "ws": [
    400,
    800,
@@ -11750,6 +11777,15 @@
    400,
    800,
    1920
+  ]
+ },
+ "/img/2026/11/plaza-de-armas-arequipa.jpg": {
+  "w": 1280,
+  "h": 720,
+  "ws": [
+   400,
+   800,
+   1280
   ]
  },
  "/img/2026/11/plaza-independencia-mendoza.jpg": {
@@ -11804,6 +11840,15 @@
    400,
    800,
    1920
+  ]
+ },
+ "/img/2026/11/torres-del-parque-bogota.jpg": {
+  "w": 1280,
+  "h": 1067,
+  "ws": [
+   400,
+   800,
+   1280
   ]
  },
  "/img/2026/11/unite-d-habitation.jpg": {

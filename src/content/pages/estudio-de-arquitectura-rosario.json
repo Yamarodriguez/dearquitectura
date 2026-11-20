@@ -1262,12 +1262,12 @@
   },
   {
    "type": "text",
-   "html": "<p>Si vas a <strong>construir o reformar en Rosario</strong>, en DE Arquitectura preparamos online el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu proyecto. El permiso de edificación lo inicia en la Municipalidad de Rosario el profesional a cargo de la obra, y el ejercicio de la profesión lo regula el Colegio de Arquitectos de la Provincia de Santa Fe, que tiene en Rosario su Distrito 2.</p>",
+   "html": "<p>Si vas a <strong>construir o reformar en Rosario</strong>, en DE Arquitectura preparamos online el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu proyecto. El permiso de edificación lo inicia en la Municipalidad de Rosario el profesional a cargo de la obra, y el ejercicio de la profesión lo regula el Colegio de Arquitectura y Urbanismo de la Provincia de Santa Fe (antes Colegio de Arquitectos), que tiene en Rosario su Distrito 2.</p>",
    "anadido": true
   },
   {
    "type": "text",
-   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Ciudad</th><td>Rosario, provincia de Santa Fe (Argentina)</td></tr><tr><th scope=\"row\">Permiso de obra</th><td>Permiso de edificación de la Municipalidad de Rosario: trámite digital que inicia el profesional a cargo, con firma digital</td></tr><tr><th scope=\"row\">Normativa</th><td>Normas urbanísticas y Reglamento de Edificación de Rosario</td></tr><tr><th scope=\"row\">Colegio profesional</th><td>Colegio de Arquitectos de la Provincia de Santa Fe, Distrito 2 (Rosario)</td></tr><tr><th scope=\"row\">Clima</th><td>Templado y húmedo (subtropical húmedo, Cfa): veranos calurosos y lluviosos, inviernos suaves</td></tr><tr><th scope=\"row\">Qué hacemos</th><td>Diseño, planos, modelado 3D, renders, vídeo y tour virtual, a distancia</td></tr></tbody></table>",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Ciudad</th><td>Rosario, provincia de Santa Fe (Argentina)</td></tr><tr><th scope=\"row\">Permiso de obra</th><td>Permiso de edificación de la Municipalidad de Rosario: trámite digital que inicia el profesional a cargo, con firma digital</td></tr><tr><th scope=\"row\">Normativa</th><td>Normas urbanísticas y Reglamento de Edificación de Rosario</td></tr><tr><th scope=\"row\">Colegio profesional</th><td>Colegio de Arquitectura y Urbanismo de la Provincia de Santa Fe, Distrito 2 (Rosario)</td></tr><tr><th scope=\"row\">Clima</th><td>Templado y húmedo (subtropical húmedo, Cfa): veranos calurosos y lluviosos, inviernos suaves</td></tr><tr><th scope=\"row\">Qué hacemos</th><td>Diseño, planos, modelado 3D, renders, vídeo y tour virtual, a distancia</td></tr></tbody></table>",
    "anadido": true
   },
   {
@@ -1362,7 +1362,7 @@
     },
     {
      "title": "¿Qué colegio de arquitectos corresponde a Rosario?",
-     "html": "<p>El Colegio de Arquitectos de la Provincia de Santa Fe, que en Rosario funciona como Distrito 2. Es el colegio en el que se matriculan los arquitectos que ejercen en la provincia.</p>"
+     "html": "<p>El Colegio de Arquitectura y Urbanismo de la Provincia de Santa Fe, que en Rosario funciona como Distrito 2. Es el colegio en el que se matriculan los arquitectos que ejercen en la provincia.</p>"
     },
     {
      "title": "¿Podéis hacer los planos y renders de mi obra en Rosario a distancia?",
@@ -1379,7 +1379,7 @@
   },
   {
    "type": "text",
-   "html": "<ul><li><a href=\"https://www.rosario.gob.ar/inicio/normas-urbanisticas-y-reglamento-de-edificacion\" rel=\"noopener\">Municipalidad de Rosario: normas urbanísticas y Reglamento de Edificación</a></li><li><a href=\"https://ssl.rosario.gov.ar/inicio/sites/default/files/2023-08/introduccion_tramites_obras_particulares.pdf\" rel=\"noopener\">Municipalidad de Rosario: introducción a los trámites de obras particulares (PDF)</a></li><li><a href=\"https://www.rosario.gob.ar/inicio/sites/default/files/2022-01/Requisitos%20minimos%20para%20la%20planialtimetria%20-%20Permiso%20de%20Edificaci%C3%B3n.pdf\" rel=\"noopener\">Municipalidad de Rosario: requisitos mínimos de los planos del permiso de edificación (PDF)</a></li><li><a href=\"https://www.argentina.gob.ar/node/431404\" rel=\"noopener\">Presidencia de la Nación: Monumento Nacional a la Bandera</a></li><li><a href=\"https://es.climate-data.org/america-del-sur/argentina-11/\" rel=\"noopener\">Climate-Data.org: clima de Argentina por ciudades (Rosario, Cfa)</a></li></ul>",
+   "html": "<ul><li><a href=\"https://www.rosario.gob.ar/inicio/normas-urbanisticas-y-reglamento-de-edificacion\" rel=\"noopener\">Municipalidad de Rosario: normas urbanísticas y Reglamento de Edificación</a></li><li><a href=\"https://ssl.rosario.gov.ar/inicio/sites/default/files/2023-08/introduccion_tramites_obras_particulares.pdf\" rel=\"noopener\">Municipalidad de Rosario: introducción a los trámites de obras particulares (PDF)</a></li><li><a href=\"https://www.rosario.gob.ar/inicio/sites/default/files/2022-01/Requisitos%20minimos%20para%20la%20planialtimetria%20-%20Permiso%20de%20Edificaci%C3%B3n.pdf\" rel=\"noopener\">Municipalidad de Rosario: requisitos mínimos de los planos del permiso de edificación (PDF)</a></li><li><a href=\"https://www.argentina.gob.ar/node/431404\" rel=\"noopener\">Presidencia de la Nación: Monumento Nacional a la Bandera</a></li><li><a href=\"https://es.climate-data.org/america-del-sur/argentina-11/\" rel=\"noopener\">Climate-Data.org: clima de Argentina por ciudades (Rosario, Cfa)</a></li><li><a href=\"https://capsf.ar/caupsf\" rel=\"noopener\">Colegio de Arquitectura y Urbanismo de la Provincia de Santa Fe: quiénes somos (Ley 10.653 y distritos)</a></li></ul>",
    "anadido": true
   }
  ],

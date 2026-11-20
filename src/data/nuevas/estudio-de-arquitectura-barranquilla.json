@@ -1,0 +1,208 @@
+{
+  "slug": "estudio-de-arquitectura-barranquilla",
+  "tipo": "estudio",
+  "menu": "estudio",
+  "titulo": "Estudio de Arquitectura Barranquilla",
+  "h1": "Estudio de Arquitectura en Barranquilla",
+  "subtitulo": "Diseño, planos y renders para tu obra en Barranquilla (Colombia)",
+  "titulo_seo": "Estudio de arquitectura Barranquilla: planos, 3D y renders",
+  "descripcion": "Estudio de arquitectura online para tu obra en Barranquilla (Colombia): diseño, planos, modelado 3D y renders. Licencia en curaduría, matrícula y clima.",
+  "palabra_clave": "estudio de arquitectura barranquilla",
+  "fecha": "2026-11-20 12:00:00",
+  "_nota": "Página de la sección «Estudio de arquitectura» por lugares (20-11-2026, informes/estudio-por-lugar.md), hecha sobre el modelo de Córdoba. Datos de la ciudad comprobados en las fuentes del final. El estudio trabaja online desde Valencia: no se finge una oficina en Barranquilla, ni se dice que construya o calcule estructuras.",
+  "foto": {
+    "src": "/img/2026/11/aduana-barranquilla.jpg",
+    "alt": "Fachada neoclásica del antiguo edificio de la Aduana de Barranquilla, pintado de amarillo y blanco, con columnas y frontón en la entrada",
+    "credito": {
+      "nombre": "Antigua Aduana de Barranquilla",
+      "autor": "Felipe Restrepo Acosta",
+      "licencia": "CC BY-SA 4.0",
+      "ficha": "https://commons.wikimedia.org/wiki/File:2020_Barranquilla_-_Fachada_de_la_Antigua_Aduana.jpg"
+    },
+    "_titulo_commons": "File:2020 Barranquilla - Fachada de la Antigua Aduana.jpg"
+  },
+  "boton": {
+    "texto": "Pide presupuesto",
+    "url": "/contacto/"
+  },
+  "intro": "<p>¿Tienes en mente <strong>construir o reformar en Barranquilla</strong>? En DE Arquitectura preparamos a distancia el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu casa o tu local, para que veas cómo quedará antes de empezar la obra.</p>",
+  "resumen": "Somos un <strong>estudio de arquitectura online</strong> —lo que en Colombia muchos llaman una firma de arquitectos u oficina de arquitectura— y trabajamos a distancia para obras en Barranquilla: diseño, planos, modelado 3D y renders. La <strong>licencia de construcción</strong> la expide una de las dos curadurías urbanas de la ciudad, y el arquitecto que firma el proyecto necesita la <strong>matrícula profesional</strong> del CPNAA.",
+  "datos": [
+    [
+      "Ciudad",
+      "Barranquilla, Distrito Especial, Industrial y Portuario, capital del departamento del Atlántico (Colombia)"
+    ],
+    [
+      "Licencia de construcción",
+      "Curadurías urbanas 1 y 2 de Barranquilla, según el Decreto 1077 de 2015"
+    ],
+    [
+      "Normativa",
+      "Plan de Ordenamiento Territorial 2012-2032 (Decreto 0212 de 2014) y Reglamento Colombiano de Construcción Sismo Resistente NSR-10 (Decreto 926 de 2010)"
+    ],
+    [
+      "Matrícula profesional",
+      "Consejo Profesional Nacional de Arquitectura y sus Profesiones Auxiliares, CPNAA (Ley 435 de 1998)"
+    ],
+    [
+      "Clima",
+      "Cálido del Caribe: de 26 a 28 °C de media, lluvias sobre todo de agosto a noviembre y vientos alisios del noreste en la temporada seca"
+    ],
+    [
+      "Qué hacemos",
+      "Diseño, planos, modelado 3D, renders, vídeo y tour virtual, a distancia"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "Construir o reformar en Barranquilla, paso a paso",
+      "html": "<p>En Colombia la licencia de construcción la expiden los curadores urbanos. Así se ordena un proyecto en Barranquilla:</p>",
+      "sub": [
+        {
+          "h3": "1. Idea, anteproyecto y planos",
+          "html": "<p>Qué quieres hacer, cómo es tu lote o tu casa y una primera <strong>distribución</strong>. Después, el proyecto arquitectónico —localización, plantas, cortes, fachadas, cubiertas y cuadro de áreas— ajustado al <strong>POT</strong> de la ciudad. Esta fase la preparamos nosotros, con el modelo 3D y los renders para que decidas viendo el resultado.</p>"
+        },
+        {
+          "h3": "2. Estructura sismorresistente",
+          "html": "<p>Toda construcción en Colombia debe cumplir el <strong>Reglamento NSR-10</strong>, adoptado por el Decreto 926 de 2010. La memoria de cálculos y los diseños estructurales los firma el profesional competente y acompañan la solicitud de licencia.</p>"
+        },
+        {
+          "h3": "3. Licencia en una curaduría urbana",
+          "html": "<p>En Barranquilla funcionan <strong>dos curadurías urbanas</strong>, la 1 y la 2. El curador revisa que el proyecto cumpla las normas urbanísticas y de edificación y expide la licencia, que puede ser de obra nueva, ampliación, adecuación, modificación, restauración, reforzamiento estructural, demolición, reconstrucción o cerramiento.</p>"
+        },
+        {
+          "h3": "4. Obra y cambios",
+          "html": "<p>Con la licencia en firme empieza la obra, que tiene que ajustarse a los planos aprobados; si el proyecto cambia, se pide la modificación de la licencia vigente. Con las imágenes 3D en la mano es más fácil cotizar con varios constructores sobre el mismo diseño.</p>"
+        }
+      ]
+    },
+    {
+      "h2": "Quién firma el proyecto en Barranquilla",
+      "html": "<p>En Colombia, el ejercicio de la arquitectura lo regula la <strong>Ley 435 de 1998</strong>: para ejercer hace falta el título y la <strong>matrícula profesional</strong> que expide el Consejo Profesional Nacional de Arquitectura y sus Profesiones Auxiliares (CPNAA), hoy en formato digital. Los planos que se radican en la curaduría van rotulados y firmados por los profesionales competentes. Desde el estudio te entregamos el diseño, los planos, el modelo 3D y los renders, de modo que un arquitecto con matrícula —por ejemplo, de una firma de arquitectos de la ciudad— pueda firmar el proyecto y radicarlo.</p>"
+    },
+    {
+      "h2": "El clima de Barranquilla y el diseño de tu casa",
+      "html": "<p>Barranquilla tiene un clima <strong>cálido</strong> de costa caribe: según el IDEAM, la temperatura media va de 26 a 28 °C. Llueve sobre todo de agosto a noviembre, con septiembre y octubre como los meses más lluviosos, y la temporada seca va de diciembre a abril; en esa época soplan con fuerza los <strong>vientos alisios</strong> del noreste. Por eso conviene dar sombra a fachadas y cubiertas, aprovechar la brisa con <strong>ventilación cruzada</strong> y prever la salida del agua en los aguaceros. Con un render de la luz a distintas horas se comprueba antes de construir.</p>"
+    },
+    {
+      "h2": "Arquitectura de Barranquilla: el edificio de la Aduana",
+      "html": "<p>El antiguo <strong>edificio de la Aduana</strong> se inauguró en 1921 con un diseño neoclásico del ingeniero jamaiquino Leslie Arbouin y es Monumento Nacional desde 1984 (Decreto 2849). Hoy acoge la Biblioteca Piloto del Caribe y el Archivo Histórico del Atlántico. La ciudad tiene además dos conjuntos urbanos declarados Bien de Interés Cultural de carácter nacional: el Centro Histórico y el barrio <strong>El Prado</strong>, con Bellavista y parte de Altos del Prado, cuyo plan especial de manejo y protección cuida 1.924 inmuebles.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Dónde se pide la licencia de construcción en Barranquilla?",
+      "a": "En una de las dos curadurías urbanas de la ciudad, la 1 o la 2. El curador revisa el proyecto frente a las normas urbanísticas y de edificación y expide la licencia, como fija el Decreto 1077 de 2015."
+    },
+    {
+      "q": "¿Quién puede firmar los planos en Barranquilla?",
+      "a": "Un arquitecto con matrícula profesional del CPNAA, como exige la Ley 435 de 1998. La matrícula se puede consultar en el registro del propio Consejo. Los diseños estructurales los firma el profesional competente."
+    },
+    {
+      "q": "¿Qué normativa deben cumplir los planos?",
+      "a": "El Plan de Ordenamiento Territorial de Barranquilla (Decreto 0212 de 2014) y, en la estructura, el Reglamento Colombiano de Construcción Sismo Resistente NSR-10."
+    },
+    {
+      "q": "¿Podéis hacer el proyecto de mi casa en Barranquilla a distancia?",
+      "a": "Sí. Trabajamos online desde Valencia: a partir de lo que nos envíes (planos, medidas o fotos) desarrollamos el diseño, los planos, el modelo 3D y los renders, y los revisamos contigo en cada paso."
+    }
+  ],
+  "cierre": {
+    "h2": "¿Tienes un proyecto en Barranquilla?",
+    "html": "<p>Cuéntanos qué quieres hacer —una casa nueva, una remodelación o un local— y te decimos cómo podemos ayudarte con el diseño, los planos y las imágenes 3D.</p>",
+    "boton": "Contacto"
+  },
+  "fuentes": [
+    {
+      "texto": "Barranquilla eRegulations: licencias urbanísticas en las curadurías urbanas 1 y 2",
+      "url": "https://barranquilla.eregulations.org/menu/165?l=es"
+    },
+    {
+      "texto": "Decreto 1077 de 2015, licencias urbanísticas y curadores urbanos (Normograma de la Cancillería)",
+      "url": "https://cancilleria.gov.co/sites/default/files/Normograma/docs/decreto_1077_2015_pr031.htm"
+    },
+    {
+      "texto": "Resolución 0462 de 2017 del Ministerio de Vivienda: documentos de la solicitud de licencia",
+      "url": "https://normas.cra.gov.co/gestor/docs/resolucion_minviviendact_0462_2017.htm"
+    },
+    {
+      "texto": "Decreto 926 de 2010: Reglamento NSR-10 (Normograma de la Cancillería)",
+      "url": "https://cancilleria.gov.co/sites/default/files/Normograma/docs/decreto_0926_2010.htm"
+    },
+    {
+      "texto": "El Heraldo: la alcaldesa adopta por decreto el POT 2012-2032 (Decreto 0212 de 2014)",
+      "url": "https://www.elheraldo.co/local/alcaldesa-adopta-por-decreto-el-pot-145368"
+    },
+    {
+      "texto": "CPNAA: matrícula profesional de arquitecto",
+      "url": "https://www.cpnaa.gov.co/matricula-profesional-de-arquitecto-d69/"
+    },
+    {
+      "texto": "Ley 435 de 1998, ejercicio de la arquitectura en Colombia",
+      "url": "https://colombia.justia.com/nacionales/leyes/ley-435-de-1998/gdoc/"
+    },
+    {
+      "texto": "Infobae: el clima de Barranquilla (temperatura media según el IDEAM y temporadas de lluvia)",
+      "url": "https://www.infobae.com/colombia/2026/08/06/conoce-el-clima-de-este-6-de-agosto-en-barranquilla/"
+    },
+    {
+      "texto": "El Heraldo: a qué se deben los fuertes vientos en el Atlántico, según el IDEAM",
+      "url": "https://www.elheraldo.co/atlantico/2026/01/21/a-que-se-deben-los-fuertes-vientos-en-el-atlantico-esto-dice-el-ideam/"
+    },
+    {
+      "texto": "El Heraldo: 100 años de la Aduana de Barranquilla",
+      "url": "https://www.elheraldo.co/atlantico/100-anos-de-la-aduana-epicentro-vital-en-barranquilla-817918"
+    },
+    {
+      "texto": "El Heraldo: los monumentos nacionales de Barranquilla",
+      "url": "https://www.elheraldo.co/barranquilla/2017/07/30/los-17-monumentos-nacionales-que-son-intocables-en-barranquilla-387551/"
+    },
+    {
+      "texto": "El Heraldo: así se protege a tres barrios patrimonio de Barranquilla (PEMP de El Prado)",
+      "url": "https://www.elheraldo.co/barranquilla/2021/03/21/asi-se-protege-a-tres-barrios-patrimonio-de-barranquilla-803194/"
+    },
+    {
+      "texto": "El Heraldo: Ruta del Patrimonio, el Centro y El Prado, Bienes de Interés Cultural nacionales",
+      "url": "https://www.elheraldo.co/barranquilla/ruta-del-patrimonio-la-joya-intocable-de-barranquilla-845625"
+    }
+  ],
+  "comun": {
+    "tipo": "estudio",
+    "_nota": "Bloque común de las páginas de estudio por lugar, copiado de Estudio de arquitectura Rosario (secciones 3 a 62) con la ciudad cambiada; textos propios de Barranquilla para no repetir la plantilla.",
+    "terminos": [
+      [
+        "ROSARIO",
+        "BARRANQUILLA"
+      ],
+      [
+        "Rosario",
+        "Barranquilla"
+      ]
+    ],
+    "textos": {
+      "6950824": "<p>¿Eres <strong>arquitecto</strong> con matrícula y trabajas en Barranquilla, o diriges obras en la ciudad? Nos gusta colaborar a distancia. Cuéntanos qué haces.</p>",
+      "873698a": "<p>Para levantar una obra en Barranquilla hace falta un <strong>arquitecto con matrícula</strong> que asuma la firma y presente la solicitud ante la curaduría urbana. Te ayudamos a ver qué requiere tu proyecto y dejamos listos el diseño, la planimetría y los renders que ese profesional necesitará. Si te surgen preguntas sobre <strong>arquitectos</strong>, ingenieros o técnicos, aquí te respondemos.</p>",
+      "c6a5f2b": "<p>Más allá del estudio, esta web es una <strong>plataforma de arquitectura</strong> donde curiosear estilos, software, formación, lecturas y obras. Te sirve para llegar a tu proyecto en <strong>Barranquilla</strong> con las ideas ordenadas.</p>",
+      "43bfe28": "<p>¿Un lote vacío, una casa para crecer o un local por adecuar en <strong>Barranquilla</strong>? Trabajamos contigo el <strong>interior</strong> y la distribución, en línea, y lo ves en imágenes realistas antes de comprar pisos, enchapes o pintura. Escríbenos y empezamos por lo que tienes en la cabeza.</p>",
+      "d6d3bf2": "<p>¿Piensas <strong>construir</strong> en Barranquilla? Antes del contratista van el proyecto, la estructura y la licencia.</p>",
+      "21e6ab7": "<p>¿Toca <strong>reformar tu casa</strong> en Barranquilla? Recórrela primero en 3D y cotiza con varios contratistas sobre el mismo diseño.</p>",
+      "d302822": "<p><strong>Diseño arquitectónico</strong> para el calor del Caribe: aleros que dan sombra, cubiertas frescas y fachadas abiertas a la brisa.</p>",
+      "fec78e4": "<p><strong>Interiorismo</strong> y decoración pensados para el calor: apartamentos, casas y locales de Barranquilla vistos en render antes de elegir materiales.</p>",
+      "764e04f": "<p>Hacemos también de <strong>agencia de diseño</strong>: marca, material para presentar tu proyecto y la web donde lo vas a enseñar al público.</p>",
+      "eea5803": "<p>Lo primero es el <strong>croquis</strong>: dibujos sueltos de la planta, el volumen y la fachada.</p>",
+      "c803901": "<p>Para la curaduría, el proyecto lleva <strong>planos</strong> de localización, plantas, cortes, fachadas y cubiertas, con su cuadro de áreas y de acuerdo con el <strong>POT</strong> de Barranquilla. Los dibujamos nosotros y los recibes en archivo digital.</p>",
+      "e1acc54": "<p>Con un <strong>render</strong> ves tu casa o tu negocio de Barranquilla como si ya estuviera hecho: fachada, espacios interiores y luz del trópico. Hacemos además <strong>modelado 3D</strong>, vídeos y recorridos virtuales.</p>",
+      "09b4953": "<p>Nuestro <strong>despacho de arquitectura</strong> funciona como una oficina de arquitectura en línea: revisamos tu predio o tu vivienda, ordenamos los usos de cada zona y producimos los planos y vistas de tu proyecto en Barranquilla. Nos ocupamos también del <strong>diseño de espacios</strong>, del interiorismo y del análisis de viabilidad, sin desplazamientos y consultándote cada cambio.</p>",
+      "fa5de7a": "<p>Una <strong>maqueta</strong> deja ver de un golpe la forma y la altura de un edificio. El render le suma lo que a ella le falta: acabados reales y luz natural.</p>",
+      "e0fc9cc": "<p>Nos asociamos con otros <strong>estudios</strong>, arquitectos y diseñadores y formamos el grupo adecuado para cada proyecto, sea una casa o un edificio completo.</p>",
+      "7faf099": "<p>¿Ejerces la arquitectura en Barranquilla? Reunir tus obras en un <strong>portafolio</strong> bien armado, con planos e imágenes 3D, sirve para presentarlas con orden, en PDF o en tu web.</p>",
+      "b4f3c04": "<p>Recorre nuestra galería de <strong>imágenes de arquitectura</strong> —casas, interiores, fachadas, calles y ciudades— y guarda las que te sirvan para tu proyecto en Barranquilla.</p>",
+      "b08800e": "<p>Leer un poco ayuda a encargar mejor: los <strong>libros de arquitectura</strong> de teoría, técnica e historia te dan criterio antes de empezar. Proponemos títulos en papel y en formato electrónico.</p>",
+      "d743651": "<p>¿Estudias arquitectura en Barranquilla o quieres aprender algo nuevo? Existen <strong>cursos online</strong> para dibujar, hacer <strong>modelado 3D</strong> y renders o entender instalaciones y estructuras. Hemos escogido algunos para que te formes cuando puedas, desde tu computador.</p>",
+      "389e7a0": "<p>Hojear <strong>revistas de arquitectura</strong> es asomarse a viviendas y edificios de toda Latinoamérica: de ahí salen ideas de terrazas, celosías y zonas en sombra pensadas para el calor de Barranquilla.</p>",
+      "ab4b62c": "<p>¿Qué programas usa un estudio? <strong>AutoCAD</strong> y Revit para dibujar y documentar el proyecto; SketchUp, Lumion o V-Ray para el modelo y las imágenes. Te explicamos cada uno.</p>",
+      "a3f94c2": "<p>Revisa <strong>proyectos de arquitectura</strong> —casas, comercios, edificios— y estudia cómo se protegen del sol, dónde abren las ventanas y por dónde entra el aire. Te servirán para pensar una obra en el clima cálido de Barranquilla.</p>",
+      "aa5d488": "<p>Hoy un programa de <strong>inteligencia artificial</strong> te propone en segundos cómo podría verse una sala o una fachada. Ayuda a reunir referencias, pero ignora el tamaño real de tu predio y lo que pide el POT: para construir siguen haciendo falta <strong>planos</strong> precisos y un modelo 3D a escala. Te explicamos qué puedes esperar de ella y qué no.</p>"
+    }
+  }
+}

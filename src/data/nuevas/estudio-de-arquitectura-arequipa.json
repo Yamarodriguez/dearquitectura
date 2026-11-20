@@ -1,0 +1,200 @@
+{
+  "slug": "estudio-de-arquitectura-arequipa",
+  "tipo": "estudio",
+  "menu": "estudio",
+  "titulo": "Estudio de Arquitectura Arequipa",
+  "h1": "Estudio de Arquitectura en Arequipa",
+  "subtitulo": "Diseño, planos y renders para tu obra en Arequipa (Perú)",
+  "titulo_seo": "Estudio de arquitectura en Arequipa: planos, 3D y renders",
+  "descripcion": "Estudio de arquitectura online para tu obra en Arequipa (Perú): diseño, planos, modelado 3D y renders. Licencia de edificación, colegio, sismo y clima.",
+  "palabra_clave": "estudio de arquitectura arequipa",
+  "fecha": "2026-11-20 12:00:00",
+  "_nota": "Página de la sección «Estudio de arquitectura» por lugares (informes/estudio-por-lugar.md), con la misma estructura que Córdoba. Datos de la ciudad comprobados en las fuentes del final (20-11-2026). El estudio trabaja online desde Valencia: no se finge una oficina en Arequipa.",
+  "foto": {
+    "src": "/img/2026/11/plaza-de-armas-arequipa.jpg",
+    "alt": "Plaza de Armas de Arequipa con la Catedral al fondo",
+    "credito": {
+      "nombre": "Plaza de Armas de Arequipa",
+      "autor": "Diego Sanguinetti",
+      "licencia": "CC BY-SA 4.0",
+      "ficha": "https://commons.wikimedia.org/wiki/File:Plaza_de_Armas_de_Arequipa,_2016.jpg"
+    },
+    "_titulo_commons": "File:Plaza de Armas de Arequipa, 2016.jpg"
+  },
+  "boton": {
+    "texto": "Pide presupuesto",
+    "url": "/contacto/"
+  },
+  "intro": "<p>¿Vas a <strong>construir o remodelar en Arequipa</strong>? En DE Arquitectura preparamos a distancia el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu casa o tu local, para que lo veas terminado antes de empezar la obra.</p>",
+  "resumen": "Somos un <strong>estudio de arquitectura online</strong> y trabajamos desde Valencia para obras en Arequipa: diseño, planos, modelado 3D y renders. La <strong>licencia de edificación</strong> la otorga la municipalidad del distrito donde está el terreno, según la Ley 29090, y el proyecto lo firma un arquitecto colegiado y habilitado en el <strong>Colegio de Arquitectos del Perú</strong>.",
+  "datos": [
+    [
+      "Ciudad",
+      "Arequipa, provincia y departamento de Arequipa (sur del Perú)"
+    ],
+    [
+      "Licencia de edificación",
+      "Municipalidad del distrito donde está el terreno (en el Cercado, la Municipalidad Provincial de Arequipa); Ley 29090, modalidades A, B, C y D"
+    ],
+    [
+      "Normativa",
+      "Reglamento Nacional de Edificaciones; norma E.030: zona sísmica 3 en el distrito de Arequipa y en la mayoría de distritos de la ciudad"
+    ],
+    [
+      "Colegio profesional",
+      "Colegio de Arquitectos del Perú, Regional Arequipa (arquitecto colegiado y habilitado)"
+    ],
+    [
+      "Clima",
+      "Seco y muy soleado: máximas de 22-23 °C todo el año, mínimas de unos 7 °C en junio y julio, lluvias casi solo de enero a marzo"
+    ],
+    [
+      "Qué hacemos",
+      "Diseño, planos, modelado 3D, renders, vídeo y tour virtual, a distancia"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "Construir o remodelar en Arequipa, paso a paso",
+      "html": "<p>En Arequipa, como en todo el Perú, la licencia de edificación sigue la Ley 29090. Así se ordena un proyecto:</p>",
+      "sub": [
+        {
+          "h3": "1. Idea, anteproyecto y planos",
+          "html": "<p>Qué quieres construir, el terreno o la vivienda que ya tienes y una primera <strong>distribución</strong>. Luego, los planos de arquitectura ajustados al <strong>Reglamento Nacional de Edificaciones</strong> y a los parámetros de tu terreno. Es la parte que hacemos desde el estudio, con el modelo 3D y los renders para decidir viendo el resultado.</p>"
+        },
+        {
+          "h3": "2. Certificado de parámetros",
+          "html": "<p>La municipalidad emite el <strong>Certificado de Parámetros Urbanísticos y Edificatorios</strong> del predio: zonificación, usos permitidos, altura máxima, retiros, área libre y estacionamientos. Si el inmueble está calificado como bien cultural, el certificado también lo indica.</p>"
+        },
+        {
+          "h3": "3. Licencia de edificación",
+          "html": "<p>La Ley 29090 prevé cuatro modalidades. En la <strong>modalidad A</strong>, para obras sencillas, la licencia queda aprobada al presentar el expediente con la firma de los profesionales; en la B la evalúa la municipalidad o un revisor urbano, y en la C y la D, una <strong>comisión técnica</strong> o revisores urbanos. En las modalidades B, C y D se puede presentar antes un anteproyecto en consulta.</p>"
+        },
+        {
+          "h3": "4. Obra, verificación y conformidad",
+          "html": "<p>Durante la obra, la municipalidad hace la <strong>verificación técnica</strong> para comprobar que se construye lo aprobado. Al terminar se tramita la conformidad de obra y declaratoria de edificación. Con los renders y el modelo 3D es más fácil pedir cotizaciones comparables a las constructoras.</p>"
+        }
+      ]
+    },
+    {
+      "h2": "Quién firma el proyecto en Arequipa",
+      "html": "<p>La <strong>Ley 29090</strong> reparte la firma por especialidades: el arquitecto firma el proyecto de arquitectura; el ingeniero civil, el de estructuras, que se calcula con la norma <strong>E.030</strong> de diseño sismorresistente; y los ingenieros sanitario y electricista, sus instalaciones. Todos deben estar colegiados y habilitados cuando se presenta el expediente. En Arequipa, el Colegio de Arquitectos del Perú actúa a través de su <strong>Regional Arequipa</strong>, que emite la constancia de habilitación de sus inscritos. Nosotros preparamos el diseño, los planos, el modelado 3D y los renders, y el proyecto queda listo para que ese arquitecto trabaje con él.</p>"
+    },
+    {
+      "h2": "El clima de Arequipa y el diseño de tu casa",
+      "html": "<p>Según las normales 1981-2010 del <strong>SENAMHI</strong> en la estación La Pampilla, a 2365 m de altitud, las máximas medias rondan los 22-23 °C todo el año y las mínimas bajan a unos 7 °C en junio y julio: en invierno hay más de 15 °C de diferencia entre el día y la noche. Llueve muy poco, unos 70 mm al año, casi todo de enero a marzo. La <strong>radiación ultravioleta</strong> es muy intensa: en octubre de 2025 el índice UV medio de la ciudad fue 11, «extremadamente alto». La norma EM.110 sitúa la provincia en la zona bioclimática Mesoandino. Por eso conviene dar sombra a ventanas y terrazas con aleros, toldos o celosías, usar muros gruesos que guarden el calor del día para la noche y aislar bien el techo. Con renders a distintas horas se comprueba antes de construir.</p>"
+    },
+    {
+      "h2": "Arquitectura de Arequipa: el Centro Histórico de sillar",
+      "html": "<p>El <strong>Centro Histórico de Arequipa</strong> es Patrimonio de la Humanidad de la UNESCO desde el año 2000. Está construido sobre todo en <strong>sillar</strong>, una piedra volcánica blanca o rosada, y une técnicas europeas y locales: muros robustos, arcos, bóvedas, patios y fachadas barrocas muy labradas. En la Plaza de Armas están la Catedral y, en una esquina, la iglesia de la Compañía; en el mismo centro se levanta el Monasterio de Santa Catalina, una ciudadela religiosa con estilos de los siglos XVI al XIX, y se conservan unas 500 casonas. El centro está declarado Zona Monumental: las obras en inmuebles del Patrimonio Cultural de la Nación o en su entorno necesitan la opinión favorable del <strong>delegado ad hoc del Ministerio de Cultura</strong>, y esos inmuebles no pueden ir por la modalidad A.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Dónde se pide la licencia de edificación en Arequipa?",
+      "a": "En la municipalidad del distrito donde está el terreno, como Cayma, Yanahuara o Cerro Colorado; en el Cercado, en la Municipalidad Provincial de Arequipa. Según la obra, se tramita por una de las cuatro modalidades de la Ley 29090: A, B, C o D."
+    },
+    {
+      "q": "¿Qué colegio de arquitectos corresponde a Arequipa?",
+      "a": "El Colegio de Arquitectos del Perú, a través de su Regional Arequipa. El arquitecto que firma el proyecto debe estar colegiado y habilitado, es decir, al día con el Colegio."
+    },
+    {
+      "q": "¿Qué normativa deben cumplir los planos?",
+      "a": "El Reglamento Nacional de Edificaciones y los parámetros urbanísticos y edificatorios del terreno. La estructura se calcula con la norma E.030: el distrito de Arequipa y la mayoría de distritos de la ciudad están en la zona sísmica 3. En el Centro Histórico se suma la opinión del Ministerio de Cultura."
+    },
+    {
+      "q": "¿Pueden hacer el proyecto de mi casa en Arequipa a distancia?",
+      "a": "Sí. Trabajamos online: nos mandas planos, medidas o fotos y con eso armamos el diseño, los planos, el modelo 3D y los renders, y los revisamos contigo en cada paso."
+    }
+  ],
+  "cierre": {
+    "h2": "¿Tienes un proyecto en Arequipa?",
+    "html": "<p>Cuéntanos qué quieres construir o remodelar y te explicamos cómo podemos ayudarte con el diseño, los planos y las imágenes 3D.</p>",
+    "boton": "Contacto"
+  },
+  "fuentes": [
+    {
+      "texto": "Ley 29090: Texto Único Ordenado (D.S. 006-2017-VIVIENDA), en gob.pe",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/5474235/4883335-decreto-supremo-n-006-2017-vivienda-28-02-2017.pdf"
+    },
+    {
+      "texto": "PUCP: ¿Qué necesito para hacer una edificación? (modalidades de licencia)",
+      "url": "https://investigacion.pucp.edu.pe/grupos/gida/publicacion/guia-necesito-una-edificacion/gida-rsu-edificacion"
+    },
+    {
+      "texto": "Ministerio de Vivienda: Norma Técnica E.030 Diseño Sismorresistente (2026)",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/9902957/8081915-nt-e-030-diseno-sismorresistente-2026.pdf"
+    },
+    {
+      "texto": "El Peruano: modificación de la norma E.030 (R.M. 183-2026-VIVIENDA)",
+      "url": "https://www.elperuano.pe/noticia/294903-seguridad-de-edificaciones-aumentara-frente-a-sismos"
+    },
+    {
+      "texto": "Colegio de Arquitectos del Perú: directiva de habilitación profesional (Ley 28966)",
+      "url": "https://repositorio.cap.org.pe/wp-content/uploads/2024/08/DIRECTIVA-NACIONAL-EMISION-DE-CERTIFICADOS-Y-CONSTANCIAS-DE-HABILITACION-PROFESIONAL.pdf"
+    },
+    {
+      "texto": "Colegio de Arquitectos del Perú: elecciones 2026 de la Regional Arequipa",
+      "url": "https://repositorio.cap.org.pe/wp-content/uploads/2026/07/Resolucion_N_031-2026-JEN-CAP_Resultados-Definitivos.pdf"
+    },
+    {
+      "texto": "SENAMHI: normales climatológicas 1981-2010 (estación La Pampilla)",
+      "url": "https://www.senamhi.gob.pe/load/file/01401SENA-77.pdf"
+    },
+    {
+      "texto": "SENAMHI: boletín de radiación UV-B, octubre de 2025",
+      "url": "https://www.senamhi.gob.pe/load/file/03202SENA-119.pdf"
+    },
+    {
+      "texto": "Norma EM.110 Confort térmico y lumínico: zonas bioclimáticas (gob.pe)",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/2686426/EM.110%20Confort%20T%C3%A9rmico%20y%20Lum%C3%ADnico%20Con%20Eficiencia%20Energ%C3%A9tica.pdf"
+    },
+    {
+      "texto": "UNESCO: Centro histórico de la ciudad de Arequipa",
+      "url": "https://whc.unesco.org/es/list/1016"
+    },
+    {
+      "texto": "El Peruano: D.S. 007-2020-MC, opinión del delegado ad hoc del Ministerio de Cultura",
+      "url": "https://busquedas.elperuano.pe/dispositivo/NL/1867342-2"
+    }
+  ],
+  "comun": {
+    "tipo": "estudio",
+    "_nota": "Bloque común de las páginas de estudio por lugar, copiado de Estudio de arquitectura Rosario (secciones 3 a 62) con la ciudad cambiada; textos propios de Arequipa para no repetir la plantilla.",
+    "terminos": [
+      [
+        "ROSARIO",
+        "AREQUIPA"
+      ],
+      [
+        "Rosario",
+        "Arequipa"
+      ]
+    ],
+    "textos": {
+      "6950824": "<p>¿Ejerces como <strong>arquitecto</strong> habilitado en Arequipa, o eres ingeniero o contratista, y te interesa sumar fuerzas? Colaboramos por internet. Cuéntanos.</p>",
+      "873698a": "<p>En Arequipa, el expediente de una obra lo firman <strong>profesionales colegiados y habilitados</strong>, y es el arquitecto quien responde del proyecto de arquitectura ante la municipalidad. Te explicamos qué pide tu caso y dejamos a punto para ese profesional la propuesta, los planos y las vistas 3D. ¿No tienes claro qué hace cada uno: <strong>arquitectos</strong>, ingenieros o técnicos? Lo vemos aquí.</p>",
+      "c6a5f2b": "<p>No solo somos estudio: también publicamos una <strong>plataforma de arquitectura</strong>, con artículos de estilos, software, cursos, libros y obras. Te servirá para llegar con las ideas ordenadas a tu proyecto en <strong>Arequipa</strong>.</p>",
+      "43bfe28": "<p>¿Quieres levantar una casa, sumar un piso a la tuya o adaptar un local en <strong>Arequipa</strong>? Desde el estudio pensamos contigo el <strong>interior</strong> y el reparto de los ambientes, sin que tengas que viajar, y te lo mostramos en renders antes de elegir acabados. Mándanos tu idea y la estudiamos.</p>",
+      "d6d3bf2": "<p>¿Piensas <strong>construir</strong> en Arequipa? El orden es proyecto, licencia y, al final, constructora.</p>",
+      "21e6ab7": "<p>¿Toca <strong>remodelar tu casa</strong> en Arequipa? Recórrela antes en 3D y compara cotizaciones con el proyecto en la mano.</p>",
+      "d302822": "<p><strong>Diseño arquitectónico</strong> para el sol de Arequipa: aleros y sombra de día, muros que guardan el calor para las noches frías.</p>",
+      "fec78e4": "<p><strong>Interiorismo</strong> y decoración para casas, departamentos y locales arequipeños, con renders para probar materiales, colores y luz.</p>",
+      "764e04f": "<p>También actuamos como <strong>agencia de diseño</strong>: marca, láminas de presentación y sitio web para dar a conocer tu proyecto.</p>",
+      "eea5803": "<p>Antes de dibujar a escala hacemos un <strong>croquis</strong>: apuntes rápidos de cómo ocupar el terreno y del aspecto de la casa.</p>",
+      "c803901": "<p>Los <strong>planos de arquitectura</strong> de un expediente en Arequipa (ubicación, plantas, cortes y elevaciones) tienen que respetar el <strong>Reglamento Nacional de Edificaciones</strong> y los parámetros del predio. Nos encargamos de dibujarlos y los recibes en formato digital.</p>",
+      "e1acc54": "<p>Los <strong>renders</strong> te enseñan tu vivienda o tu negocio en Arequipa como quedará: fachada, ambientes y el sol entrando por las ventanas. Hacemos también <strong>modelado 3D</strong>, vídeo y recorrido virtual.</p>",
+      "09b4953": "<p>Nuestro <strong>despacho de arquitectura</strong> analiza el terreno o el inmueble, plantea cómo repartir los ambientes y prepara los dibujos de tu obra en Arequipa. Llevamos el <strong>diseño de espacios</strong>, la decoración interior y la valoración de la viabilidad de la propuesta, a distancia y consultándote cada decisión.</p>",
+      "fa5de7a": "<p>Una <strong>maqueta</strong> permite ver de un vistazo la volumetría del edificio. El render suma lo que ella no muestra: el acabado del sillar o del tarrajeo y la luz de cada hora.</p>",
+      "e0fc9cc": "<p>Nos apoyamos en una red de <strong>estudios</strong>, arquitectos y diseñadores para reunir el equipo que pide cada encargo, sea una casa de dos pisos o un edificio de departamentos.</p>",
+      "7faf099": "<p>Si trabajas como arquitecto en Arequipa, un <strong>portafolio</strong> cuidado, con planos y renders, enseña tu obra con claridad en papel o en la web.</p>",
+      "b4f3c04": "<p>Inspírate con nuestras <strong>imágenes de arquitectura</strong>: viviendas, interiores, fachadas y ciudades que te darán ideas para tu obra en Arequipa.</p>",
+      "b08800e": "<p>Unos buenos <strong>libros de arquitectura</strong>, de proyecto, de construcción o de historia, te preparan para encargar una obra. Te sugerimos títulos en papel y en formato digital.</p>",
+      "d743651": "<p>Si estudias arquitectura en Arequipa o quieres aprender por tu cuenta, existen <strong>cursos online</strong> de dibujo técnico, <strong>modelado 3D</strong>, render, instalaciones y estructuras. Reunimos una selección para que avances a tu ritmo y sin moverte de casa.</p>",
+      "389e7a0": "<p>En las <strong>revistas de arquitectura</strong> se publican obras recientes de América Latina, con ideas de patios, sombra y muros de piedra que encajan con el clima de Arequipa.</p>",
+      "ab4b62c": "<p>Un estudio combina varios programas: <strong>AutoCAD</strong> o Revit para la documentación técnica y, para modelar y renderizar, SketchUp junto con V-Ray o Lumion. Te contamos cuáles se usan más.</p>",
+      "a3f94c2": "<p>Revisa <strong>proyectos de arquitectura</strong> de casas, tiendas y edificios para ver cómo resuelven el sol fuerte, la sombra y la entrada desde la calle. Sacarás ideas útiles para construir en Arequipa.</p>",
+      "aa5d488": "<p>Las herramientas de <strong>inteligencia artificial</strong> generan en segundos imágenes de salas, cocinas o fachadas. Ayudan a buscar ideas, pero no saben cuánto mide tu terreno ni qué parámetros te fija la municipalidad: lo que se construye se define con <strong>planos</strong> exactos y un modelo 3D fiel. Conoce lo que aportan y dónde se quedan cortas.</p>"
+    }
+  }
+}

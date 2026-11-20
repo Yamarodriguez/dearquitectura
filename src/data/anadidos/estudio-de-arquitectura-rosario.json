@@ -3,7 +3,7 @@
   "_nota": "Rosario mejorada con datos propios de la ciudad (20-11-2026, informes/estudio-por-lugar.md, prueba aprobada por Yama). Se añade a la página de WordPress sin quitar nada. Datos comprobados en las fuentes del final.",
   "fecha": "2026-11-20",
   "despues_de": 2,
-  "resumen": "Si vas a <strong>construir o reformar en Rosario</strong>, en DE Arquitectura preparamos online el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu proyecto. El permiso de edificación lo inicia en la Municipalidad de Rosario el profesional a cargo de la obra, y el ejercicio de la profesión lo regula el Colegio de Arquitectos de la Provincia de Santa Fe, que tiene en Rosario su Distrito 2.",
+  "resumen": "Si vas a <strong>construir o reformar en Rosario</strong>, en DE Arquitectura preparamos online el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu proyecto. El permiso de edificación lo inicia en la Municipalidad de Rosario el profesional a cargo de la obra, y el ejercicio de la profesión lo regula el Colegio de Arquitectura y Urbanismo de la Provincia de Santa Fe (antes Colegio de Arquitectos), que tiene en Rosario su Distrito 2.",
   "datos": [
     [
       "Ciudad",
@@ -19,7 +19,7 @@
     ],
     [
       "Colegio profesional",
-      "Colegio de Arquitectos de la Provincia de Santa Fe, Distrito 2 (Rosario)"
+      "Colegio de Arquitectura y Urbanismo de la Provincia de Santa Fe, Distrito 2 (Rosario)"
     ],
     [
       "Clima",
@@ -69,7 +69,7 @@
     },
     {
       "q": "¿Qué colegio de arquitectos corresponde a Rosario?",
-      "a": "El Colegio de Arquitectos de la Provincia de Santa Fe, que en Rosario funciona como Distrito 2. Es el colegio en el que se matriculan los arquitectos que ejercen en la provincia."
+      "a": "El Colegio de Arquitectura y Urbanismo de la Provincia de Santa Fe, que en Rosario funciona como Distrito 2. Es el colegio en el que se matriculan los arquitectos que ejercen en la provincia."
     },
     {
       "q": "¿Podéis hacer los planos y renders de mi obra en Rosario a distancia?",
@@ -96,6 +96,10 @@
     {
       "texto": "Climate-Data.org: clima de Argentina por ciudades (Rosario, Cfa)",
       "url": "https://es.climate-data.org/america-del-sur/argentina-11/"
+    },
+    {
+      "texto": "Colegio de Arquitectura y Urbanismo de la Provincia de Santa Fe: quiénes somos (Ley 10.653 y distritos)",
+      "url": "https://capsf.ar/caupsf"
     }
   ]
 }

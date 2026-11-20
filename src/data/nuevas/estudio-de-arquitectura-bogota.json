@@ -1,0 +1,192 @@
+{
+  "slug": "estudio-de-arquitectura-bogota",
+  "tipo": "estudio",
+  "menu": "estudio",
+  "titulo": "Estudio de Arquitectura Bogotá",
+  "h1": "Estudio de Arquitectura en Bogotá",
+  "subtitulo": "Diseño, planos y renders para tu obra en Bogotá (Colombia)",
+  "titulo_seo": "Estudio de arquitectura en Bogotá: planos, 3D y renders",
+  "descripcion": "Estudio de arquitectura online para tu obra en Bogotá (Colombia): diseño, planos, modelado 3D y renders. Licencia en curaduría, NSR-10 y clima.",
+  "palabra_clave": "estudio de arquitectura bogota",
+  "fecha": "2026-11-20 12:00:00",
+  "_nota": "Página de la sección «Estudio de arquitectura» por lugares (informes/estudio-por-lugar.md), con la misma estructura que Córdoba. Datos de la ciudad comprobados en las fuentes del final (20-11-2026). El estudio trabaja online desde Valencia: no se finge una oficina en Bogotá.",
+  "foto": {
+    "src": "/img/2026/11/torres-del-parque-bogota.jpg",
+    "alt": "Las tres Torres del Parque de Rogelio Salmona, de ladrillo, junto al ruedo de la Plaza Cultural La Santamaría, en Bogotá",
+    "credito": {
+      "nombre": "Torres del Parque (Bogotá)",
+      "autor": "Robertocontrer",
+      "licencia": "CC BY-SA 3.0",
+      "ficha": "https://commons.wikimedia.org/wiki/File:Torres_del_Parque_y_su_entorno.jpg"
+    },
+    "_titulo_commons": "File:Torres del Parque y su entorno.jpg"
+  },
+  "boton": {
+    "texto": "Pide presupuesto",
+    "url": "/contacto/"
+  },
+  "intro": "<p>¿Tienes una <strong>obra o una remodelación en Bogotá</strong>? En DE Arquitectura trabajamos a distancia en el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu casa, tu apartamento o tu local, para que lo recorras en imágenes antes de contratar la obra.</p>",
+  "resumen": "Somos un <strong>estudio de arquitectura online</strong> —lo que en Colombia muchos llaman una firma de arquitectos u oficina de arquitectura— y trabajamos a distancia para obras en Bogotá: diseño, planos, modelado 3D y renders. La <strong>licencia de construcción</strong> la expide una curaduría urbana, y el arquitecto que firma el proyecto necesita la <strong>matrícula profesional del CPNAA</strong>.",
+  "datos": [
+    [
+      "Ciudad",
+      "Bogotá D. C., capital de Colombia"
+    ],
+    [
+      "Licencia de construcción",
+      "Curadurías urbanas de la ciudad (Decreto 1077 de 2015 y Resolución 462 de 2017 del Ministerio de Vivienda)"
+    ],
+    [
+      "Normativa",
+      "POT «Bogotá Reverdece 2022-2035» (Decreto 555 de 2021) y Reglamento NSR-10, con la microzonificación sísmica de Bogotá (Decreto 523 de 2010)"
+    ],
+    [
+      "Matrícula profesional",
+      "Consejo Profesional Nacional de Arquitectura y sus Profesiones Auxiliares, CPNAA (Ley 435 de 1998)"
+    ],
+    [
+      "Clima",
+      "Frío de montaña: 13,1 °C de media, días de 18 a 20 °C y madrugadas de 8 a 10 °C (IDEAM); lluvias de marzo a junio y de septiembre a diciembre"
+    ],
+    [
+      "Qué hacemos",
+      "Diseño, planos, modelado 3D, renders, vídeo y tour virtual, a distancia"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "Construir o remodelar en Bogotá, paso a paso",
+      "html": "<p>En Bogotá, una obra nueva, una ampliación o un cambio de uso necesitan licencia antes de empezar. Este es el orden habitual:</p>",
+      "sub": [
+        {
+          "h3": "1. Idea, anteproyecto y planos",
+          "html": "<p>Partimos de lo que necesitas, del lote o del inmueble y de una primera <strong>distribución</strong>. Luego viene el <strong>proyecto arquitectónico</strong>, ajustado al POT: localización, plantas, cortes, fachadas, planta de cubiertas y cuadro de áreas. Esa parte la hacemos desde el estudio, con el modelo 3D y los renders para decidir viendo el resultado.</p>"
+        },
+        {
+          "h3": "2. Suelo, estructura y sismo",
+          "html": "<p>La solicitud lleva también estudios geotécnicos y de suelos, memorias de cálculo y planos estructurales, que preparan ingenieros con matrícula. Bogotá está en zona de <strong>amenaza sísmica intermedia</strong> según la NSR-10, y su <strong>microzonificación sísmica</strong> (Decreto 523 de 2010) divide la ciudad en zonas según el tipo de suelo: cerros, piedemonte, zonas lacustres y aluviales.</p>"
+        },
+        {
+          "h3": "3. Licencia en la curaduría urbana",
+          "html": "<p>La licencia la estudia y la expide un <strong>curador urbano</strong>. Se radica con el Formulario Único Nacional, los planos y la copia de la matrícula de los profesionales. Desde el día siguiente hay que poner en el predio una <strong>valla amarilla con letras negras</strong>, visible desde la calle, y la curaduría cita a los vecinos colindantes.</p>"
+        },
+        {
+          "h3": "4. Obra y remodelaciones menores",
+          "html": "<p>Con la licencia, empieza la obra. Las reparaciones locativas, como cambiar pisos o enchapes sin tocar la estructura ni la distribución, no necesitan licencia. Los renders y el modelo 3D sirven para pedir cotizaciones comparables a los constructores.</p>"
+        }
+      ]
+    },
+    {
+      "h2": "Quién firma el proyecto en Bogotá",
+      "html": "<p>En Colombia, para ejercer la arquitectura hace falta la <strong>matrícula profesional</strong> que expide el <strong>Consejo Profesional Nacional de Arquitectura y sus Profesiones Auxiliares (CPNAA)</strong>, creado por la Ley 435 de 1998, y la curaduría verifica la matrícula de quienes intervienen en el trámite. En su web se puede consultar el registro de arquitectos. El proyecto lo firma y lo radica un arquitecto matriculado, sea independiente o de una firma de arquitectos de la ciudad; nosotros preparamos el diseño, los planos, el modelado 3D y los renders para que trabaje con ellos.</p>"
+    },
+    {
+      "h2": "El clima de Bogotá y el diseño de tu casa",
+      "html": "<p>Bogotá está en la cordillera Oriental y tiene un clima <strong>frío de montaña</strong>: según el IDEAM, la temperatura media es de 13,1 °C, con días de 18 a 20 °C y madrugadas de 8 a 10 °C, que en la temporada seca de comienzos de año pueden bajar de 5 °C. Las lluvias se concentran de marzo a junio y de septiembre a diciembre. Por eso conviene <strong>captar el sol</strong> en las estancias de día, cuidar el aislamiento de muros y ventanas, y resolver bien cubiertas y desagües. Con renders a distintas horas del día se ve cómo entra la luz antes de construir.</p>"
+    },
+    {
+      "h2": "Arquitectura de Bogotá: las Torres del Parque",
+      "html": "<p>Las <strong>Torres del Parque</strong>, de <strong>Rogelio Salmona</strong>, son tres torres escalonadas de ladrillo en la carrera 5.ª con calle 26A, rodeadas por el Parque de la Independencia, junto a la Plaza Cultural La Santamaría y el barrio La Macarena. Fueron declaradas Patrimonio Cultural de la Nación en 1995. Del mismo arquitecto es la Biblioteca Virgilio Barco, en Teusaquillo, junto al parque Simón Bolívar: también de ladrillo, con espejos de agua, y Bien de Interés Cultural Nacional desde 2007.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Dónde se pide la licencia de construcción en Bogotá?",
+      "a": "En una curaduría urbana de la ciudad. Se radica con el Formulario Único Nacional, el certificado de libertad y tradición del predio, los planos arquitectónicos y estructurales, los estudios de suelos y la copia de la matrícula de los profesionales."
+    },
+    {
+      "q": "¿Quién expide la matrícula de los arquitectos en Colombia?",
+      "a": "El Consejo Profesional Nacional de Arquitectura y sus Profesiones Auxiliares (CPNAA), según la Ley 435 de 1998. En su web se puede consultar si un arquitecto está registrado."
+    },
+    {
+      "q": "¿Qué normativa deben cumplir los planos?",
+      "a": "El Plan de Ordenamiento Territorial «Bogotá Reverdece 2022-2035» (Decreto 555 de 2021) y el Reglamento Colombiano de Construcción Sismo Resistente NSR-10, con la microzonificación sísmica de Bogotá (Decreto 523 de 2010)."
+    },
+    {
+      "q": "¿Pueden hacer el proyecto de mi casa en Bogotá a distancia?",
+      "a": "Sí. Trabajamos online: con la información que nos compartas —planos, medidas o fotos— elaboramos el diseño, los planos, el modelo 3D y los renders, y los revisamos contigo en cada paso."
+    }
+  ],
+  "cierre": {
+    "h2": "¿Tienes un proyecto en Bogotá?",
+    "html": "<p>Cuéntanos qué quieres construir o remodelar y te decimos cómo podemos ayudarte con el diseño, los planos y las imágenes 3D.</p>",
+    "boton": "Contacto"
+  },
+  "fuentes": [
+    {
+      "texto": "Decreto 1077 de 2015: licencias urbanísticas, modalidades, citación a vecinos y valla (Normograma de la Cancillería)",
+      "url": "https://cancilleria.gov.co/sites/default/files/Normograma/docs/decreto_1077_2015_pr031.htm"
+    },
+    {
+      "texto": "Resolución 462 de 2017 del Ministerio de Vivienda: documentos para solicitar licencias",
+      "url": "https://normas.cra.gov.co/Gestor/docs/resolucion_minviviendact_0462_2017.htm"
+    },
+    {
+      "texto": "Alcaldía de Bogotá: Decreto 555 de 2021, revisión general del POT",
+      "url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=119582"
+    },
+    {
+      "texto": "Decreto 523 de 2010: microzonificación sísmica de Bogotá",
+      "url": "https://cancilleria.gov.co/normograma/compilacion/docs/d_alcabog_0523_2010.htm"
+    },
+    {
+      "texto": "Alcaldía de Bogotá: actividad sísmica en Bogotá (NSR-10 e IDIGER)",
+      "url": "https://bogota.gov.co/mi-ciudad/ambiente/informacion-que-debes-conocer-sobre-la-actividad-sismica-en-bogota"
+    },
+    {
+      "texto": "Consejo Profesional Nacional de Arquitectura y sus Profesiones Auxiliares (CPNAA)",
+      "url": "https://cpnaa.gov.co/"
+    },
+    {
+      "texto": "Alcaldía de Bogotá: cómo es el clima en Bogotá (datos del IDEAM)",
+      "url": "https://bogota.gov.co/mi-ciudad/ambiente/como-es-el-clima-en-bogota-cuando-es-invierno-y-verano-fotos"
+    },
+    {
+      "texto": "Alcaldía de Bogotá: Torres del Parque, obra de Rogelio Salmona",
+      "url": "https://bogota.gov.co/que-hacer/cultura/planes-en-bogota-con-recorrido-y-talleres-torres-del-parque"
+    },
+    {
+      "texto": "Alcaldía de Bogotá: Biblioteca Virgilio Barco",
+      "url": "https://bogota.gov.co/en/node/255461"
+    }
+  ],
+  "comun": {
+    "tipo": "estudio",
+    "_nota": "Bloque común de las páginas de estudio por lugar, copiado de Estudio de arquitectura Rosario (secciones 3 a 62) con la ciudad cambiada; textos propios de Bogotá para no repetir la plantilla.",
+    "terminos": [
+      [
+        "ROSARIO",
+        "BOGOTÁ"
+      ],
+      [
+        "Rosario",
+        "Bogotá"
+      ]
+    ],
+    "textos": {
+      "6950824": "<p>¿Eres <strong>arquitecto</strong> con matrícula en Colombia, ingeniero o maestro de obra en Bogotá y quieres trabajar con nosotros? Colaboramos a distancia. Escríbenos.</p>",
+      "873698a": "<p>Toda licencia de construcción en Bogotá lleva la firma de un <strong>arquitecto con matrícula</strong>, que es quien radica el proyecto en la curaduría. Nosotros aclaramos contigo los requisitos de tu obra y le entregamos a ese profesional el proyecto dibujado y visualizado. ¿Dudas sobre qué hace cada uno —<strong>arquitectos</strong>, ingenieros o técnicos—? Aquí te las resolvemos.</p>",
+      "c6a5f2b": "<p>Aparte del trabajo de estudio, mantenemos una <strong>plataforma de arquitectura</strong> con contenidos sobre estilos, software, formación, lecturas y obras de referencia: un buen punto de partida antes de tu proyecto en <strong>Bogotá</strong>.</p>",
+      "43bfe28": "<p>¿Quieres remodelar tu apartamento, ampliar tu casa o adecuar un local en <strong>Bogotá</strong>? Pensamos juntos el <strong>interior</strong> y cómo se organizan las estancias, por videollamada y correo, y ves cada propuesta en render antes de escoger acabados. Cuéntanos tu idea y arrancamos por ahí.</p>",
+      "d6d3bf2": "<p>¿Vas a <strong>construir</strong> en Bogotá? Lo primero es el proyecto y la licencia; la obra viene después.</p>",
+      "21e6ab7": "<p>¿Piensas <strong>remodelar</strong> tu vivienda en Bogotá? Mírala antes en 3D y pide cotizaciones sabiendo lo que quieres.</p>",
+      "d302822": "<p><strong>Diseño arquitectónico</strong> para el frío bogotano: sol en las estancias de día, buen aislamiento y cubiertas preparadas para la lluvia.</p>",
+      "fec78e4": "<p><strong>Interiorismo</strong> y decoración para apartamentos, casas y locales de Bogotá, con renders para escoger acabados, colores y luz.</p>",
+      "764e04f": "<p>Si lo necesitas, hacemos de <strong>agencia de diseño</strong> para tu proyecto: logotipo, presentaciones y página web para que llegue bien a clientes e inversionistas.</p>",
+      "eea5803": "<p>Todo empieza con un <strong>croquis</strong>: primeras líneas de la planta, el volumen y la fachada.</p>",
+      "c803901": "<p>Los <strong>planos arquitectónicos</strong> que pide la curaduría —localización, plantas, cortes, fachadas, cubiertas y cuadro de áreas— tienen que cumplir el <strong>POT</strong> de Bogotá. Te los preparamos y te llegan en archivo digital.</p>",
+      "e1acc54": "<p>Los <strong>renders</strong> te muestran tu casa, tu apartamento o tu local de Bogotá ya terminado, por fuera y por dentro, con su luz real. Sumamos <strong>modelado 3D</strong>, animaciones en vídeo y tour virtual.</p>",
+      "09b4953": "<p>Como <strong>oficina de arquitectura</strong>, analizamos el lote o el inmueble, planteamos cómo repartir el espacio y elaboramos los dibujos y vistas que necesita tu obra en Bogotá. Llevamos el <strong>diseño de interiores y espacios</strong> y comprobamos si la idea es viable, todo en línea y contigo en cada decisión.</p>",
+      "fa5de7a": "<p>Con una <strong>maqueta</strong> se entiende el volumen del edificio a simple vista. Un render la completa con texturas, color y una iluminación creíble.</p>",
+      "e0fc9cc": "<p>Trabajamos en red con <strong>estudios</strong>, arquitectos y diseñadores, y armamos el equipo según el encargo, de un apartamento a un edificio.</p>",
+      "7faf099": "<p>Si ejerces la arquitectura en Bogotá, reunir tus mejores planos e imágenes en un buen <strong>portafolio</strong> te abre puertas con clientes y firmas, tanto impreso como publicado en internet.</p>",
+      "b4f3c04": "<p>Busca inspiración en nuestra selección de <strong>imágenes de arquitectura</strong> —viviendas, ambientes interiores, fachadas y paisaje urbano— y guarda ideas para tu proyecto en Bogotá.</p>",
+      "b08800e": "<p>Leer <strong>libros de arquitectura</strong> sobre diseño, técnica constructiva e historia ayuda a encargar mejor una obra. Te recomendamos títulos para leer impresos o en pantalla.</p>",
+      "d743651": "<p>Si cursas la carrera en Bogotá o te quieres formar sin ir a clase, hay <strong>cursos online</strong> de dibujo de planos, <strong>modelado 3D</strong>, render, redes y cálculo de estructuras. Te proponemos los que mejor encajan con tu nivel y tu tiempo.</p>",
+      "389e7a0": "<p>Con las <strong>revistas de arquitectura</strong> descubres sin esfuerzo viviendas y obras latinoamericanas: ladrillo a la vista, patios y grandes ventanales pensados para el frío de Bogotá.</p>",
+      "ab4b62c": "<p>¿Qué programas usa una oficina de arquitectura? <strong>AutoCAD</strong> y Revit para el dibujo técnico; SketchUp, V-Ray o Lumion para el modelo y las imágenes. Repasamos los más usados.</p>",
+      "a3f94c2": "<p>Repasa <strong>proyectos de arquitectura</strong> de viviendas, comercios y edificios y analiza cómo tratan la luz, el frío y el paso de la calle al interior. Así sacas ideas para tu obra en Bogotá.</p>",
+      "aa5d488": "<p>Hoy basta escribir una idea o subir una foto para que la <strong>inteligencia artificial</strong> proponga un ambiente. Es útil para buscar inspiración, pero ignora las dimensiones reales de tu predio y lo que exige el POT: lo que se construye sale de unos <strong>planos</strong> precisos y de un modelo 3D fiel. Descubre qué aporta y en qué falla.</p>"
+    }
+  }
+}

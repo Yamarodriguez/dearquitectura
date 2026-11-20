@@ -1,0 +1,192 @@
+{
+  "slug": "estudio-de-arquitectura-lima",
+  "tipo": "estudio",
+  "menu": "estudio",
+  "titulo": "Estudio de Arquitectura Lima",
+  "h1": "Estudio de Arquitectura en Lima",
+  "subtitulo": "Diseño, planos y renders para tu obra en Lima (Perú)",
+  "titulo_seo": "Estudio de arquitectura en Lima: planos, 3D y renders",
+  "descripcion": "Estudio de arquitectura online para tu obra en Lima (Perú): diseño, planos, modelado 3D y renders. Licencia de edificación, norma sísmica y clima.",
+  "palabra_clave": "estudio de arquitectura lima",
+  "fecha": "2026-11-20 12:00:00",
+  "_nota": "Página de la sección «Estudio de arquitectura» por lugares (20-11-2026, informes/estudio-por-lugar.md). Datos de la ciudad comprobados en las fuentes del final. El estudio trabaja online desde Valencia: no se finge una oficina en Lima.",
+  "foto": {
+    "src": "/img/2026/11/palacio-arzobispal-lima.jpg",
+    "alt": "Balcones cerrados de madera tallada del Palacio Arzobispal de Lima, iluminados al anochecer, con una torre de la Catedral a la derecha",
+    "credito": {
+      "nombre": "Palacio Arzobispal de Lima",
+      "autor": "Miguel Francisco Rueda Ñañez",
+      "licencia": "CC BY-SA 4.0",
+      "ficha": "https://commons.wikimedia.org/wiki/File:PALACIO_ARZOBISPAL_DE_LIMA.jpg"
+    },
+    "_titulo_commons": "File:PALACIO ARZOBISPAL DE LIMA.jpg"
+  },
+  "boton": {
+    "texto": "Pide presupuesto",
+    "url": "/contacto/"
+  },
+  "intro": "<p>¿Vas a <strong>construir o remodelar en Lima</strong>? En DE Arquitectura preparamos online el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu proyecto, para que lo veas terminado antes de empezar la obra.</p>",
+  "resumen": "Somos un <strong>estudio de arquitectura online</strong> y trabajamos a distancia para obras en Lima Metropolitana: diseño, planos, modelado 3D y renders. La <strong>licencia de edificación</strong> se pide en la municipalidad del distrito, en una de las cuatro modalidades de la Ley 29090, y los planos los firman profesionales colegiados y habilitados, como los arquitectos del <strong>Colegio de Arquitectos del Perú</strong>.",
+  "datos": [
+    [
+      "Ciudad",
+      "Lima, capital del Perú (provincia de Lima, 43 distritos)"
+    ],
+    [
+      "Licencia de obra",
+      "Municipalidad del distrito, según la Ley 29090 (modalidades A, B, C y D)"
+    ],
+    [
+      "Normativa",
+      "Reglamento Nacional de Edificaciones (RNE); Norma E.030: zona sísmica 4, la más alta"
+    ],
+    [
+      "Colegio profesional",
+      "Colegio de Arquitectos del Perú (CAP, Ley 14085): colegiado y habilitado"
+    ],
+    [
+      "Clima",
+      "Árido y templado (SENAMHI): casi sin lluvias; inviernos nublados, con garúa y humedad muy alta"
+    ],
+    [
+      "Qué hacemos",
+      "Diseño, planos, modelado 3D, renders, vídeo y tour virtual, a distancia"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "Construir o remodelar en Lima, paso a paso",
+      "html": "<p>En Lima cada distrito tiene su municipalidad, y en ella se tramita la licencia de edificación que regula la <strong>Ley 29090</strong>. Así se ordena un proyecto:</p>",
+      "sub": [
+        {
+          "h3": "1. Parámetros, idea y planos",
+          "html": "<p>Conviene empezar por el <strong>certificado de parámetros urbanísticos y edificatorios</strong> del terreno, que dice qué se puede construir en él. Con esa base se definen la distribución y los planos, ajustados al <strong>Reglamento Nacional de Edificaciones</strong> y a su norma sismorresistente E.030, que sitúa los 43 distritos de la provincia de Lima en la zona sísmica 4, la más alta. Es la parte que hacemos desde el estudio, con el modelo 3D y los renders para que decidas viendo el resultado.</p>"
+        },
+        {
+          "h3": "2. La modalidad de tu licencia",
+          "html": "<p>La ley fija cuatro modalidades. En la <strong>A</strong>, de aprobación automática con firma de profesionales, entran, por ejemplo, una vivienda unifamiliar de hasta 120 m² que sea la única del lote o la ampliación de una casa con licencia si entre las dos no pasan de 200 m² techados. La <strong>B</strong> la evalúa la municipalidad o un Revisor Urbano (en el TUPA de la Municipalidad Metropolitana de Lima, viviendas de hasta cinco pisos y 3 000 m² techados), y la <strong>C</strong> y la <strong>D</strong>, para obras mayores, una Comisión Técnica o Revisores Urbanos.</p>"
+        },
+        {
+          "h3": "3. Expediente y licencia",
+          "html": "<p>Se presenta el Formulario Único de Edificación (FUE) con los planos firmados y sellados por los profesionales responsables. En la modalidad A, el cargo de ingreso, una vez pagado el derecho, es la licencia y la obra puede empezar; en las demás, la licencia llega después de la evaluación. Si el inmueble es <strong>Patrimonio Cultural de la Nación</strong>, o la obra lleva sótano o excava más de 1,50 m junto a edificios vecinos, no cabe la modalidad A.</p>"
+        },
+        {
+          "h3": "4. Obra, conformidad y declaratoria",
+          "html": "<p>Al terminar se tramita en la municipalidad la <strong>conformidad de obra y declaratoria de edificación</strong>. Antes, los renders y el modelo 3D sirven para pedir cotizaciones comparables a los contratistas y para seguir la obra con una referencia clara.</p>"
+        }
+      ]
+    },
+    {
+      "h2": "Quién firma el proyecto en Lima",
+      "html": "<p>Los arquitectos e ingenieros que intervienen en los trámites de la Ley 29090 deben estar <strong>colegiados y habilitados</strong>. Los arquitectos se colegian en el <strong>Colegio de Arquitectos del Perú</strong> (CAP), creado por la Ley 14085; la Ley 28966 completa el marco de su ejercicio profesional, y en la web del CAP se puede consultar si un arquitecto está habilitado. Los planos de arquitectura, estructuras e instalaciones se presentan firmados y sellados por los profesionales responsables de cada especialidad. Nosotros preparamos el diseño, los planos, el modelado 3D y los renders, y el proyecto queda listo para que el arquitecto colegiado y habilitado que lo firme trabaje con él.</p>"
+    },
+    {
+      "h2": "El clima de Lima y el diseño de tu casa",
+      "html": "<p>Según el mapa de clasificación climática del <strong>SENAMHI</strong>, en el departamento de Lima predomina el clima <strong>árido y templado</strong>, con falta de lluvias en todas las estaciones. En invierno, en cambio, el cielo se cubre, aparecen las lloviznas (la <strong>garúa</strong>) y la humedad relativa de Lima Metropolitana puede superar el 98 %, con más sensación de frío cerca del litoral. Por eso conviene asegurar la ventilación cruzada, proteger muros y carpinterías de la humedad y, en verano, dar sombra a terrazas y ventanas. Un render de invierno y otro de verano te lo muestran antes de construir.</p>"
+    },
+    {
+      "h2": "Arquitectura de Lima: el Centro Histórico",
+      "html": "<p>El <strong>Centro Histórico de Lima</strong> es Patrimonio de la Humanidad de la UNESCO desde 1988, con una ampliación en 1991. La «Ciudad de los Reyes», fundada por Francisco Pizarro en enero de 1535, fue capital del Virreinato del Perú y conserva conjuntos como la Plaza de Armas, con la Catedral, el Sagrario y el Palacio Arzobispal, y el convento de San Francisco. Tras los terremotos de 1586, 1687 y 1746 se construyó con adobe y ladrillo en la planta baja y <strong>quincha</strong> en la alta, y sus casas se distinguen por los patios, los zaguanes y los <strong>balcones cerrados</strong>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Dónde se pide la licencia de edificación en Lima?",
+      "a": "En la municipalidad del distrito donde está el terreno. Según la obra, se tramita en una de las cuatro modalidades de la Ley 29090: A (aprobación automática con firma de profesionales), B, C o D, en las que el proyecto lo evalúan la municipalidad, una Comisión Técnica o Revisores Urbanos."
+    },
+    {
+      "q": "¿Qué colegio de arquitectos corresponde a Lima?",
+      "a": "El Colegio de Arquitectos del Perú (CAP), creado por la Ley 14085. El arquitecto que firma debe estar colegiado y habilitado, y su condición se puede consultar en la web del CAP."
+    },
+    {
+      "q": "¿Qué normativa deben cumplir los planos?",
+      "a": "El Reglamento Nacional de Edificaciones, con su norma sismorresistente E.030 (la provincia de Lima está en la zona sísmica 4), y los parámetros urbanísticos y edificatorios del distrito donde está el terreno."
+    },
+    {
+      "q": "¿Podéis hacer el proyecto de mi casa en Lima a distancia?",
+      "a": "Sí. Trabajamos online: partimos de tus planos, medidas o fotos para preparar el diseño, los planos, el modelo 3D y los renders, y los revisamos contigo en cada paso. El expediente de la licencia lo firma un arquitecto colegiado y habilitado."
+    }
+  ],
+  "cierre": {
+    "h2": "¿Tienes un proyecto en Lima?",
+    "html": "<p>Cuéntanos qué quieres construir o remodelar en tu distrito y te explicamos cómo te ayudamos con el diseño, los planos y las imágenes 3D.</p>",
+    "boton": "Contacto"
+  },
+  "fuentes": [
+    {
+      "texto": "Municipalidad Metropolitana de Lima: TUPA (licencias de edificación, modalidades A, B, C y D)",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/7759369/6556751-tupa-mml-ord-2702-2025.pdf"
+    },
+    {
+      "texto": "Decreto Legislativo 1287, que modifica la Ley 29090 (artículo 10: modalidades)",
+      "url": "https://www.muniate.gob.pe/wp-content/uploads/2025/07/DECRETO-LEGISLATIVO-No-1287.pdf"
+    },
+    {
+      "texto": "PUCP y Municipalidad de Miraflores: ¿Qué necesito para hacer una edificación?",
+      "url": "https://investigacion.pucp.edu.pe/grupos/gida/publicacion/guia-necesito-una-edificacion/gida-rsu-edificacion"
+    },
+    {
+      "texto": "gob.pe: licencia de edificación modalidad C con Comisión Técnica (Municipalidad de San Borja)",
+      "url": "https://www.gob.pe/41271-obtener-licencia-de-edificacion-de-la-modalidad-c-con-aprobacion-de-proyecto-con-evaluacion-previa-por-la-comision-tecnica"
+    },
+    {
+      "texto": "Ministerio de Vivienda: Norma Técnica E.030 Diseño Sismorresistente (2026)",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/9902957/8081915-nt-e-030-diseno-sismorresistente-2026.pdf"
+    },
+    {
+      "texto": "Colegio de Arquitectos del Perú: consulta de colegiatura y habilitación",
+      "url": "https://www.cap.org.pe/"
+    },
+    {
+      "texto": "SENAMHI: Climas del Perú, resumen ejecutivo",
+      "url": "https://cdn.www.gob.pe/uploads/document/file/1574101/Resumen%20ejecutivo%20Climas%20del%20Peru%CC%81%20.pdf"
+    },
+    {
+      "texto": "El Peruano: Senamhi, humedad en Lima por encima del 98 % en invierno",
+      "url": "https://www.elperuano.pe/noticia/184151-senamhi-humedad-en-lima-supera-el-98-e-intenso-frio-seguira-hasta-setiembre"
+    },
+    {
+      "texto": "UNESCO: Centro histórico de Lima",
+      "url": "https://whc.unesco.org/es/list/500"
+    }
+  ],
+  "comun": {
+    "tipo": "estudio",
+    "_nota": "Bloque común de las páginas de estudio por lugar, copiado de Estudio de arquitectura Rosario (secciones 3 a 62) con la ciudad cambiada; textos propios de Lima para no repetir la plantilla.",
+    "terminos": [
+      [
+        "ROSARIO",
+        "LIMA"
+      ],
+      [
+        "Rosario",
+        "Lima"
+      ]
+    ],
+    "textos": {
+      "6950824": "<p>¿Eres <strong>arquitecto</strong> colegiado en Lima, ingeniero o maestro de obra y buscas un estudio que te apoye con diseño e imágenes? Trabajamos online. Conversemos.</p>",
+      "873698a": "<p>En Lima, el expediente de la licencia de edificación lleva la firma de <strong>profesionales colegiados y habilitados</strong>. Te orientamos sobre la modalidad que puede corresponder a tu obra y dejamos listos el diseño, la planimetría y los renders como punto de apoyo para quien la firme. ¿No sabes bien qué hace cada uno entre <strong>arquitectos</strong>, ingenieros y técnicos? Te lo explicamos aquí.</p>",
+      "c6a5f2b": "<p>Este estudio va unido a una <strong>plataforma de arquitectura</strong>: programas, estilos, obras de referencia, libros y cursos, para que encares tu proyecto en <strong>Lima</strong> con criterio propio.</p>",
+      "43bfe28": "<p>¿Tienes un terreno para construir, una vivienda que hacer crecer o un departamento por remodelar en <strong>Lima</strong>? Pensamos a tu lado los <strong>interiores</strong> y la distribución de cada ambiente sin que tengas que viajar, y te lo enseñamos en imágenes 3D antes de escoger acabados. Escríbenos y arrancamos desde lo que tienes en mente.</p>",
+      "d6d3bf2": "<p>¿Vas a <strong>construir</strong> en Lima? Antes que el maestro de obra van los parámetros del distrito, el proyecto y la licencia.</p>",
+      "21e6ab7": "<p>¿Piensas <strong>reformar tu casa</strong> o tu departamento en Lima? Revisa la remodelación en 3D y pide cotizaciones sobre una misma propuesta.</p>",
+      "d302822": "<p><strong>Diseño arquitectónico</strong> adaptado a Lima: ventilación frente a la humedad del invierno, sombra para los meses de verano y un proyecto pensado para zona sísmica.</p>",
+      "fec78e4": "<p><strong>Interiorismo</strong> y decoración de viviendas, departamentos y tiendas en Lima, con renders para comparar acabados, colores e iluminación.</p>",
+      "764e04f": "<p>Además, como <strong>agencia de diseño</strong> preparamos la imagen con la que presentarás tu proyecto: marca, láminas para compradores o inversionistas y una web propia.</p>",
+      "eea5803": "<p>El primer paso suele ser un <strong>croquis</strong>: dibujos sueltos de la planta, los volúmenes y la fachada sobre el lote.</p>",
+      "c803901": "<p>Los <strong>planos</strong> de una licencia en Lima —ubicación, plantas, cortes y elevaciones, más estructuras e instalaciones— deben cumplir el <strong>Reglamento Nacional de Edificaciones</strong> y los parámetros del distrito. Dibujamos los de arquitectura y te los damos en digital.</p>",
+      "e1acc54": "<p>Gracias a los <strong>renders</strong> ves tu vivienda o tu local en Lima acabado antes de construir: la fachada, cada ambiente y la luz a distintas horas. Completamos el encargo con <strong>modelado 3D</strong>, vídeo y recorrido virtual.</p>",
+      "09b4953": "<p>Nuestro <strong>despacho de arquitectura</strong> revisa el lote o el inmueble, plantea la distribución y prepara la planimetría y las vistas 3D de tu proyecto en Lima. Abordamos el <strong>diseño de espacios</strong>, el interiorismo y si la idea encaja con lo que permite el distrito, siempre online y validando contigo cada avance.</p>",
+      "fa5de7a": "<p>Con una <strong>maqueta</strong> se entiende enseguida la volumetría del edificio y su altura frente a los vecinos. El render añade lo que falta: acabados, color y la luz verdadera.</p>",
+      "e0fc9cc": "<p>Trabajamos con otros <strong>estudios</strong>, arquitectos y diseñadores, formando el equipo que cada encargo necesita, desde una remodelación hasta un edificio multifamiliar.</p>",
+      "7faf099": "<p>Si eres arquitecto en Lima, presentar tus obras en un <strong>portafolio</strong> ordenado, con planos y renders, hace que tus clientes las entiendan mejor, impreso o en internet.</p>",
+      "b4f3c04": "<p>Encuentra ideas en la galería de <strong>imágenes de arquitectura</strong>: casas, ambientes interiores, fachadas y paisajes urbanos que pueden inspirar tu proyecto en Lima.</p>",
+      "b08800e": "<p>Los <strong>libros de arquitectura</strong> de diseño, obra e historia te preparan para hablar de tu proyecto con más seguridad. Proponemos títulos en papel y en formato digital.</p>",
+      "d743651": "<p>¿Estudias arquitectura en Lima o quieres formarte por tu cuenta? Existen <strong>cursos online</strong> de diseño, dibujo de planos, <strong>modelado 3D</strong>, renders e instalaciones. Reunimos una selección para que aprendas a tu ritmo y con el horario que tú elijas.</p>",
+      "389e7a0": "<p>Muchas <strong>revistas de arquitectura</strong> recogen obras latinoamericanas con buenas soluciones de ventilación, celosías y terrazas, útiles para pensar una casa en el clima húmedo y casi sin lluvias de Lima.</p>",
+      "ab4b62c": "<p><strong>AutoCAD</strong> y Revit son los programas más extendidos para dibujar planos; SketchUp, Lumion y V-Ray, para el modelo y las imágenes. Te explicamos qué hace cada uno.</p>",
+      "a3f94c2": "<p>Recorre <strong>proyectos de arquitectura</strong> de casas, tiendas y edificios y presta atención a cómo captan la brisa, filtran el sol y se abren al parque o a la vereda. Encontrarás pistas útiles para tu obra en Lima.</p>",
+      "aa5d488": "<p>Con la <strong>inteligencia artificial</strong> obtienes en segundos la imagen de un ambiente a partir de una descripción o de una foto tuya. Sirve para explorar ideas, pero desconoce tu lote, los parámetros del distrito y la norma sismorresistente: para construir hacen falta <strong>planos</strong> y un modelo 3D a escala real. Te contamos qué ofrece y cuáles son sus límites.</p>"
+    }
+  }
+}
