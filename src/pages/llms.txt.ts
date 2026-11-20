@@ -14,7 +14,8 @@ export const GET: APIRoute = () => {
   const paginas = todas.filter((p: any) => !p.legal);
   const linea = (p: any) => {
     const h1 = p.blocks.find((b: any) => b.type === 'heading' && b.tag === 'h1')?.text || p.title;
-    const d = (aprobado.paginas as Record<string, { descripcion: string }>)[p.slug]?.descripcion ?? S[p.slug]?.descripcion;
+    // Páginas nuevas (no están en seo.json): su propia descripción
+    const d = (aprobado.paginas as Record<string, { descripcion: string }>)[p.slug]?.descripcion ?? S[p.slug]?.descripcion ?? (p.nueva ? p.meta_description : undefined);
     return `- [${h1.replace(/\s+/g, ' ').trim()}](${p.url})${d ? `: ${d}` : ''}`;
   };
   const grupos: [string, (s: string) => boolean][] = [

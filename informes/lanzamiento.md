@@ -10,12 +10,14 @@ publicados hoy (consultados en internet, no en el panel de OVH).
 - `npm run comprobar:web -- <dirección>`: revisa una web publicada como la ve Google. Comprueba las 317 páginas y 297 fotos que Google conoce, las 240 del mapa, las redirecciones de netlify.toml, robots.txt, ads.txt y el 404. En local, a 0 (en local no se pueden probar las redirecciones).
 
 ## Antes del día
+0. Análisis final hecho el 20-11-2026: informes/analisis-final.md (lista para migrar; verificación de Bing puesta, mapa con fechas y fotos, consentimiento de Google para Europa).
 1. Yama conecta Netlify. Claude pasa `comprobar:web` a la dirección netlify.app, ya con redirecciones.
 2. Prueba real del formulario (Fase 5).
-3. Mensaje de privacidad de Google para Europa: ya sale en la web viva (visto el 16-11-2026); comprobar que sale también en la nueva al activar AdSense.
+3. **Yama**: en Search Console, mirar con qué método está verificada la propiedad (Configuración → Verificación de la propiedad). Si es «Archivo HTML», pasar el nombre del archivo a Claude. Lo más seguro: crear también una propiedad de dominio verificada con un TXT en OVH (no toca el correo).
+4. Mensaje de privacidad de Google para Europa: ya sale en la web viva (visto el 16-11-2026); comprobar que sale también en la nueva al activar AdSense.
 
 ## El día
-1. **Claude**: interruptor de `site.json` a «encendido»; descomentar en `netlify.toml` la redirección netlify.app → dominio, con el nombre real del sitio; `npm run todo` a 0; subir.
+1. **Claude**: interruptor de `site.json` a «encendido»; descomentar en `netlify.toml` la redirección netlify.app → dominio, con el nombre real del sitio (dearquitectura.netlify.app); `npm run todo` a 0; subir.
 2. **Yama en Netlify**: Domain management → Add a domain → `dearquitectura.info`, y elegir **DNS externo** (los DNS se quedan en OVH, D4). Netlify añade `www` y lo redirige solo al dominio sin www.
 3. **Yama en OVH** (Dominios → dearquitectura.info → Zona DNS). Solo estos cuatro cambios:
 
