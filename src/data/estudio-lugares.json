@@ -78,6 +78,33 @@
       ]
     },
     {
+      "nombre": "Uruguay",
+      "lugares": [
+        {
+          "nombre": "Estudio de arquitectura en Montevideo",
+          "url": "/estudio-de-arquitectura-montevideo/"
+        }
+      ]
+    },
+    {
+      "nombre": "Paraguay",
+      "lugares": [
+        {
+          "nombre": "Estudio de arquitectura en Asunción",
+          "url": "/estudio-de-arquitectura-asuncion/"
+        }
+      ]
+    },
+    {
+      "nombre": "Guatemala",
+      "lugares": [
+        {
+          "nombre": "Estudio de arquitectura en Ciudad de Guatemala",
+          "url": "/estudio-de-arquitectura-guatemala/"
+        }
+      ]
+    },
+    {
       "nombre": "España",
       "lugares": [
         {

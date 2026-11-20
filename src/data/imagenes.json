@@ -11752,6 +11752,24 @@
    1280
   ]
  },
+ "/img/2026/11/palacio-de-los-lopez-asuncion.jpg": {
+  "w": 1920,
+  "h": 1280,
+  "ws": [
+   400,
+   800,
+   1920
+  ]
+ },
+ "/img/2026/11/palacio-salvo-montevideo.jpg": {
+  "w": 1920,
+  "h": 1272,
+  "ws": [
+   400,
+   800,
+   1920
+  ]
+ },
  "/img/2026/11/parque-biblioteca-espana-medellin.jpg": {
   "w": 1280,
   "h": 850,
@@ -11804,6 +11822,15 @@
    400,
    800,
    1280
+  ]
+ },
+ "/img/2026/11/teatro-nacional-guatemala.jpg": {
+  "w": 1920,
+  "h": 1280,
+  "ws": [
+   400,
+   800,
+   1920
   ]
  },
  "/img/2026/11/templo-de-karnak.jpg": {

@@ -160,3 +160,18 @@ Se enseñan a Yama antes de publicarlas. Si le gustan, se sigue con el resto de 
   - Licencias de las fotos comprobadas.
   - 12 frases repetidas entre ciudades cambiadas.
   - Todo a 0 y comprobación visual a 0.
+
+## 9. Cuarta tanda (20-11-2026, Yama: «Las dos cosas»)
+- **Uruguay, Montevideo** (/estudio-de-arquitectura-montevideo/), con foto del Palacio Salvo:
+  - el «Permiso de implantación y construcción» de la Intendencia y sus etapas (información del padrón, Fase A, B/B1/B2 y habilitación final, Resolución 0796/23);
+  - firma de un técnico inscrito en el REP, con firma digital;
+  - Ley 18.308, Plan Montevideo (Decreto 28.242), inscripción en el BPS y clima de INUMET.
+- **Paraguay, Asunción** (/estudio-de-arquitectura-asuncion/), con foto del Palacio de los López:
+  - la «Autorización para Construcción de Obras (Aprobación digital de Planos)» en el SATI, ante la Dirección de Obras Particulares;
+  - Reglamento General de Construcción (Ord. 26.104/90) y Plan Regulador (Ord. 163/18);
+  - registro de profesionales de la Municipalidad, clima de la DMH y corredor yeré.
+- **Guatemala, Ciudad de Guatemala** (/estudio-de-arquitectura-guatemala/), con foto del Teatro Nacional:
+  - colegiado activo (Decreto 72-2001), POT (Acuerdo COM-30-08), zona sísmica 4.1 de la NSE 2-2024 de AGIES y épocas de lluvia del INSIVUMEH;
+  - la web de la Municipalidad no se pudo abrir, así que del trámite municipal solo se dice lo que confirman otras fuentes.
+- **Portada de la sección:** se añaden Uruguay, Paraguay y Guatemala.
+- Fotos de Wikimedia Commons con licencia comprobada: CC BY 2.0, CC BY-SA 4.0 y dominio público.

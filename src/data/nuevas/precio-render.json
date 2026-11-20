@@ -21,11 +21,26 @@
   "intro": "<p>Un <strong>render</strong> de una imagen suele costar entre <strong>200 y 700 €</strong> en España y entre <strong>80 y 300 dólares</strong> en Latinoamérica, según sea interior o exterior y lo complejo que sea el proyecto. Aquí tienes los precios orientativos de cada tipo de render y lo que hace que suban o bajen.</p>",
   "resumen": "El precio de un render depende sobre todo de <strong>cuánto hay que modelar</strong>, del número de vistas y del nivel de detalle. Como referencia, en 2026 un <strong>render interior</strong> ronda los 200–500 € en España y los 80–200 dólares en Latinoamérica, y uno <strong>exterior</strong>, los 300–700 € y los 120–300 dólares. Las imágenes adicionales del mismo proyecto cuestan bastante menos, porque el modelo 3D ya está hecho.",
   "datos": [
-    ["Render interior", "200–500 € · 80–200 USD por imagen"],
-    ["Render exterior", "300–700 € · 120–300 USD por imagen"],
-    ["Vídeo render", "18–46 € por segundo de vídeo terminado"],
-    ["Tour virtual 360°", "Desde unos 1.900 € (varias escenas)"],
-    ["Lo que más encarece", "Modelar desde cero, la urgencia y los cambios de última hora"]
+    [
+      "Render interior",
+      "200–500 € · 80–200 USD por imagen"
+    ],
+    [
+      "Render exterior",
+      "300–700 € · 120–300 USD por imagen"
+    ],
+    [
+      "Vídeo render",
+      "18–46 € por segundo de vídeo terminado"
+    ],
+    [
+      "Tour virtual 360°",
+      "Desde unos 1.900 € (varias escenas)"
+    ],
+    [
+      "Lo que más encarece",
+      "Modelar desde cero, la urgencia y los cambios de última hora"
+    ]
   ],
   "secciones": [
     {
@@ -97,5 +112,107 @@
     "h2": "¿Quieres saber cuánto costaría el tuyo?",
     "html": "<p>Envíanos los planos o unas fotos y dinos qué vistas necesitas, y te preparamos un presupuesto.</p>",
     "boton": "Pide presupuesto"
+  },
+  "comun": {
+    "tipo": "render",
+    "_nota": "Bloque común de las páginas de renders, copiado de Render casa con la palabra clave cambiada (scripts/paginas-nuevas.mjs, MODELOS). Añadido el 20-11-2026 (Yama: «Las dos cosas»: la página de precios con el bloque común).",
+    "terminos": [
+      [
+        "Renders de Arquitectura para Casas",
+        "Renders de Arquitectura"
+      ],
+      [
+        "Empresa de Arquitectura y renders para Casas",
+        "Empresa de Arquitectura y renders"
+      ],
+      [
+        "ARQUITECTOS DE Casas",
+        "ARQUITECTOS Y ESTUDIOS"
+      ],
+      [
+        "proyectos para Casas",
+        "proyectos de arquitectura"
+      ],
+      [
+        "CASAS",
+        "ARQUITECTURA"
+      ],
+      [
+        "CASA",
+        "ARQUITECTURA"
+      ],
+      [
+        "Casas",
+        "Arquitectura"
+      ],
+      [
+        "Casa",
+        "Arquitectura"
+      ],
+      [
+        "casas",
+        "arquitectura"
+      ],
+      [
+        "casa",
+        "arquitectura"
+      ]
+    ],
+    "textos": {
+      "4201636": "<p>¿Vas a <strong>construir</strong>? El render cuesta poco al lado de la obra y te deja ver el resultado antes de gastar en ella.</p>",
+      "6950824": "<p>¿Eres <strong>renderista</strong> o arquitecto y sabes calcular bien el tiempo de cada escena? Trabajamos en remoto con profesionales y estudios. Escríbenos y hablamos.</p>",
+      "4fac170": "<p>Cada tipo de render tiene su precio: una <strong>vista interior</strong>, una <strong>fachada</strong>, una vista aérea, una planta 3D o un vídeo no llevan el mismo trabajo. Aquí tienes todos los tipos, cada uno con su página, para que sepas qué pedir.</p>",
+      "4ff91d2": "<p>Un <strong>render de arquitectura</strong> se paga sobre todo por las horas de modelado y de ajuste de la escena. Por eso un proyecto con planos claros y materiales decididos sale más barato que uno que se va definiendo mientras se hace la imagen.</p>",
+      "423d8ef": "<p>En un <strong>render de interiores</strong> el precio sube con el mobiliario a medida, las texturas y la iluminación artificial. Un salón con muebles de catálogo cuesta menos que una cocina diseñada pieza a pieza.</p>",
+      "fa515fd": "<p>Encargar un <strong>render online</strong> no encarece el trabajo: envías planos, fotos y referencias por correo, recibes una prueba y la comentas. Te ahorras desplazamientos y puedes pedir presupuesto a estudios de cualquier país.</p>",
+      "4784cc1": "<p>¡Descubre nuestros <strong>servicios de render</strong>! Te preparamos un presupuesto a medida para tu proyecto: una imagen suelta, una serie de vistas o un vídeo. Cuéntanos qué necesitas.</p>",
+      "f65357f": "<p>El <strong>modelado 3D</strong> es la parte que más pesa en el precio de un render. Si ya tienes el modelo de tu proyecto, el estudio parte de él y el presupuesto baja.</p>",
+      "a5e0ced": "<p>Con <strong>planos completos</strong> (plantas, alzados y secciones con cotas) el estudio no tiene que adivinar medidas ni rehacer partes. Son la forma más sencilla de recibir un presupuesto ajustado.</p>",
+      "b0ebaed": "<p>El <strong>home staging virtual</strong> es de lo más barato: se amuebla en 3D la foto de una vivienda vacía, sin modelar la casa entera. Es la opción habitual de inmobiliarias y particulares que venden o alquilan.</p>",
+      "5d6ab86": "<p>La <strong>realidad virtual</strong> cuesta más que una imagen fija, porque el modelo tiene que verse bien desde cualquier punto. A cambio, una sola escena sirve para recorrer todo el proyecto con unas <strong>gafas VR</strong>.</p>",
+      "d462e04": "<p>Un <strong>renderista</strong> con experiencia suele cobrar más por hora, pero tarda menos y necesita menos rondas de cambios. Al comparar presupuestos, mira también sus trabajos anteriores.</p>",
+      "c386b00": "<p>El <strong>renderizado</strong>, el cálculo de la imagen en el ordenador, es la parte que menos influye en el precio. Lo que cuesta de verdad es preparar la escena: modelo, materiales, luz y encuadre.</p>",
+      "b616b09": "<p>El <strong>precio de un render</strong> en 2026 va, como referencia, de unos 200 a 700 € por imagen en España y de unos 80 a 300 dólares en Latinoamérica. Arriba tienes la tabla completa por tipos.</p>",
+      "745080d": "<p>El <strong>vídeo render</strong> se suele cobrar por segundo de animación terminada. Un recorrido corto de 30 a 60 segundos es la opción más pedida para presentar un proyecto en la web y en redes.</p>",
+      "a590e45": "<p>Las <strong>empresas de renders</strong> grandes cobran más que un profesional independiente, pero ofrecen equipos para plazos cortos y series largas. Para una vivienda suelta, un estudio pequeño suele bastar.</p>",
+      "adb20d9": "<p>Un <strong>render freelance</strong> suele ser más económico para encargos pequeños: una o dos vistas de una vivienda o una reforma. Pide que el presupuesto diga cuántas revisiones incluye.</p>",
+      "d743651": "<p>Si prefieres aprender a hacer tus propios renders, hay <strong>cursos online</strong> de modelado, iluminación y postproducción. Cuenta también el precio de los programas y el tiempo de práctica antes de compararlo con un encargo.</p>",
+      "b1fb390": "<p>¿Buscas un <strong>render studio</strong> que te dé un precio claro antes de empezar? Escríbenos y te lo preparamos.</p>",
+      "247ef29": "<p>¿Necesitas un <strong>render profesional</strong> para vender, presentar a un banco o presentarte a un concurso? Cuéntanos el uso y te decimos qué resolución y qué vistas te hacen falta.</p>",
+      "ccf75ba": "<p>Somos <strong>De Arquitectura</strong>, estudio de arquitectura e interiorismo. Hacemos <strong>renders</strong> de viviendas, interiores, edificios y locales, junto con los <strong>planos</strong> y el modelado 3D que necesita cada proyecto, y te damos el precio antes de empezar. En nuestra web publicamos también ideas y noticias sobre <strong>arquitectura</strong>. ¡Bienvenido a Dearquitectura.info!</p>",
+      "d2878a4": "<p>Los <strong>arquitectos</strong> y estudios encargan renders para presentar sus proyectos a clientes y concursos. Si buscas un profesional para el tuyo, aquí tienes los tipos de arquitectos que existen.</p>",
+      "c6a5f2b": "<p>Entra en nuestra <strong>plataforma de arquitectura</strong>: noticias, proyectos, cursos, libros y servicios, con guías para entender qué pagas en cada encargo.</p>",
+      "43bfe28": "<p>¿Quieres saber cuánto costaría tu proyecto en imágenes? Nuestro <strong>estudio de render</strong> revisa tus planos y te propone las vistas que de verdad necesitas, sin sobrar ninguna.</p>",
+      "e0fc9cc": "<p>Como <strong>agencia de diseño</strong>, podemos sumar al encargo la imagen de tu proyecto: <strong>logotipo</strong>, folletos y web. Pedirlo junto con los renders suele salir mejor que por separado.</p>",
+      "341e006": "<p>¿Vas a <strong>reformar</strong>? Un render de la reforma te ayuda a pedir presupuestos de obra comparables, porque todos parten de la misma imagen.</p>",
+      "9b27569": "<p><strong>Diseño arquitectónico</strong> y renders en un mismo encargo: el modelo del diseño se aprovecha para las imágenes.</p>",
+      "b93eb28": "<p><strong>Interiorismo y decoración</strong> con renders para elegir acabados antes de comprarlos.</p>",
+      "8afacb7": "<p>Conoce las <strong>empresas de arquitectura</strong> y diseño con las que colaboramos en proyectos de viviendas, locales y edificios.</p>",
+      "09b4953": "<p>En nuestro <strong>despacho de arquitectura</strong> revisamos tu proyecto antes de presupuestar: qué información falta, qué vistas lo explican mejor y qué se puede reutilizar.</p>",
+      "f7cb492": "<p>Los <strong>cursos online de arquitectura</strong> enseñan dibujo 2D, <strong>modelado 3D</strong>, render y postproducción. Sirven para entender cuánto trabajo hay detrás de cada imagen.</p>",
+      "eea5803": "<p>Un <strong>croquis</strong> o un dibujo a mano es la forma más barata de probar una idea antes de encargar el render definitivo.</p>",
+      "c803901": "<p>Los <strong>planos</strong> son la base del presupuesto: con las plantas, los alzados y las cotas el estudio sabe cuánto hay que modelar y puede darte un precio cerrado.</p>",
+      "fa5de7a": "<p>Una <strong>maqueta</strong> física suele costar más y tardar más que un render, y cuesta cambiarla. El <strong>render</strong> permite probar materiales y colores sobre el mismo modelo sin empezar de nuevo.</p>",
+      "7faf099": "<p>Para un <strong>portafolio de arquitectura</strong> no hacen falta muchas imágenes: dos o tres vistas bien elegidas de cada proyecto lucen más que diez parecidas y cuestan menos.</p>",
+      "b08800e": "<p>Explora nuestras <strong>imágenes de arquitectura</strong>: ejemplos de renders de interiores, fachadas y edificios que te ayudan a explicar qué nivel de detalle buscas.</p>",
+      "ed942cc": "<p>Los <strong>libros de arquitectura</strong> y de visualización explican cómo se compone una buena imagen: luz, encuadre y materiales. Con esa base es más fácil pedir lo que quieres y no pagar vistas de más.</p>",
+      "389e7a0": "<p>Las <strong>revistas de arquitectura</strong> publican renders y fotos de obras de todo el mundo. Guarda las que te gusten y envíalas como referencia: ahorran rondas de cambios.</p>",
+      "54cb84e": "<p>Los programas también influyen en el precio: <strong>Lumion</strong>, <strong>Twinmotion</strong> y <strong>Enscape</strong> son rápidos y bastan para muchas vistas; <strong>V-Ray</strong> y <strong>Corona</strong> dan más realismo pero llevan más tiempo. Se modela en <strong>SketchUp</strong>, <strong>Revit</strong> o <strong>3ds Max</strong>.</p>",
+      "a3f94c2": "<p>Explora <strong>proyectos de arquitectura</strong> de viviendas, oficinas y edificios: verás qué vistas usan los estudios para presentar cada uno.</p>",
+      "aa5d488": "<p>La <strong>inteligencia artificial</strong> genera imágenes en segundos y casi gratis, pero no respeta tus planos ni tus medidas. Sirve para buscar ideas; para vender o construir hace falta un render hecho sobre el modelo 3D.</p>"
+    },
+    "preguntas": {
+      "dc600c2#0": "<p>Un <strong>render de arquitectura</strong> es una imagen fotorrealista de un proyecto creada por ordenador antes de construirlo. Su precio sale de las fases que lleva:</p><ul><li><strong>Modelado 3D</strong> del proyecto a partir de los planos: la parte más larga.</li><li><strong>Materiales</strong> y texturas de suelos, paredes y fachadas.</li><li><strong>Luz y cámara</strong>: hora del día y encuadre de cada vista.</li><li><strong>Renderizado</strong> de las imágenes.</li><li><strong>Postproducción</strong>: cielo, personas, vegetación y retoque final.</li></ul>",
+      "3e85001#0": "<p>Los programas más usados para <strong>renders de arquitectura</strong> son:</p><ul><li><strong>SketchUp</strong>, <strong>Revit</strong> y <strong>3ds Max</strong>: para modelar el proyecto.</li><li><strong>V-Ray</strong> y <strong>Corona</strong>: máximo realismo, con más tiempo de trabajo.</li><li><strong>Lumion</strong> y <strong>Twinmotion</strong>: rápidos, sobre todo en exteriores.</li><li><strong>Enscape</strong>: imágenes al momento mientras se diseña.</li><li><strong>Unreal Engine</strong>: recorridos interactivos y realidad virtual.</li></ul>",
+      "3e85001#1": "<p>Los <strong>renders de arquitectura</strong> suelen ahorrar más de lo que cuestan:</p><ul><li><strong>Decidir antes</strong>: los cambios se hacen en la imagen y no en la obra.</li><li><strong>Vender sobre plano</strong>: la vivienda se enseña antes de existir.</li><li><strong>Comparar presupuestos</strong>: todos los constructores ven lo mismo.</li><li><strong>Convencer</strong>: a un cliente, a un banco o a un jurado.</li><li><strong>Reutilizar</strong>: el modelo sirve para más vistas, vídeo o 360°.</li></ul>",
+      "3e85001#2": "<p>Porque un error descubierto en la obra cuesta mucho más que un render. Con la imagen delante se ven a tiempo los problemas de proporción, de materiales o de luz, y quien paga el proyecto sabe exactamente qué va a recibir.</p>",
+      "3e85001#3": "<p>Como referencia de mercado en 2026, un <strong>render de arquitectura</strong> cuesta entre unos 200 y 500 € por imagen interior y entre 300 y 700 € por imagen exterior en España, y entre 80 y 300 dólares en Latinoamérica. Las imágenes adicionales del mismo proyecto salen más baratas. El precio de cada encargo se fija en su presupuesto.</p>",
+      "3e85001#4": "<p>Para pedir un presupuesto bastan los <strong>planos</strong> (plantas, alzados y secciones), las vistas que quieres y unas referencias de materiales o de ambiente. Si ya tienes el modelo 3D, envíalo: el precio baja. Para reformas, fotos y medidas de lo que hay.</p>",
+      "3e85001#5": "<p>Una o dos vistas de una vivienda pueden estar en <strong>pocos días</strong>; un proyecto grande, con muchas vistas, vídeo o 360°, puede llevar <strong>varias semanas</strong>. Las entregas urgentes suelen costar más.</p>",
+      "3e85001#6": "<p>Cada <strong>tipo de renderizado</strong> tiene un precio distinto:</p><ul><li><strong>Interior</strong>: una estancia amueblada.</li><li><strong>Exterior</strong>: fachada y entorno.</li><li><strong>Vista aérea</strong>: el proyecto y su barrio desde arriba.</li><li><strong>Planta 3D</strong>: la distribución amueblada vista desde arriba.</li><li><strong>Vídeo y 360°</strong>: recorridos, los más caros por el trabajo que llevan.</li></ul>",
+      "3e85001#7": "<ul><li><strong>Ahorro</strong>: los errores se corrigen en la imagen, no en la obra.</li><li><strong>Precio conocido</strong>: el presupuesto se cierra antes de empezar.</li><li><strong>Reutilización</strong>: un mismo modelo da varias vistas a menor coste.</li><li><strong>Claridad</strong>: cliente, constructor y banco entienden lo mismo.</li><li><strong>Venta</strong>: se puede anunciar el proyecto antes de terminarlo.</li></ul>",
+      "3e85001#8": "<p>Para contratar <strong>renders online</strong> sin sorpresas en el precio:</p><ul><li><strong>Pide varios presupuestos</strong> con las mismas vistas y la misma resolución.</li><li><strong>Comprueba qué incluyen</strong>: modelado, rondas de cambios e impuestos.</li><li><strong>Mira trabajos anteriores</strong> del mismo tipo que el tuyo.</li><li><strong>Envía toda la información</strong> al principio: planos, materiales y referencias.</li><li><strong>Agrupa los cambios</strong> en cada revisión.</li></ul><p>Así sabes desde el principio cuánto vas a pagar.</p>"
+    },
+    "_nota_textos": "Textos propios de esta página para el bloque común: mismos títulos, palabras clave y enlaces que la página modelo, texto distinto y centrado en el precio. Los precios repiten los rangos de la propia página (orientativos de mercado, 2026)."
   }
 }

@@ -1,0 +1,188 @@
+{
+  "slug": "estudio-de-arquitectura-asuncion",
+  "tipo": "estudio",
+  "menu": "estudio",
+  "titulo": "Estudio de Arquitectura Asunción",
+  "h1": "Estudio de Arquitectura en Asunción",
+  "subtitulo": "Diseño, planos y renders para tu obra en Asunción (Paraguay)",
+  "titulo_seo": "Estudio de arquitectura en Asunción: planos, 3D y renders",
+  "descripcion": "Estudio de arquitectura online para tu obra en Asunción (Paraguay): diseño, planos, modelado 3D y renders. Aprobación de planos, normativa y clima.",
+  "palabra_clave": "estudio de arquitectura asuncion",
+  "fecha": "2026-11-20 16:00:00",
+  "_nota": "Página de la sección «Estudio de arquitectura» por lugares (20-11-2026, informes/estudio-por-lugar.md; Yama: «Las dos cosas»). Datos de la ciudad comprobados en las fuentes del final. El estudio trabaja online desde Valencia: no se finge una oficina en Asunción.",
+  "foto": {
+    "src": "/img/2026/11/palacio-de-los-lopez-asuncion.jpg",
+    "alt": "Fachada blanca del Palacio de los López en Asunción, con dos plantas de galerías en arcos y torre central con la bandera paraguaya, palmeras y césped delante",
+    "credito": {
+      "nombre": "Palacio de los López",
+      "autor": "FF MM",
+      "licencia": "CC BY-SA 4.0",
+      "ficha": "https://commons.wikimedia.org/wiki/File:Gran_Palacio_Nacional_de_Paraguay.jpg"
+    },
+    "_titulo_commons": "File:Gran Palacio Nacional de Paraguay.jpg"
+  },
+  "boton": {
+    "texto": "Pide presupuesto",
+    "url": "/contacto/"
+  },
+  "intro": "<p>¿Vas a <strong>construir o reformar en Asunción</strong>? En DE Arquitectura preparamos online el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu obra, para que la veas terminada antes de empezar.</p>",
+  "resumen": "Somos un <strong>estudio de arquitectura online</strong> y trabajamos a distancia para obras en Asunción: diseño, planos, modelado 3D y renders. La <strong>aprobación de planos</strong> la da la Municipalidad de Asunción, a través de su Dirección de Obras Particulares, con un trámite digital en el sistema SATI, y la obra la firman profesionales inscritos en el <strong>registro de profesionales</strong> de la Municipalidad.",
+  "datos": [
+    [
+      "Ciudad",
+      "Asunción, capital del Paraguay"
+    ],
+    [
+      "Permiso de obra",
+      "Municipalidad de Asunción, Dirección de Obras Particulares: «Autorización para Construcción de Obras (Aprobación digital de Planos)»"
+    ],
+    [
+      "Normativa",
+      "Reglamento General de Construcción (Ordenanza 26.104/90) y Plan Regulador de la Ciudad (Ordenanza 163/18)"
+    ],
+    [
+      "Quién firma",
+      "Profesionales responsables (arquitecto, ingeniero) inscritos en el registro de la Municipalidad y con la patente al día"
+    ],
+    [
+      "Clima",
+      "Subtropical húmedo: enero con 28,1 °C de media y julio con 18,3 °C; unos 1.430 mm de lluvia al año (DMH)"
+    ],
+    [
+      "Qué hacemos",
+      "Diseño, planos, modelado 3D, renders, vídeo y tour virtual, a distancia"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "Construir o reformar en Asunción, paso a paso",
+      "html": "<p>En Asunción el permiso de obra se llama <strong>Autorización para Construcción de Obras</strong> y se tramita en digital ante la Dirección de Obras Particulares de la Municipalidad. Sirve para un proyecto nuevo, una demolición o un proyecto con demolición. Así se ordena:</p>",
+      "sub": [
+        {
+          "h3": "1. Uso del suelo, idea y planos",
+          "html": "<p>Entre los documentos del trámite está el <strong>Informe de Uso de Suelo para Construir</strong> de la Unidad de Ordenamiento Urbano, que dice qué se puede hacer en el terreno según el <strong>Plan Regulador</strong>. Con esa base se definen la distribución y los planos: planta de ubicación a escala 1:500 y plantas, cortes y fachadas a 1:50 o 1:100, en formato CAD. Es la parte que hacemos desde el estudio, con el modelo 3D y los renders para que decidas viendo el resultado.</p>"
+        },
+        {
+          "h3": "2. Declaración jurada en el SATI",
+          "html": "<p>El trámite empieza en la oficina virtual del <strong>SATI</strong>, abierta las 24 horas: una declaración jurada electrónica con los datos del propietario, del inmueble, de los responsables de la obra y del proyecto (uso, metros cuadrados, costo y duración). Los planos se suben en AutoCAD y el resto de documentos en PDF, y se paga un anticipo del impuesto a la construcción.</p>"
+        },
+        {
+          "h3": "3. Revisión del proyecto",
+          "html": "<p>La Dirección de Obras Particulares y otras áreas técnicas revisan el proyecto: plan regulador, prevención contra incendios, vialidad y estacionamiento, ambiente y patrimonio, con una inspección inicial del inmueble. Las observaciones del informe preliminar se contestan en <strong>3 días hábiles</strong>.</p>"
+        },
+        {
+          "h3": "4. Planos firmados y resolución",
+          "html": "<p>Con el informe final y los tributos liquidados, se entregan <strong>3 juegos de planos en papel</strong> firmados por el propietario y los responsables. Después de validarlos, la Municipalidad emite la <strong>Resolución DOP</strong> que autoriza la obra. Antes de empezar, los renders y el modelo 3D sirven para pedir presupuestos comparables a los constructores.</p>"
+        }
+      ]
+    },
+    {
+      "h2": "Quién firma el proyecto en Asunción",
+      "html": "<p>En la declaración jurada se indican los profesionales (ingeniero, arquitecto u otros) responsables del proyecto y de la construcción. Al recibir los planos en papel, la Municipalidad comprueba que estén inscritos en su <strong>Registro de Profesionales de la Construcción Civil de Obras</strong>, que sus firmas coincidan con las registradas y que tengan la patente profesional al día. Los arquitectos del país tienen su asociación gremial, la <strong>Asociación Paraguaya de Arquitectos</strong>, creada en 1946. Nosotros preparamos el diseño, los planos, el modelado 3D y los renders, y el proyecto queda listo para que el profesional registrado que lo firme trabaje con él.</p>"
+    },
+    {
+      "h2": "El clima de Asunción y el diseño de tu casa",
+      "html": "<p>Asunción tiene un clima <strong>subtropical húmedo</strong>. Según la Dirección de Meteorología e Hidrología (DMH), entre 2011 y 2023 enero tuvo una media de 28,1 °C, con máximas medias de 33,8 °C, y julio una media de 18,3 °C; llueven unos 1.430 mm al año, con noviembre como el mes más lluvioso y agosto como el más seco. El récord de calor es de <strong>43 °C</strong> (octubre de 2023). La casa tradicional paraguaya lo resolvía con el <strong>corredor yeré</strong> y las galerías, espacios de transición que filtran el sol; hoy se sigue recomendando proteger la fachada oeste, que recibe el sol más fuerte, y la sur, de donde llegan la lluvia y el viento. Un render a distintas horas te enseña dónde dará el sol antes de construir.</p>"
+    },
+    {
+      "h2": "Arquitectura de Asunción: el Palacio de los López",
+      "html": "<p>El <strong>Palacio de los López</strong>, sede del Gobierno, se pensó como residencia de Francisco Solano López, que nunca llegó a vivir en él por la Guerra de la Triple Alianza. Sus obras las dirigió el arquitecto inglés <strong>Alonzo Taylor</strong>, con piedra de las canteras de Emboscada y Tacumbú, madera de Paraguarí y Ñeembucú, hierro de Ybycuí y mármol traído de Europa. Se inauguró como Palacio Nacional el <strong>12 de octubre de 1892</strong>, y en 1894 Juan Bautista Egusquiza fue el primer presidente que lo ocupó. Sus dos plantas de galerías en arcos recuerdan la importancia que tienen en la ciudad la sombra y los corredores.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Dónde se aprueban los planos de una obra en Asunción?",
+      "a": "En la Municipalidad de Asunción, en la Dirección de Obras Particulares y su Departamento de Aprobación de Planos. El trámite, «Autorización para Construcción de Obras (Aprobación digital de Planos)», empieza en línea en el sistema SATI y termina con una Resolución DOP que autoriza la obra."
+    },
+    {
+      "q": "¿Qué normativa deben cumplir los planos?",
+      "a": "El Reglamento General de Construcción (Ordenanza 26.104/90) y el Plan Regulador de la Ciudad de Asunción (Ordenanza 163/18), además de las normas de prevención de incendios, accesibilidad, ambiente y patrimonio que correspondan a la obra."
+    },
+    {
+      "q": "¿Quién tiene que firmar los planos en Asunción?",
+      "a": "Los profesionales responsables del proyecto y de la construcción, como un arquitecto o un ingeniero, inscritos en el Registro de Profesionales de la Construcción Civil de Obras de la Municipalidad y con la patente profesional al día."
+    },
+    {
+      "q": "¿Podéis hacer el proyecto de mi casa en Asunción a distancia?",
+      "a": "Sí. Trabajamos online: partimos de tus planos, medidas o fotos para preparar el diseño, los planos, el modelo 3D y los renders, y los revisamos contigo en cada paso. La presentación ante la Municipalidad la firma un profesional registrado en ella."
+    }
+  ],
+  "cierre": {
+    "h2": "¿Tienes un proyecto en Asunción?",
+    "html": "<p>Cuéntanos qué quieres construir o reformar y te explicamos cómo te ayudamos con el diseño, los planos y las imágenes 3D.</p>",
+    "boton": "Contacto"
+  },
+  "fuentes": [
+    {
+      "texto": "Municipalidad de Asunción: requisitos de la Autorización para Construcción de Obras (Aprobación digital de Planos)",
+      "url": "https://www.asuncion.gov.py/wp-content/uploads/2022/08/Req.-Autorizacion-Construcc.-Aprob.-Planos-Digital-1.pdf"
+    },
+    {
+      "texto": "Municipalidad de Asunción: guía para el contribuyente, aprobación digital de planos",
+      "url": "https://www.asuncion.gov.py/wp-content/uploads/2022/07/Guia_para_Contribuyente.pdf"
+    },
+    {
+      "texto": "ABC Color: el Plan Regulador de Asunción (Ordenanza 163/18)",
+      "url": "https://www.abc.com.py/nacionales/2022/04/23/universidad-taiwan-plan-regulador-de-asuncion-no-permite-construir-la-sede-en-el-paque-guasu/"
+    },
+    {
+      "texto": "Dirección de Meteorología e Hidrología: tabla climatológica del aeropuerto Silvio Pettirossi (2011-2023)",
+      "url": "https://www.meteorologia.gov.py/wp-content/uploads/2024/08/AISP-Tabla-Climatologica-web-2023.pdf"
+    },
+    {
+      "texto": "Dirección de Meteorología e Hidrología: extremas climatológicas",
+      "url": "https://www.meteorologia.gov.py/extremas-climatologicas/"
+    },
+    {
+      "texto": "BBVA: el desafío de construir en Paraguay frente a su clima",
+      "url": "https://www.bbva.com/es/desafio-construir-paraguay-frente-intenso-clima/"
+    },
+    {
+      "texto": "Anales del IAA: la Asociación Paraguaya de Arquitectos (1946)",
+      "url": "https://dialnet.unirioja.es/descarga/articulo/8329094.pdf"
+    },
+    {
+      "texto": "Última Hora: el Palacio de López, testimonio de bonanza",
+      "url": "https://www.ultimahora.com/el-palacio-de-lopez-testimonio-de-bonanza-testigo-de-guerras-y-patrimonio-invaluable"
+    }
+  ],
+  "comun": {
+    "tipo": "estudio",
+    "_nota": "Bloque común de las páginas de estudio por lugar, copiado de Estudio de arquitectura Rosario (secciones 3 a 62) con la ciudad cambiada; textos propios de Asunción para no repetir la plantilla.",
+    "terminos": [
+      [
+        "ROSARIO",
+        "ASUNCIÓN"
+      ],
+      [
+        "Rosario",
+        "Asunción"
+      ]
+    ],
+    "textos": {
+      "6950824": "<p>¿Eres <strong>arquitecto</strong> o ingeniero en Asunción y te vendría bien un estudio que se encargue del diseño y de las imágenes 3D? Trabajamos online. Hablemos.</p>",
+      "873698a": "<p>En Asunción, los planos que se presentan a la Municipalidad llevan la firma de <strong>profesionales inscritos en su registro</strong>. Te explicamos cómo es el trámite y dejamos preparados el diseño, los planos y los renders para que quien firme parta de ellos. ¿Dudas sobre qué hace cada uno entre <strong>arquitectos</strong>, ingenieros y constructores? Aquí lo contamos.</p>",
+      "c6a5f2b": "<p>Además del estudio, tienes nuestra <strong>plataforma de arquitectura</strong>: estilos, programas, obras, libros y cursos para preparar con calma tu proyecto en <strong>Asunción</strong>.</p>",
+      "43bfe28": "<p>¿Tienes un terreno, una casa que quieres ampliar o un departamento que reformar en <strong>Asunción</strong>? Diseñamos contigo la distribución y los <strong>interiores</strong> a distancia, y te los mostramos en 3D antes de elegir materiales. Escríbenos y empezamos por tu idea.</p>",
+      "d6d3bf2": "<p>¿Vas a <strong>construir</strong> en Asunción? Antes de la obra van el informe de uso del suelo, el proyecto y la aprobación de planos.</p>",
+      "21e6ab7": "<p>¿Quieres <strong>reformar tu casa</strong> o tu departamento en Asunción? Mira la reforma en 3D y pide presupuestos sobre la misma propuesta.</p>",
+      "d302822": "<p><strong>Diseño arquitectónico</strong> pensado para Asunción: galerías y aleros contra el sol del oeste, ventilación para el verano húmedo y una casa protegida de la lluvia del sur.</p>",
+      "fec78e4": "<p><strong>Interiorismo</strong> y decoración de casas, departamentos y locales en Asunción, con renders para comparar materiales, colores y luz.</p>",
+      "764e04f": "<p>Como <strong>agencia de diseño</strong> preparamos también la presentación de tu proyecto: marca, láminas para compradores o inversores y página web.</p>",
+      "eea5803": "<p>Todo empieza con un <strong>croquis</strong>: unos dibujos rápidos de la planta, la fachada y cómo se coloca la casa en el terreno.</p>",
+      "c803901": "<p>Para la aprobación en Asunción se piden la planta de ubicación a 1:500 y las <strong>plantas, cortes y fachadas</strong> a 1:50 o 1:100, en CAD. Dibujamos los de arquitectura y te los entregamos en digital, listos para el trámite.</p>",
+      "e1acc54": "<p>Con los <strong>renders</strong> ves tu casa o tu local en Asunción terminado antes de la obra: la fachada, cada ambiente y la luz a distintas horas. Lo completamos con <strong>modelado 3D</strong>, vídeo y recorrido virtual.</p>",
+      "09b4953": "<p>Nuestro <strong>despacho de arquitectura</strong> estudia el terreno o el inmueble, propone la distribución y prepara los planos y las vistas 3D de tu proyecto en Asunción. Nos ocupamos del <strong>diseño de espacios</strong> y del interiorismo, y comprobamos contigo cada avance, siempre online.</p>",
+      "fa5de7a": "<p>Una <strong>maqueta</strong> ayuda a entender el volumen del edificio y su altura junto a los vecinos. El render suma lo que le falta: materiales, color y la luz real.</p>",
+      "e0fc9cc": "<p>Colaboramos con otros <strong>estudios</strong>, arquitectos y diseñadores para formar el equipo que pide cada encargo, desde una reforma hasta un edificio de departamentos.</p>",
+      "7faf099": "<p>Si eres arquitecto en Asunción, un <strong>portafolio</strong> bien ordenado, con planos y renders, ayuda a que tus clientes entiendan tus obras, en papel o en internet.</p>",
+      "b4f3c04": "<p>Busca ideas en la galería de <strong>imágenes de arquitectura</strong>: casas, interiores, fachadas y ciudades que pueden inspirar tu proyecto en Asunción.</p>",
+      "b08800e": "<p>Los <strong>libros de arquitectura</strong> de diseño, construcción e historia te ayudan a hablar de tu proyecto con más criterio. Te proponemos títulos en papel y en digital.</p>",
+      "d743651": "<p>¿Estudias arquitectura en Asunción o quieres aprender por tu cuenta? Hay <strong>cursos online</strong> de diseño, dibujo de planos, <strong>modelado 3D</strong>, renders e instalaciones. Te dejamos una selección para estudiar a tu ritmo.</p>",
+      "389e7a0": "<p>Las <strong>revistas de arquitectura</strong> publican obras de Paraguay y de la región con buenas ideas de ladrillo, galerías, celosías y sombra, muy útiles para pensar una casa con el calor de Asunción.</p>",
+      "ab4b62c": "<p>Para los planos de la Municipalidad se pide formato CAD: <strong>AutoCAD</strong> es el más usado, junto con Revit; SketchUp, Lumion y V-Ray sirven para el modelo y las imágenes. Te contamos para qué sirve cada uno.</p>",
+      "a3f94c2": "<p>Mira <strong>proyectos de arquitectura</strong> de casas, comercios y edificios y fíjate en cómo dan sombra a las fachadas, dejan pasar el aire y usan galerías y patios. Te darán ideas para tu obra en Asunción.</p>",
+      "aa5d488": "<p>La <strong>inteligencia artificial</strong> genera en segundos la imagen de un ambiente a partir de un texto o de una foto. Sirve para buscar ideas, pero no conoce tu terreno ni el Plan Regulador: para construir hacen falta <strong>planos</strong> y un modelo 3D a escala. Te explicamos qué puede hacer y qué no.</p>"
+    }
+  }
+}

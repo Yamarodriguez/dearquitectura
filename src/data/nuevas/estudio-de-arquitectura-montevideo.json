@@ -1,0 +1,192 @@
+{
+  "slug": "estudio-de-arquitectura-montevideo",
+  "tipo": "estudio",
+  "menu": "estudio",
+  "titulo": "Estudio de Arquitectura Montevideo",
+  "h1": "Estudio de Arquitectura en Montevideo",
+  "subtitulo": "Diseño, planos y renders para tu obra en Montevideo (Uruguay)",
+  "titulo_seo": "Estudio de arquitectura en Montevideo: planos, 3D y renders",
+  "descripcion": "Estudio de arquitectura online para tu obra en Montevideo (Uruguay): diseño, planos, modelado 3D y renders. Permiso de construcción, normativa y clima.",
+  "palabra_clave": "estudio de arquitectura montevideo",
+  "fecha": "2026-11-20 16:00:00",
+  "_nota": "Página de la sección «Estudio de arquitectura» por lugares (20-11-2026, informes/estudio-por-lugar.md; Yama: «Las dos cosas»). Datos de la ciudad comprobados en las fuentes del final. El estudio trabaja online desde Valencia: no se finge una oficina en Montevideo.",
+  "foto": {
+    "src": "/img/2026/11/palacio-salvo-montevideo.jpg",
+    "alt": "El Palacio Salvo, torre con cúpula y antena, visto desde la Plaza Independencia de Montevideo con palmeras y edificios a los lados",
+    "credito": {
+      "nombre": "Palacio Salvo",
+      "autor": "Christian Córdova",
+      "licencia": "CC BY 2.0",
+      "ficha": "https://commons.wikimedia.org/wiki/File:Palacio_Salvo-02.jpg"
+    },
+    "_titulo_commons": "File:Palacio Salvo-02.jpg"
+  },
+  "boton": {
+    "texto": "Pide presupuesto",
+    "url": "/contacto/"
+  },
+  "intro": "<p>¿Vas a <strong>construir o reformar en Montevideo</strong>? En DE Arquitectura preparamos online el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu casa o tu apartamento, para que los veas terminados antes de empezar la obra.</p>",
+  "resumen": "Somos un <strong>estudio de arquitectura online</strong> y trabajamos a distancia para obras en Montevideo: diseño, planos, modelado 3D y renders. El <strong>permiso de construcción</strong> lo da la Intendencia de Montevideo con un trámite digital, el «Permiso de implantación y construcción», que solo pueden presentar profesionales de Arquitectura o Ingeniería Civil inscritos en la Intendencia y con <strong>firma digital</strong>.",
+  "datos": [
+    [
+      "Ciudad",
+      "Montevideo, capital del Uruguay"
+    ],
+    [
+      "Permiso de obra",
+      "Intendencia de Montevideo: «Permiso de implantación y construcción», en línea"
+    ],
+    [
+      "Normativa",
+      "Ley 18.308 de Ordenamiento Territorial, Plan Montevideo (Decreto 28.242) y Digesto Departamental"
+    ],
+    [
+      "Quién firma",
+      "Profesional de Arquitectura o Ingeniería Civil inscrito en el Registro de Empresas y Profesionales de la Intendencia"
+    ],
+    [
+      "Clima",
+      "Templado y húmedo (INUMET): 17,3 °C de media anual y unos 1.140 mm de lluvia repartidos en todo el año"
+    ],
+    [
+      "Qué hacemos",
+      "Diseño, planos, modelado 3D, renders, vídeo y tour virtual, a distancia"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "Construir o reformar en Montevideo, paso a paso",
+      "html": "<p>La Intendencia de Montevideo ordena el permiso de construcción en etapas, recogidas en el <strong>Digesto Departamental</strong> (Volumen XV, «Planeamiento de la Edificación»). Así se ordena un proyecto:</p>",
+      "sub": [
+        {
+          "h3": "1. La información del padrón",
+          "html": "<p>Todo empieza por la <strong>Certificación de Información Territorial</strong>: los parámetros de tu <strong>padrón</strong>, que se consultan en la web de la Intendencia o con el Informe de Alineaciones. En zonas patrimoniales hace falta además la constancia de régimen patrimonial. Con esos datos se definen la distribución y los planos; es la parte que hacemos desde el estudio, con el modelo 3D y los renders para que decidas viendo el resultado.</p>"
+        },
+        {
+          "h3": "2. La implantación, si hace falta",
+          "html": "<p>Según el caso, antes de construir se autoriza la <strong>implantación</strong>: la Fase A, en régimen general o patrimonial, la viabilidad de uso para actividades que no son vivienda o un estudio de impacto territorial. También se puede pedir una consulta previa.</p>"
+        },
+        {
+          "h3": "3. La autorización para construir",
+          "html": "<p>Es la <strong>Fase B</strong>, con sus variantes B1 (el caso general, cuando la información del padrón sale de la web) y B2 (reformas interiores). El técnico la presenta en línea; si el servicio la da por conforme, se calculan las tasas según el <strong>metraje</strong> del proyecto y, una vez pagadas, se aprueba. Si hay observaciones, hay por defecto 20 días para corregirlas.</p>"
+        },
+        {
+          "h3": "4. Obra y habilitación final",
+          "html": "<p>Al terminar, es obligatorio gestionar la <strong>habilitación final</strong> con la inspección de la Fase C. Además, la obra se inscribe en el <strong>BPS</strong> para los aportes de la construcción, que corren a cargo del propietario. Antes de empezar, los renders y el modelo 3D sirven para pedir presupuestos comparables a las empresas.</p>"
+        }
+      ]
+    },
+    {
+      "h2": "Quién firma el proyecto en Montevideo",
+      "html": "<p>El permiso de construcción solo lo pueden tramitar <strong>profesionales de Arquitectura o Ingeniería Civil</strong> inscritos en el Registro de Empresas y Profesionales (REP) de la Intendencia, con domicilio digital y <strong>firma digital avanzada</strong>. En la normativa se les llama técnico responsable o profesional actuante. Los arquitectos del país tienen su asociación, la <strong>Sociedad de Arquitectos del Uruguay</strong>, fundada en 1914. Nosotros preparamos el diseño, los planos, el modelado 3D y los renders, y el proyecto queda listo para que el técnico que lo firme trabaje con él.</p>"
+    },
+    {
+      "h2": "El clima de Montevideo y el diseño de tu casa",
+      "html": "<p>Según el Instituto Uruguayo de Meteorología (<strong>INUMET</strong>), el clima es templado, húmedo y lluvioso. En la estación del Prado, entre 1991 y 2020, la media anual fue de 17,3 °C, con 23,3 °C en enero y 11,0 °C en julio, y llovieron unos 1.140 mm al año, repartidos en todos los meses. La humedad relativa media ronda el 74 %, y sube en invierno. Por eso conviene ventilar bien la casa, cuidar cubiertas y muros frente a la humedad y el moho, prever una buena salida del agua de lluvia y abrir las estancias principales al norte, que en el hemisferio sur es la orientación que recibe el sol en invierno. Un render de invierno y otro de verano te enseñan cómo entra la luz antes de construir.</p>"
+    },
+    {
+      "h2": "Arquitectura de Montevideo: el Palacio Salvo",
+      "html": "<p>El <strong>Palacio Salvo</strong>, en la esquina de la Plaza Independencia con la Avenida 18 de Julio, es la imagen de la ciudad. Lo proyectó el arquitecto italiano <strong>Mario Palanti</strong>, autor también del Palacio Barolo de Buenos Aires; las obras empezaron en 1922 y se inauguró el <strong>12 de octubre de 1928</strong>. Mide unos 100 metros y fue durante años uno de los edificios más altos de Latinoamérica. Desde 1996 es <strong>Monumento Histórico</strong>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Dónde se pide el permiso de construcción en Montevideo?",
+      "a": "En la Intendencia de Montevideo, con el trámite en línea «Permiso de implantación y construcción». Lo presenta el técnico responsable, que revisa los parámetros del padrón y sigue las etapas del Digesto: implantación si hace falta, autorización para construir y habilitación final."
+    },
+    {
+      "q": "¿Quién puede firmar el permiso de construcción?",
+      "a": "Un profesional de Arquitectura o Ingeniería Civil inscrito en el Registro de Empresas y Profesionales de la Intendencia de Montevideo, con domicilio digital y firma digital avanzada."
+    },
+    {
+      "q": "¿Qué normativa deben cumplir los planos?",
+      "a": "La Ley 18.308 de Ordenamiento Territorial y Desarrollo Sostenible, el Plan Montevideo (Decreto 28.242) y el Digesto Departamental, además de las normas de accesibilidad de la Ley 18.651 cuando corresponden."
+    },
+    {
+      "q": "¿Podéis hacer el proyecto de mi casa en Montevideo a distancia?",
+      "a": "Sí. Trabajamos online: partimos de tus planos, medidas o fotos para preparar el diseño, los planos, el modelo 3D y los renders, y los revisamos contigo en cada paso. El permiso lo presenta y lo firma un técnico inscrito en la Intendencia."
+    }
+  ],
+  "cierre": {
+    "h2": "¿Tienes un proyecto en Montevideo?",
+    "html": "<p>Cuéntanos qué quieres construir o reformar y te explicamos cómo te ayudamos con el diseño, los planos y las imágenes 3D.</p>",
+    "boton": "Contacto"
+  },
+  "fuentes": [
+    {
+      "texto": "Intendencia de Montevideo: ficha del trámite «Permiso de implantación y construcción»",
+      "url": "https://tramites.montevideo.gub.uy/print/pdf/node/24754"
+    },
+    {
+      "texto": "Resolución 0796/23 de la Intendencia: etapas del permiso de construcción (Cámara de la Construcción del Uruguay)",
+      "url": "https://www.ccu.com.uy/wp-content/uploads/2023/03/PERMISOS_DE_CONSTRUCCION_SE_MODIFICA_LA_REGLAMENTACION.pdf"
+    },
+    {
+      "texto": "Decreto 34.870: Directrices Departamentales de Ordenamiento Territorial (Plan Montevideo)",
+      "url": "https://montevideo.gub.uy/sites/default/files/documentos/decreto_34870.pdf"
+    },
+    {
+      "texto": "IMPO: Ley 18.308 de Ordenamiento Territorial y Desarrollo Sostenible",
+      "url": "https://www.impo.com.uy/bases/leyes/18308-2008"
+    },
+    {
+      "texto": "IMPO: Ley 18.651 de Protección Integral de Personas con Discapacidad",
+      "url": "https://impo.com.uy/bases/leyes/18651-2010"
+    },
+    {
+      "texto": "BPS: inscripción de la obra de construcción",
+      "url": "https://www.bps.gub.uy/24613/inscripcion-de-la-obra-de-construccion.html"
+    },
+    {
+      "texto": "INUMET: tablas estadísticas climatológicas",
+      "url": "https://www.inumet.gub.uy/clima/estadisticas-climatologicas/tablas-estadisticas"
+    },
+    {
+      "texto": "IMPO: Resolución 1144/996, el Palacio Salvo Monumento Histórico",
+      "url": "https://www.impo.com.uy/bases/resoluciones/1144-1996"
+    },
+    {
+      "texto": "Wikipedia: Palacio Salvo",
+      "url": "https://es.wikipedia.org/wiki/Palacio_Salvo"
+    }
+  ],
+  "comun": {
+    "tipo": "estudio",
+    "_nota": "Bloque común de las páginas de estudio por lugar, copiado de Estudio de arquitectura Rosario (secciones 3 a 62) con la ciudad cambiada; textos propios de Montevideo para no repetir la plantilla.",
+    "terminos": [
+      [
+        "ROSARIO",
+        "MONTEVIDEO"
+      ],
+      [
+        "Rosario",
+        "Montevideo"
+      ]
+    ],
+    "textos": {
+      "6950824": "<p>¿Eres <strong>arquitecto</strong> o ingeniero civil en Montevideo y buscas apoyo con el diseño y las imágenes de tus proyectos? Trabajamos online. Escríbenos.</p>",
+      "873698a": "<p>En Montevideo, el permiso de construcción lo presenta un <strong>técnico inscrito en la Intendencia</strong>, con firma digital. Te contamos qué etapas puede tener tu obra y dejamos listos el diseño, los planos y los renders para que el técnico que firme trabaje con ellos. ¿No tienes claro qué hace cada uno entre <strong>arquitectos</strong>, ingenieros y empresas? Te lo explicamos aquí.</p>",
+      "c6a5f2b": "<p>Junto al estudio está nuestra <strong>plataforma de arquitectura</strong>: estilos, programas, obras, libros y cursos para que pienses tu proyecto en <strong>Montevideo</strong> con más información.</p>",
+      "43bfe28": "<p>¿Tienes un padrón para construir, una casa que ampliar o un apartamento que reformar en <strong>Montevideo</strong>? Diseñamos contigo la distribución y los <strong>interiores</strong> a distancia y te los enseñamos en 3D antes de elegir terminaciones. Escríbenos y partimos de tu idea.</p>",
+      "d6d3bf2": "<p>¿Vas a <strong>construir</strong> en Montevideo? Primero van la información del padrón, el proyecto y el permiso de la Intendencia.</p>",
+      "21e6ab7": "<p>¿Quieres <strong>reformar tu casa</strong> o tu apartamento en Montevideo? Mira la reforma en 3D y pide presupuestos sobre la misma propuesta.</p>",
+      "d302822": "<p><strong>Diseño arquitectónico</strong> pensado para Montevideo: estancias abiertas al sol del norte, buena ventilación frente a la humedad y cubiertas preparadas para la lluvia de todo el año.</p>",
+      "fec78e4": "<p><strong>Interiorismo</strong> y decoración de casas, apartamentos y locales en Montevideo, con renders para comparar terminaciones, colores y luz.</p>",
+      "764e04f": "<p>Como <strong>agencia de diseño</strong> preparamos también cómo presentar tu proyecto: marca, láminas para compradores o inversores y una web propia.</p>",
+      "eea5803": "<p>El primer paso suele ser un <strong>croquis</strong>: dibujos rápidos de la planta, la fachada y la posición de la casa en el padrón.</p>",
+      "c803901": "<p>Los <strong>planos</strong> de un permiso en Montevideo deben ajustarse a los parámetros del padrón y al Digesto Departamental. Dibujamos los de arquitectura y te los entregamos en digital, listos para que el técnico los presente.</p>",
+      "e1acc54": "<p>Con los <strong>renders</strong> ves tu casa o tu local en Montevideo terminado antes de la obra: la fachada, cada estancia y la luz a distintas horas. Lo completamos con <strong>modelado 3D</strong>, vídeo y recorrido virtual.</p>",
+      "09b4953": "<p>Nuestro <strong>despacho de arquitectura</strong> estudia el padrón o el inmueble, propone la distribución y prepara los planos y las vistas 3D de tu proyecto en Montevideo. Nos ocupamos del <strong>diseño de espacios</strong> y del interiorismo, y revisamos contigo cada avance, siempre online.</p>",
+      "fa5de7a": "<p>Con una <strong>maqueta</strong> se entiende enseguida el volumen del edificio y su altura frente a los linderos. El render añade lo que le falta: terminaciones, color y la luz real.</p>",
+      "e0fc9cc": "<p>Colaboramos con otros <strong>estudios</strong>, arquitectos y diseñadores para formar el equipo que necesita cada encargo, desde una reforma hasta un edificio de apartamentos.</p>",
+      "7faf099": "<p>Si eres arquitecto en Montevideo, un <strong>portafolio</strong> ordenado, con planos y renders, ayuda a que tus clientes entiendan tus obras, impreso o en internet.</p>",
+      "b4f3c04": "<p>Busca ideas en la galería de <strong>imágenes de arquitectura</strong>: casas, interiores, fachadas y ciudades que pueden inspirar tu proyecto en Montevideo.</p>",
+      "b08800e": "<p>Los <strong>libros de arquitectura</strong> de diseño, construcción e historia te ayudan a hablar de tu proyecto con más seguridad. Te proponemos títulos en papel y en digital.</p>",
+      "d743651": "<p>¿Estudias arquitectura en Montevideo o quieres aprender por tu cuenta? Hay <strong>cursos online</strong> de diseño, dibujo de planos, <strong>modelado 3D</strong>, renders e instalaciones. Reunimos una selección para que aprendas a tu ritmo.</p>",
+      "389e7a0": "<p>Las <strong>revistas de arquitectura</strong> publican obras del Río de la Plata con buenas soluciones de ladrillo, aleros y ventilación, útiles para pensar una casa con la humedad de Montevideo.</p>",
+      "ab4b62c": "<p><strong>AutoCAD</strong> y Revit son los programas más usados para dibujar planos; SketchUp, Lumion y V-Ray, para el modelo y las imágenes. Te explicamos para qué sirve cada uno.</p>",
+      "a3f94c2": "<p>Mira <strong>proyectos de arquitectura</strong> de casas, comercios y edificios y fíjate en cómo captan el sol del norte, se protegen del viento y resuelven la humedad. Te darán ideas para tu obra en Montevideo.</p>",
+      "aa5d488": "<p>La <strong>inteligencia artificial</strong> crea en segundos la imagen de una estancia a partir de un texto o de una foto. Sirve para buscar ideas, pero no conoce tu padrón ni el Digesto: para construir hacen falta <strong>planos</strong> y un modelo 3D a escala. Te contamos qué puede hacer y qué no.</p>"
+    }
+  }
+}

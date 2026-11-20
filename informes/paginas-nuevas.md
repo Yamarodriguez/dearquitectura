@@ -188,3 +188,8 @@ Yama: «cámbialo, modifícalo sin sacar las palabras clave y haz lo mismo pero 
   - Colombia 500.000–1.500.000 COP (calidad media) y 800–2.500 USD (nivel internacional); 125 USD por imagen en Bogotá: [surrealismo.co](https://surrealismo.co/cuanto-cuesta-render-arquitectonico-colombia-2026/), [conika.co](https://conika.co/personas/preguntas), [camarkprojects.com](https://www.camarkprojects.com/blog/render-cali-guia-completa-precios-servicios/).
   - México 1.500–2.000 MXN por render de calidad media: [gov3dstudio.com](https://gov3dstudio.com/cuanto-cobrar-por-un-render/) (Habitissimo México da 4.800 MXN, pero su tabla tiene unos siete años).
   - Los rangos de Latinoamérica en dólares (interior 80–200, exterior 120–300) juntan esas fuentes; el 80 sale de los 1.500 MXN de México.
+
+## Hecho: bloque común en «¿Cuánto cuesta un render?» (20-11-2026, Yama: «Las dos cosas»)
+- La página de precios lleva ahora, después de sus preguntas, el **bloque común de las páginas de renders** (copiado de Render casa), como las demás páginas nuevas de renders.
+- Palabra clave del bloque: «Arquitectura» («¿Cuánto Cuesta un Render de Arquitectura?», «Planos de Arquitectura»…).
+- Lleva 41 textos y 10 preguntas propios, centrados en el precio. Los precios que nombra son los mismos rangos orientativos de la página.

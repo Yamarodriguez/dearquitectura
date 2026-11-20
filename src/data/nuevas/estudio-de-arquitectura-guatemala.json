@@ -1,0 +1,192 @@
+{
+  "slug": "estudio-de-arquitectura-guatemala",
+  "tipo": "estudio",
+  "menu": "estudio",
+  "titulo": "Estudio de Arquitectura Guatemala",
+  "h1": "Estudio de Arquitectura en Ciudad de Guatemala",
+  "subtitulo": "Diseño, planos y renders para tu obra en la capital de Guatemala",
+  "titulo_seo": "Estudio de arquitectura en Guatemala: planos, 3D y renders",
+  "descripcion": "Estudio de arquitectura online para tu obra en Ciudad de Guatemala: diseño, planos, modelado 3D y renders. Licencia, norma sísmica, colegiado activo y clima.",
+  "palabra_clave": "estudio de arquitectura guatemala",
+  "fecha": "2026-11-20 16:00:00",
+  "_nota": "Página de la sección «Estudio de arquitectura» por lugares (20-11-2026, informes/estudio-por-lugar.md; Yama: «Las dos cosas»). Datos de la ciudad comprobados en las fuentes del final; la web de la Municipalidad no se pudo abrir, así que del trámite municipal solo se dice lo que confirman otras fuentes. El estudio trabaja online desde Valencia: no se finge una oficina en Guatemala.",
+  "foto": {
+    "src": "/img/2026/11/teatro-nacional-guatemala.jpg",
+    "alt": "Edificio blanco del Teatro Nacional (Centro Cultural Miguel Ángel Asturias) al anochecer, con la fuente iluminada en primer plano, en Ciudad de Guatemala",
+    "credito": {
+      "nombre": "Centro Cultural Miguel Ángel Asturias",
+      "autor": "Gobierno de Guatemala",
+      "licencia": "dominio público",
+      "ficha": "https://commons.wikimedia.org/wiki/File:Centro_Cultural_Miguel_%C3%81ngel_Asturias_-_Guatemala.jpg"
+    },
+    "_titulo_commons": "File:Centro Cultural Miguel Ángel Asturias - Guatemala.jpg"
+  },
+  "boton": {
+    "texto": "Pide presupuesto",
+    "url": "/contacto/"
+  },
+  "intro": "<p>¿Vas a <strong>construir o remodelar en la Ciudad de Guatemala</strong>? En DE Arquitectura preparamos online el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu vivienda o tu local, para que los veas terminados antes de empezar la obra.</p>",
+  "resumen": "Somos un <strong>estudio de arquitectura online</strong> y trabajamos a distancia para obras en la Ciudad de Guatemala: diseño, planos, modelado 3D y renders. La <strong>licencia de construcción</strong> la da la Municipalidad de Guatemala, el terreno tiene que cumplir el <strong>Plan de Ordenamiento Territorial</strong> y la estructura, las normas sísmicas de AGIES. Para ejercer la profesión en Guatemala hay que ser <strong>colegiado activo</strong>.",
+  "datos": [
+    [
+      "Ciudad",
+      "Ciudad de Guatemala (Nueva Guatemala de la Asunción), capital del país, organizada en zonas numeradas"
+    ],
+    [
+      "Licencia de obra",
+      "Municipalidad de Guatemala"
+    ],
+    [
+      "Normativa",
+      "Plan de Ordenamiento Territorial (Acuerdo COM-30-08) y Normas de Seguridad Estructural de AGIES (NSE 2024)"
+    ],
+    [
+      "Sismo",
+      "Municipio de Guatemala en la zona sísmica 4.1, dentro de la franja más alta del país (NSE 2-2024)"
+    ],
+    [
+      "Quién firma",
+      "Profesional colegiado activo (Ley de Colegiación Profesional Obligatoria, Decreto 72-2001)"
+    ],
+    [
+      "Clima",
+      "Época lluviosa de mayo a octubre y seca de noviembre a abril (INSIVUMEH); unos 1.500 m de altitud"
+    ],
+    [
+      "Qué hacemos",
+      "Diseño, planos, modelado 3D, renders, vídeo y tour virtual, a distancia"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "Construir o remodelar en la Ciudad de Guatemala, paso a paso",
+      "html": "<p>La licencia de construcción la da la <strong>Municipalidad de Guatemala</strong>, y lo que se puede hacer en cada terreno lo marca su Plan de Ordenamiento Territorial. Así se ordena un proyecto:</p>",
+      "sub": [
+        {
+          "h3": "1. El terreno y lo que permite el POT",
+          "html": "<p>El <strong>Plan de Ordenamiento Territorial</strong> del municipio, aprobado en 2008 por el Acuerdo COM-30-08, regula qué se puede construir según la zona y la calle donde está tu terreno. Con esa base se definen la distribución y los planos; es la parte que hacemos desde el estudio, con el modelo 3D y los renders para que decidas viendo el resultado.</p>"
+        },
+        {
+          "h3": "2. La planificación y la estructura",
+          "html": "<p>El juego de planos (la <strong>planificación</strong>) incluye arquitectura, estructura e instalaciones. La estructura se calcula con las <strong>Normas de Seguridad Estructural</strong> de AGIES: la NSE 2-2024 sitúa el municipio de Guatemala en la zona sísmica 4.1, dentro de la franja más alta del país, y los planos estructurales los firma el diseñador estructural.</p>"
+        },
+        {
+          "h3": "3. La licencia municipal",
+          "html": "<p>Con los planos firmados por profesionales colegiados activos se pide la <strong>licencia de construcción</strong> en la Municipalidad de Guatemala, que revisa el proyecto antes de autorizar la obra.</p>"
+        },
+        {
+          "h3": "4. La obra",
+          "html": "<p>Antes de empezar, los renders y el modelo 3D sirven para pedir presupuestos comparables a los constructores y para seguir la obra con una imagen clara de lo que se va a construir.</p>"
+        }
+      ]
+    },
+    {
+      "h2": "Quién firma el proyecto en Guatemala",
+      "html": "<p>La <strong>Ley de Colegiación Profesional Obligatoria</strong> (Decreto 72-2001) dice que para ejercer una profesión universitaria es imprescindible ser <strong>colegiado activo</strong>, y que quien contrata a un profesional debe pedirle que lo acredite. Los arquitectos se colegian en el Colegio de Arquitectos de Guatemala, y las normas de AGIES entienden por profesional al colegiado activo. Nosotros preparamos el diseño, los planos, el modelado 3D y los renders, y el proyecto queda listo para que el arquitecto o el ingeniero colegiado activo que lo firme trabaje con él.</p>"
+    },
+    {
+      "h2": "El clima de la Ciudad de Guatemala y el diseño de tu casa",
+      "html": "<p>La ciudad está en un valle a unos <strong>1.500 metros</strong> de altitud y tiene un clima suave casi todo el año. Según el <strong>INSIVUMEH</strong>, en Guatemala hay dos épocas: la lluviosa, en general de mayo a octubre, con dos máximos (junio y septiembre-octubre) y la canícula en julio y agosto, y la seca, de noviembre a abril. Por eso conviene diseñar cubiertas, aleros y desagües para las lluvias fuertes de la temporada, aprovechar la ventilación natural y, sobre todo, pensar la estructura para el sismo. Un render con lluvia y otro con sol te enseñan cómo funciona la casa en cada época.</p>"
+    },
+    {
+      "h2": "Arquitectura de Guatemala: el Teatro Nacional",
+      "html": "<p>El <strong>Centro Cultural Miguel Ángel Asturias</strong>, el Teatro Nacional, se levanta en la zona 1 sobre el antiguo Fuerte de San José. Su construcción se encargó al ingeniero y artista <strong>Efraín Recinos</strong>, sobre un proyecto inicial del arquitecto Vinicio Asturias; las obras empezaron en 1961, avanzaron a pausas y se inauguró el <strong>16 de junio de 1978</strong>. Tiene la Gran Sala Efraín Recinos, el Teatro de Cámara Hugo Carrillo y un teatro al aire libre. Cerca está el <strong>Centro Cívico</strong>, con edificios de los años 50 de Jorge Montes, Carlos Haeussler, Raúl Minondo y Roberto Aycinena y los murales de Carlos Mérida en el Banco de Guatemala.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Dónde se pide la licencia de construcción en la Ciudad de Guatemala?",
+      "a": "En la Municipalidad de Guatemala. El proyecto tiene que cumplir lo que el Plan de Ordenamiento Territorial permite en el terreno y presentarse con planos firmados por profesionales colegiados activos."
+    },
+    {
+      "q": "¿Qué norma sísmica se aplica en la Ciudad de Guatemala?",
+      "a": "Las Normas de Seguridad Estructural (NSE) de AGIES, edición 2024. Según la NSE 2-2024, el municipio de Guatemala está en la zona sísmica 4.1, dentro de la franja más alta del país."
+    },
+    {
+      "q": "¿Quién puede firmar los planos en Guatemala?",
+      "a": "Un profesional colegiado activo, como exige la Ley de Colegiación Profesional Obligatoria (Decreto 72-2001): el arquitecto para la planificación y el diseñador estructural para los planos de estructura."
+    },
+    {
+      "q": "¿Podéis hacer el proyecto de mi casa en Guatemala a distancia?",
+      "a": "Sí. Trabajamos online: partimos de tus planos, medidas o fotos para preparar el diseño, los planos, el modelo 3D y los renders, y los revisamos contigo en cada paso. La licencia la firma y la tramita un profesional colegiado activo en Guatemala."
+    }
+  ],
+  "cierre": {
+    "h2": "¿Tienes un proyecto en Guatemala?",
+    "html": "<p>Cuéntanos qué quieres construir o remodelar en tu zona y te explicamos cómo te ayudamos con el diseño, los planos y las imágenes 3D.</p>",
+    "boton": "Contacto"
+  },
+  "fuentes": [
+    {
+      "texto": "Decreto 72-2001, Ley de Colegiación Profesional Obligatoria (USAC)",
+      "url": "https://sistemaregulatoriorrhh.usac.edu.gt/wp-content/uploads/2022/03/ley-colegiacion-profesional.pdf"
+    },
+    {
+      "texto": "AGIES: NSE 2-2024, demandas estructurales y condiciones de sitio (CONRED)",
+      "url": "https://conred.gob.gt/wp-content/uploads/2026/02/NSE-2-2024-Demandas-estructurales-y-condiciones-de-carga-.pdf"
+    },
+    {
+      "texto": "AGIES: NSE 1-2024, generalidades y supervisión técnica (CONRED)",
+      "url": "https://conred.gob.gt/wp-content/uploads/2026/02/NSE-1-2024-Generalidades-administracion-de-las-normas-y-supervision-tecnica-2.pdf"
+    },
+    {
+      "texto": "Prensa Libre: el Plan de Ordenamiento Territorial (Acuerdo COM-30-08)",
+      "url": "https://www.prensalibre.com/?p=329677"
+    },
+    {
+      "texto": "INSIVUMEH: boletín especial sobre el inicio de la época lluviosa (2025)",
+      "url": "https://insivumeh.gob.gt/img/lluvia2025/202504_boletinespecial_iell_insivumeh-1-2.pdf"
+    },
+    {
+      "texto": "Prensa Libre: 1978, se inaugura el Teatro Nacional",
+      "url": "https://www.prensalibre.com/hemeroteca/historia-del-centro-cultural-miguel-angel-asturias/"
+    },
+    {
+      "texto": "Banco de Guatemala: los murales del Banco de Guatemala",
+      "url": "https://banguat.gob.gt/page/los-murales-del-banco-de-guatemala"
+    },
+    {
+      "texto": "Wikipedia: Ciudad de Guatemala",
+      "url": "https://es.wikipedia.org/wiki/Ciudad_de_Guatemala"
+    }
+  ],
+  "comun": {
+    "tipo": "estudio",
+    "_nota": "Bloque común de las páginas de estudio por lugar, copiado de Estudio de arquitectura Rosario (secciones 3 a 62) con la ciudad cambiada; textos propios de Guatemala para no repetir la plantilla.",
+    "terminos": [
+      [
+        "ROSARIO",
+        "GUATEMALA"
+      ],
+      [
+        "Rosario",
+        "Guatemala"
+      ]
+    ],
+    "textos": {
+      "6950824": "<p>¿Eres <strong>arquitecto</strong> o ingeniero colegiado en Guatemala y te vendría bien apoyo con el diseño y las imágenes 3D? Trabajamos online. Hablemos.</p>",
+      "873698a": "<p>En Guatemala, los planos de una licencia los firman <strong>profesionales colegiados activos</strong>. Te orientamos sobre lo que pide tu obra y dejamos listos el diseño, la planificación y los renders para que quien firme trabaje con ellos. ¿Dudas sobre qué hace cada uno entre <strong>arquitectos</strong>, ingenieros y constructores? Te lo contamos aquí.</p>",
+      "c6a5f2b": "<p>Además del estudio, tienes nuestra <strong>plataforma de arquitectura</strong>: estilos, programas, obras, libros y cursos para preparar tu proyecto en <strong>Guatemala</strong> con criterio.</p>",
+      "43bfe28": "<p>¿Tienes un terreno, una casa que ampliar o un apartamento que remodelar en la Ciudad de <strong>Guatemala</strong>? Diseñamos contigo la distribución y los <strong>interiores</strong> a distancia y te los enseñamos en 3D antes de elegir acabados. Escríbenos y empezamos por tu idea.</p>",
+      "d6d3bf2": "<p>¿Vas a <strong>construir</strong> en Guatemala? Antes de la obra van lo que permite el POT, la planificación y la licencia municipal.</p>",
+      "21e6ab7": "<p>¿Quieres <strong>remodelar tu casa</strong> o tu apartamento en Guatemala? Mira la remodelación en 3D y pide cotizaciones sobre la misma propuesta.</p>",
+      "d302822": "<p><strong>Diseño arquitectónico</strong> pensado para la capital: estructura preparada para el sismo, cubiertas y aleros para la época lluviosa y ventilación natural para el clima suave del valle.</p>",
+      "fec78e4": "<p><strong>Interiorismo</strong> y decoración de casas, apartamentos y locales en Guatemala, con renders para comparar acabados, colores y luz.</p>",
+      "764e04f": "<p>Como <strong>agencia de diseño</strong> preparamos también la presentación de tu proyecto: marca, láminas para compradores o inversionistas y página web.</p>",
+      "eea5803": "<p>El primer paso suele ser un <strong>croquis</strong>: dibujos rápidos de la planta, la fachada y la posición de la casa en el terreno.</p>",
+      "c803901": "<p>La <strong>planificación</strong> de una obra en Guatemala reúne los planos de arquitectura, estructura e instalaciones. Dibujamos los de arquitectura y te los entregamos en digital, listos para el profesional colegiado que los firme.</p>",
+      "e1acc54": "<p>Con los <strong>renders</strong> ves tu casa o tu local en Guatemala terminado antes de la obra: la fachada, cada ambiente y la luz a distintas horas. Lo completamos con <strong>modelado 3D</strong>, vídeo y recorrido virtual.</p>",
+      "09b4953": "<p>Nuestro <strong>despacho de arquitectura</strong> estudia el terreno o el inmueble, propone la distribución y prepara los planos y las vistas 3D de tu proyecto en Guatemala. Nos ocupamos del <strong>diseño de espacios</strong> y del interiorismo, y revisamos contigo cada avance, siempre online.</p>",
+      "fa5de7a": "<p>Una <strong>maqueta</strong> deja ver enseguida el volumen del edificio y su altura junto a los vecinos. El render añade lo que le falta: acabados, color y la luz real.</p>",
+      "e0fc9cc": "<p>Colaboramos con otros <strong>estudios</strong>, arquitectos y diseñadores para formar el equipo que pide cada encargo, desde una remodelación hasta un edificio de apartamentos.</p>",
+      "7faf099": "<p>Si eres arquitecto en Guatemala, un <strong>portafolio</strong> ordenado, con planos y renders, ayuda a que tus clientes entiendan tus obras, impreso o en internet.</p>",
+      "b4f3c04": "<p>Busca ideas en la galería de <strong>imágenes de arquitectura</strong>: casas, interiores, fachadas y ciudades que pueden inspirar tu proyecto en Guatemala.</p>",
+      "b08800e": "<p>Los <strong>libros de arquitectura</strong> de diseño, construcción e historia te ayudan a hablar de tu proyecto con más seguridad. Te proponemos títulos en papel y en digital.</p>",
+      "d743651": "<p>¿Estudias arquitectura en Guatemala o quieres aprender por tu cuenta? Hay <strong>cursos online</strong> de diseño, dibujo de planos, <strong>modelado 3D</strong>, renders e instalaciones. Te dejamos una selección para estudiar a tu ritmo.</p>",
+      "389e7a0": "<p>Las <strong>revistas de arquitectura</strong> publican obras de Centroamérica con buenas soluciones de aleros, ventilación y estructura, útiles para pensar una casa en un país con lluvias fuertes y sismos.</p>",
+      "ab4b62c": "<p><strong>AutoCAD</strong> y Revit son los programas más usados para la planificación; SketchUp, Lumion y V-Ray, para el modelo y las imágenes. Te explicamos para qué sirve cada uno.</p>",
+      "a3f94c2": "<p>Mira <strong>proyectos de arquitectura</strong> de casas, comercios y edificios y fíjate en cómo resuelven la lluvia, la ventilación y la estructura. Te darán ideas para tu obra en Guatemala.</p>",
+      "aa5d488": "<p>La <strong>inteligencia artificial</strong> crea en segundos la imagen de un ambiente a partir de un texto o de una foto. Sirve para buscar ideas, pero no conoce tu terreno, el POT ni la norma sísmica: para construir hacen falta <strong>planos</strong> y un modelo 3D a escala. Te contamos qué puede hacer y qué no.</p>"
+    }
+  }
+}

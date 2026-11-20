@@ -1346,6 +1346,39 @@
   {
    "type": "heading",
    "tag": "h3",
+   "text": "Uruguay",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<ul class=\"lista-lugares\"><li><a href=\"/estudio-de-arquitectura-montevideo/\" title=\"Estudio de arquitectura en Montevideo\">Montevideo</a></li></ul>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Paraguay",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<ul class=\"lista-lugares\"><li><a href=\"/estudio-de-arquitectura-asuncion/\" title=\"Estudio de arquitectura en Asunción\">Asunción</a></li></ul>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Guatemala",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<ul class=\"lista-lugares\"><li><a href=\"/estudio-de-arquitectura-guatemala/\" title=\"Estudio de arquitectura en Ciudad de Guatemala\">Ciudad de Guatemala</a></li></ul>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
    "text": "España",
    "anadido": true
   },
@@ -1634,13 +1667,13 @@
   },
   {
    "t": "c",
-   "id": "x737c32",
+   "id": "xb6381c",
    "cls": "e-flex e-con-boxed e-con e-parent anadido estudio-lugares",
    "anadido": true,
    "hijos": [
     {
      "t": "c",
-     "id": "xa26ddc",
+     "id": "x5eaae2",
      "cls": "e-con-full e-flex e-con e-child",
      "hijos": [
       {
@@ -1738,6 +1771,54 @@
        "wt": "text-editor",
        "cls": "elementor-widget elementor-widget-text-editor",
        "b": 187
+      },
+      {
+       "t": "w",
+       "id": "x737c32",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 188
+      },
+      {
+       "t": "w",
+       "id": "xa26ddc",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 189
+      },
+      {
+       "t": "w",
+       "id": "xe14c2a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 190
+      },
+      {
+       "t": "w",
+       "id": "x515b1c",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 191
+      },
+      {
+       "t": "w",
+       "id": "x266800",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 192
+      },
+      {
+       "t": "w",
+       "id": "x9245d4",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 193
       }
      ]
     }
@@ -1745,31 +1826,31 @@
   },
   {
    "t": "c",
-   "id": "x266800",
+   "id": "x034a08",
    "cls": "e-flex e-con-boxed e-con e-parent anadido",
    "anadido": true,
    "hijos": [
     {
      "t": "c",
-     "id": "x9245d4",
+     "id": "x377fa4",
      "cls": "e-con-full e-flex e-con e-child",
      "hijos": [
       {
        "t": "w",
-       "id": "xe14c2a",
+       "id": "xd935b9",
        "wt": "heading",
        "cls": "elementor-widget elementor-widget-heading",
        "tag": "h2",
        "size": "default",
-       "b": 188
+       "b": 194
       },
       {
        "t": "w",
-       "id": "x515b1c",
+       "id": "x94a79a",
        "wt": "toggle",
        "cls": "elementor-widget elementor-widget-toggle",
        "tag": "div",
-       "b": 189
+       "b": 195
       }
      ]
     }
