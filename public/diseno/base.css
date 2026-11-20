@@ -579,3 +579,10 @@ body { background: var(--fuera); }
 @media (max-width: 767px) {
   :is(.e-con, .e-con-inner) > .e-con:not(.e-parent):not(:has(> .elementor-widget-heading h1)):is(.con-texto, :has(> .elementor-widget-image):has(> .elementor-widget-heading):has(> .elementor-widget-image a, > .elementor-widget-heading a)):not(:has(> .elementor-widget-text-editor)):not(:has(> .elementor-widget-button)) { width: calc(50% - 7px) !important; max-width: calc(50% - 7px); flex: 0 0 auto; }
 }
+
+/* Portada de la sección «Estudio de arquitectura»: lugares por país en columnas (20-11-2026) */
+.estudio-lugares .lista-lugares { list-style: none; padding: 0; margin: 0 0 1.4em; columns: 3 220px; column-gap: 28px; }
+.estudio-lugares .lista-lugares li { break-inside: avoid; padding: .35em 0; border-bottom: 1px solid #e6e1d8; }
+.estudio-lugares .lista-lugares a { color: var(--tinta); text-decoration: none; font-weight: 600; }
+.estudio-lugares .lista-lugares a::after { content: ' →'; color: var(--acento); }
+.estudio-lugares .lista-lugares a:hover { color: var(--acento); }

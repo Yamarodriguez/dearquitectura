@@ -11,9 +11,9 @@
  "logo": "",
  "foto_destacada": "/img/2023/12/Estudio-de-arquitectura.jpg",
  "fecha": "2023-12-12 15:41:55",
- "modificada": "2025-01-30 21:30:33",
+ "modificada": "2026-11-20 12:00:00",
  "fecha_gmt": "2023-12-12 15:41:55",
- "modificada_gmt": "2025-01-30 21:30:33",
+ "modificada_gmt": "2026-11-20 12:00:00",
  "h1_es_titulo": false,
  "fondos": [],
  "blocks": [
@@ -1209,6 +1209,145 @@
    "text": "Estudio Arquitectura Ávila Estudio Arquitectura Valencia Estudio Arquitectura Castellón Estudio Arquitectura Santa fe Estudio Arquitectura Gandía Estudio Arquitectura Pamplona Estudio Arquitectura Ibiza Estudio Arquitectura Sagunto Estudio Arquitectura Toledo Estudio Arquitectura Elche Estudio de arquitectura Rosario",
    "html": "<p><a href=\"https://dearquitectura.info/estudio-de-arquitectura-avila/\">Estudio Arquitectura Ávila</a></p><p><a href=\"https://dearquitectura.info/valencia/\">Estudio Arquitectura Valencia</a></p><p><a href=\"https://dearquitectura.info/castellon/\">Estudio Arquitectura Castellón</a></p><p><a href=\"https://dearquitectura.info/santa-fe/\">Estudio Arquitectura Santa fe</a></p><p><a href=\"https://dearquitectura.info/gandia/\">Estudio Arquitectura Gandía</a></p><p><a href=\"https://dearquitectura.info/pamplona/\">Estudio Arquitectura Pamplona</a></p><p><a href=\"https://dearquitectura.info/ibiza/\">Estudio Arquitectura Ibiza</a></p><p><a href=\"https://dearquitectura.info/sagunto/\">Estudio Arquitectura Sagunto</a></p><p><a href=\"https://dearquitectura.info/estudio-de-arquitectura-toledo/\">Estudio Arquitectura Toledo</a></p><p><a href=\"https://dearquitectura.info/arquitectura-elche/\">Estudio Arquitectura Elche</a></p><p><a href=\"https://dearquitectura.info/estudio-de-arquitectura-rosario/\">Estudio de arquitectura Rosario</a></p>",
    "s": 58
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p><strong>DE Arquitectura</strong> es un <strong>estudio de arquitectura e interiorismo online</strong> con base en Valencia. Trabajamos a distancia para clientes de España y Latinoamérica: diseño de espacios, <strong>planos</strong>, <strong>modelado 3D</strong> y <strong>renders</strong> para que veas tu proyecto antes de construirlo o reformarlo.</p>",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Qué hacemos</th><td>Diseño arquitectónico e interiorismo, planos, modelado 3D, renders, vídeo y tour virtual</td></tr><tr><th scope=\"row\">Cómo trabajamos</th><td>Online: nos envías tu idea, planos o fotos y revisamos juntos cada propuesta a distancia</td></tr><tr><th scope=\"row\">Dónde</th><td>España y Latinoamérica (ver los lugares más abajo)</td></tr><tr><th scope=\"row\">Contacto</th><td>Formulario de contacto o Arquitectura@dearquitectura.info</td></tr></tbody></table>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Cómo trabajamos: un estudio de arquitectura online",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>No hace falta que estemos en tu ciudad para diseñar tu proyecto. Todo el trabajo de estudio, desde la primera idea hasta las imágenes finales, se hace a distancia y se revisa contigo en cada paso.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "1. Nos cuentas tu idea",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>Qué quieres construir o reformar, cómo vives o trabajas, el terreno o el local, y los planos o fotos que tengas. Con eso entendemos el punto de partida.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "2. Te proponemos el diseño",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>Bocetos y una primera <strong>distribución</strong>. Comentamos juntos las opciones y elegimos un camino antes de pasar al detalle.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "3. Planos, modelado 3D y renders",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>Dibujamos los <strong>planos</strong>, levantamos el <strong>modelo 3D</strong> y preparamos <strong>renders</strong> fotorrealistas para que veas materiales, luz y espacios antes de la obra.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "4. Ajustes y entrega",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>Revisamos contigo cada propuesta y te entregamos los archivos en formato digital. Si la obra necesita la firma o el permiso de un profesional del lugar, el proyecto está listo para que trabaje con él.</p>",
+   "anadido": true
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Dónde trabajamos: estudio de arquitectura por ciudad",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>Trabajamos a distancia para cualquier ciudad. Estas tienen página propia; en <strong>Rosario</strong> y <strong>Córdoba</strong> encontrarás además dónde se pide el permiso de obra, qué colegio profesional corresponde, el clima y su arquitectura.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Argentina",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<ul class=\"lista-lugares\"><li><a href=\"/estudio-de-arquitectura-rosario/\" title=\"Estudio de arquitectura en Rosario\">Rosario</a></li><li><a href=\"/santa-fe/\" title=\"Estudio de arquitectura en Santa Fe\">Santa Fe</a></li><li><a href=\"/estudio-de-arquitectura-cordoba/\" title=\"Estudio de arquitectura en Córdoba\">Córdoba</a></li></ul>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "España",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<ul class=\"lista-lugares\"><li><a href=\"/valencia/\" title=\"Estudio de arquitectura en Valencia\">Valencia</a></li><li><a href=\"/castellon/\" title=\"Estudio de arquitectura en Castellón\">Castellón</a></li><li><a href=\"/gandia/\" title=\"Estudio de arquitectura en Gandía\">Gandía</a></li><li><a href=\"/sagunto/\" title=\"Estudio de arquitectura en Sagunto\">Sagunto</a></li><li><a href=\"/arquitectura-elche/\" title=\"Estudio de arquitectura en Elche\">Elche</a></li><li><a href=\"/ibiza/\" title=\"Estudio de arquitectura en Ibiza\">Ibiza</a></li><li><a href=\"/estudio-de-arquitectura-avila/\" title=\"Estudio de arquitectura en Ávila\">Ávila</a></li><li><a href=\"/estudio-de-arquitectura-toledo/\" title=\"Estudio de arquitectura en Toledo\">Toledo</a></li><li><a href=\"/pamplona/\" title=\"Estudio de arquitectura en Pamplona\">Pamplona</a></li></ul>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes",
+   "anadido": true
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Qué hace un estudio de arquitectura?",
+     "html": "<p>Piensa y documenta un edificio o un espacio antes de construirlo: escucha lo que necesitas, propone el diseño y lo desarrolla en planos, modelos 3D e imágenes. Con esa documentación se piden los permisos y los presupuestos de obra.</p>"
+    },
+    {
+     "title": "¿Se puede encargar un proyecto a un estudio online?",
+     "html": "<p>Sí. El diseño, los planos, el modelado 3D y los renders se trabajan a distancia: tú envías la información del lugar y revisamos juntos cada propuesta por correo o videollamada.</p>"
+    },
+    {
+     "title": "¿Qué necesito para empezar?",
+     "html": "<p>Una descripción de lo que quieres hacer y, si los tienes, planos, medidas o fotos del terreno, la vivienda o el local. Si no hay planos, se pueden dibujar a partir de medidas y fotos.</p>"
+    },
+    {
+     "title": "¿Quién firma el proyecto y tramita el permiso?",
+     "html": "<p>Lo hace un profesional habilitado en el lugar de la obra: en Argentina, un arquitecto matriculado en el colegio de su provincia; en España, un arquitecto colegiado. El trámite depende del ayuntamiento o de la municipalidad de cada ciudad.</p>"
+    }
+   ],
+   "anadido": true
   }
  ],
  "elementor": [
@@ -1317,6 +1456,241 @@
      "cls": "elementor-widget elementor-widget-toggle",
      "tag": "h3",
      "b": 7
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "xe152a0",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido nueva-resumen",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "xf32827",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x678a55",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 162
+      },
+      {
+       "t": "w",
+       "id": "xab7fb3",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 163
+      },
+      {
+       "t": "w",
+       "id": "x9006d8",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 164
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "x065985",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "x35850c",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x3fdf43",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 165
+      },
+      {
+       "t": "w",
+       "id": "xfc77a1",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 166
+      },
+      {
+       "t": "w",
+       "id": "x830cb3",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 167
+      },
+      {
+       "t": "w",
+       "id": "xb69ec0",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 168
+      },
+      {
+       "t": "w",
+       "id": "x1d8516",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 169
+      },
+      {
+       "t": "w",
+       "id": "x27fe5c",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 170
+      },
+      {
+       "t": "w",
+       "id": "xab1ba3",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 171
+      },
+      {
+       "t": "w",
+       "id": "xa84e66",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 172
+      },
+      {
+       "t": "w",
+       "id": "xcbb180",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 173
+      },
+      {
+       "t": "w",
+       "id": "x9f3c4b",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 174
+      },
+      {
+       "t": "w",
+       "id": "x9e8583",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 175
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "xde3081",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido estudio-lugares",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "xb2e3f3",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x4974db",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 176
+      },
+      {
+       "t": "w",
+       "id": "x058e5a",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 177
+      },
+      {
+       "t": "w",
+       "id": "x3ffe60",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 178
+      },
+      {
+       "t": "w",
+       "id": "xede515",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 179
+      },
+      {
+       "t": "w",
+       "id": "x9621a7",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 180
+      },
+      {
+       "t": "w",
+       "id": "x829184",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 181
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "xef306c",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "xc7eb12",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "xf72a14",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 182
+      },
+      {
+       "t": "w",
+       "id": "x1bf05c",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 183
+      }
+     ]
     }
    ]
   },
@@ -3801,5 +4175,7 @@
     }
    ]
   }
- ]
+ ],
+ "bloques_wordpress": 162,
+ "anadidos": true
 }

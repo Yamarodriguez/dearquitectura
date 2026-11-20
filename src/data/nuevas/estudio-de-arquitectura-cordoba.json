@@ -1,0 +1,175 @@
+{
+  "slug": "estudio-de-arquitectura-cordoba",
+  "tipo": "estudio",
+  "menu": "estudio",
+  "titulo": "Estudio de Arquitectura Córdoba",
+  "h1": "Estudio de Arquitectura en Córdoba",
+  "subtitulo": "Diseño, planos y renders para tu obra en Córdoba (Argentina)",
+  "titulo_seo": "Estudio de arquitectura en Córdoba: planos, 3D y renders",
+  "descripcion": "Estudio de arquitectura online para tu obra en Córdoba (Argentina): diseño, planos, modelado 3D y renders. Permiso de edificación, colegio y clima.",
+  "palabra_clave": "estudio de arquitectura córdoba",
+  "fecha": "2026-11-20 12:00:00",
+  "_nota": "Página de la prueba de la sección «Estudio de arquitectura» por lugares (20-11-2026, informes/estudio-por-lugar.md; Yama: «Sí, la prueba»). Datos de la ciudad comprobados en las fuentes del final. El estudio trabaja online desde Valencia: no se finge una oficina en Córdoba.",
+  "foto": {
+    "src": "/img/2026/11/manzana-jesuitica-cordoba.jpg",
+    "alt": "Patio de la Manzana Jesuítica de Córdoba con el monumento a Fray Fernando Trejo y Sanabria",
+    "credito": {
+      "nombre": "Manzana Jesuítica de Córdoba",
+      "autor": "Nelson Pérez",
+      "licencia": "CC BY-SA 3.0",
+      "ficha": "https://commons.wikimedia.org/wiki/File:Manzana_Jesuita,_C%C3%B3rdoba,_Argentina_-_panoramio.jpg"
+    }
+  },
+  "boton": {
+    "texto": "Pide presupuesto",
+    "url": "/contacto/"
+  },
+  "intro": "<p>¿Vas a <strong>construir o reformar en Córdoba</strong>? En DE Arquitectura preparamos online el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu proyecto, para que lo veas antes de empezar la obra.</p>",
+  "resumen": "Somos un <strong>estudio de arquitectura online</strong> y trabajamos a distancia para obras en Córdoba capital: diseño, planos, modelado 3D y renders. El <strong>permiso de edificación</strong> se tramita en la Municipalidad de Córdoba con la plataforma Obras Privadas Digital, y los arquitectos que firman se matriculan en el <strong>Colegio de Arquitectos de la Provincia de Córdoba</strong>.",
+  "datos": [
+    [
+      "Ciudad",
+      "Córdoba, capital de la provincia de Córdoba (Argentina)"
+    ],
+    [
+      "Permiso de obra",
+      "Municipalidad de Córdoba, con la plataforma Obras Privadas Digital (Ciudadano Digital → VeDi)"
+    ],
+    [
+      "Normativa",
+      "Código de Edificación de la ciudad (Ordenanza 9387/95 y modificatorias)"
+    ],
+    [
+      "Colegio profesional",
+      "Colegio de Arquitectos de la Provincia de Córdoba (Ley 7192)"
+    ],
+    [
+      "Clima",
+      "Templado cálido (zona bioambiental IIIa): veranos calurosos con tormentas, noches frescas"
+    ],
+    [
+      "Qué hacemos",
+      "Diseño, planos, modelado 3D, renders, vídeo y tour virtual, a distancia"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "Construir o reformar en Córdoba, paso a paso",
+      "html": "<p>En Córdoba buena parte de los trámites de obra se hacen por internet. Así se ordena un proyecto:</p>",
+      "sub": [
+        {
+          "h3": "1. Idea, anteproyecto y planos",
+          "html": "<p>Lo que quieres construir, el lote o la vivienda y una primera <strong>distribución</strong>. Después, los planos ajustados al <strong>Código de Edificación</strong> de la ciudad. Es el trabajo que hacemos desde el estudio, con el modelo 3D y los renders para decidir con la imagen delante.</p>"
+        },
+        {
+          "h3": "2. Informe técnico previo",
+          "html": "<p>La Municipalidad ofrece un <strong>informe técnico</strong> sobre los planos, sin coste, que devuelve las correcciones y observaciones antes de pedir el permiso. Ahorra idas y vueltas.</p>"
+        },
+        {
+          "h3": "3. Permiso de edificación",
+          "html": "<p>Se pide en <strong>Obras Privadas Digital</strong>: el interesado se registra como Ciudadano Digital, entra en VeDi y busca el servicio. Para las obras más sencillas existe un permiso automático que se entrega en PDF con un código QR.</p>"
+        },
+        {
+          "h3": "4. Obra, avance y final",
+          "html": "<p>La misma plataforma reúne los trámites de avance de obra, final de obra, ampliación o modificación y conforme a obra. Los renders y el modelo 3D ayudan a pedir presupuestos comparables a las constructoras.</p>"
+        }
+      ]
+    },
+    {
+      "h2": "Quién firma el proyecto en Córdoba",
+      "html": "<p>El ejercicio de la arquitectura en la provincia lo regula la <strong>Ley 7192</strong>, que creó el <strong>Colegio de Arquitectos de la Provincia de Córdoba</strong> y lleva la matrícula de los profesionales. El proyecto que se presenta en la Municipalidad lo firma un profesional matriculado, como un arquitecto inscrito en ese Colegio. Nosotros preparamos el diseño, los planos, el modelado 3D y los renders, y el proyecto queda listo para que trabaje con él.</p>"
+    },
+    {
+      "h2": "El clima de Córdoba y el diseño de tu casa",
+      "html": "<p>Córdoba capital está en la <strong>zona bioambiental IIIa</strong> de la norma IRAM 11603, de clima <strong>templado cálido</strong>: veranos calurosos, con máximas medias que superan los 30 °C, noches frescas y tormentas frecuentes, a veces con granizo. El viento más habitual llega del norte, cálido y seco. Por eso conviene abrir las estancias principales al norte para el sol de invierno, protegerlas del sol en verano y asegurar la <strong>ventilación cruzada</strong>. Con un render de cada estación se comprueba antes de construir.</p>"
+    },
+    {
+      "h2": "Arquitectura de Córdoba: la Manzana Jesuítica",
+      "html": "<p>La <strong>Manzana Jesuítica</strong>, en el centro de la ciudad, y las <strong>Estancias Jesuíticas</strong> de la provincia son Patrimonio de la Humanidad de la UNESCO desde el año 2000. La manzana reúne la iglesia de la Compañía de Jesús, el Colegio de Monserrat y la Casa de Trejo, sede del rectorado de la Universidad Nacional de Córdoba, y las estancias (Alta Gracia, Santa Catalina, Jesús María, La Candelaria y Caroya) sostenían su obra en los siglos XVII y XVIII.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Dónde se pide el permiso de edificación en Córdoba?",
+      "a": "En la Municipalidad de Córdoba, por la plataforma Obras Privadas Digital. Hay que registrarse como Ciudadano Digital y entrar en VeDi. Antes se puede pedir un informe técnico previo de los planos, sin coste."
+    },
+    {
+      "q": "¿Qué colegio de arquitectos corresponde a Córdoba?",
+      "a": "El Colegio de Arquitectos de la Provincia de Córdoba, creado por la Ley 7192. En él se matriculan los arquitectos que ejercen en la provincia."
+    },
+    {
+      "q": "¿Qué normativa deben cumplir los planos?",
+      "a": "El Código de Edificación de la ciudad de Córdoba (Ordenanza 9387/95 y sus modificaciones), además de las normas de uso del suelo de cada zona."
+    },
+    {
+      "q": "¿Podéis hacer el proyecto de mi casa en Córdoba a distancia?",
+      "a": "Sí. Trabajamos online: con tus planos, medidas o fotos preparamos el diseño, los planos, el modelo 3D y los renders, y los revisamos contigo en cada paso."
+    }
+  ],
+  "cierre": {
+    "h2": "¿Tienes un proyecto en Córdoba?",
+    "html": "<p>Cuéntanos qué quieres construir o reformar y te decimos cómo podemos ayudarte con el diseño, los planos y las imágenes 3D.</p>",
+    "boton": "Contacto"
+  },
+  "fuentes": [
+    {
+      "texto": "Municipalidad de Córdoba: Obras Privadas Digital (guía de trámites)",
+      "url": "https://papelea.com/ar/municipalidad-de-cordoba/obras-privadas-digital-tramites-municipalidad-de-cordoba"
+    },
+    {
+      "texto": "Obras Privadas Digital: trámites 100 % online (Ciudad Informa)",
+      "url": "https://infonegocios.info/ciudad-informa/obras-privadas-digital-a-un-mes-de-su-lanzamiento-ya-se-iniciaron-mas-de-360-tramites-de-manera-100-online"
+    },
+    {
+      "texto": "Colegio de Arquitectos de la Provincia de Córdoba",
+      "url": "https://www.colegio-arquitectos.com.ar/"
+    },
+    {
+      "texto": "UNESCO: Manzana y Estancias Jesuíticas de Córdoba",
+      "url": "https://whc.unesco.org/es/list/995"
+    },
+    {
+      "texto": "Climate-Data.org: clima de Argentina por ciudades",
+      "url": "https://es.climate-data.org/america-del-sur/argentina-11/"
+    }
+  ],
+  "comun": {
+    "tipo": "estudio",
+    "_nota": "Bloque común de las páginas de estudio por lugar, copiado de Estudio de arquitectura Rosario (secciones 3 a 62) con la ciudad cambiada; textos propios de Córdoba para no repetir la plantilla.",
+    "terminos": [
+      [
+        "ROSARIO",
+        "CÓRDOBA"
+      ],
+      [
+        "Rosario",
+        "Córdoba"
+      ]
+    ],
+    "textos": {
+      "6950824": "<p>¿Eres <strong>arquitecto</strong> matriculado en Córdoba, maestro mayor de obras o constructor y te interesa colaborar? Trabajamos online. Escríbenos.</p>",
+      "873698a": "<p>Para una obra en Córdoba hace falta un <strong>profesional matriculado</strong> que firme el proyecto y lo presente en la Municipalidad. Te ayudamos a entender qué necesita tu caso y preparamos el diseño, los planos y las imágenes con los que trabajará. Si tienes dudas sobre <strong>arquitectos</strong>, aparejadores o técnicos, aquí las resolvemos.</p>",
+      "c6a5f2b": "<p>Además del estudio, somos una <strong>plataforma de arquitectura</strong>: estilos, programas, cursos, libros y proyectos. Una buena forma de llegar con ideas claras a tu obra en <strong>Córdoba</strong>.</p>",
+      "43bfe28": "<p>¿Tienes un lote, una casa por ampliar o un local que reformar en <strong>Córdoba</strong>? Nuestro estudio diseña el <strong>interior</strong> y la distribución contigo, a distancia, y te lo enseña en renders antes de comprar un solo material. Escríbenos y empezamos por tu idea.</p>",
+      "d6d3bf2": "<p>¿Vas a <strong>construir</strong> en Córdoba? Primero el proyecto y el permiso; después, la constructora.</p>",
+      "21e6ab7": "<p>¿Vas a <strong>reformar tu casa</strong> en Córdoba? Mira la propuesta en 3D y pide presupuestos con una idea clara.</p>",
+      "d302822": "<p><strong>Diseño arquitectónico</strong> pensado para el clima cordobés: orientación norte, sombra en verano y buena ventilación.</p>",
+      "fec78e4": "<p><strong>Interiorismo</strong> y decoración para viviendas y locales de Córdoba, con renders para elegir colores y materiales.</p>",
+      "764e04f": "<p>Como <strong>agencia de diseño</strong> trabajamos también la imagen de tu proyecto: identidad visual, presentaciones y la web con la que lo darás a conocer.</p>",
+      "eea5803": "<p>Antes del plano está el <strong>croquis</strong>: bocetos del lote, de la planta y de las fachadas.</p>",
+      "c803901": "<p>Los <strong>planos</strong> que pide una obra en Córdoba —plantas, cortes, fachadas y la ubicación en el lote— deben cumplir el <strong>Código de Edificación</strong>. Los dibujamos y te los entregamos en formato digital.</p>",
+      "e1acc54": "<p>Con los <strong>renders</strong> ves tu casa o tu local de Córdoba terminado: fachada, interiores y luz natural. También hacemos <strong>modelado 3D</strong>, vídeo y tour virtual.</p>",
+      "09b4953": "<p>En nuestro <strong>despacho de arquitectura</strong> estudiamos el lote o la vivienda, proponemos la distribución y preparamos la documentación gráfica de tu proyecto en Córdoba. Nos ocupamos del <strong>diseño de espacios</strong>, el interiorismo y el estudio de viabilidad, siempre a distancia y revisando contigo cada paso.</p>",
+      "fa5de7a": "<p>Una <strong>maqueta</strong> ayuda a entender el volumen de un edificio sobre la mesa. Junto a ella, el render enseña los materiales y la luz reales del proyecto.</p>",
+      "e0fc9cc": "<p>Colaboramos con <strong>estudios</strong>, arquitectos y diseñadores que forman equipos para cada tipo de proyecto, de una casa a un edificio.</p>",
+      "7faf099": "<p>Si eres arquitecto en Córdoba, un buen <strong>portafolio</strong> con planos y renders presenta tu trabajo con claridad, impreso o en línea.</p>",
+      "b4f3c04": "<p>Busca ideas en nuestras <strong>imágenes de arquitectura</strong>: casas, interiores, fachadas y ciudades, para inspirar tu proyecto en Córdoba.</p>",
+      "b08800e": "<p>Los <strong>libros de arquitectura</strong> sobre proyecto, construcción e historia son una buena base antes de encargar una obra. Te proponemos una selección en papel y en digital.</p>",
+      "d743651": "<p>Si estudias arquitectura en Córdoba o quieres formarte, hay <strong>cursos online</strong> de dibujo, <strong>modelado 3D</strong>, renders, instalaciones y estructuras. Te mostramos una selección para aprender a tu ritmo, desde casa.</p>",
+      "389e7a0": "<p>Las <strong>revistas de arquitectura</strong> publican casas y edificios de toda Latinoamérica: una buena fuente de ideas de materiales, patios y galerías para el clima de Córdoba.</p>",
+      "ab4b62c": "<p>Los planos se dibujan con <strong>AutoCAD</strong> o Revit, y el modelo y los renders con SketchUp, V-Ray o Lumion. Conoce los programas más usados.</p>",
+      "a3f94c2": "<p>Explora <strong>proyectos de arquitectura</strong> de viviendas, locales y edificios y fíjate en cómo resuelven la luz, la orientación y la relación con la calle. Te darán ideas para tu obra en Córdoba.</p>",
+      "aa5d488": "<p>La <strong>inteligencia artificial</strong> ya genera imágenes de ambiente a partir de un texto o una foto. Sirve para inspirarse, pero no conoce las medidas de tu lote ni el Código de Edificación: el proyecto se sigue haciendo con <strong>planos</strong> y un modelo 3D fiel a la realidad. Descubre sus ventajas y sus límites.</p>"
+    }
+  }
+}

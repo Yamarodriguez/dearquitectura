@@ -1,0 +1,75 @@
+{
+  "slug": "estudio-de-arquitectura",
+  "_nota": "Portada de la sección «Estudio de arquitectura» (20-11-2026, informes/estudio-por-lugar.md, prueba aprobada por Yama: «Sí, la prueba»). Se añade a la página de WordPress sin quitar nada.",
+  "fecha": "2026-11-20",
+  "despues_de": 2,
+  "resumen": "<strong>DE Arquitectura</strong> es un <strong>estudio de arquitectura e interiorismo online</strong> con base en Valencia. Trabajamos a distancia para clientes de España y Latinoamérica: diseño de espacios, <strong>planos</strong>, <strong>modelado 3D</strong> y <strong>renders</strong> para que veas tu proyecto antes de construirlo o reformarlo.",
+  "datos": [
+    [
+      "Qué hacemos",
+      "Diseño arquitectónico e interiorismo, planos, modelado 3D, renders, vídeo y tour virtual"
+    ],
+    [
+      "Cómo trabajamos",
+      "Online: nos envías tu idea, planos o fotos y revisamos juntos cada propuesta a distancia"
+    ],
+    [
+      "Dónde",
+      "España y Latinoamérica (ver los lugares más abajo)"
+    ],
+    [
+      "Contacto",
+      "Formulario de contacto o Arquitectura@dearquitectura.info"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "Cómo trabajamos: un estudio de arquitectura online",
+      "html": "<p>No hace falta que estemos en tu ciudad para diseñar tu proyecto. Todo el trabajo de estudio, desde la primera idea hasta las imágenes finales, se hace a distancia y se revisa contigo en cada paso.</p>",
+      "sub": [
+        {
+          "h3": "1. Nos cuentas tu idea",
+          "html": "<p>Qué quieres construir o reformar, cómo vives o trabajas, el terreno o el local, y los planos o fotos que tengas. Con eso entendemos el punto de partida.</p>"
+        },
+        {
+          "h3": "2. Te proponemos el diseño",
+          "html": "<p>Bocetos y una primera <strong>distribución</strong>. Comentamos juntos las opciones y elegimos un camino antes de pasar al detalle.</p>"
+        },
+        {
+          "h3": "3. Planos, modelado 3D y renders",
+          "html": "<p>Dibujamos los <strong>planos</strong>, levantamos el <strong>modelo 3D</strong> y preparamos <strong>renders</strong> fotorrealistas para que veas materiales, luz y espacios antes de la obra.</p>"
+        },
+        {
+          "h3": "4. Ajustes y entrega",
+          "html": "<p>Revisamos contigo cada propuesta y te entregamos los archivos en formato digital. Si la obra necesita la firma o el permiso de un profesional del lugar, el proyecto está listo para que trabaje con él.</p>"
+        }
+      ],
+      "boton": {
+        "texto": "Pide presupuesto",
+        "url": "/contacto/"
+      }
+    }
+  ],
+  "lugares": {
+    "h2": "Dónde trabajamos: estudio de arquitectura por ciudad",
+    "html": "<p>Trabajamos a distancia para cualquier ciudad. Estas tienen página propia; en <strong>Rosario</strong> y <strong>Córdoba</strong> encontrarás además dónde se pide el permiso de obra, qué colegio profesional corresponde, el clima y su arquitectura.</p>"
+  },
+  "faq": [
+    {
+      "q": "¿Qué hace un estudio de arquitectura?",
+      "a": "Piensa y documenta un edificio o un espacio antes de construirlo: escucha lo que necesitas, propone el diseño y lo desarrolla en planos, modelos 3D e imágenes. Con esa documentación se piden los permisos y los presupuestos de obra."
+    },
+    {
+      "q": "¿Se puede encargar un proyecto a un estudio online?",
+      "a": "Sí. El diseño, los planos, el modelado 3D y los renders se trabajan a distancia: tú envías la información del lugar y revisamos juntos cada propuesta por correo o videollamada."
+    },
+    {
+      "q": "¿Qué necesito para empezar?",
+      "a": "Una descripción de lo que quieres hacer y, si los tienes, planos, medidas o fotos del terreno, la vivienda o el local. Si no hay planos, se pueden dibujar a partir de medidas y fotos."
+    },
+    {
+      "q": "¿Quién firma el proyecto y tramita el permiso?",
+      "a": "Lo hace un profesional habilitado en el lugar de la obra: en Argentina, un arquitecto matriculado en el colegio de su provincia; en España, un arquitecto colegiado. El trámite depende del ayuntamiento o de la municipalidad de cada ciudad."
+    }
+  ]
+}

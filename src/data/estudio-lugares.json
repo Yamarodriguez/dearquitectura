@@ -1,0 +1,28 @@
+{
+  "_nota": "Lugares de la sección «Estudio de arquitectura» (20-11-2026, informes/estudio-por-lugar.md). La portada de la sección (/estudio-de-arquitectura/) los lista por país y cada lugar lleva las migas Inicio › Estudio › lugar. Para añadir un lugar: su página y una línea aquí.",
+  "seccion": { "nombre": "Estudio", "url": "/estudio-de-arquitectura/" },
+  "paises": [
+    {
+      "nombre": "Argentina",
+      "lugares": [
+        { "nombre": "Estudio de arquitectura en Rosario", "url": "/estudio-de-arquitectura-rosario/" },
+        { "nombre": "Estudio de arquitectura en Santa Fe", "url": "/santa-fe/" },
+        { "nombre": "Estudio de arquitectura en Córdoba", "url": "/estudio-de-arquitectura-cordoba/" }
+      ]
+    },
+    {
+      "nombre": "España",
+      "lugares": [
+        { "nombre": "Estudio de arquitectura en Valencia", "url": "/valencia/" },
+        { "nombre": "Estudio de arquitectura en Castellón", "url": "/castellon/" },
+        { "nombre": "Estudio de arquitectura en Gandía", "url": "/gandia/" },
+        { "nombre": "Estudio de arquitectura en Sagunto", "url": "/sagunto/" },
+        { "nombre": "Estudio de arquitectura en Elche", "url": "/arquitectura-elche/" },
+        { "nombre": "Estudio de arquitectura en Ibiza", "url": "/ibiza/" },
+        { "nombre": "Estudio de arquitectura en Ávila", "url": "/estudio-de-arquitectura-avila/" },
+        { "nombre": "Estudio de arquitectura en Toledo", "url": "/estudio-de-arquitectura-toledo/" },
+        { "nombre": "Estudio de arquitectura en Pamplona", "url": "/pamplona/" }
+      ]
+    }
+  ]
+}

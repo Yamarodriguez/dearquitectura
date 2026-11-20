@@ -1,0 +1,101 @@
+{
+  "slug": "estudio-de-arquitectura-rosario",
+  "_nota": "Rosario mejorada con datos propios de la ciudad (20-11-2026, informes/estudio-por-lugar.md, prueba aprobada por Yama). Se añade a la página de WordPress sin quitar nada. Datos comprobados en las fuentes del final.",
+  "fecha": "2026-11-20",
+  "despues_de": 2,
+  "resumen": "Si vas a <strong>construir o reformar en Rosario</strong>, en DE Arquitectura preparamos online el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu proyecto. El permiso de edificación lo inicia en la Municipalidad de Rosario el profesional a cargo de la obra, y el ejercicio de la profesión lo regula el Colegio de Arquitectos de la Provincia de Santa Fe, que tiene en Rosario su Distrito 2.",
+  "datos": [
+    [
+      "Ciudad",
+      "Rosario, provincia de Santa Fe (Argentina)"
+    ],
+    [
+      "Permiso de obra",
+      "Permiso de edificación de la Municipalidad de Rosario: trámite digital que inicia el profesional a cargo, con firma digital"
+    ],
+    [
+      "Normativa",
+      "Normas urbanísticas y Reglamento de Edificación de Rosario"
+    ],
+    [
+      "Colegio profesional",
+      "Colegio de Arquitectos de la Provincia de Santa Fe, Distrito 2 (Rosario)"
+    ],
+    [
+      "Clima",
+      "Templado y húmedo (subtropical húmedo, Cfa): veranos calurosos y lluviosos, inviernos suaves"
+    ],
+    [
+      "Qué hacemos",
+      "Diseño, planos, modelado 3D, renders, vídeo y tour virtual, a distancia"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "Construir o reformar en Rosario, paso a paso",
+      "html": "<p>Antes de empezar una obra en Rosario conviene tener claro el orden de los trámites. Así se ordena un proyecto:</p>",
+      "sub": [
+        {
+          "h3": "1. Idea y anteproyecto",
+          "html": "<p>Qué necesitas, el lote o la vivienda que ya tienes y una primera <strong>distribución</strong>. Es la fase en la que más ayuda ver el proyecto en 3D y comparar opciones.</p>"
+        },
+        {
+          "h3": "2. Planos según el Reglamento de Edificación",
+          "html": "<p>Los planos tienen que ajustarse al <strong>Reglamento de Edificación</strong> y a las normas urbanísticas de la ciudad, que la Municipalidad publica en su web. Deben indicar el destino de cada local con sus medidas.</p>"
+        },
+        {
+          "h3": "3. Permiso de edificación",
+          "html": "<p>Lo inicia de forma digital el <strong>profesional a cargo de la obra</strong>, con firma digital, desde su perfil en la web municipal. Hay trámites distintos para obra nueva, reforma y ampliación. Si la Municipalidad pide correcciones, hay que presentarlas dentro del plazo que fija; si no, el trámite se da por desistido.</p>"
+        },
+        {
+          "h3": "4. Obra",
+          "html": "<p>Con el permiso aprobado empieza la construcción. Los renders y el modelo 3D ayudan a pedir presupuestos comparables y a que todos trabajen con la misma idea.</p>"
+        }
+      ]
+    },
+    {
+      "h2": "El clima de Rosario y el diseño de tu casa",
+      "html": "<p>Rosario tiene un clima <strong>templado y húmedo</strong> (subtropical húmedo, tipo Cfa en la clasificación de Köppen): veranos calurosos y lluviosos e inviernos suaves. Para el invierno conviene aprovechar la <strong>luz del sol</strong>, y en el hemisferio sur eso significa abrir las estancias principales al norte. En verano, la clave es la <strong>ventilación cruzada</strong> y proteger del sol las ventanas más expuestas. Un render con la luz de cada estación permite comprobarlo antes de construir.</p>"
+    },
+    {
+      "h2": "Arquitectura de Rosario: el Monumento a la Bandera",
+      "html": "<p>El edificio más conocido de la ciudad es el <strong>Monumento Nacional a la Bandera</strong>, junto al río Paraná. Su proyecto salió de un concurso nacional en 1940, lo firmaron los arquitectos <strong>Ángel Guido y Alejandro Bustillo</strong>, con esculturas de José Fioravanti y Alfredo Bigatti, y se inauguró el 20 de junio de 1957, Día de la Bandera.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Dónde se tramita el permiso de edificación en Rosario?",
+      "a": "En la Municipalidad de Rosario, de forma digital. Lo inicia el profesional a cargo de la obra con su firma digital, y el tipo de trámite depende de si es obra nueva, reforma o ampliación."
+    },
+    {
+      "q": "¿Qué colegio de arquitectos corresponde a Rosario?",
+      "a": "El Colegio de Arquitectos de la Provincia de Santa Fe, que en Rosario funciona como Distrito 2. Es el colegio en el que se matriculan los arquitectos que ejercen en la provincia."
+    },
+    {
+      "q": "¿Podéis hacer los planos y renders de mi obra en Rosario a distancia?",
+      "a": "Sí. Trabajamos online: con tus planos, medidas o fotos preparamos el diseño, los planos, el modelo 3D y los renders, y los revisamos contigo en cada paso."
+    }
+  ],
+  "fuentes": [
+    {
+      "texto": "Municipalidad de Rosario: normas urbanísticas y Reglamento de Edificación",
+      "url": "https://www.rosario.gob.ar/inicio/normas-urbanisticas-y-reglamento-de-edificacion"
+    },
+    {
+      "texto": "Municipalidad de Rosario: introducción a los trámites de obras particulares (PDF)",
+      "url": "https://ssl.rosario.gov.ar/inicio/sites/default/files/2023-08/introduccion_tramites_obras_particulares.pdf"
+    },
+    {
+      "texto": "Municipalidad de Rosario: requisitos mínimos de los planos del permiso de edificación (PDF)",
+      "url": "https://www.rosario.gob.ar/inicio/sites/default/files/2022-01/Requisitos%20minimos%20para%20la%20planialtimetria%20-%20Permiso%20de%20Edificaci%C3%B3n.pdf"
+    },
+    {
+      "texto": "Presidencia de la Nación: Monumento Nacional a la Bandera",
+      "url": "https://www.argentina.gob.ar/node/431404"
+    },
+    {
+      "texto": "Climate-Data.org: clima de Argentina por ciudades (Rosario, Cfa)",
+      "url": "https://es.climate-data.org/america-del-sur/argentina-11/"
+    }
+  ]
+}

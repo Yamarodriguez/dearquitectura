@@ -28,6 +28,8 @@ const MODELOS = {
   render: { modelo: 'render-casa', secciones: [31, [34, 119]], textos: true },
   estilo: { modelo: 'arquitectura-neoclasica', secciones: [[16, 71]], textos: true },
   servicio: { modelo: 'proyectos-de-arquitectura', secciones: [[3, 58]], textos: false },
+  // Estudio por lugar (20-11-2026): la plantilla de Rosario sin su portada, su presentación final ni su mapa
+  estudio: { modelo: 'estudio-de-arquitectura-rosario', secciones: [[3, 62]], textos: true },
 };
 const cambiarPalabras = (texto, terminos) => {
   let t = texto;
@@ -61,7 +63,9 @@ function bloqueComun(d, blocks) {
     blocks.push(b);
     return { ...n, b: blocks.length - 1 };
   };
-  return { id: m.id, secciones: indices.map((i) => m.elementor[i - 1]).filter(Boolean).map(copiar) };
+  // Solo las secciones de WordPress (no las añadidas con scripts/anadidos.mjs), para que los números no se muevan
+  const deWordpress = m.elementor.filter((s) => !s.anadido);
+  return { id: m.id, secciones: indices.map((i) => deWordpress[i - 1]).filter(Boolean).map(copiar) };
 }
 
 let total = 0;
@@ -111,8 +115,10 @@ for (const f of fs.existsSync(ORIGEN) ? fs.readdirSync(ORIGEN).filter((x) => x.e
   if (d.cierre) arbol.push(seccion([col([h('h2', d.cierre.h2), t(d.cierre.html), boton(d.cierre.boton, '/contacto/')])], ' nueva-cierre'));
   if (d.fuentes?.length) {
   const fuentes = `<ul>${d.fuentes.map((x) => `<li><a href="${x.url}" rel="noopener">${x.texto}</a></li>`).join('')}</ul>`;
-  const creditos = `<p class="creditos">Fotos: ${(d.obras ?? []).filter((o) => o.foto.credito).map((o) => `${o.nombre}, <a href="${o.foto.credito.ficha}" rel="noopener">${o.foto.credito.autor}</a> (${o.foto.credito.licencia}), Wikimedia Commons`).join(' · ')}.</p>`;
-  arbol.push(seccion([col([h('h2', 'Fuentes'), t(fuentes + (d.obras?.some((o) => o.foto.credito) ? creditos : ''))])], ' nueva-fuentes'));
+  // Créditos de las fotos con licencia libre: la de portada (si lo pide) y las de las obras
+  const conCredito = [...(d.foto.credito ? [{ nombre: d.foto.credito.nombre || d.h1, foto: d.foto }] : []), ...(d.obras ?? []).filter((o) => o.foto.credito)];
+  const creditos = `<p class="creditos">Fotos: ${conCredito.map((o) => `${o.nombre}, <a href="${o.foto.credito.ficha}" rel="noopener">${o.foto.credito.autor}</a> (${o.foto.credito.licencia}), Wikimedia Commons`).join(' · ')}.</p>`;
+  arbol.push(seccion([col([h('h2', 'Fuentes'), t(fuentes + (conCredito.length ? creditos : ''))])], ' nueva-fuentes'));
   }
 
   const pagina = {

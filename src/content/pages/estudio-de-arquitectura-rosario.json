@@ -11,9 +11,9 @@
  "logo": "",
  "foto_destacada": "/img/2025/01/arquitectura-rosario.webp",
  "fecha": "2025-01-29 14:32:15",
- "modificada": "2025-02-03 20:40:35",
+ "modificada": "2026-11-20 12:00:00",
  "fecha_gmt": "2025-01-29 14:32:15",
- "modificada_gmt": "2025-02-03 20:40:35",
+ "modificada_gmt": "2026-11-20 12:00:00",
  "h1_es_titulo": false,
  "fondos": [],
  "blocks": [
@@ -1253,6 +1253,134 @@
    "type": "map",
    "address": "Rosario argentina",
    "s": 63
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>Si vas a <strong>construir o reformar en Rosario</strong>, en DE Arquitectura preparamos online el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu proyecto. El permiso de edificación lo inicia en la Municipalidad de Rosario el profesional a cargo de la obra, y el ejercicio de la profesión lo regula el Colegio de Arquitectos de la Provincia de Santa Fe, que tiene en Rosario su Distrito 2.</p>",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Ciudad</th><td>Rosario, provincia de Santa Fe (Argentina)</td></tr><tr><th scope=\"row\">Permiso de obra</th><td>Permiso de edificación de la Municipalidad de Rosario: trámite digital que inicia el profesional a cargo, con firma digital</td></tr><tr><th scope=\"row\">Normativa</th><td>Normas urbanísticas y Reglamento de Edificación de Rosario</td></tr><tr><th scope=\"row\">Colegio profesional</th><td>Colegio de Arquitectos de la Provincia de Santa Fe, Distrito 2 (Rosario)</td></tr><tr><th scope=\"row\">Clima</th><td>Templado y húmedo (subtropical húmedo, Cfa): veranos calurosos y lluviosos, inviernos suaves</td></tr><tr><th scope=\"row\">Qué hacemos</th><td>Diseño, planos, modelado 3D, renders, vídeo y tour virtual, a distancia</td></tr></tbody></table>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Construir o reformar en Rosario, paso a paso",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>Antes de empezar una obra en Rosario conviene tener claro el orden de los trámites. Así se ordena un proyecto:</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "1. Idea y anteproyecto",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>Qué necesitas, el lote o la vivienda que ya tienes y una primera <strong>distribución</strong>. Es la fase en la que más ayuda ver el proyecto en 3D y comparar opciones.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "2. Planos según el Reglamento de Edificación",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>Los planos tienen que ajustarse al <strong>Reglamento de Edificación</strong> y a las normas urbanísticas de la ciudad, que la Municipalidad publica en su web. Deben indicar el destino de cada local con sus medidas.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "3. Permiso de edificación",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>Lo inicia de forma digital el <strong>profesional a cargo de la obra</strong>, con firma digital, desde su perfil en la web municipal. Hay trámites distintos para obra nueva, reforma y ampliación. Si la Municipalidad pide correcciones, hay que presentarlas dentro del plazo que fija; si no, el trámite se da por desistido.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "4. Obra",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>Con el permiso aprobado empieza la construcción. Los renders y el modelo 3D ayudan a pedir presupuestos comparables y a que todos trabajen con la misma idea.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "El clima de Rosario y el diseño de tu casa",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>Rosario tiene un clima <strong>templado y húmedo</strong> (subtropical húmedo, tipo Cfa en la clasificación de Köppen): veranos calurosos y lluviosos e inviernos suaves. Para el invierno conviene aprovechar la <strong>luz del sol</strong>, y en el hemisferio sur eso significa abrir las estancias principales al norte. En verano, la clave es la <strong>ventilación cruzada</strong> y proteger del sol las ventanas más expuestas. Un render con la luz de cada estación permite comprobarlo antes de construir.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Arquitectura de Rosario: el Monumento a la Bandera",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>El edificio más conocido de la ciudad es el <strong>Monumento Nacional a la Bandera</strong>, junto al río Paraná. Su proyecto salió de un concurso nacional en 1940, lo firmaron los arquitectos <strong>Ángel Guido y Alejandro Bustillo</strong>, con esculturas de José Fioravanti y Alfredo Bigatti, y se inauguró el 20 de junio de 1957, Día de la Bandera.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes",
+   "anadido": true
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Dónde se tramita el permiso de edificación en Rosario?",
+     "html": "<p>En la Municipalidad de Rosario, de forma digital. Lo inicia el profesional a cargo de la obra con su firma digital, y el tipo de trámite depende de si es obra nueva, reforma o ampliación.</p>"
+    },
+    {
+     "title": "¿Qué colegio de arquitectos corresponde a Rosario?",
+     "html": "<p>El Colegio de Arquitectos de la Provincia de Santa Fe, que en Rosario funciona como Distrito 2. Es el colegio en el que se matriculan los arquitectos que ejercen en la provincia.</p>"
+    },
+    {
+     "title": "¿Podéis hacer los planos y renders de mi obra en Rosario a distancia?",
+     "html": "<p>Sí. Trabajamos online: con tus planos, medidas o fotos preparamos el diseño, los planos, el modelo 3D y los renders, y los revisamos contigo en cada paso.</p>"
+    }
+   ],
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Fuentes",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><a href=\"https://www.rosario.gob.ar/inicio/normas-urbanisticas-y-reglamento-de-edificacion\" rel=\"noopener\">Municipalidad de Rosario: normas urbanísticas y Reglamento de Edificación</a></li><li><a href=\"https://ssl.rosario.gov.ar/inicio/sites/default/files/2023-08/introduccion_tramites_obras_particulares.pdf\" rel=\"noopener\">Municipalidad de Rosario: introducción a los trámites de obras particulares (PDF)</a></li><li><a href=\"https://www.rosario.gob.ar/inicio/sites/default/files/2022-01/Requisitos%20minimos%20para%20la%20planialtimetria%20-%20Permiso%20de%20Edificaci%C3%B3n.pdf\" rel=\"noopener\">Municipalidad de Rosario: requisitos mínimos de los planos del permiso de edificación (PDF)</a></li><li><a href=\"https://www.argentina.gob.ar/node/431404\" rel=\"noopener\">Presidencia de la Nación: Monumento Nacional a la Bandera</a></li><li><a href=\"https://es.climate-data.org/america-del-sur/argentina-11/\" rel=\"noopener\">Climate-Data.org: clima de Argentina por ciudades (Rosario, Cfa)</a></li></ul>",
+   "anadido": true
   }
  ],
  "elementor": [
@@ -1361,6 +1489,264 @@
      "cls": "elementor-widget elementor-widget-toggle",
      "tag": "h3",
      "b": 7
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "xe62811",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido nueva-resumen",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "xb650c5",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x85b570",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 169
+      },
+      {
+       "t": "w",
+       "id": "x6770ef",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 170
+      },
+      {
+       "t": "w",
+       "id": "x4734cc",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 171
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "x06b3d9",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "x6bd598",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "xa2193c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 172
+      },
+      {
+       "t": "w",
+       "id": "x08ac97",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 173
+      },
+      {
+       "t": "w",
+       "id": "xe40b29",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 174
+      },
+      {
+       "t": "w",
+       "id": "xc707af",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 175
+      },
+      {
+       "t": "w",
+       "id": "x35fe5a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 176
+      },
+      {
+       "t": "w",
+       "id": "x041208",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 177
+      },
+      {
+       "t": "w",
+       "id": "xe3abcd",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 178
+      },
+      {
+       "t": "w",
+       "id": "xe7f39a",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 179
+      },
+      {
+       "t": "w",
+       "id": "x2a1a13",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 180
+      },
+      {
+       "t": "w",
+       "id": "xc2dc26",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 181
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "x95c008",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "x49fc09",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x06465f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 182
+      },
+      {
+       "t": "w",
+       "id": "xd77f61",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 183
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "x4fa9ca",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "x16ee34",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x5a8c25",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 184
+      },
+      {
+       "t": "w",
+       "id": "xaa7a44",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 185
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "xcbac50",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "x81c602",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x41c09d",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 186
+      },
+      {
+       "t": "w",
+       "id": "x3f8e1f",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 187
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "x5cfe15",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido nueva-fuentes",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "x585838",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "xc6b0b7",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 188
+      },
+      {
+       "t": "w",
+       "id": "x05381c",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 189
+      }
+     ]
     }
    ]
   },
@@ -3978,5 +4364,7 @@
     }
    ]
   }
- ]
+ ],
+ "bloques_wordpress": 169,
+ "anadidos": true
 }

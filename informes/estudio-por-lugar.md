@@ -29,7 +29,7 @@ Yama: «analiza la web completa y sigamos armando la de estudio de arquitectura 
 
 **Arreglado hoy (20-11-2026):** en el menú «Plataforma» de todas las páginas, «interiorismo» e «I.A» llevaban a «#», porque en WordPress esas páginas no existían. Ahora llevan a /interiorismo/ y a /inteligencia-artificial-arquitectura/.
 
-## 2. Las 14 páginas de estudio que hay
+## 2. Las páginas de estudio que hay (11 de lugar y la general; mijas y san-sebastian-de-los-reyes son de renders)
 
 | Página | Clics | Impresiones | Posición |
 |---|---|---|---|
@@ -45,7 +45,6 @@ Yama: «analiza la web completa y sigamos armando la de estudio de arquitectura 
 | pamplona | 1 | 765 | 78 |
 | valencia | 0 | 140 | 81 |
 | estudio-de-arquitectura (la general) | 0 | 172 | 67 |
-| mijas, san-sebastian-de-los-reyes | 0 | menos de 100 | 54–57 |
 
 - **Las dos de Argentina traen el 63 % de los clics de la sección**, con solo el 7 % de las impresiones.
   - Búsquedas reales: «estudios de arquitectura rosario» (posición 31, 10 % de clics) y «estudio de arquitectura santa fe» (posición 15).
@@ -107,3 +106,20 @@ Yama: «analiza la web completa y sigamos armando la de estudio de arquitectura 
 3. Una página nueva: **Estudio de arquitectura en Córdoba (Argentina)**.
 
 Se enseñan a Yama antes de publicarlas. Si le gustan, se sigue con el resto de la lista. Todo se puede hacer antes del lanzamiento: son páginas nuevas o añadidos a páginas que ya están, y no se mueve ninguna dirección.
+
+## 6. Prueba hecha (20-11-2026, Yama: «Sí, la prueba»)
+- **Mecanismo nuevo:**
+  - src/data/anadidos/(página).json añade secciones a una página de WordPress, con scripts/anadidos.mjs (va en npm run generar).
+  - No toca las secciones originales. Lo añadido lleva un id que empieza por «x», y las comprobaciones con la web viva siguen comparando solo lo de WordPress.
+- **Portada de la sección** (/estudio-de-arquitectura/):
+  - «En resumen» con datos.
+  - «Cómo trabajamos», en 4 pasos, con botón de presupuesto.
+  - «Dónde trabajamos», con los lugares por país (src/data/estudio-lugares.json).
+  - 4 preguntas frecuentes.
+- **Rosario:** «En resumen» con datos (permiso, normativa, colegio, clima), pasos para construir, clima, el Monumento a la Bandera, 3 preguntas y fuentes. El texto original sigue igual.
+- **Córdoba (nueva, /estudio-de-arquitectura-cordoba/):**
+  - Foto: Manzana Jesuítica, de Nelson Pérez (CC BY-SA 3.0).
+  - Contenido propio: «En resumen» y datos, Obras Privadas Digital, colegio (Ley 7192), clima (zona IIIa), Manzana Jesuítica (UNESCO 2000), 4 preguntas y fuentes.
+  - Bloque común copiado de Rosario con la ciudad cambiada y 23 textos propios.
+- **Migas:** Inicio › Estudio › ciudad, en los 12 lugares.
+- **Estado:** rama estudio-lugares, sin subir a main hasta que Yama lo apruebe.

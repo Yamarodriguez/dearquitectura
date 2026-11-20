@@ -4,6 +4,9 @@
 import menus from '../data/menus.json';
 import { mapaPaises, paisDeCiudad } from './paises.mjs';
 import articulos from '../data/articulos.json';
+import lugares from '../data/estudio-lugares.json';
+
+const lugaresEstudio = new Set(lugares.paises.flatMap((p) => p.lugares.map((l) => l.url)));
 
 export type Miga = { nombre: string; url: string };
 const DOMINIO = 'https://dearquitectura.info';
@@ -36,6 +39,8 @@ export function migasDe(url: string, nombre: string, menu?: string): Miga[] {
   if (esPais.has(slug)) return [inicio, renders, { nombre, url }];
   const pais = esPais.has(slug) ? undefined : paisDeCiudad(slug, menu, mapa);
   if (pais) return [inicio, renders, { nombre: nombrePais[pais] ?? pais, url: `${DOMINIO}/${pais}/` }, { nombre, url }];
+  // Estudio de arquitectura por lugares (20-11-2026): Inicio › Estudio › Estudio de arquitectura en Rosario
+  if (lugaresEstudio.has(ruta)) return [inicio, { nombre: lugares.seccion.nombre, url: `${DOMINIO}${lugares.seccion.url}` }, { nombre, url }];
   // Los estilos que no están en el menú original (los nuevos) cuelgan de Tipos de arquitectura
   const seccion = seccionDe(ruta, menu) ?? (articulos.estilos.includes(slug) ? { nombre: 'Tipos', url: `${DOMINIO}/tipos-de-arquitectura/` } : (articulos as any).renders?.includes(slug) ? { nombre: 'Tipos de renders', url: `${DOMINIO}/tipos-de-renders/` } : (articulos as any).servicios?.includes(slug) ? { nombre: 'Servicios', url: `${DOMINIO}/servicios-de-arquitectura/` } : undefined);
   return seccion ? [inicio, seccion, { nombre, url }] : [inicio, { nombre, url }];
