@@ -163,3 +163,13 @@ Yama: «cámbialo, modifícalo sin sacar las palabras clave y haz lo mismo pero 
   - no se repiten frases entre las 17 páginas, salvo la presentación «Somos De Arquitectura, estudio de arquitectura e interiorismo».
 - **Datos históricos (estilos):** solo los de manual, como Imhotep, Villard de Honnecourt, Brunelleschi, Palladio, el Templo Mayor (Matos Moctezuma), la Unité d'Habitation o Torres Blancas.
 - **Lo que sigue saliendo porque ya estaba en el texto original del modelo:** dirección de obra (estilos góticos y renacentistas), maquetas y agencia de diseño. Yama puede pedir que se quite.
+
+## Hecho: 3 tipos de render más (20-11-2026, Yama: «armar los que nos faltan», con la lista de tipos de renders.studio)
+- **Comparación:** de los 31 tipos de la lista, la web ya tenía 26 (algunos con otra dirección: render-online, render-express, render-salon, sofa-render, renders-para-inmobiliarias…). Faltaban 5:
+  - **Se crean 3:** Renders de campings (`/renders-camping/`), Renders de hoteles (`/renders-hoteles/`) y Renders para arquitectos (`/renders-para-arquitectos/`).
+  - **No se crean 2**, como se decidió el 19-11: «Renders realistas» repite Renders hiperrealistas y «Renders profesionales» repite Renderista; esas direcciones ya llevan a ellas (`cambios-aprobados.json`).
+- **Estructura:** la misma que las otras páginas nuevas de renders (portada con botón, «En resumen» con datos, qué es / para qué sirve / qué incluye / cómo se hace, preguntas, bloque común de Render casa con textos propios y cierre de contacto).
+- **Fotos de la propia web:** camping, la entrada del glamping de Renders de parques; hoteles, el dormitorio de Renders de habitaciones (más piscina y baño en la galería); arquitectos, la planta 3D de Render casa (más un plano y una axonometría de oficinas).
+- **Conexiones:** desplegable «Tipos» de los menús de renders, ruta «Inicio / Tipos de renders / …», bloque «Otros tipos de render», mapa del sitio y `llms.txt`.
+- **Palabra clave del bloque común:** «Casas» pasa a «Campings», «Hoteles» y «Arquitectos». En la de arquitectos, el título «ARQUITECTOS DE Casas» pasa a «ARQUITECTOS Y ESTUDIOS» para no decir «Arquitectos de Arquitectos».
+- Sin precios, plazos concretos ni promesas. `npm run todo` y `todo:visual`, a 0.

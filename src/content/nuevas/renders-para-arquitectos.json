@@ -1,0 +1,6650 @@
+{
+ "slug": "renders-para-arquitectos",
+ "id": "nueva",
+ "title": "Renders para Arquitectos",
+ "titulo_seo": "Renders para arquitectos: imágenes de tus proyectos",
+ "url": "https://dearquitectura.info/renders-para-arquitectos/",
+ "nueva": true,
+ "meta_description": "Renders para arquitectos: imágenes y vídeos de tus proyectos a partir de planos o del modelo, para clientes, concursos y portafolio. Pide presupuesto.",
+ "palabra_clave": "renders para arquitectos",
+ "menu": "renders",
+ "logo": "",
+ "foto_destacada": "/img/2025/03/render-casas-interior-planta-3D.jpg",
+ "fecha": "2026-11-20 12:00:00",
+ "modificada": "2026-11-20 12:00:00",
+ "fecha_gmt": "2026-11-20 12:00:00",
+ "modificada_gmt": "2026-11-20 12:00:00",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/img/2025/03/render-casas-interior-planta-3D.jpg",
+   "alt": "Render de la planta en 3D de una vivienda con piscina, vista desde arriba",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "Renders para Arquitectos"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Las imágenes de tu proyecto, a partir de tus planos"
+  },
+  {
+   "type": "text",
+   "html": "<p>Los <strong>renders para arquitectos</strong> convierten los planos o el modelo 3D de un proyecto en imágenes fotorrealistas. El arquitecto diseña; el renderista se encarga de que el cliente, el jurado de un concurso o el comprador vean el proyecto como si ya estuviera construido.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen"
+  },
+  {
+   "type": "text",
+   "html": "<p>Los <strong>renders para arquitectos</strong> son un servicio de visualización para estudios y profesionales: a partir de los planos, del modelo de SketchUp o Revit y de las indicaciones de materiales, se preparan vistas exteriores, interiores, plantas en 3D y vídeos. Sirven para presentar al cliente, para <strong>concursos</strong>, memorias y para el <a href=\"/portafolios-arquitectura/\">portafolio</a> del estudio.</p>"
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Qué es</th><td>Visualización de proyectos por encargo para estudios y arquitectos</td></tr><tr><th scope=\"row\">Qué se entrega</th><td>Vistas exteriores e interiores, plantas en 3D, vistas aéreas y vídeos</td></tr><tr><th scope=\"row\">Para qué sirve</th><td>Presentar al cliente, concursos, memorias, ventas y portafolio</td></tr><tr><th scope=\"row\">De qué se parte</th><td>Planos en DWG o PDF, o el modelo de SketchUp, Revit, ArchiCAD o Rhino</td></tr><tr><th scope=\"row\">Cómo se trabaja</th><td>En remoto, con vistas de prueba que revisa el arquitecto</td></tr></tbody></table>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Qué son los renders para arquitectos?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Es la parte de la <a href=\"/renders-arquitectura/\">visualización de arquitectura</a> que se encarga fuera del estudio. Muchos arquitectos modelan su proyecto, pero no tienen tiempo, equipos o práctica para sacar imágenes fotorrealistas; un <a href=\"/renderista/\">renderista</a> parte de ese trabajo y lo convierte en vistas listas para presentar, respetando el diseño.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Para qué sirve?"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Presentar al cliente"
+  },
+  {
+   "type": "text",
+   "html": "<p>El cliente entiende de un vistazo lo que en planos le cuesta imaginar, y las decisiones se toman antes.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Concursos"
+  },
+  {
+   "type": "text",
+   "html": "<p>En un concurso, las imágenes son lo primero que ve el jurado: tienen que contar la idea con claridad.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Vender y publicar"
+  },
+  {
+   "type": "text",
+   "html": "<p>Promotoras, portales inmobiliarios, revistas y el propio portafolio del estudio necesitan imágenes de calidad.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Qué incluye?"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><strong>Vistas exteriores</strong> desde los puntos que elija el arquitecto.</li><li><strong>Interiores</strong> con materiales y mobiliario.</li><li><strong>Plantas y secciones en 3D</strong>, y axonometrías.</li><li><strong>Vistas aéreas</strong> del proyecto en su entorno.</li><li><strong>Vídeos</strong> y recorridos virtuales.</li></ul>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Cómo se trabaja?"
+  },
+  {
+   "type": "text",
+   "html": "<ol><li>El arquitecto envía <strong>planos o modelo 3D</strong>, materiales y referencias.</li><li>Se completa el modelo y se <strong>proponen los puntos de vista</strong>.</li><li><strong>Vistas de prueba</strong> para revisar encuadres y luz.</li><li><strong>Correcciones</strong> del arquitecto.</li><li><strong>Render final</strong> y postproducción.</li></ol>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Del plano a la imagen"
+  },
+  {
+   "type": "gallery",
+   "images": [
+    {
+     "src": "/img/2024/06/render-oficina-planos.webp",
+     "alt": "Plano de dos plantas de un edificio, el punto de partida de un render"
+    },
+    {
+     "src": "/img/2024/06/Render-Oficinas-Axonometrica.png",
+     "alt": "Render en axonometría de una planta de oficinas con su mobiliario"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes"
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Qué necesita el renderista del arquitecto?",
+     "html": "<p>Los planos o el modelo 3D, los materiales y acabados previstos, y referencias del ambiente que se busca. Con eso se proponen las primeras vistas.</p>"
+    },
+    {
+     "title": "¿Puedo enviar mi modelo de SketchUp o Revit?",
+     "html": "<p>Sí. Partir del modelo del estudio ahorra trabajo; se revisa, se completa con mobiliario, vegetación y entorno, y se renderiza.</p>"
+    },
+    {
+     "title": "¿Quién decide los puntos de vista?",
+     "html": "<p>El arquitecto. El renderista propone encuadres y luz, pero el proyecto es suyo y las vistas se aprueban antes del render final.</p>"
+    },
+    {
+     "title": "¿Por qué no hacer los renders en el propio estudio?",
+     "html": "<p>Se puede, pero exige tiempo, equipos potentes y práctica. Encargarlos fuera deja al estudio más tiempo para proyectar.</p>"
+    }
+   ]
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Qué es un render de Arquitectos y cómo se realizan?",
+     "html": "<p>Un <strong>render para arquitectos</strong> es una imagen fotorrealista de un proyecto de arquitectura, hecha por ordenador a partir de los planos o del modelo del estudio. El proceso tiene cinco fases:</p><ul><li><strong>Modelado 3D</strong>: se parte del modelo del arquitecto o se levanta desde los planos.</li><li><strong>Materiales</strong>: los acabados que indica la memoria del proyecto.</li><li><strong>Iluminación</strong>: luz natural según la orientación real y luz artificial en interiores.</li><li><strong>Renderizado</strong> de las vistas aprobadas por el arquitecto.</li><li><strong>Postproducción</strong>: entorno, personas, color y retoque final.</li></ul>"
+    }
+   ],
+   "s": 30
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Qué programas se utilizan para realizar renders de Arquitectos?",
+     "html": "<p>Para <strong>renders para arquitectos</strong> se trabaja con los programas que ya usa el estudio y con motores de render:</p><ul><li><strong>SketchUp</strong>, <strong>Revit</strong>, <strong>ArchiCAD</strong> y <strong>Rhino</strong>: donde suele estar el modelo del proyecto.</li><li><strong>V-Ray</strong> y <strong>Corona</strong>: máximo realismo en exteriores e interiores.</li><li><strong>Enscape</strong>: conectado con Revit, SketchUp y ArchiCAD para ver el proyecto al momento.</li><li><strong>Lumion</strong> y <strong>Twinmotion</strong>: rápidos para exteriores, entorno y vídeos.</li><li><strong>Unreal Engine</strong>: para recorridos interactivos.</li></ul>"
+    },
+    {
+     "title": "¿Por qué usar renders de Arquitectos?",
+     "html": "<p>Los <strong>renders</strong> ayudan al arquitecto en todo el proceso:</p><ul><li><strong>Comunicar</strong>: el cliente entiende el proyecto sin saber leer planos.</li><li><strong>Decidir</strong>: se comparan materiales y soluciones antes de cerrar el diseño.</li><li><strong>Competir</strong>: en concursos y propuestas, la imagen marca la diferencia.</li><li><strong>Vender</strong>: promotoras e inmobiliarias necesitan imágenes antes de la obra.</li><li><strong>Mostrar</strong>: el portafolio del estudio crece también con proyectos no construidos.</li></ul>"
+    },
+    {
+     "title": "¿Por qué es Importante Tener un Render de Arquitecto?",
+     "html": "<p>Un buen proyecto mal presentado puede no convencer. Con un <strong>render para arquitectos</strong>, el cliente ve el proyecto como será, se evitan malentendidos que luego cuestan cambios en obra y el estudio cuenta con imágenes de calidad para presentar, concursar y publicar.</p>"
+    },
+    {
+     "title": "¿Cuánto Cuesta un Render de Arquitecto?",
+     "html": "<p>El precio de un <strong>render para arquitectos</strong> depende de si el estudio aporta el modelo 3D o hay que levantarlo desde los planos, del número de vistas, del detalle de los interiores y del entorno. Cada presupuesto se prepara a medida, desde una vista suelta hasta la serie completa de un proyecto.</p>"
+    },
+    {
+     "title": "¿Qué Necesito para Tener un Render de Arquitecto?",
+     "html": "<p>Hacen falta los <strong>planos</strong> del proyecto (plantas, alzados y secciones) o el <strong>modelo 3D</strong> del estudio, la memoria de materiales y referencias del ambiente que se busca. Si el arquitecto ya tiene claros los puntos de vista, mejor: se trabaja directamente sobre ellos.</p>"
+    },
+    {
+     "title": "¿Cuánto Tiempo se Tarda en Hacer un Render de Arquitecto?",
+     "html": "<p>Depende del proyecto y de lo que aporte el estudio. Si hay modelo 3D, una vista puede estar en <strong>pocos días</strong>; una serie completa con exteriores, interiores y vídeo, o un proyecto que hay que modelar desde cero, puede requerir <strong>varias semanas</strong>.</p>"
+    },
+    {
+     "title": "Tipos de renderizado de Arquitectos",
+     "html": "<p>Los <strong>tipos de render</strong> que más encargan los arquitectos son:</p><ul><li><strong>Exterior</strong>: el edificio en su entorno, a la altura de los ojos.</li><li><strong>Interior</strong>: las estancias principales con su luz y sus materiales.</li><li><strong>Planta o sección en 3D</strong>: para explicar la distribución.</li><li><strong>Aéreo</strong>: el proyecto en su parcela o en la ciudad.</li><li><strong>Vídeo o 360°</strong>: recorridos para presentaciones y concursos.</li></ul>"
+    },
+    {
+     "title": "Ventajas de usar renders en proyectos para Arquitectos",
+     "html": "<ul><li><strong>Tiempo</strong>: el estudio se centra en proyectar y delega las imágenes.</li><li><strong>Calidad</strong>: imágenes al nivel de las publicaciones de arquitectura.</li><li><strong>Coherencia</strong>: misma luz y mismo estilo en todas las vistas.</li><li><strong>Claridad</strong>: el cliente entiende el proyecto y decide antes.</li><li><strong>Portafolio</strong>: también los proyectos no construidos se pueden enseñar.</li></ul>"
+    },
+    {
+     "title": "Contratar servicios de renders de Arquitectos online: una guía para clientes",
+     "html": "<p>Para encargar <strong>renders para arquitectos online</strong>:</p><ul><li><strong>Mira trabajos anteriores</strong> y comprueba que el estilo encaja con tu estudio.</li><li><strong>Concreta las vistas</strong>: exteriores, interiores, plantas en 3D o vídeo.</li><li><strong>Envía la información</strong>: planos o modelo, materiales y referencias.</li><li><strong>Pide un presupuesto claro</strong> que incluya revisiones y postproducción.</li><li><strong>Revisa las pruebas</strong> hasta que las imágenes reflejen tu proyecto.</li></ul><p>Así tienes las imágenes de tu proyecto sin que tu estudio pare de proyectar.</p>"
+    }
+   ],
+   "s": 30
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Otros tipos de renders de Arquitectos. Rendering Arquitectos,",
+   "s": 33
+  },
+  {
+   "type": "text",
+   "text": "Un estudio de arquitectura suele necesitar varios tipos de imagen para un mismo proyecto: exteriores para la fachada, interiores para las estancias principales, una planta en 3D para explicar la distribución y, a veces, una vista de noche o un vídeo. Estos son los tipos de render que más se encargan.",
+   "html": "<p>Un estudio de arquitectura suele necesitar varios tipos de imagen para un mismo proyecto: <strong>exteriores</strong> para la fachada, <strong>interiores</strong> para las estancias principales, una <strong>planta en 3D</strong> para explicar la distribución y, a veces, una vista de noche o un vídeo. Estos son los tipos de render que más se encargan.</p>",
+   "s": 33,
+   "texto_propio": true
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/tipos-de-render.jpg",
+   "alt": "tipos-de-render",
+   "size": "large",
+   "wpid": 2781,
+   "s": 33
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Render exteriores",
+   "href": "/renders-exteriores/",
+   "s": 35
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-exterior.jpg",
+   "alt": "render-exterior",
+   "size": "large",
+   "wpid": 2793,
+   "href": "/renders-exteriores/",
+   "s": 35
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Renders Edificios",
+   "href": "/renders-edificios/",
+   "s": 35
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-edificio.jpg",
+   "alt": "render-edificio",
+   "size": "large",
+   "wpid": 2792,
+   "href": "/renders-edificios/",
+   "s": 35
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Render Fachadas",
+   "href": "/renders-de-fachadas/",
+   "s": 35
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-fachada.jpg",
+   "alt": "renders-fachada",
+   "size": "large",
+   "wpid": 2794,
+   "href": "/renders-de-fachadas/",
+   "s": 35
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Render Cafeterías",
+   "href": "/render-cafeteria/",
+   "s": 35
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-cafeteria.jpg",
+   "alt": "render-cafetería",
+   "size": "large",
+   "wpid": 2795,
+   "href": "/render-cafeteria/",
+   "s": 35
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Productos",
+   "href": "/render-de-producto/",
+   "s": 37
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-de-productos.jpg",
+   "alt": "render-de-productos",
+   "size": "large",
+   "wpid": 2800,
+   "href": "/render-de-producto/",
+   "s": 37
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Locales",
+   "href": "/renders-locales-comerciales/",
+   "s": 37
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-local-comercial.jpg",
+   "alt": "render-local-comercial",
+   "size": "large",
+   "wpid": 2801,
+   "href": "/renders-locales-comerciales/",
+   "s": 37
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Realistas",
+   "href": "/renders-hiperrealistas/",
+   "s": 37,
+   "href_original": "/renders-realistas/",
+   "cambio": "enlace_roto"
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-realistas.jpg",
+   "alt": "render-realistas",
+   "size": "large",
+   "wpid": 2811,
+   "href": "/renders-hiperrealistas/",
+   "s": 37,
+   "href_original": "/renders-realistas/",
+   "cambio": "enlace_roto"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Cocinas",
+   "href": "/renders-de-cocinas/",
+   "s": 37
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-cocinas.jpg",
+   "alt": "render-cocinas",
+   "size": "large",
+   "wpid": 2813,
+   "href": "/renders-de-cocinas/",
+   "s": 37
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Nocturnos",
+   "href": "/renders-nocturnos/",
+   "s": 37
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-nocturnos.jpg",
+   "alt": "renders-nocturnos",
+   "size": "large",
+   "wpid": 2817,
+   "href": "/renders-nocturnos/",
+   "s": 37
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Parques",
+   "href": "/renders-de-parques/",
+   "s": 39
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-parques.jpg",
+   "alt": "renders-parques",
+   "size": "large",
+   "wpid": 2819,
+   "href": "/renders-de-parques/",
+   "s": 39
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Oficinas",
+   "href": "/renders-oficinas/",
+   "s": 39
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-oficina.jpg",
+   "alt": "render-oficina",
+   "size": "large",
+   "wpid": 2846,
+   "href": "/renders-oficinas/",
+   "s": 39
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Render 360",
+   "href": "/render-360/",
+   "s": 39
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-360.jpg",
+   "alt": "renders-360",
+   "size": "large",
+   "wpid": 2823,
+   "href": "/render-360/",
+   "s": 39
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Piscinas",
+   "href": "/renders-piscinas/",
+   "s": 39
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-piscina.jpg",
+   "alt": "render-piscina",
+   "size": "large",
+   "wpid": 2820,
+   "href": "/renders-piscinas/",
+   "s": 39
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Habitaciones",
+   "href": "/renders-habitaciones/",
+   "s": 39
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-habitaciones.jpg",
+   "alt": "render-habitaciones",
+   "size": "large",
+   "wpid": 2822,
+   "href": "/renders-habitaciones/",
+   "s": 39
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Baños",
+   "href": "/renders-banos/",
+   "s": 41,
+   "href_original": "/renders-baños/",
+   "cambio": "enlace_roto"
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-banos.jpg",
+   "alt": "render-banos",
+   "size": "large",
+   "wpid": 2843,
+   "href": "/renders-banos/",
+   "s": 41,
+   "href_original": "/renders-baños/",
+   "cambio": "enlace_roto"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Salas",
+   "href": "/render-sala/",
+   "s": 41
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-de-salas.jpg",
+   "alt": "renders-de-salas",
+   "size": "large",
+   "wpid": 2844,
+   "href": "/render-sala/",
+   "s": 41
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Antes y después",
+   "href": "/render-antes-y-despues/",
+   "s": 41
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-antes-y-despues.jpg",
+   "alt": "renders-antes-y-despues",
+   "size": "large",
+   "wpid": 2845,
+   "href": "/render-antes-y-despues/",
+   "s": 41
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Sofa",
+   "href": "/sofa-render/",
+   "s": 41
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/sofa-render-3d-1024x727.jpg.webp",
+   "alt": "sofa-render-3d.jpg",
+   "size": "large",
+   "wpid": 5158,
+   "href": "/sofa-render/",
+   "s": 41
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Logos",
+   "href": "/render-logo/",
+   "s": 41
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/render-logos.jpg",
+   "alt": "render-logos",
+   "size": "large",
+   "wpid": 2821,
+   "href": "/render-logo/",
+   "s": 41
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Renders",
+   "href": "/renders/",
+   "s": 43
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/renders.jpg",
+   "alt": "renders",
+   "size": "large",
+   "wpid": 2321,
+   "href": "/renders/",
+   "s": 43
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Renders de arquitectos para inmobiliarias",
+   "html": "Renders de arquitectos para inmobiliarias<span style=\"font-family: Mulish, sans-serif; font-size: 23px; font-weight: 500; letter-spacing: -1.1px;\"></span><br>",
+   "href": "/renders-para-inmobiliarias/",
+   "s": 43
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-para-inmobiliarias.jpg",
+   "alt": "renders-para-inmobiliarias",
+   "size": "large",
+   "wpid": 2840,
+   "href": "/renders-para-inmobiliarias/",
+   "s": 43
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Renders piscina marketing",
+   "href": "/renders-marketing/",
+   "s": 43
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-marketing.jpg",
+   "alt": "renders-marketing",
+   "size": "large",
+   "wpid": 2842,
+   "href": "/renders-marketing/",
+   "s": 43
+  },
+  {
+   "type": "text",
+   "text": "Ver todos los",
+   "html": "<p>Ver todos los</p>",
+   "s": 44
+  },
+  {
+   "type": "button",
+   "text": "Tipos de renders",
+   "size": "sm",
+   "href": "/tipos-de-renders/",
+   "s": 44
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Renders de Arquitectura para Arquitectos",
+   "href": "/renders-arquitectura/",
+   "s": 47
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/renders-de-arquitectura.jpg",
+   "alt": "renders-de-arquitectura",
+   "size": "large",
+   "wpid": 306,
+   "href": "/renders-arquitectura/",
+   "s": 47
+  },
+  {
+   "type": "text",
+   "text": "El render de arquitectura es la herramienta con la que el arquitecto comunica su proyecto. No sustituye a los planos, los completa: los planos dicen cómo se construye y el render enseña cómo se vivirá.",
+   "html": "<p>El <strong>render de arquitectura</strong> es la herramienta con la que el arquitecto comunica su proyecto. No sustituye a los planos, los completa: los planos dicen cómo se construye y el render enseña cómo se vivirá.</p>",
+   "s": 47,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Render arquitectura",
+   "size": "sm",
+   "href": "/renders-arquitectura/",
+   "s": 47
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Render interiores de Arquitectos",
+   "href": "/renders-interiores/",
+   "s": 47
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renders-de-interiores.jpg",
+   "alt": "renders-de-interiores",
+   "size": "large",
+   "wpid": 2702,
+   "href": "/renders-interiores/",
+   "s": 47
+  },
+  {
+   "type": "text",
+   "text": "En los interiores, el arquitecto define el espacio y la luz, y el render los hace visibles: la altura de un techo, la entrada de sol por un ventanal o la relación entre cocina y salón. El render de interiores ayuda al cliente a entender esas decisiones.",
+   "html": "<p>En los interiores, el arquitecto define el espacio y la luz, y el render los hace visibles: la altura de un techo, la entrada de sol por un ventanal o la relación entre cocina y salón. El <strong>render de interiores</strong> ayuda al cliente a entender esas decisiones.</p>",
+   "s": 47,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Renders Interiores",
+   "size": "sm",
+   "href": "/renders-interiores/",
+   "s": 47
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Render Arquitectos Online",
+   "html": "Render Arquitectos Online<span style=\"font-family: Mulish, sans-serif; font-size: 36px; font-weight: 300; letter-spacing: -1.1px;\"></span><br>",
+   "href": "/render-online/",
+   "s": 47
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/Renders-online.jpg",
+   "alt": "Renders-online",
+   "size": "large",
+   "wpid": 4982,
+   "href": "/render-online/",
+   "s": 47
+  },
+  {
+   "type": "text",
+   "text": "Un render para arquitectos online se encarga a distancia: el estudio envía los planos o el modelo, se comparten las vistas de prueba y se corrigen por correo o en una llamada. No importa dónde esté el estudio ni dónde esté el proyecto.",
+   "html": "<p>Un <strong>render para arquitectos online</strong> se encarga a distancia: el estudio envía los planos o el modelo, se comparten las vistas de prueba y se corrigen por correo o en una llamada. No importa dónde esté el estudio ni dónde esté el proyecto.</p>",
+   "s": 47,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Renders online",
+   "size": "sm",
+   "href": "/render-online/",
+   "s": 47
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "SERVICIOS DE RENDER DE ARQUITECTO Y RENDERIZADO PROFESIONAL",
+   "s": 48
+  },
+  {
+   "type": "text",
+   "text": "¡Descubre nuestros servicios de render para arquitectos ! Convertimos tus planos y tus modelos en imágenes para presentar, concursar y vender. Cuéntanos qué necesitas.",
+   "html": "<p>¡Descubre nuestros <strong>servicios de render para arquitectos</strong>! Convertimos tus planos y tus modelos en imágenes para presentar, concursar y vender. Cuéntanos qué necesitas.</p>",
+   "s": 48,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Servicios",
+   "size": "sm",
+   "href": "/servicios-de-renders/",
+   "s": 48
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Modelado de Arquitectos",
+   "href": "/modelado-3d/",
+   "s": 49
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/modelado-3d.jpg",
+   "alt": "modelado-3d",
+   "size": "large",
+   "wpid": 2270,
+   "href": "/modelado-3d/",
+   "s": 49
+  },
+  {
+   "type": "text",
+   "text": "Muchos arquitectos ya tienen el modelado 3D hecho en SketchUp, Revit o ArchiCAD. El renderista lo aprovecha, corrige lo que haga falta y añade lo que un modelo de proyecto no suele llevar: mobiliario, vegetación, personas y entorno.",
+   "html": "<p>Muchos arquitectos ya tienen el <strong>modelado 3D</strong> hecho en SketchUp, Revit o ArchiCAD. El renderista lo aprovecha, corrige lo que haga falta y añade lo que un modelo de proyecto no suele llevar: mobiliario, vegetación, personas y entorno.</p>",
+   "s": 49,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Modelado 3D",
+   "size": "sm",
+   "href": "/modelado-3d/",
+   "s": 49
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Planos de Arquitectos",
+   "href": "/planos/",
+   "s": 49
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Planos.jpg",
+   "alt": "Planos",
+   "size": "large",
+   "wpid": 1606,
+   "href": "/planos/",
+   "s": 49
+  },
+  {
+   "type": "text",
+   "text": "Para el render, los planos del arquitecto son la referencia: plantas, alzados y secciones con cotas, y la memoria de materiales. Cuanto más completos estén, más fiel será la imagen al proyecto.",
+   "html": "<p>Para el render, los <strong>planos</strong> del arquitecto son la referencia: plantas, alzados y secciones con cotas, y la memoria de materiales. Cuanto más completos estén, más fiel será la imagen al proyecto.</p>",
+   "s": 49,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Planos",
+   "size": "sm",
+   "href": "/planos/",
+   "s": 49
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Home Staging Arquitectos",
+   "href": "/home-staging/",
+   "s": 49
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/home-staging.jpg",
+   "alt": "home-staging",
+   "size": "large",
+   "wpid": 2450,
+   "href": "/home-staging/",
+   "s": 49
+  },
+  {
+   "type": "text",
+   "text": "El home staging virtual también es útil para arquitectos: una obra terminada pero vacía aparece amueblada en las fotos, lista para el portafolio del estudio o para la venta.",
+   "html": "<p>El <strong>home staging virtual</strong> también es útil para arquitectos: una obra terminada pero vacía aparece amueblada en las fotos, lista para el portafolio del estudio o para la venta.</p>",
+   "s": 49,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Home Staging",
+   "size": "sm",
+   "href": "/home-staging/",
+   "s": 49
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Realidad Virtual para arquitectos",
+   "href": "/realidad-virtual/",
+   "s": 49
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Realidad-virtual.jpg",
+   "alt": "Realidad-virtual",
+   "size": "large",
+   "wpid": 2485,
+   "href": "/realidad-virtual/",
+   "s": 49
+  },
+  {
+   "type": "text",
+   "text": "Con realidad virtual , el arquitecto puede pasear con su cliente por el proyecto antes de construirlo: entrar por la puerta, recorrer las estancias y comprobar proporciones con unas gafas VR .",
+   "html": "<p>Con <strong>realidad virtual</strong>, el arquitecto puede pasear con su cliente por el proyecto antes de construirlo: entrar por la puerta, recorrer las estancias y comprobar proporciones con unas <strong>gafas VR</strong>.</p>",
+   "s": 49,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Realidad Virtual",
+   "size": "sm",
+   "href": "/realidad-virtual/",
+   "s": 49
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Infografías de arquitectos",
+   "href": "/infografias/",
+   "s": 51
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/infografias-de-arquitectura.jpg",
+   "alt": "infografías-de-arquitectura",
+   "size": "large",
+   "wpid": 336,
+   "href": "/infografias/",
+   "s": 51
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Catálogos de arquitectos",
+   "href": "/catalogo/",
+   "s": 51
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/catalogos-de-arquitectura.jpg",
+   "alt": "catálogos-de-arquitectura",
+   "size": "large",
+   "wpid": 317,
+   "href": "/catalogo/",
+   "s": 51
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Tour virtual 3D arquitecto",
+   "href": "/tour-virtual/",
+   "s": 51
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/tour-360-virtual-de-arquitectura.jpg",
+   "alt": "tour-360-virtual-de-arquitectura",
+   "size": "large",
+   "wpid": 318,
+   "href": "/tour-virtual/",
+   "s": 51
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Proyectos Render",
+   "href": "/servicios-de-renders/",
+   "s": 51,
+   "href_original": "/proyecto-render/",
+   "cambio": "enlace_roto"
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/render-proyecto.webp",
+   "alt": "render-proyecto",
+   "size": "large",
+   "wpid": 5032,
+   "href": "/servicios-de-renders/",
+   "s": 51,
+   "href_original": "/proyecto-render/",
+   "cambio": "enlace_roto"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Renderista de Arquitectos",
+   "html": "Renderista de Arquitectos<br>",
+   "s": 53
+  },
+  {
+   "type": "text",
+   "text": "Un buen renderista para arquitectos entiende de arquitectura: lee planos, respeta las proporciones y sabe que la imagen está al servicio del proyecto, no al revés. Por eso propone, pero el que decide es el arquitecto.",
+   "html": "<p>Un buen <strong>renderista</strong> para arquitectos entiende de arquitectura: lee planos, respeta las proporciones y sabe que la imagen está al servicio del proyecto, no al revés. Por eso propone, pero el que decide es el arquitecto.</p>",
+   "s": 53,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Renderista",
+   "size": "sm",
+   "href": "/renderista/",
+   "s": 53
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/renderista.jpg",
+   "alt": "renderista",
+   "size": "large",
+   "wpid": 1172,
+   "href": "/renderista/",
+   "s": 53
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Renderizado 3D y Renderización de Arquitectos",
+   "html": "Renderizado 3D y Renderización de Arquitectos<br>",
+   "s": 54
+  },
+  {
+   "type": "text",
+   "text": "El renderizado es la fase en la que el ordenador calcula la luz y los materiales. Para un estudio, lo importante es que el resultado sea fiel y constante: misma luz y mismo estilo en todas las vistas de un proyecto.",
+   "html": "<p>El <strong>renderizado</strong> es la fase en la que el ordenador calcula la luz y los materiales. Para un estudio, lo importante es que el resultado sea fiel y constante: misma luz y mismo estilo en todas las vistas de un proyecto.</p>",
+   "s": 54,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Renderizado",
+   "size": "sm",
+   "href": "/renderizado/",
+   "s": 54
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/renderizado-3d.jpg",
+   "alt": "renderizado-3d",
+   "size": "large",
+   "wpid": 2864,
+   "href": "/renderizado/",
+   "s": 54
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Precio de render de Arquitecto",
+   "html": "Precio de render de Arquitecto<br>",
+   "s": 55
+  },
+  {
+   "type": "text",
+   "text": "El precio de un render para arquitectos depende de si hay que modelar desde los planos o se parte del modelo del estudio, del número de vistas y del detalle de los interiores. Consulta nuestra tabla de precios para una primera idea.",
+   "html": "<p>El <strong>precio de un render para arquitectos</strong> depende de si hay que modelar desde los planos o se parte del modelo del estudio, del número de vistas y del detalle de los interiores. Consulta nuestra tabla de precios para una primera idea.</p>",
+   "s": 55,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Precios",
+   "size": "sm",
+   "href": "/renders-economicos/",
+   "s": 55,
+   "href_original": "/precio-render/",
+   "cambio": "enlace_roto"
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/precio-render.jpg",
+   "alt": "precio-render",
+   "size": "large",
+   "wpid": 2707,
+   "href": "/renders-economicos/",
+   "s": 55,
+   "href_original": "/precio-render/",
+   "cambio": "enlace_roto"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Video Render de Arquitecto",
+   "html": "Video Render de Arquitecto<br>",
+   "s": 56
+  },
+  {
+   "type": "text",
+   "text": "Un vídeo render permite al arquitecto contar el proyecto como un recorrido: la llegada, la entrada, las estancias principales y las vistas. Es muy útil para concursos, presentaciones y redes del estudio.",
+   "html": "<p>Un <strong>vídeo render</strong> permite al arquitecto contar el proyecto como un recorrido: la llegada, la entrada, las estancias principales y las vistas. Es muy útil para concursos, presentaciones y redes del estudio.</p>",
+   "s": 56,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Video render",
+   "size": "sm",
+   "href": "/video-render/",
+   "s": 56
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/01/Video-renders.jpg",
+   "alt": "Video-renders",
+   "size": "large",
+   "wpid": 2776,
+   "href": "/video-render/",
+   "s": 56
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Empresas de renders de Arquitectos",
+   "html": "Empresas de renders de Arquitectos<br>",
+   "s": 57
+  },
+  {
+   "type": "text",
+   "text": "Las empresas de renders que trabajan para arquitectos colaboran de forma continuada con estudios de todos los tamaños, que les confían la parte visual mientras ellos se centran en proyectar.",
+   "html": "<p>Las <strong>empresas de renders</strong> que trabajan para arquitectos colaboran de forma continuada con estudios de todos los tamaños, que les confían la parte visual mientras ellos se centran en proyectar.</p>",
+   "s": 57,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Empresa",
+   "size": "sm",
+   "href": "/empresa-de-renders/",
+   "s": 57
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/empresa-de-render.jpg",
+   "alt": "empresa-de-render",
+   "size": "large",
+   "wpid": 4999,
+   "href": "/empresa-de-renders/",
+   "s": 57
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Renders Arquitectos Freelance",
+   "html": "Renders Arquitectos Freelance <span style=\"font-family: Mulish, sans-serif; font-size: 36px; font-weight: 300; letter-spacing: -1.1px;\"></span><br>",
+   "s": 58
+  },
+  {
+   "type": "text",
+   "text": "Nuestros renders para arquitectos freelance se adaptan al ritmo de cada estudio: una vista suelta para una reunión, la serie de un concurso o un acuerdo estable para todos sus proyectos.",
+   "html": "<p>Nuestros <strong>renders para arquitectos freelance</strong> se adaptan al ritmo de cada estudio: una vista suelta para una reunión, la serie de un concurso o un acuerdo estable para todos sus proyectos.</p>",
+   "s": 58,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Freelance",
+   "size": "sm",
+   "href": "/renders-freelance/",
+   "s": 58
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/render-freelance.jpg",
+   "alt": "render-freelance",
+   "size": "large",
+   "wpid": 5093,
+   "href": "/renders-freelance/",
+   "s": 58
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Cursos de renders de Arquitectos",
+   "html": "Cursos de renders de Arquitectos<br>",
+   "s": 59
+  },
+  {
+   "type": "text",
+   "text": "Si eres arquitecto y quieres hacer tus propios renders, hay cursos pensados para ti: cómo sacar imágenes del modelo que ya tienes, cómo componer una vista y cómo iluminar una escena con V-Ray , Enscape o Lumion .",
+   "html": "<p>Si eres arquitecto y quieres hacer tus propios renders, hay <strong>cursos</strong> pensados para ti: cómo sacar imágenes del modelo que ya tienes, cómo componer una vista y cómo iluminar una escena con <strong>V-Ray</strong>, <strong>Enscape</strong> o <strong>Lumion</strong>.</p>",
+   "s": 59,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Cursos",
+   "size": "sm",
+   "href": "/cursos-de-renders/",
+   "s": 59
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/curso-de-renders.webp",
+   "alt": "",
+   "size": "large",
+   "wpid": 5095,
+   "href": "/cursos-de-renders/",
+   "s": 59
+  },
+  {
+   "type": "heading",
+   "tag": "p",
+   "text": "Contáctenos",
+   "s": 61
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Render Studio Arquitectos",
+   "html": "Render Studio Arquitectos<br>",
+   "s": 61
+  },
+  {
+   "type": "text",
+   "text": "¿Buscas un render studio que trabaje con tu estudio de arquitectura? Escríbenos y vemos cómo colaborar.",
+   "html": "<p>¿Buscas un <strong>render studio</strong> que trabaje con tu estudio de arquitectura? Escríbenos y vemos cómo colaborar.</p>",
+   "s": 61,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Studio",
+   "size": "sm",
+   "href": "/empresa-de-renders/",
+   "s": 61,
+   "href_original": "/render-studio/",
+   "cambio": "enlace_roto"
+  },
+  {
+   "type": "heading",
+   "tag": "p",
+   "text": "Escríbenos",
+   "s": 61
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Render Arquitecto Profesional",
+   "html": "Render Arquitecto Profesional <span style=\"font-family: Mulish, sans-serif; font-size: 36px; font-weight: 300; letter-spacing: -1.1px;\"></span><br>",
+   "s": 61
+  },
+  {
+   "type": "text",
+   "text": "¿Te hace falta un render profesional para una presentación, un concurso o una promoción? Cuéntanos el proyecto y te decimos cómo lo plantearíamos.",
+   "html": "<p>¿Te hace falta un <strong>render profesional</strong> para una presentación, un concurso o una promoción? Cuéntanos el proyecto y te decimos cómo lo plantearíamos.</p>",
+   "s": 61,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Profesional",
+   "size": "sm",
+   "href": "/renderista/",
+   "s": 61,
+   "href_original": "/render-profesionales/",
+   "cambio": "enlace_roto"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Estudio de renders de Arquitectos y Diseño",
+   "s": 63
+  },
+  {
+   "type": "text",
+   "text": "Somos De Arquitectura , estudio de arquitectura e interiorismo. Hacemos renders para arquitectos y estudios, con los planos y el modelado 3D que necesite cada proyecto, y entendemos el proyecto porque también proyectamos. En nuestra web publicamos también ideas y noticias sobre arquitectura . Trabajamos de forma cercana y resolvemos cualquier duda que tengas. ¡Bienvenido a Dearquitectura.info!",
+   "html": "<p>Somos <strong>De Arquitectura</strong>, estudio de arquitectura e interiorismo. Hacemos <strong>renders para arquitectos</strong> y estudios, con los <strong>planos</strong> y el modelado 3D que necesite cada proyecto, y entendemos el proyecto porque también proyectamos. En nuestra web publicamos también ideas y noticias sobre <strong>arquitectura</strong>. Trabajamos de forma cercana y resolvemos cualquier duda que tengas. ¡Bienvenido a Dearquitectura.info!</p>",
+   "s": 63,
+   "texto_propio": true
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/de-arquitectura.jpg",
+   "alt": "de-arquitectura",
+   "size": "large",
+   "wpid": 1984,
+   "s": 63
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arquitectura-y-diseno.jpg",
+   "alt": "arquitectura-y-diseño",
+   "size": "large",
+   "wpid": 580,
+   "s": 63
+  },
+  {
+   "type": "button",
+   "text": "Arquitectura",
+   "size": "sm",
+   "href": "/",
+   "s": 63
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "DE-arquitectura: Nuestra Mision",
+     "html": "<p>Nuestra misión es crear espacios que respondan a las necesidades, los deseos y los sueños de nuestros clientes, con un enfoque profesional, de solución de problemas, ecológico y de sustentabilidad, arte y diseño.</p><p>Creemos que la arquitectura es una forma de expresión artística que debe integrarse con el entorno natural y social, respetando los principios de eficiencia energética, accesibilidad, funcionalidad y estética.</p><p>Nuestro objetivo es ofrecer un servicio personalizado y de calidad, que se adapte a cada proyecto y presupuesto, y que supere las expectativas de nuestros clientes. Nos comprometemos a respetar los principios de eficiencia energética, accesibilidad, funcionalidad y estética que promuevan una arquitectura responsable e innovadora.</p><h4>Mirada Arquitectónica </h4><div class=\"flex flex-grow flex-col max-w-full\"><div class=\"min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto\" data-message-author-role=\"assistant\" data-message-id=\"e5d728e2-4c16-46fe-9ebd-34beea168a35\"><div class=\"markdown prose w-full break-words dark:prose-invert light\"><p>Nuestra web es un espacio integral para todo lo relacionado con la arquitectura: desde noticias, tendencias y proyectos hasta consejos, recursos y servicios profesionales de diseño y construcción. Concebida como un punto de encuentro para los amantes de esta disciplina, nuestra plataforma aspira a educar, inspirar, compartir y colaborar. Ofrece una visión global y diversa de la arquitectura, abarcando aspectos históricos, teóricos, críticos, así como prácticos, tecnológicos, innovadores y sostenibles. </p><p>A través de contenido riguroso y accesible, nuestra plataforma te sumerge en el fascinante mundo Arquitectónico, manteniéndote actualizado y ofreciéndote soluciones para tus proyectos. ¡Te invitamos a explorarla y descubrir todo lo que puede ofrecerte!\"</p></div></div></div><div class=\"mt-1 flex justify-start gap-3 empty:hidden\"><div class=\"text-gray-400 flex self-end lg:self-center justify-center lg:justify-start mt-0 gap-1 visible\"> </div></div>"
+    }
+   ],
+   "s": 64
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arquitecto.jpg",
+   "alt": "arquitecto",
+   "size": "large",
+   "wpid": 309,
+   "href": "/arquitectos/",
+   "s": 65
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "ARQUITECTOS Y ESTUDIOS",
+   "html": "ARQUITECTOS Y ESTUDIOS<br>",
+   "s": 65
+  },
+  {
+   "type": "text",
+   "text": "Hay muchos tipos de arquitectos : de vivienda, de interiores, urbanistas, paisajistas, técnicos o calculistas. Todos necesitan en algún momento enseñar su trabajo con imágenes. Aquí tienes los tipos de arquitectos que existen.",
+   "html": "<p>Hay muchos tipos de <strong>arquitectos</strong>: de vivienda, de interiores, urbanistas, paisajistas, técnicos o calculistas. Todos necesitan en algún momento enseñar su trabajo con imágenes. Aquí tienes los tipos de arquitectos que existen.</p>",
+   "s": 65,
+   "texto_propio": true
+  },
+  {
+   "type": "text",
+   "text": "Arquitecto Arquitectos Famosos Arquitectos de interiores Arquitectos Modernos Arquitectos Delineantes Arquitectos Técnicos Arquitectos Diseñadores",
+   "html": "<h3><a href=\"https://dearquitectura.info/arquitectos/\"><span style=\"font-size: 18.72px;\">Arquitecto</span></a></h3><h3><a href=\"https://dearquitectura.info/arquitectos-famosos/\"><span style=\"font-size: 18.72px;\">Arquitectos</span><strong> Famosos</strong> </a></h3><h3><a href=\"https://dearquitectura.info/arquitectos-de-interiores/\">Arquitectos de interiores</a></h3><h3><a href=\"https://dearquitectura.info/arquitecto-moderno/\">Arquitectos Modernos</a></h3><h3><a href=\"https://dearquitectura.info/delineante/\">Arquitectos Delineantes </a></h3><h3><a href=\"https://dearquitectura.info/arquitecto-tecnico/\">Arquitectos Técnicos </a></h3><h3><a href=\"https://dearquitectura.info/arquitecto-disenador/\">Arquitectos Diseñadores</a></h3>",
+   "s": 66
+  },
+  {
+   "type": "text",
+   "text": "Arquitectos Urbano Arquitectos Proyectistas Arquitectos Interioristas Arquitectos Paisajistas Arquitectos Calculistas Arquitectos Decoradores Aparejadores",
+   "html": "<h3><a href=\"https://dearquitectura.info/arquitecto-urbano/\">Arquitectos Urbano </a></h3><h3><a href=\"https://dearquitectura.info/proyectista/\">Arquitectos Proyectistas </a></h3><h3><a href=\"https://dearquitectura.info/interiorista/\">Arquitectos Interioristas </a></h3><h3><a href=\"https://dearquitectura.info/paisajista/\">Arquitectos <strong>Paisajistas </strong></a></h3><h3><a href=\"https://dearquitectura.info/calculista/\">Arquitectos Calculistas </a></h3><div><h3><a href=\"https://dearquitectura.info/decorador/\">Arquitectos Decoradores</a></h3><h3><a href=\"https://dearquitectura.info/aparejadores/\">Aparejadores</a></h3></div>",
+   "s": 66
+  },
+  {
+   "type": "text",
+   "text": "Conoce todos los tipos de arquitectos aquí!",
+   "html": "<p>Conoce todos los <strong>tipos de arquitectos</strong> aquí!</p>",
+   "s": 66
+  },
+  {
+   "type": "button",
+   "text": "Arquitecto",
+   "size": "sm",
+   "href": "/arquitectos/",
+   "s": 66
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/plataforma-de-arquitectura.jpg",
+   "alt": "plataforma-de-arquitectura",
+   "size": "large",
+   "wpid": 300,
+   "href": "/plataforma-arquitectura/",
+   "s": 69
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "PLATAFORMA DE RENDERS DE Arquitectos",
+   "html": "PLATAFORMA DE RENDERS DE  Arquitectos<br>",
+   "s": 69
+  },
+  {
+   "type": "heading",
+   "tag": "p",
+   "text": "PLATAFORMA DE ARQUITECTURA",
+   "s": 69
+  },
+  {
+   "type": "text",
+   "text": "Entra en nuestra plataforma de arquitectura : noticias, proyectos, cursos, libros y servicios. Encontrarás recursos para tu estudio y para presentar mejor tus proyectos .",
+   "html": "<p>Entra en nuestra <strong>plataforma de arquitectura</strong>: noticias, proyectos, cursos, libros y servicios. Encontrarás recursos para tu estudio y para presentar mejor tus <strong>proyectos</strong>.</p>",
+   "s": 69,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Plataforma",
+   "size": "sm",
+   "href": "/plataforma-arquitectura/",
+   "s": 69
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Estudios-de-arquitectura.jpg",
+   "alt": "Estudios-de-arquitectura",
+   "size": "large",
+   "wpid": 196,
+   "href": "/estudio-de-arquitectura/",
+   "s": 71
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "ESTUDIO DE RENDER DE ARQUITECTOS",
+   "html": "ESTUDIO DE RENDER DE ARQUITECTOS<br>",
+   "s": 71
+  },
+  {
+   "type": "text",
+   "text": "¿Quieres que tus proyectos se vean como merecen? Nuestro estudio de render prepara las imágenes a partir de tus planos o de tu modelo.",
+   "html": "<p>¿Quieres que tus proyectos se vean como merecen? Nuestro <strong>estudio de render</strong> prepara las imágenes a partir de tus planos o de tu modelo.</p>",
+   "s": 71,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Estudio",
+   "size": "sm",
+   "href": "/estudio-de-arquitectura/",
+   "s": 71
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/Agencia-de-diseno.jpg",
+   "alt": "Agencia-de-diseño",
+   "size": "large",
+   "wpid": 5183,
+   "href": "/agencia-de-diseno/",
+   "s": 73
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "AGENCIA DE DISEÑO RENDERS Arquitectos 3D",
+   "html": "AGENCIA DE DISEÑO RENDERS Arquitectos 3D<span style=\"font-family: Mulish, sans-serif; font-size: 36px; font-weight: 300; letter-spacing: -1.1px;\"></span><br>",
+   "s": 73
+  },
+  {
+   "type": "text",
+   "text": "Como agencia de diseño , ayudamos también a los estudios con su imagen: identidad visual , diseño gráfico , web y presentación de proyectos.",
+   "html": "<p>Como <strong>agencia de diseño</strong>, ayudamos también a los estudios con su imagen: <strong>identidad visual</strong>, <strong>diseño gráfico</strong>, web y presentación de proyectos.</p>",
+   "s": 73,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Agencia",
+   "size": "sm",
+   "href": "/agencia-de-diseno/",
+   "s": 73
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Construcción",
+   "s": 77
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Construccion-arquitectura.jpg",
+   "alt": "Construcción-arquitectura",
+   "size": "large",
+   "wpid": 694,
+   "href": "/construccion/",
+   "s": 77
+  },
+  {
+   "type": "text",
+   "text": "¿Tu cliente va a construir ? Con un render le enseñas el proyecto antes de empezar la obra.",
+   "html": "<p>¿Tu cliente va a <strong>construir</strong>? Con un render le enseñas el proyecto antes de empezar la obra.</p>",
+   "s": 77,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Construcción",
+   "size": "sm",
+   "href": "/construccion/",
+   "s": 77
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Reformas",
+   "s": 77
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/reforma.jpg",
+   "alt": "reforma",
+   "size": "large",
+   "wpid": 696,
+   "href": "/reformas/",
+   "s": 77
+  },
+  {
+   "type": "text",
+   "text": "¿Proyectas una reforma ? Enséñale al cliente el antes y el después en 3D.",
+   "html": "<p>¿Proyectas una <strong>reforma</strong>? Enséñale al cliente el antes y el después en 3D.</p>",
+   "s": 77,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Reformas",
+   "size": "sm",
+   "href": "/reformas/",
+   "s": 77
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Diseños renders",
+   "s": 77
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Disenos-arquitectonicos.jpg",
+   "alt": "Diseños-arquitectónicos",
+   "size": "large",
+   "wpid": 685,
+   "href": "/disenos-arquitectonicos/",
+   "s": 77
+  },
+  {
+   "type": "text",
+   "text": "Diseño arquitectónico y visualización trabajando juntos: el proyecto se ve mientras se diseña.",
+   "html": "<p><strong>Diseño arquitectónico</strong> y visualización trabajando juntos: el proyecto se ve mientras se diseña.</p>",
+   "s": 77,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Diseños",
+   "size": "sm",
+   "href": "/disenos-arquitectonicos/",
+   "s": 77
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Interiorismo y decoración",
+   "s": 77
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/interiorismo-y-decoracion.jpg",
+   "alt": "interiorismo-y-decoración",
+   "size": "large",
+   "wpid": 687,
+   "href": "/interiorismo/",
+   "s": 77
+  },
+  {
+   "type": "text",
+   "text": "Interiorismo y decoración para completar los interiores de tus proyectos con mobiliario y materiales.",
+   "html": "<p><strong>Interiorismo y decoración</strong> para completar los interiores de tus proyectos con mobiliario y materiales.</p>",
+   "s": 77,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Interiorismo",
+   "size": "sm",
+   "href": "/interiorismo/",
+   "s": 77
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/empresa-de-arquitectura.jpg",
+   "alt": "empresa-de-arquitectura",
+   "size": "large",
+   "wpid": 711,
+   "href": "/empresas/",
+   "s": 79
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Empresa de Arquitectura y renders para Arquitectos",
+   "html": "Empresa de Arquitectura y renders para Arquitectos<br>",
+   "s": 79
+  },
+  {
+   "type": "text",
+   "text": "Conoce las empresas de arquitectura y diseño con las que colaboramos: estudios que proyectan viviendas, edificios y espacios públicos y que confían en nosotros para mostrarlos.",
+   "html": "<p>Conoce las <strong>empresas de arquitectura</strong> y diseño con las que colaboramos: estudios que proyectan viviendas, edificios y espacios públicos y que confían en nosotros para mostrarlos.</p>",
+   "s": 79,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Empresa",
+   "size": "sm",
+   "href": "/empresas/",
+   "s": 79
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/despachos-de-arquitectura-1.jpg",
+   "alt": "despachos-de-arquitectura",
+   "size": "large",
+   "wpid": 1694,
+   "href": "/despacho/",
+   "s": 81
+  },
+  {
+   "type": "heading",
+   "tag": "p",
+   "text": "Contáctanos para analizar tu proyecto",
+   "s": 81
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Despacho de Render de Arquitecto",
+   "html": "Despacho de Render de Arquitecto<br>",
+   "s": 81
+  },
+  {
+   "type": "text",
+   "text": "Desde nuestro despacho de arquitectura colaboramos con otros arquitectos: visualización, planos, modelado y apoyo en las presentaciones.",
+   "html": "<p>Desde nuestro <strong>despacho de arquitectura</strong> colaboramos con otros arquitectos: visualización, planos, modelado y apoyo en las presentaciones.</p>",
+   "s": 81,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Despacho",
+   "size": "sm",
+   "href": "/despacho/",
+   "s": 81
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Trabajo-de-arquitectura.jpg",
+   "alt": "Trabajo-de-arquitectura",
+   "size": "large",
+   "wpid": 709,
+   "href": "/trabajos/",
+   "s": 83
+  },
+  {
+   "type": "heading",
+   "tag": "p",
+   "text": "¿Quieres trabajar con nosotros?",
+   "s": 83
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Trabajo de renderista de Arquitectos",
+   "html": "Trabajo de renderista de Arquitectos<br>",
+   "s": 83
+  },
+  {
+   "type": "text",
+   "text": "¿Eres renderista o arquitecto y te gustaría colaborar con estudios? Trabajamos en remoto con profesionales de distintos países. Escríbenos y hablamos.",
+   "html": "<p>¿Eres <strong>renderista</strong> o arquitecto y te gustaría colaborar con estudios? Trabajamos en remoto con profesionales de distintos países. Escríbenos y hablamos.</p>",
+   "s": 83,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Trabajos",
+   "size": "sm",
+   "href": "/trabajos/",
+   "s": 83
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/curso-de-arquitectura.jpg",
+   "alt": "curso-de-arquitectura",
+   "size": "large",
+   "wpid": 355,
+   "href": "/cursos-de-arquitectura/",
+   "s": 85
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Cursos de Renders Arquitectos",
+   "html": "Cursos de Renders Arquitectos<br>",
+   "s": 85
+  },
+  {
+   "type": "text",
+   "text": "Los cursos online de arquitectura ofrecen formación a distancia en dibujo 2D, modelado 3D , render, fotografía, vídeo y diseño, para que el estudio amplíe lo que sabe hacer.",
+   "html": "<p>Los <strong>cursos online de arquitectura</strong> ofrecen formación a distancia en dibujo 2D, <strong>modelado 3D</strong>, render, fotografía, vídeo y diseño, para que el estudio amplíe lo que sabe hacer.</p>",
+   "s": 85,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Cursos",
+   "size": "sm",
+   "href": "/cursos-de-arquitectura/",
+   "s": 85
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "TIPOS DE ARQUITECTURA Y ESTILOS",
+   "s": 87
+  },
+  {
+   "type": "text",
+   "text": "Descubre los estilos arquitectónicos mas importante de la historia humana",
+   "html": "<p>Descubre los <strong>estilos arquitectónicos</strong> mas importante de la historia humana</p>",
+   "s": 87
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Romana",
+   "href": "/arquitectura-romana/",
+   "s": 89
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arquitectura-roma.jpg",
+   "alt": "arquitectura-roma",
+   "size": "large",
+   "wpid": 619,
+   "href": "/arquitectura-romana/",
+   "s": 89
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Barroca",
+   "href": "/arquitectura-barroca/",
+   "s": 89,
+   "href_original": "/arquitectura-Barroca/",
+   "cambio": "enlace_roto"
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arquitectura-del-barroco.jpg",
+   "alt": "arquitectura-del-barroco",
+   "size": "large",
+   "wpid": 615,
+   "href": "/arquitectura-barroca/",
+   "s": 89,
+   "href_original": "/arquitectura-Barroca/",
+   "cambio": "enlace_roto"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Griega",
+   "href": "/arquitectura-griega/",
+   "s": 89
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Arquitectura-grecia.jpg",
+   "alt": "Arquitectura-grecia",
+   "size": "large",
+   "wpid": 624,
+   "href": "/arquitectura-griega/",
+   "s": 89
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Gotica",
+   "href": "/arquitectura-gotica/",
+   "s": 89
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Gotica-arquitectura.jpg",
+   "alt": "Gótica-arquitectura",
+   "size": "large",
+   "wpid": 626,
+   "href": "/arquitectura-gotica/",
+   "s": 89
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Moderna",
+   "href": "/arquitectura-moderna/",
+   "s": 89
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Moderna-arquitectura.jpg",
+   "alt": "Moderna-arquitectura",
+   "size": "large",
+   "wpid": 630,
+   "href": "/arquitectura-moderna/",
+   "s": 89
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Neoclásica",
+   "href": "/arquitectura-neoclasica/",
+   "s": 89
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/neoclasica-arquitectura.jpg",
+   "alt": "neoclásica-arquitectura",
+   "size": "large",
+   "wpid": 633,
+   "href": "/arquitectura-neoclasica/",
+   "s": 89
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Renacentista",
+   "href": "/arquitectura-renacentista/",
+   "s": 91
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/renacentista-arquitectura.jpg",
+   "alt": "renacentista-arquitectura",
+   "size": "large",
+   "wpid": 638,
+   "href": "/arquitectura-renacentista/",
+   "s": 91
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Maya",
+   "href": "/arquitectura-maya/",
+   "s": 91
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arquitectura-mayas.jpg",
+   "alt": "arquitectura-mayas",
+   "size": "large",
+   "wpid": 632,
+   "href": "/arquitectura-maya/",
+   "s": 91
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Egipcia",
+   "href": "/arquitectura-egipcia/",
+   "s": 91
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arte-y-arquitectura-egipcia.jpg",
+   "alt": "arte-y-arquitectura-egipcia",
+   "size": "large",
+   "wpid": 639,
+   "href": "/arquitectura-egipcia/",
+   "s": 91
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Azteca",
+   "s": 91
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arte-y-arquitectura-azteca.jpg",
+   "alt": "arte-y-arquitectura-azteca",
+   "size": "large",
+   "wpid": 643,
+   "href": "/arquitectura-azteca/",
+   "s": 91
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Incas",
+   "href": "/arquitectura-incaica/",
+   "s": 91
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arquitectura-incas.jpg",
+   "alt": "arquitectura-incas",
+   "size": "large",
+   "wpid": 646,
+   "href": "/arquitectura-incaica/",
+   "s": 91
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Bioclimática",
+   "href": "/arquitectura-bioclimatica/",
+   "s": 91
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/arquitecturas-bioclimaticas.webp",
+   "alt": "arquitecturas-bioclimaticas",
+   "size": "large",
+   "wpid": 4217,
+   "href": "/arquitectura-bioclimatica/",
+   "s": 91
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Sustentable",
+   "href": "/arquitectura-sustentable/",
+   "s": 93
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/03/sustentable-arquitectura.jpg",
+   "alt": "sustentable-arquitectura",
+   "size": "large",
+   "wpid": 3262,
+   "href": "/arquitectura-sustentable/",
+   "s": 93
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Brutalista",
+   "href": "/arquitectura-brutalista/",
+   "s": 93
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/brutalismo-arquitectura.jpg",
+   "alt": "brutalismo-arquitectura",
+   "size": "large",
+   "wpid": 664,
+   "href": "/arquitectura-brutalista/",
+   "s": 93
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Bizantina",
+   "href": "/arquitectura-bizantina/",
+   "s": 93
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/bizantino-arquitectura.jpg",
+   "alt": "bizantino-arquitectura",
+   "size": "large",
+   "wpid": 666,
+   "href": "/arquitectura-bizantina/",
+   "s": 93
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Mediterránea",
+   "href": "/arquitectura-mediterranea/",
+   "s": 93
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Mediterranea-arquitectura.jpg",
+   "alt": "Mediterránea-arquitectura",
+   "size": "large",
+   "wpid": 962,
+   "href": "/arquitectura-mediterranea/",
+   "s": 93
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Urbana",
+   "href": "/arquitectura-urbana/",
+   "s": 93
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/06/arquitectura-urbanistica.jpg",
+   "alt": "arquitectura-urbanística",
+   "size": "large",
+   "wpid": 5522,
+   "href": "/arquitectura-urbana/",
+   "s": 93
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Industrial",
+   "href": "/arquitectura-industrial/",
+   "s": 93
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/06/arquitectura-industriales.jpg",
+   "alt": "arquitectura-industriales",
+   "size": "large",
+   "wpid": 5523,
+   "href": "/arquitectura-industrial/",
+   "s": 93
+  },
+  {
+   "type": "text",
+   "text": "Conoce todos los tipos y estilos arquitectónicos aquí!",
+   "html": "<p>Conoce todos los <strong>tipos y estilos arquitectónicos</strong> aquí!</p>",
+   "s": 94
+  },
+  {
+   "type": "button",
+   "text": "TIPOS DE ARQUITECTURA",
+   "size": "sm",
+   "href": "/tipos-de-arquitectura/",
+   "s": 94
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Dibujo-de-arquitectura.jpg",
+   "alt": "Dibujo-de-arquitectura",
+   "size": "large",
+   "wpid": 228,
+   "href": "/dibujos-de-arquitectura/",
+   "s": 96
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Dibujos RENDERS Arquitectos",
+   "html": "Dibujos RENDERS Arquitectos<br>",
+   "s": 96
+  },
+  {
+   "type": "text",
+   "text": "Antes del render, el arquitecto dibuja: croquis , bocetos e ilustraciones que también pueden convertirse en imágenes de presentación.",
+   "html": "<p>Antes del render, el arquitecto dibuja: <strong>croquis</strong>, bocetos e ilustraciones que también pueden convertirse en imágenes de presentación.</p>",
+   "s": 96,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Dibujos",
+   "size": "sm",
+   "href": "/dibujos-de-arquitectura/",
+   "s": 96
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Planos-arquitectura.jpg",
+   "alt": "Planos-arquitectura",
+   "size": "large",
+   "wpid": 224,
+   "href": "/planos/",
+   "s": 98
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Render Planos de Arquitectos",
+   "html": "Render Planos de Arquitectos <br>",
+   "s": 98
+  },
+  {
+   "type": "text",
+   "text": "Los planos del arquitecto son la base de cualquier render: plantas para la distribución, alzados para la fachada y secciones para las alturas. El render los respeta al centímetro.",
+   "html": "<p>Los <strong>planos</strong> del arquitecto son la base de cualquier render: <strong>plantas</strong> para la distribución, alzados para la fachada y secciones para las alturas. El render los respeta al centímetro.</p>",
+   "s": 98,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Planos",
+   "size": "sm",
+   "href": "/planos/",
+   "s": 98
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/maqueta-de-arquitectura.jpg",
+   "alt": "maqueta-de-arquitectura",
+   "size": "large",
+   "wpid": 432,
+   "href": "/maquetas-de-arquitectura/",
+   "s": 102
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Maquetas renders de Arquitectos",
+   "html": "Maquetas renders de Arquitectos<br>",
+   "s": 102
+  },
+  {
+   "type": "text",
+   "text": "La maqueta sigue siendo muy útil para pensar el volumen. El render la completa con lo que la maqueta no da: materiales reales, luz, entorno y vistas desde dentro.",
+   "html": "<p>La <strong>maqueta</strong> sigue siendo muy útil para pensar el volumen. El <strong>render</strong> la completa con lo que la maqueta no da: materiales reales, luz, entorno y vistas desde dentro.</p>",
+   "s": 102,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Maquetas",
+   "size": "sm",
+   "href": "/maquetas-de-arquitectura/",
+   "s": 102
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/portafolios-de-arquitectura.jpg",
+   "alt": "portafolios-de-arquitectura",
+   "size": "large",
+   "wpid": 1809,
+   "href": "/portafolios-arquitectura/",
+   "s": 105
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Portafolios renders Arquitectos",
+   "html": "Portafolios renders Arquitectos <br>",
+   "s": 105
+  },
+  {
+   "type": "text",
+   "text": "Un portafolio de arquitectura vive de sus imágenes. Los renders permiten incluir proyectos no construidos, concursos y propuestas con la misma calidad que las obras terminadas.",
+   "html": "<p>Un <strong>portafolio de arquitectura</strong> vive de sus imágenes. Los renders permiten incluir proyectos no construidos, concursos y propuestas con la misma calidad que las obras terminadas.</p>",
+   "s": 105,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Portafolios",
+   "size": "sm",
+   "href": "/portafolios-arquitectura/",
+   "s": 105
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/imagenes-de-arquitectura.jpg",
+   "alt": "imágenes-de-arquitectura",
+   "size": "large",
+   "wpid": 2101,
+   "href": "/imagen-de-arquitectura/",
+   "s": 107
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Fotos e Imágenes de renders Arquitectos",
+   "s": 107
+  },
+  {
+   "type": "text",
+   "text": "Explora nuestras imágenes de arquitectura : edificios, interiores, planos y paisajes que te darán ideas para presentar tus proyectos .",
+   "html": "<p>Explora nuestras <strong>imágenes de arquitectura</strong>: edificios, interiores, planos y paisajes que te darán ideas para presentar tus <strong>proyectos</strong>.</p>",
+   "s": 107,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Imágenes",
+   "size": "sm",
+   "href": "/imagen-de-arquitectura/",
+   "s": 107
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Libros-de-arquitectura.jpg",
+   "alt": "Libros-de-arquitectura",
+   "size": "large",
+   "wpid": 353,
+   "href": "/libros-de-arquitectura/",
+   "s": 109
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Libros",
+   "s": 109
+  },
+  {
+   "type": "text",
+   "text": "Hay libros de arquitectura que tratan la representación del proyecto: dibujo, perspectiva, fotografía y visualización. Son una buena base para presentar mejor tu trabajo.",
+   "html": "<p>Hay <strong>libros de arquitectura</strong> que tratan la representación del proyecto: dibujo, perspectiva, fotografía y visualización. Son una buena base para presentar mejor tu trabajo.</p>",
+   "s": 109,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Libros",
+   "size": "sm",
+   "href": "/libros-de-arquitectura/",
+   "s": 109
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/revista-de-arquitectura.jpg",
+   "alt": "revista-de-arquitectura",
+   "size": "large",
+   "wpid": 1507,
+   "href": "/revistas-de-arquitectura/",
+   "s": 111
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Revistas",
+   "s": 111
+  },
+  {
+   "type": "text",
+   "text": "Las revistas de arquitectura publican proyectos con imágenes muy cuidadas, muchas de ellas renders. Son una buena referencia de cómo se presenta hoy la arquitectura.",
+   "html": "<p>Las <strong>revistas de arquitectura</strong> publican proyectos con imágenes muy cuidadas, muchas de ellas renders. Son una buena referencia de cómo se presenta hoy la arquitectura.</p>",
+   "s": 111,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Revistas",
+   "size": "sm",
+   "href": "/revistas-de-arquitectura/",
+   "s": 111
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Programa-de-arquitectura.png",
+   "alt": "Programa-de-arquitectura",
+   "size": "large",
+   "wpid": 800,
+   "href": "/programas-de-arquitectura/",
+   "s": 113
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Programas PARA RENDERS Arquitectos",
+   "html": "Programas PARA RENDERS Arquitectos<br>",
+   "s": 113
+  },
+  {
+   "type": "text",
+   "text": "Los arquitectos modelan sobre todo en SketchUp , Revit , ArchiCAD y Rhino . Para el render, Enscape y Twinmotion se conectan directamente con esos programas, mientras que V-Ray y Corona dan el máximo realismo.",
+   "html": "<p>Los arquitectos modelan sobre todo en <strong>SketchUp</strong>, <strong>Revit</strong>, <strong>ArchiCAD</strong> y <strong>Rhino</strong>. Para el render, <strong>Enscape</strong> y <strong>Twinmotion</strong> se conectan directamente con esos programas, mientras que <strong>V-Ray</strong> y <strong>Corona</strong> dan el máximo realismo.</p>",
+   "s": 113,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Programas",
+   "size": "sm",
+   "href": "/programas-de-arquitectura/",
+   "s": 113
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/proyectos-de-arquitectura.jpg",
+   "alt": "proyectos-de-arquitectura",
+   "size": "large",
+   "wpid": 431,
+   "href": "/proyectos-de-arquitectura/",
+   "s": 115
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Proyectos de render Arquitectos",
+   "html": "Proyectos de render Arquitectos<br>",
+   "s": 115
+  },
+  {
+   "type": "text",
+   "text": "Explora proyectos de arquitectura destacados de todo el mundo: viviendas, museos, hoteles y espacios públicos. Verás cómo los grandes estudios presentan su trabajo.",
+   "html": "<p>Explora <strong>proyectos de arquitectura</strong> destacados de todo el mundo: viviendas, museos, hoteles y espacios públicos. Verás cómo los grandes estudios presentan su trabajo.</p>",
+   "s": 115,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Proyectos",
+   "size": "sm",
+   "href": "/proyectos-de-arquitectura/",
+   "s": 115
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/ia-arquitectura.jpg",
+   "alt": "ia-arquitectura",
+   "size": "large",
+   "wpid": 729,
+   "href": "/inteligencia-artificial-arquitectura/",
+   "s": 117
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Renders y Inteligencia artificial (I.A)",
+   "s": 117
+  },
+  {
+   "type": "text",
+   "text": "La inteligencia artificial ya ayuda a los arquitectos a tantear ideas y ambientes a partir de un boceto o de un texto. Pero no respeta las medidas ni los detalles del proyecto: para presentar un diseño real hace falta un render hecho sobre el modelo 3D.",
+   "html": "<p>La <strong>inteligencia artificial</strong> ya ayuda a los arquitectos a tantear ideas y ambientes a partir de un boceto o de un texto. Pero no respeta las medidas ni los detalles del proyecto: para presentar un diseño real hace falta un render hecho sobre el modelo 3D.</p>",
+   "s": 117,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "IA",
+   "size": "sm",
+   "href": "/inteligencia-artificial-arquitectura/",
+   "s": 117
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Render Arquitectos 3D",
+   "html": "Render Arquitectos 3D<span style=\"font-family: Mulish, sans-serif; font-size: 36px; font-weight: 300; letter-spacing: -1.1px;\"></span><br>",
+   "s": 118
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Tienes un proyecto que presentar?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Envíanos los planos o el modelo y dinos qué vistas necesitas, y te preparamos un presupuesto.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  }
+ ],
+ "elementor": [
+  {
+   "t": "c",
+   "id": "ca01cae",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "120135e",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "bfd31bd",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 0
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "853750d",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "5c1daf7",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h1",
+       "size": "default",
+       "b": 1
+      },
+      {
+       "t": "w",
+       "id": "fab4324",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 2
+      },
+      {
+       "t": "w",
+       "id": "1e4e40c",
+       "wt": "divider",
+       "cls": "elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "ed15c1d",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 3
+      },
+      {
+       "t": "w",
+       "id": "1763db8",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "deafef1",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-resumen",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "85bc048",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "88c8273",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 5
+      },
+      {
+       "t": "w",
+       "id": "44d004e",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 6
+      },
+      {
+       "t": "w",
+       "id": "7e1d5b4",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "a5d05c5",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "7c3525d",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "954ed4f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 8
+      },
+      {
+       "t": "w",
+       "id": "21ed74a",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 9
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "b89a867",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "cec00d0",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "114551d",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 10
+      },
+      {
+       "t": "w",
+       "id": "115a6cd",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 11
+      },
+      {
+       "t": "w",
+       "id": "8a4e727",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 12
+      },
+      {
+       "t": "w",
+       "id": "fc63c6e",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 13
+      },
+      {
+       "t": "w",
+       "id": "4ca7c5f",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 14
+      },
+      {
+       "t": "w",
+       "id": "a69c5a5",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 15
+      },
+      {
+       "t": "w",
+       "id": "8bb8579",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 16
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "af97bc5",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "699143e",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "ec9fd23",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 17
+      },
+      {
+       "t": "w",
+       "id": "22695a6",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 18
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "bd4cf56",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "0f8fbed",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "c022a95",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 19
+      },
+      {
+       "t": "w",
+       "id": "dbfd464",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "a765685",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "ebaa50c",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "23259a2",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 21
+      },
+      {
+       "t": "w",
+       "id": "7d760f5",
+       "wt": "image-gallery",
+       "cls": "elementor-widget elementor-widget-image-gallery",
+       "cols": 2,
+       "size": "large",
+       "enlace": "none",
+       "b": 22
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "603fa87",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "853808b",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "59b7bea",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 23
+      },
+      {
+       "t": "w",
+       "id": "99c8435",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 24
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "1d69727",
+   "cls": "e-con-full e-flex e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "359e3ec",
+     "cls": "e-flex e-con-boxed e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "dc600c2",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "h2",
+       "b": 25
+      },
+      {
+       "t": "w",
+       "id": "3e85001",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "h2",
+       "b": 26
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "48b7538",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "d9de505",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "629638c",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "c748dcc",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 27
+      },
+      {
+       "t": "w",
+       "id": "0ed5476",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "4fac170",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 28
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "d08ebf3",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "256d217",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 29
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "35742b3",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "bb48b5a",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "e0a15c5",
+   "cls": "e-con-full e-flex e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "86cba5f",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "ef9b207",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 30
+      },
+      {
+       "t": "w",
+       "id": "e7d37d1",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 31
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "f9994de",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "c595b7b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 32
+      },
+      {
+       "t": "w",
+       "id": "74fe969",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 33
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "944d724",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "e2ad2a0",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 34
+      },
+      {
+       "t": "w",
+       "id": "3b4e329",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 35
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "5e23050",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "6ca2881",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 36
+      },
+      {
+       "t": "w",
+       "id": "4b0928f",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 37
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "07f10a7",
+   "cls": "elementor-hidden-mobile e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "a53f4f6",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "15d68d1",
+   "cls": "e-con-full e-flex e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "1c53512",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "8dd7b90",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 38
+      },
+      {
+       "t": "w",
+       "id": "67d00fe",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 39
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "46e9735",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "c4f2d3c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 40
+      },
+      {
+       "t": "w",
+       "id": "231f7eb",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 41
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "d094c74",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "e056002",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 42
+      },
+      {
+       "t": "w",
+       "id": "0b5b6e7",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 43
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "cc20724",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "ad9b84d",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 44
+      },
+      {
+       "t": "w",
+       "id": "c5fdbf4",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 45
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "96065df",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "1c1eb09",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 46
+      },
+      {
+       "t": "w",
+       "id": "74fa4df",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 47
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "9f90afb",
+   "cls": "elementor-hidden-mobile e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "d115a4e",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "601c3e5",
+   "cls": "e-con-full e-flex e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "8f4c1bd",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "00d8edd",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 48
+      },
+      {
+       "t": "w",
+       "id": "d17134b",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 49
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "46390d2",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "5725a38",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 50
+      },
+      {
+       "t": "w",
+       "id": "3a48f25",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 51
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "d7d9e77",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "99bafce",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 52
+      },
+      {
+       "t": "w",
+       "id": "0aacde8",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 53
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "1fa3b71",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "805a2f2",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 54
+      },
+      {
+       "t": "w",
+       "id": "18dbf90",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 55
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "1671df1",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "f4a6e1f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 56
+      },
+      {
+       "t": "w",
+       "id": "28a2f99",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 57
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "43a5ed4",
+   "cls": "elementor-hidden-mobile e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "9b07fee",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "a4430b7",
+   "cls": "e-con-full e-flex e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "62b572e",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "39e281f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 58
+      },
+      {
+       "t": "w",
+       "id": "d792bf1",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 59
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "f59a1e3",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "189b007",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 60
+      },
+      {
+       "t": "w",
+       "id": "dbb65e6",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 61
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "9b2adcb",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "beb441f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 62
+      },
+      {
+       "t": "w",
+       "id": "5a56acf",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 63
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "1722d3e",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "b63ec5f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 64
+      },
+      {
+       "t": "w",
+       "id": "997de27",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 65
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "732b74b",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "968e12f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 66
+      },
+      {
+       "t": "w",
+       "id": "87a08ec",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 67
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "b75ced3",
+   "cls": "elementor-hidden-mobile e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "4513f6d",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "3370421",
+   "cls": "e-con-full e-flex e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "850d0c1",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d179011",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 68
+      },
+      {
+       "t": "w",
+       "id": "fc8bcf5",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 69
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "16aef37",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "cbf95cd",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 70
+      },
+      {
+       "t": "w",
+       "id": "e6ce307",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 71
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "e5deb99",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "21b8784",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 72
+      },
+      {
+       "t": "w",
+       "id": "861b648",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 73
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "414e1b2",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "b0090a2",
+     "wt": "text-editor",
+     "cls": "elementor-widget elementor-widget-text-editor",
+     "b": 74
+    },
+    {
+     "t": "w",
+     "id": "8b3ef57",
+     "wt": "button",
+     "cls": "elementor-align-center elementor-widget elementor-widget-button",
+     "b": 75
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "55b76c6",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "78f1575",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "09cf9f4",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "a2c1d6a",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "066be2e",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "68e1f70",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "05ce1ed",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 76
+      },
+      {
+       "t": "w",
+       "id": "dc62cb6",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 77
+      },
+      {
+       "t": "w",
+       "id": "4ff91d2",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 78
+      },
+      {
+       "t": "w",
+       "id": "a796686",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 79
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "59c5496",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "00c545f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 80
+      },
+      {
+       "t": "w",
+       "id": "3adf1cc",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 81
+      },
+      {
+       "t": "w",
+       "id": "423d8ef",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 82
+      },
+      {
+       "t": "w",
+       "id": "7191fc1",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 83
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "3f26861",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "c8f3250",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 84
+      },
+      {
+       "t": "w",
+       "id": "d973da5",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 85
+      },
+      {
+       "t": "w",
+       "id": "fa515fd",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 86
+      },
+      {
+       "t": "w",
+       "id": "1ac29c7",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 87
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "aab9dcb",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "dde0302",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    },
+    {
+     "t": "w",
+     "id": "906303c",
+     "wt": "heading",
+     "cls": "elementor-widget elementor-widget-heading",
+     "tag": "h2",
+     "size": "default",
+     "b": 88
+    },
+    {
+     "t": "w",
+     "id": "4784cc1",
+     "wt": "text-editor",
+     "cls": "elementor-widget elementor-widget-text-editor",
+     "b": 89
+    },
+    {
+     "t": "w",
+     "id": "ec3c3e7",
+     "wt": "button",
+     "cls": "elementor-align-center elementor-widget elementor-widget-button",
+     "b": 90
+    },
+    {
+     "t": "w",
+     "id": "bc84822",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "3c0379d",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "6c1abe1",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "9568683",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 91
+      },
+      {
+       "t": "w",
+       "id": "d3654eb",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 92
+      },
+      {
+       "t": "w",
+       "id": "f65357f",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 93
+      },
+      {
+       "t": "w",
+       "id": "069ded9",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 94
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "ff63e05",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "855ef86",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 95
+      },
+      {
+       "t": "w",
+       "id": "4a77c06",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 96
+      },
+      {
+       "t": "w",
+       "id": "a5e0ced",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 97
+      },
+      {
+       "t": "w",
+       "id": "485b814",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 98
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "35cd601",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d174756",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 99
+      },
+      {
+       "t": "w",
+       "id": "0d1751d",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 100
+      },
+      {
+       "t": "w",
+       "id": "b0ebaed",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 101
+      },
+      {
+       "t": "w",
+       "id": "eaf306a",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 102
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "f547b09",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "f5d8976",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 103
+      },
+      {
+       "t": "w",
+       "id": "9d36af3",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 104
+      },
+      {
+       "t": "w",
+       "id": "5d6ab86",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 105
+      },
+      {
+       "t": "w",
+       "id": "e0a582e",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 106
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "f710885",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "f3384a5",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "14d7ad0",
+   "cls": "e-con-full e-flex e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "85f43c1",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "61adb16",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 107
+      },
+      {
+       "t": "w",
+       "id": "32ddefa",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 108
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "9d302d9",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "82fee25",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 109
+      },
+      {
+       "t": "w",
+       "id": "bd9cf14",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 110
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "08dd346",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "c65452e",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 111
+      },
+      {
+       "t": "w",
+       "id": "5681c13",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 112
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "a834847",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "031a39f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 113
+      },
+      {
+       "t": "w",
+       "id": "969f347",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 114
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "13c6ca2",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "c99ab0c",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "920bebb",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "8e6a68e",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d86aa08",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 115
+      },
+      {
+       "t": "w",
+       "id": "2f4c71c",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "d462e04",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 116
+      },
+      {
+       "t": "w",
+       "id": "5da3eb4",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 117
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "b271c07",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "3812ad8",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 118
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "172537a",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "6607db9",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "b2f5c9a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 119
+      },
+      {
+       "t": "w",
+       "id": "c386b00",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 120
+      },
+      {
+       "t": "w",
+       "id": "a434ac9",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 121
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "df9ddad",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "26614c7",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 122
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "565eed2",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "eaff5b2",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d28980d",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "6ba746a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 123
+      },
+      {
+       "t": "w",
+       "id": "91a1265",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "b616b09",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 124
+      },
+      {
+       "t": "w",
+       "id": "a9f2cd1",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 125
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "c89519a",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "7d4ae83",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 126
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "08eab27",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "11e948d",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "0c9a242",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "c5e71db",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 127
+      },
+      {
+       "t": "w",
+       "id": "d970562",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "745080d",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 128
+      },
+      {
+       "t": "w",
+       "id": "0222015",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 129
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "fc94931",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "ebd0dc2",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 130
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "f7581dc",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "6998539",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "307880d",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "6ef3b46",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 131
+      },
+      {
+       "t": "w",
+       "id": "e01c837",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "a590e45",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 132
+      },
+      {
+       "t": "w",
+       "id": "3e2ba4f",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 133
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "960788e",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "340362a",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 134
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "c6f1a59",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "5be803d",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "0d0a42b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 135
+      },
+      {
+       "t": "w",
+       "id": "6b6830d",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "adb20d9",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 136
+      },
+      {
+       "t": "w",
+       "id": "35c973e",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 137
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "37486d5",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "f331dde",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 138
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "1bb266f",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "921ebdf",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "aedce2d",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 139
+      },
+      {
+       "t": "w",
+       "id": "f390e41",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "d743651",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 140
+      },
+      {
+       "t": "w",
+       "id": "b485072",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 141
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "f64ff58",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "9c2ee6e",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 142
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "1192a9e",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "429ab09",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "34e23c5",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "1a9e722",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "54070b1",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "p",
+       "size": "default",
+       "b": 143
+      },
+      {
+       "t": "w",
+       "id": "1b4033c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 144
+      },
+      {
+       "t": "w",
+       "id": "b1fb390",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 145
+      },
+      {
+       "t": "w",
+       "id": "600d4b3",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 146
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "8791f35",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "4961f58",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "p",
+       "size": "default",
+       "b": 147
+      },
+      {
+       "t": "w",
+       "id": "79a9862",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 148
+      },
+      {
+       "t": "w",
+       "id": "247ef29",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 149
+      },
+      {
+       "t": "w",
+       "id": "2138f70",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 150
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "2e7beb0",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "54db730",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "888ce55",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "762bb29",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "3cce59f",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "9661ef6",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 151
+      },
+      {
+       "t": "w",
+       "id": "a3ce1a5",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "ccf75ba",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 152
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "0967cfe",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "6512e3e",
+       "wt": "spacer",
+       "cls": "elementor-hidden-mobile elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "9a9efa3",
+       "wt": "image",
+       "cls": "elementor-widget__width-initial elementor-widget elementor-widget-image",
+       "b": 153
+      },
+      {
+       "t": "w",
+       "id": "2da17ae",
+       "wt": "image",
+       "cls": "elementor-widget__width-initial elementor-widget elementor-widget-image",
+       "b": 154
+      },
+      {
+       "t": "w",
+       "id": "cf4730e",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 155
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "38caff0",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "21c3ee6",
+     "wt": "toggle",
+     "cls": "elementor-widget elementor-widget-toggle",
+     "tag": "h3",
+     "b": 156
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "d7c7718",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "0be5c0d",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "6dc5836",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 157
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "f841673",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "0943613",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "6c022b3",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 158
+      },
+      {
+       "t": "w",
+       "id": "9ff789f",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "d2878a4",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 159
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "040db3b",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "cf5377f",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "3a598ca",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 160
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "4dac1d0",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "94c63bd",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 161
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "361dcdc",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "c36e830",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "c",
+       "id": "b2392bb",
+       "cls": "e-con-full e-flex e-con e-child",
+       "hijos": [
+        {
+         "t": "w",
+         "id": "4f7d069",
+         "wt": "text-editor",
+         "cls": "elementor-widget__width-initial elementor-widget elementor-widget-text-editor",
+         "b": 162
+        },
+        {
+         "t": "w",
+         "id": "5f29e04",
+         "wt": "button",
+         "cls": "elementor-align-center elementor-widget elementor-widget-button",
+         "b": 163
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "1d6a1b5",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "ad0d248",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "068c376",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "af64fbe",
+     "wt": "divider",
+     "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+    },
+    {
+     "t": "w",
+     "id": "306819d",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "3c291f2",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "6f6583b",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "ed830be",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 164
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "90eed53",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "ff3df38",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 165
+      },
+      {
+       "t": "w",
+       "id": "25d7ffd",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "p",
+       "size": "default",
+       "b": 166
+      },
+      {
+       "t": "w",
+       "id": "67802e6",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "c6a5f2b",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 167
+      },
+      {
+       "t": "w",
+       "id": "81a74c4",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 168
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "f58cd73",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "36bc802",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "69cc350",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "391b002",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "faa1ab5",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 169
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "5eba6b3",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "62e79bb",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 170
+      },
+      {
+       "t": "w",
+       "id": "d06b08c",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "43bfe28",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 171
+      },
+      {
+       "t": "w",
+       "id": "18b42cd",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 172
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "7bbc827",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "1f557f1",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "988f0b0",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "22c97fd",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "38589f0",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 173
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "490986a",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "49388a7",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "cbe0cb6",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 174
+      },
+      {
+       "t": "w",
+       "id": "c398699",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "e0fc9cc",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 175
+      },
+      {
+       "t": "w",
+       "id": "5e1652f",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 176
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "47b4be9",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "07558a6",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "2373e43",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "77f7707",
+     "wt": "divider",
+     "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+    },
+    {
+     "t": "w",
+     "id": "5622ce0",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "62bcc51",
+   "cls": "elementor-hidden-mobile e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "8cdfaa4",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "cd74d4e",
+   "cls": "e-con-full e-flex e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "065d19c",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "e36959c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 177
+      },
+      {
+       "t": "w",
+       "id": "fe1384a",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 178
+      },
+      {
+       "t": "w",
+       "id": "4201636",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 179
+      },
+      {
+       "t": "w",
+       "id": "22397dc",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 180
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "1359a14",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "6d95565",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 181
+      },
+      {
+       "t": "w",
+       "id": "6db5e90",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 182
+      },
+      {
+       "t": "w",
+       "id": "341e006",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 183
+      },
+      {
+       "t": "w",
+       "id": "2e39c6e",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 184
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "b6762f7",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "1884ae8",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 185
+      },
+      {
+       "t": "w",
+       "id": "c87a307",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 186
+      },
+      {
+       "t": "w",
+       "id": "9b27569",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 187
+      },
+      {
+       "t": "w",
+       "id": "9e31b59",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 188
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "a448eaa",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "f219a75",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 189
+      },
+      {
+       "t": "w",
+       "id": "0f94a63",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 190
+      },
+      {
+       "t": "w",
+       "id": "b93eb28",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 191
+      },
+      {
+       "t": "w",
+       "id": "533e55c",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 192
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "1914de2",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "949b85c",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "b79b08e",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "61f77b6",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "0693fda",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 193
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "3c9420b",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "02d5b27",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "fd02e58",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 194
+      },
+      {
+       "t": "w",
+       "id": "cd70666",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "8afacb7",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 195
+      },
+      {
+       "t": "w",
+       "id": "12ce74a",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 196
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "a2a72ea",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "07b2dd5",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "49705f3",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "66874f5",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "ce08022",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "a9f1ff0",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 197
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "6132c75",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "f374703",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "p",
+       "size": "default",
+       "b": 198
+      },
+      {
+       "t": "w",
+       "id": "a184b03",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 199
+      },
+      {
+       "t": "w",
+       "id": "64b8ec3",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "09b4953",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 200
+      },
+      {
+       "t": "w",
+       "id": "fb52b92",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 201
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "cac3447",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "12408e9",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "7bf7e8d",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "b81a215",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "0f211b9",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 202
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "7391e78",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "87f8d3b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "p",
+       "size": "default",
+       "b": 203
+      },
+      {
+       "t": "w",
+       "id": "f215e5c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 204
+      },
+      {
+       "t": "w",
+       "id": "b9eebe2",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "6950824",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 205
+      },
+      {
+       "t": "w",
+       "id": "c642531",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 206
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "9a4af39",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "457e709",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "cbab4f7",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "3794931",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "f24d381",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "1ad70fb",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 207
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "cd5f844",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "2077d1e",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 208
+      },
+      {
+       "t": "w",
+       "id": "470fe15",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "f7cb492",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 209
+      },
+      {
+       "t": "w",
+       "id": "4e681bf",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 210
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "2221265",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "564cb81",
+     "wt": "divider",
+     "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+    },
+    {
+     "t": "w",
+     "id": "ab85d7b",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "ccfc291",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "5f5070c",
+     "wt": "heading",
+     "cls": "elementor-widget elementor-widget-heading",
+     "tag": "h2",
+     "size": "default",
+     "b": 211
+    },
+    {
+     "t": "w",
+     "id": "94ab477",
+     "wt": "text-editor",
+     "cls": "elementor-widget elementor-widget-text-editor",
+     "b": 212
+    },
+    {
+     "t": "w",
+     "id": "03c0cd5",
+     "wt": "divider",
+     "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "700954e",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "d6f6deb",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "8bca1d3",
+   "cls": "e-con-full e-flex e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "4b73f90",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "164b0ba",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 213
+      },
+      {
+       "t": "w",
+       "id": "d3bf691",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 214
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "d247c82",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "95b49b2",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 215
+      },
+      {
+       "t": "w",
+       "id": "bc13a7f",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 216
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "68dce53",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "6fd29e1",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 217
+      },
+      {
+       "t": "w",
+       "id": "dad3a5b",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 218
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "a459742",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "f447351",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 219
+      },
+      {
+       "t": "w",
+       "id": "48d1003",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 220
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "cbae26e",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "41fc538",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 221
+      },
+      {
+       "t": "w",
+       "id": "7b5157e",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 222
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "8bfe6b6",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "7d36611",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 223
+      },
+      {
+       "t": "w",
+       "id": "eba5ea3",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 224
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "12cebce",
+   "cls": "elementor-hidden-mobile e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "02cd595",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "4e1ee8f",
+   "cls": "e-con-full e-flex e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "df81ffa",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "e20afce",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 225
+      },
+      {
+       "t": "w",
+       "id": "52483ad",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 226
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "a2869e2",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "55fac54",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 227
+      },
+      {
+       "t": "w",
+       "id": "bbe9109",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 228
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "c19e945",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "13419ed",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 229
+      },
+      {
+       "t": "w",
+       "id": "d44eb80",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 230
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "3497b5e",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "babc82b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 231
+      },
+      {
+       "t": "w",
+       "id": "5676f5b",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 232
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "e383781",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "5f4b1fd",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 233
+      },
+      {
+       "t": "w",
+       "id": "7030459",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 234
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "68c10a8",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "297c446",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 235
+      },
+      {
+       "t": "w",
+       "id": "31b068e",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 236
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "663a1d6",
+   "cls": "elementor-hidden-mobile e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "aa8e1dd",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "bae66c1",
+   "cls": "e-con-full e-flex e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "2bd609b",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "bca4285",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 237
+      },
+      {
+       "t": "w",
+       "id": "bdd83a5",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 238
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "af00a75",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "7371f6c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 239
+      },
+      {
+       "t": "w",
+       "id": "b7f638d",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 240
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "caea501",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "2addbaa",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 241
+      },
+      {
+       "t": "w",
+       "id": "00a8d5c",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 242
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "28469b9",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "4ff945e",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 243
+      },
+      {
+       "t": "w",
+       "id": "82fd13c",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 244
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "d1d6203",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "41abe42",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 245
+      },
+      {
+       "t": "w",
+       "id": "e974d2f",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 246
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "c286f8d",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "f9e51fa",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 247
+      },
+      {
+       "t": "w",
+       "id": "533adcd",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 248
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "6703d8d",
+   "cls": "e-con-full e-flex e-con e-child",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "726c6d5",
+     "wt": "spacer",
+     "cls": "elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-spacer"
+    },
+    {
+     "t": "w",
+     "id": "cc69b1b",
+     "wt": "text-editor",
+     "cls": "elementor-widget elementor-widget-text-editor",
+     "b": 249
+    },
+    {
+     "t": "w",
+     "id": "5fccfdc",
+     "wt": "button",
+     "cls": "elementor-align-center elementor-widget elementor-widget-button",
+     "b": 250
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "fe9bb5b",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "468f212",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "f45ba7a",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "7cdc1b1",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "73cb19f",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 251
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "a1962d5",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "e60afa6",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "3f18d4f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 252
+      },
+      {
+       "t": "w",
+       "id": "8af558a",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "eea5803",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 253
+      },
+      {
+       "t": "w",
+       "id": "356e49a",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 254
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "9c2876d",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "ff5fa17",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "db0c095",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "be6c449",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "87af07c",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 255
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "d3a727d",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "67d5266",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "6ffb8fb",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 256
+      },
+      {
+       "t": "w",
+       "id": "ac3c534",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "c803901",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 257
+      },
+      {
+       "t": "w",
+       "id": "4cf70c5",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 258
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "68a559d",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "93179bc",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "5271bd0",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "4a2d81c",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "fa6374e",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "81803d2",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "ea7ad28",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "53b5fa5",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "aa295c2",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 259
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "21142db",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "306a01a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 260
+      },
+      {
+       "t": "w",
+       "id": "1e98a1d",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "fa5de7a",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 261
+      },
+      {
+       "t": "w",
+       "id": "a0bba48",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 262
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "15696c1",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "3a3a5fd",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "74b6969",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "343b3ff",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "130c466",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "2983ac8",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "20dad83",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 263
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "9df98d2",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "8c94026",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "5dbfc49",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 264
+      },
+      {
+       "t": "w",
+       "id": "edca027",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "7faf099",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 265
+      },
+      {
+       "t": "w",
+       "id": "b6756a4",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 266
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "84da9a0",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "26b226b",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "bb9e152",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "37dc054",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d9c876a",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 267
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "39774fa",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "c29422e",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 268
+      },
+      {
+       "t": "w",
+       "id": "80c51e7",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "b08800e",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 269
+      },
+      {
+       "t": "w",
+       "id": "444102e",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 270
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "3cea4b5",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "02ed9f8",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "f221ef1",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "9bd20e3",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "a937998",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 271
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "30990c0",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "7f8461c",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "78bf2a6",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 272
+      },
+      {
+       "t": "w",
+       "id": "f0ae3de",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "ed942cc",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 273
+      },
+      {
+       "t": "w",
+       "id": "01df303",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 274
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "c756395",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "6fb0434",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "57e4379",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "53346ce",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "dad8d5b",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "3f12e36",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 275
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "8cddc4d",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "a3ea462",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 276
+      },
+      {
+       "t": "w",
+       "id": "9e2b756",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "389e7a0",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 277
+      },
+      {
+       "t": "w",
+       "id": "4f9aebd",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 278
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "01f3bcf",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "99ccc21",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "07b747a",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "4b43705",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "34b012f",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 279
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "7d2bca0",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "13b198b",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "fa579b2",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 280
+      },
+      {
+       "t": "w",
+       "id": "de5cca6",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "54cb84e",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 281
+      },
+      {
+       "t": "w",
+       "id": "71f7b5f",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 282
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "90768ff",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "673bd18",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "f9a89ad",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "5b78fce",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "4cec21d",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 283
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "228c8c6",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "7ae11da",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 284
+      },
+      {
+       "t": "w",
+       "id": "dd15f50",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "a3f94c2",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 285
+      },
+      {
+       "t": "w",
+       "id": "b0c12f9",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 286
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "7c268cd",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "face106",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "4e4d4d8",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "8dc3046",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "9d44e14",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "7f7f5d7",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 287
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "a4828ea",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "bd53b4c",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "c2b64db",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 288
+      },
+      {
+       "t": "w",
+       "id": "2c6c90a",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "aa5d488",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 289
+      },
+      {
+       "t": "w",
+       "id": "785d81f",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 290
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "6b71b86",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "8635ca3",
+     "wt": "heading",
+     "cls": "elementor-widget elementor-widget-heading",
+     "tag": "h2",
+     "size": "default",
+     "b": 291
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "fe7389d",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-cierre",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "1c6bf7d",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "3544230",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 292
+      },
+      {
+       "t": "w",
+       "id": "ce7529b",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 293
+      },
+      {
+       "t": "w",
+       "id": "3e8369a",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 294
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "modelo_id": "11362"
+}

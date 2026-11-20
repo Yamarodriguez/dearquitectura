@@ -1,0 +1,164 @@
+{
+  "slug": "renders-hoteles",
+  "tipo": "render",
+  "menu": "renders",
+  "titulo": "Renders de Hoteles",
+  "h1": "Renders de Hoteles",
+  "subtitulo": "Tu hotel terminado antes de abrir",
+  "titulo_seo": "Renders de hoteles: habitaciones, fachada y zonas comunes",
+  "descripcion": "Qué es un render de hotel y para qué sirve: ver la fachada, las habitaciones, el vestíbulo y la piscina antes de construir o reformar. Pide presupuesto.",
+  "palabra_clave": "renders de hoteles",
+  "fecha": "2026-11-20 12:00:00",
+  "foto": {
+    "src": "/img/2024/07/render-habitacion-de-lujo.jpg",
+    "alt": "Render de una habitación con cama de matrimonio, butaca y ventanal al jardín"
+  },
+  "boton": {
+    "texto": "Pide presupuesto",
+    "url": "/contacto/"
+  },
+  "intro": "<p>Un <strong>render de hotel</strong> muestra cómo será el establecimiento antes de construirlo o reformarlo: la <strong>fachada</strong>, el vestíbulo, las <strong>habitaciones</strong>, el restaurante o la piscina, con sus materiales, su mobiliario y su luz. Es la imagen con la que se decide el diseño y se empieza a dar a conocer el hotel.</p>",
+  "resumen": "Los <strong>renders de hoteles</strong> son imágenes hechas por ordenador de un hotel, unos apartamentos turísticos o un hostal que todavía no existen o que se van a renovar. Sirven para aprobar el <a href=\"/interiorismo/\">interiorismo</a>, presentar el proyecto a la cadena o a los <strong>inversores</strong> y enseñar las habitaciones en la web y en la publicidad antes de abrir.",
+  "datos": [
+    ["Qué es", "Imagen por ordenador de un hotel antes de construirlo o reformarlo"],
+    ["Qué muestra", "Fachada, vestíbulo, habitación tipo, baño, restaurante, piscina y spa"],
+    ["Para qué sirve", "Aprobar el diseño, buscar financiación y promocionar el hotel antes de abrir"],
+    ["Para quién", "Propietarios, cadenas hoteleras, interioristas, arquitectos y promotoras"],
+    ["Vista clave", "La habitación tipo, que se repite en todo el hotel"]
+  ],
+  "secciones": [
+    {
+      "h2": "¿Qué es un render de hotel?",
+      "html": "<p>Es una imagen fotorrealista hecha a partir de los planos y del proyecto de interiorismo. En un hotel se combinan varios tipos de render: <a href=\"/renders-exteriores/\">exteriores</a> para la fachada y el jardín, <a href=\"/renders-habitaciones/\">de habitaciones</a> y <a href=\"/renders-banos/\">de baños</a> para las estancias, y vistas de las zonas comunes. La más importante suele ser la <strong>habitación tipo</strong>, porque se repite decenas de veces.</p>"
+    },
+    {
+      "h2": "¿Para qué sirve?",
+      "html": "",
+      "sub": [
+        {
+          "h3": "Decidir el diseño",
+          "html": "<p>Antes de amueblar decenas de habitaciones conviene ver una terminada: materiales, colores, iluminación y distribución se corrigen sobre la imagen.</p>"
+        },
+        {
+          "h3": "Convencer a socios y cadenas",
+          "html": "<p>Un dosier con renders explica el proyecto a inversores, a bancos o a la marca que va a gestionar el hotel.</p>"
+        },
+        {
+          "h3": "Promocionarlo antes de abrir",
+          "html": "<p>Las imágenes sirven para la web, las agencias y la publicidad mientras dura la obra o la reforma.</p>"
+        }
+      ]
+    },
+    {
+      "h2": "¿Qué incluye?",
+      "html": "<ul><li><strong>Fachada y entorno</strong>, de día y de noche.</li><li><strong>Vestíbulo y recepción</strong>.</li><li><strong>Habitaciones tipo y suites</strong>, con su baño.</li><li><strong>Restaurante, bar y salas de reuniones</strong>.</li><li><strong>Piscina, terraza y spa</strong>.</li></ul>"
+    },
+    {
+      "h2": "¿Cómo se hace?",
+      "html": "<ol><li><strong>Planos</strong> del hotel y proyecto de interiorismo (y fotos del estado actual, si es una reforma).</li><li><strong>Modelo 3D</strong> del edificio y de cada estancia que se va a mostrar.</li><li><strong>Materiales, mobiliario y luz</strong>.</li><li><strong>Render</strong> de las vistas acordadas.</li><li><strong>Revisión</strong> y ajustes antes de la entrega.</li></ol>"
+    }
+  ],
+  "galeria": [
+    {
+      "src": "/img/2024/08/renders-piscinas-de-lujo.jpg",
+      "alt": "Render de una piscina con tumbonas junto a un edificio moderno rodeado de vegetación"
+    },
+    {
+      "src": "/img/2024/07/render-bano-lujoso.jpg",
+      "alt": "Render de un baño con ducha, lavabo sobre encimera de madera y papel pintado"
+    }
+  ],
+  "galeria_titulo": "Imágenes de ejemplo",
+  "faq": [
+    {
+      "q": "¿Qué es un render de hotel?",
+      "a": "Una imagen hecha por ordenador que muestra cómo será un hotel (fachada, habitaciones y zonas comunes) antes de construirlo o reformarlo."
+    },
+    {
+      "q": "¿Qué estancias conviene mostrar?",
+      "a": "La fachada, el vestíbulo, una habitación tipo con su baño y las zonas que distinguen al hotel: piscina, restaurante, terraza o spa."
+    },
+    {
+      "q": "¿Sirve para la reforma de un hotel?",
+      "a": "Sí. Se parte de los planos y de fotos del estado actual, y se muestra el hotel renovado; a veces se presenta como un antes y después."
+    },
+    {
+      "q": "¿Se pueden usar para promocionar el hotel?",
+      "a": "Sí, en la web, en folletos y en la publicidad mientras se construye, indicando que son imágenes del proyecto y no fotografías del hotel terminado."
+    }
+  ],
+  "cierre": {
+    "h2": "¿Vas a abrir o renovar un hotel?",
+    "html": "<p>Cuéntanos qué estancias quieres mostrar y envíanos los planos, y te preparamos un presupuesto.</p>",
+    "boton": "Pide presupuesto"
+  },
+  "comun": {
+    "tipo": "render",
+    "terminos": [
+      ["CASAS", "HOTELES"],
+      ["CASA", "HOTEL"],
+      ["Casas", "Hoteles"],
+      ["Casa", "Hotel"],
+      ["casas", "hoteles"],
+      ["casa", "hotel"],
+      ["Viviendas", "Hoteles"]
+    ],
+    "_nota": "Bloque común de las páginas de este tipo, copiado de la página modelo con la palabra clave cambiada (scripts/paginas-nuevas.mjs, MODELOS).",
+    "textos": {
+      "4fac170": "<p>Un hotel se presenta con una serie de imágenes: la <strong>fachada</strong> de día y de noche, el vestíbulo, una <strong>habitación tipo</strong> con su baño, el restaurante y la piscina o el spa. Estos son los tipos de render que forman esa serie.</p>",
+      "4ff91d2": "<p>En arquitectura, un hotel mezcla dos mundos: la parte pública, que tiene que impresionar, y las habitaciones, que tienen que ser cómodas y repetirse sin errores. El <strong>render de arquitectura</strong> permite revisar las dos antes de construir: la fachada en su calle y cada estancia con sus medidas reales.</p>",
+      "423d8ef": "<p>Por dentro, el hotel se vende con sus <strong>habitaciones</strong>. El <strong>render de interiores</strong> muestra la cama, el cabecero, la iluminación, el baño y las vistas por la ventana, y ayuda a elegir materiales que aguanten el uso diario sin perder el estilo.</p>",
+      "fa515fd": "<p>Un <strong>render de hotel online</strong> se encarga a distancia: envías los planos, el proyecto de interiorismo y referencias del estilo de la marca, y recibes vistas de prueba para comentarlas con el equipo. Sirve para un hotel urbano, uno de playa o unos apartamentos turísticos.</p>",
+      "4784cc1": "<p>¡Descubre nuestros <strong>servicios de render de hoteles</strong>! Mostramos tu hotel, sus habitaciones y sus zonas comunes tal como quedarán. Cuéntanos qué necesitas.</p>",
+      "f65357f": "<p>En un hotel, el <strong>modelado 3D</strong> se centra en lo que se repite: la habitación tipo, el baño y el pasillo. Se modelan una vez con todo detalle (cabeceros, textiles, lámparas, griferías) y después se cuidan las piezas únicas, como el vestíbulo o el restaurante.</p>",
+      "a5e0ced": "<p>Para un hotel hacen falta las <strong>plantas</strong> de cada nivel, los alzados de la fachada y, sobre todo, los planos de <strong>interiorismo</strong> de la habitación tipo: mobiliario, techos, iluminación y revestimientos. Con ellos el render reproduce el diseño con exactitud.</p>",
+      "b0ebaed": "<p>El <strong>home staging virtual</strong> también se aplica a hoteles y apartamentos turísticos: una habitación vacía o recién reformada aparece amueblada y decorada en las fotos, lista para enseñarla.</p>",
+      "5d6ab86": "<p>Con <strong>realidad virtual</strong> se puede entrar en el hotel antes de abrirlo: cruzar el vestíbulo, subir a una habitación o salir a la terraza con unas <strong>gafas VR</strong>. Es una forma eficaz de presentar el proyecto a una cadena o a un inversor.</p>",
+      "d462e04": "<p>El <strong>renderista</strong> que trabaja para hoteles necesita cuidar mucho los <strong>textiles</strong>, la madera, el mármol y la luz cálida, que son los que transmiten confort. También debe seguir el estilo de la marca en todas las vistas, para que la serie sea coherente.</p>",
+      "c386b00": "<p>El <strong>renderizado</strong> de un hotel combina escenas muy distintas: exteriores con mucho entorno, interiores con luz natural y artificial, y reflejos en el agua de la piscina o en el vidrio. Cada una se ajusta por separado para que todas tengan la misma calidad.</p>",
+      "b616b09": "<p>El <strong>precio de un render de hotel</strong> depende del número de estancias distintas que haya que modelar, del detalle del interiorismo y de las vistas que se pidan. Consulta nuestra tabla de precios para una primera idea.</p>",
+      "745080d": "<p>Un <strong>vídeo render de hotel</strong> puede llegar desde la calle, cruzar el vestíbulo, subir a una habitación y terminar en la piscina. Es una pieza muy útil para la web, las redes y las ferias de turismo.</p>",
+      "a590e45": "<p>Las <strong>empresas de renders</strong> que trabajan para el sector hotelero colaboran con cadenas, propietarios, <strong>interioristas</strong> y estudios de arquitectura que necesitan enseñar un hotel antes de que exista.</p>",
+      "adb20d9": "<p>Nuestros <strong>renders de hoteles freelance</strong> se adaptan a cada encargo: la habitación tipo para aprobar el interiorismo, la fachada para una presentación o la serie completa para la web.</p>",
+      "d743651": "<p>Para aprender a hacer <strong>renders de hoteles</strong>, busca cursos que traten a fondo los <strong>interiores</strong>: materiales y textiles, iluminación cálida, composición de la imagen y postproducción.</p>",
+      "b1fb390": "<p>¿Quieres un <strong>render studio</strong> que muestre tu hotel antes de abrir? Escríbenos y preparamos juntos las vistas.</p>",
+      "247ef29": "<p>¿Te hace falta un <strong>render de hotel profesional</strong> para una cadena, un inversor o tu web? Cuéntanos la idea y te decimos cómo la plantearíamos.</p>",
+      "ccf75ba": "<p>Somos <strong>De Arquitectura</strong>, estudio de arquitectura e interiorismo. Hacemos <strong>renders de hoteles</strong>, de su fachada, sus habitaciones y sus zonas comunes, junto con los <strong>planos</strong> y el modelado 3D que necesita cada proyecto. En nuestra web publicamos también ideas y noticias sobre <strong>arquitectura</strong>. Trabajamos de forma cercana y resolvemos cualquier duda que tengas. ¡Bienvenido a Dearquitectura.info!</p>",
+      "d2878a4": "<p>Un buen hotel empieza en el proyecto: lo diseñan <strong>arquitectos</strong>, interioristas y paisajistas que piensan a la vez en el huésped y en el funcionamiento diario. Si buscas el profesional adecuado para el tuyo, aquí tienes los tipos de arquitectos que existen.</p>",
+      "c6a5f2b": "<p>Entra en nuestra <strong>plataforma de arquitectura</strong>: noticias, proyectos, cursos, libros y servicios. Encontrarás ideas sobre <strong>hoteles</strong>, interiorismo y espacios de hostelería.</p>",
+      "43bfe28": "<p>¿Quieres ver tu hotel terminado antes de abrirlo? Nuestro <strong>estudio de render</strong> prepara las vistas a partir de tus planos y de tu proyecto de interiorismo.</p>",
+      "e0fc9cc": "<p>Como <strong>agencia de diseño</strong>, cuidamos también la imagen del hotel: <strong>identidad visual</strong>, señalización, <strong>diseño gráfico</strong> y web para darlo a conocer.</p>",
+      "4201636": "<p>¿Vas a <strong>construir</strong> un hotel? Con un render ves la fachada y las habitaciones antes de empezar la obra.</p>",
+      "341e006": "<p>¿Piensas <strong>reformar</strong> las habitaciones, el vestíbulo o la piscina de tu hotel? Compruébalo en 3D y recibe ideas y precios.</p>",
+      "9b27569": "<p><strong>Diseño arquitectónico</strong> para la hostelería: fachadas, vestíbulos y habitaciones pensados para el huésped.</p>",
+      "b93eb28": "<p><strong>Interiorismo y decoración</strong> para hoteles: habitaciones cómodas, materiales resistentes y un estilo propio.</p>",
+      "8afacb7": "<p>Conoce las <strong>empresas de arquitectura</strong> y diseño con las que colaboramos: equipos que proyectan hoteles, apartamentos turísticos y locales de hostelería.</p>",
+      "09b4953": "<p>En nuestro <strong>despacho de arquitectura</strong> te ayudamos a pensar tu hotel: la distribución de las habitaciones, los recorridos del huésped y la imagen de las zonas comunes.</p>",
+      "6950824": "<p>¿Eres <strong>renderista</strong> o arquitecto y dominas los <strong>interiores</strong>, los textiles y la luz cálida? Trabajamos en remoto con profesionales y estudios. Escríbenos y hablamos.</p>",
+      "f7cb492": "<p>Los <strong>cursos online de arquitectura</strong> ofrecen formación a distancia en <strong>interiorismo</strong>, dibujo 2D, <strong>modelado 3D</strong>, fotografía, vídeo y diseño, la base para proyectar y mostrar un hotel.</p>",
+      "eea5803": "<p>Un hotel también se dibuja: <strong>croquis</strong> de la fachada, bocetos de las habitaciones e ilustraciones de ambiente para las primeras presentaciones.</p>",
+      "c803901": "<p>Los <strong>planos</strong> son la base del render de un hotel: las <strong>plantas</strong> para distribuir las habitaciones, los alzados para la fachada y los planos de interiorismo para el mobiliario, los techos y la luz.</p>",
+      "fa5de7a": "<p>Una <strong>maqueta</strong> enseña bien el volumen del hotel en su parcela, pero no el ambiente de una habitación. El <strong>render</strong> añade lo que la maqueta no da: materiales, textiles, luz y vistas desde dentro.</p>",
+      "7faf099": "<p>En un <strong>portafolio de arquitectura</strong>, un hotel luce con pocas imágenes bien elegidas: la fachada, el vestíbulo y una habitación con vistas. Son proyectos que llaman la atención por su mezcla de arquitectura e interiorismo.</p>",
+      "b08800e": "<p>Explora nuestras <strong>imágenes de arquitectura</strong>: edificios, interiores, piscinas y terrazas que te darán ideas para tu <strong>hotel</strong>.</p>",
+      "ed942cc": "<p>Si te interesa el tema, busca <strong>libros de arquitectura</strong> e <strong>interiorismo</strong> sobre hoteles: cómo se organiza un hotel por dentro y cómo se diseñan sus espacios públicos y sus habitaciones.</p>",
+      "389e7a0": "<p>Las <strong>revistas de arquitectura</strong> y de interiorismo publican a menudo hoteles: aperturas, reformas y proyectos singulares. Son una buena fuente de ideas para el tuyo.</p>",
+      "54cb84e": "<p>Para <strong>renders de hoteles</strong>, <strong>V-Ray</strong> y <strong>Corona</strong> dan el mejor resultado en interiores, con textiles y luz cálida muy realistas; <strong>Lumion</strong> y <strong>Twinmotion</strong> son rápidos para fachadas y piscinas, y <strong>Enscape</strong> permite revisar el diseño mientras se modela en <strong>Revit</strong> o <strong>SketchUp</strong>.</p>",
+      "a3f94c2": "<p>Explora <strong>proyectos de arquitectura</strong> destacados de todo el mundo: hoteles, viviendas, museos y espacios públicos. Verás cómo los mejores hoteles unen arquitectura, interiorismo y paisaje.</p>",
+      "aa5d488": "<p>La <strong>inteligencia artificial</strong> puede proponer ideas de estilo para una habitación o un vestíbulo a partir de un texto. Sirve para tantear, pero no respeta tus planos, tus medidas ni tu mobiliario: para un proyecto real hace falta un render hecho sobre el modelo 3D.</p>"
+    },
+    "preguntas": {
+      "dc600c2#0": "<p>Un <strong>render de hotel</strong> es una imagen fotorrealista de un hotel, de su fachada o de sus estancias, creada por ordenador antes de construirlo o reformarlo. El proceso tiene cinco fases:</p><ul><li><strong>Modelado 3D</strong> del edificio, la habitación tipo y las zonas comunes.</li><li><strong>Materiales</strong>: madera, piedra, textiles, vidrio y agua.</li><li><strong>Iluminación</strong>: luz natural por las ventanas y luz artificial cálida en el interior.</li><li><strong>Renderizado</strong> de cada vista acordada.</li><li><strong>Postproducción</strong>: color, ambiente, personas y retoque final.</li></ul>",
+      "3e85001#0": "<p>Para <strong>renders de hoteles</strong> se modela en <strong>Revit</strong>, <strong>ArchiCAD</strong>, <strong>SketchUp</strong> o <strong>3ds Max</strong>, y se renderiza con programas fuertes en interiores:</p><ul><li><strong>V-Ray</strong>: control preciso de materiales y luces en habitaciones y vestíbulos.</li><li><strong>Corona</strong>: muy realista en interiores y sencillo de ajustar.</li><li><strong>Lumion</strong> y <strong>Twinmotion</strong>: rápidos para fachadas, jardines y piscinas.</li><li><strong>Enscape</strong>: para ver el diseño casi al instante mientras se proyecta.</li><li><strong>Unreal Engine</strong>: para recorridos interactivos por el hotel.</li></ul>",
+      "3e85001#1": "<p>Los <strong>renders de hoteles</strong> son útiles en todas las fases:</p><ul><li><strong>Diseño</strong>: se aprueba la habitación tipo antes de fabricar el mobiliario.</li><li><strong>Financiación</strong>: el proyecto se entiende mejor en un dosier para inversores.</li><li><strong>Marca</strong>: se comprueba que el estilo del hotel es coherente en todas las estancias.</li><li><strong>Promoción</strong>: se puede enseñar el hotel antes de abrir.</li><li><strong>Coordinación</strong>: arquitecto, interiorista y propietario trabajan sobre la misma imagen.</li></ul>",
+      "3e85001#2": "<p>En un hotel, cualquier error se multiplica por el número de habitaciones. Con un <strong>render de hotel</strong> se revisan la distribución, los materiales y la luz de la habitación tipo antes de repetirla, se presenta el proyecto con claridad y se cuenta con imágenes para darlo a conocer desde el principio.</p>",
+      "3e85001#3": "<p>El precio de un <strong>render de hotel</strong> depende del número de estancias distintas que haya que modelar, del detalle del interiorismo, del entorno de la fachada y del número de vistas. Cada presupuesto se prepara a medida, desde una sola habitación hasta la serie completa del hotel.</p>",
+      "3e85001#4": "<p>Hacen falta los <strong>planos</strong> del hotel (plantas y alzados) y, para los interiores, el proyecto de <strong>interiorismo</strong> o al menos referencias de materiales, mobiliario y estilo. Si es una reforma, ayudan mucho las fotos del estado actual y las medidas de cada estancia.</p>",
+      "3e85001#5": "<p>Depende del número de estancias y de vistas. Una habitación tipo puede estar en <strong>pocos días</strong>; un hotel completo con fachada, zonas comunes, varias habitaciones y vídeo puede requerir <strong>varias semanas</strong>, con rondas de revisión entre medias.</p>",
+      "3e85001#6": "<p>Los <strong>tipos de render de hotel</strong> más comunes son:</p><ul><li><strong>Fachada</strong>: el edificio en su calle o su paisaje, de día o de noche.</li><li><strong>Habitación tipo y suite</strong>: con su baño y sus vistas.</li><li><strong>Zonas comunes</strong>: vestíbulo, restaurante, bar y salas.</li><li><strong>Exteriores de ocio</strong>: piscina, terraza, jardín y spa.</li><li><strong>Vídeo o 360°</strong>: recorridos para la web y las ferias.</li></ul>",
+      "3e85001#7": "<ul><li><strong>Ahorro</strong>: los errores se corrigen antes de amueblar todas las habitaciones.</li><li><strong>Flexibilidad</strong>: se prueban distintos materiales y estilos sobre el mismo modelo.</li><li><strong>Coherencia</strong>: toda la serie de imágenes sigue la misma línea de marca.</li><li><strong>Financiación</strong>: las imágenes refuerzan el dosier para socios y bancos.</li><li><strong>Promoción</strong>: se empieza a dar a conocer el hotel durante la obra.</li></ul>",
+      "3e85001#8": "<p>Para encargar <strong>renders de hoteles online</strong>:</p><ul><li><strong>Mira trabajos anteriores</strong> de interiores y de hostelería.</li><li><strong>Concreta las vistas</strong>: fachada, vestíbulo, habitación tipo, piscina o vídeo.</li><li><strong>Envía la información</strong>: planos, interiorismo y referencias de la marca.</li><li><strong>Pide un presupuesto claro</strong> que incluya revisiones y postproducción.</li><li><strong>Comenta las pruebas</strong> con el estudio hasta que el hotel sea el que buscas.</li></ul><p>Así ves tu hotel terminado sin desplazarte.</p>"
+    },
+    "_nota_textos": "Textos propios de esta página para el bloque común (19-11-2026, Yama: «sin sacar las palabras claves… lo mismo pero diferente»): mismos títulos, palabras clave y enlaces que la página modelo, texto distinto."
+  }
+}

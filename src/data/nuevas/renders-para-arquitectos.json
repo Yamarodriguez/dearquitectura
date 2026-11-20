@@ -1,0 +1,165 @@
+{
+  "slug": "renders-para-arquitectos",
+  "tipo": "render",
+  "menu": "renders",
+  "titulo": "Renders para Arquitectos",
+  "h1": "Renders para Arquitectos",
+  "subtitulo": "Las imágenes de tu proyecto, a partir de tus planos",
+  "titulo_seo": "Renders para arquitectos: imágenes de tus proyectos",
+  "descripcion": "Renders para arquitectos: imágenes y vídeos de tus proyectos a partir de planos o del modelo, para clientes, concursos y portafolio. Pide presupuesto.",
+  "palabra_clave": "renders para arquitectos",
+  "fecha": "2026-11-20 12:00:00",
+  "foto": {
+    "src": "/img/2025/03/render-casas-interior-planta-3D.jpg",
+    "alt": "Render de la planta en 3D de una vivienda con piscina, vista desde arriba"
+  },
+  "boton": {
+    "texto": "Pide presupuesto",
+    "url": "/contacto/"
+  },
+  "intro": "<p>Los <strong>renders para arquitectos</strong> convierten los planos o el modelo 3D de un proyecto en imágenes fotorrealistas. El arquitecto diseña; el renderista se encarga de que el cliente, el jurado de un concurso o el comprador vean el proyecto como si ya estuviera construido.</p>",
+  "resumen": "Los <strong>renders para arquitectos</strong> son un servicio de visualización para estudios y profesionales: a partir de los planos, del modelo de SketchUp o Revit y de las indicaciones de materiales, se preparan vistas exteriores, interiores, plantas en 3D y vídeos. Sirven para presentar al cliente, para <strong>concursos</strong>, memorias y para el <a href=\"/portafolios-arquitectura/\">portafolio</a> del estudio.",
+  "datos": [
+    ["Qué es", "Visualización de proyectos por encargo para estudios y arquitectos"],
+    ["Qué se entrega", "Vistas exteriores e interiores, plantas en 3D, vistas aéreas y vídeos"],
+    ["Para qué sirve", "Presentar al cliente, concursos, memorias, ventas y portafolio"],
+    ["De qué se parte", "Planos en DWG o PDF, o el modelo de SketchUp, Revit, ArchiCAD o Rhino"],
+    ["Cómo se trabaja", "En remoto, con vistas de prueba que revisa el arquitecto"]
+  ],
+  "secciones": [
+    {
+      "h2": "¿Qué son los renders para arquitectos?",
+      "html": "<p>Es la parte de la <a href=\"/renders-arquitectura/\">visualización de arquitectura</a> que se encarga fuera del estudio. Muchos arquitectos modelan su proyecto, pero no tienen tiempo, equipos o práctica para sacar imágenes fotorrealistas; un <a href=\"/renderista/\">renderista</a> parte de ese trabajo y lo convierte en vistas listas para presentar, respetando el diseño.</p>"
+    },
+    {
+      "h2": "¿Para qué sirve?",
+      "html": "",
+      "sub": [
+        {
+          "h3": "Presentar al cliente",
+          "html": "<p>El cliente entiende de un vistazo lo que en planos le cuesta imaginar, y las decisiones se toman antes.</p>"
+        },
+        {
+          "h3": "Concursos",
+          "html": "<p>En un concurso, las imágenes son lo primero que ve el jurado: tienen que contar la idea con claridad.</p>"
+        },
+        {
+          "h3": "Vender y publicar",
+          "html": "<p>Promotoras, portales inmobiliarios, revistas y el propio portafolio del estudio necesitan imágenes de calidad.</p>"
+        }
+      ]
+    },
+    {
+      "h2": "¿Qué incluye?",
+      "html": "<ul><li><strong>Vistas exteriores</strong> desde los puntos que elija el arquitecto.</li><li><strong>Interiores</strong> con materiales y mobiliario.</li><li><strong>Plantas y secciones en 3D</strong>, y axonometrías.</li><li><strong>Vistas aéreas</strong> del proyecto en su entorno.</li><li><strong>Vídeos</strong> y recorridos virtuales.</li></ul>"
+    },
+    {
+      "h2": "¿Cómo se trabaja?",
+      "html": "<ol><li>El arquitecto envía <strong>planos o modelo 3D</strong>, materiales y referencias.</li><li>Se completa el modelo y se <strong>proponen los puntos de vista</strong>.</li><li><strong>Vistas de prueba</strong> para revisar encuadres y luz.</li><li><strong>Correcciones</strong> del arquitecto.</li><li><strong>Render final</strong> y postproducción.</li></ol>"
+    }
+  ],
+  "galeria": [
+    {
+      "src": "/img/2024/06/render-oficina-planos.webp",
+      "alt": "Plano de dos plantas de un edificio, el punto de partida de un render"
+    },
+    {
+      "src": "/img/2024/06/Render-Oficinas-Axonometrica.png",
+      "alt": "Render en axonometría de una planta de oficinas con su mobiliario"
+    }
+  ],
+  "galeria_titulo": "Del plano a la imagen",
+  "faq": [
+    {
+      "q": "¿Qué necesita el renderista del arquitecto?",
+      "a": "Los planos o el modelo 3D, los materiales y acabados previstos, y referencias del ambiente que se busca. Con eso se proponen las primeras vistas."
+    },
+    {
+      "q": "¿Puedo enviar mi modelo de SketchUp o Revit?",
+      "a": "Sí. Partir del modelo del estudio ahorra trabajo; se revisa, se completa con mobiliario, vegetación y entorno, y se renderiza."
+    },
+    {
+      "q": "¿Quién decide los puntos de vista?",
+      "a": "El arquitecto. El renderista propone encuadres y luz, pero el proyecto es suyo y las vistas se aprueban antes del render final."
+    },
+    {
+      "q": "¿Por qué no hacer los renders en el propio estudio?",
+      "a": "Se puede, pero exige tiempo, equipos potentes y práctica. Encargarlos fuera deja al estudio más tiempo para proyectar."
+    }
+  ],
+  "cierre": {
+    "h2": "¿Tienes un proyecto que presentar?",
+    "html": "<p>Envíanos los planos o el modelo y dinos qué vistas necesitas, y te preparamos un presupuesto.</p>",
+    "boton": "Pide presupuesto"
+  },
+  "comun": {
+    "tipo": "render",
+    "terminos": [
+      ["ARQUITECTOS DE Casas", "ARQUITECTOS Y ESTUDIOS"],
+      ["CASAS", "ARQUITECTOS"],
+      ["CASA", "ARQUITECTO"],
+      ["Casas", "Arquitectos"],
+      ["Casa", "Arquitecto"],
+      ["casas", "arquitectos"],
+      ["casa", "arquitecto"],
+      ["Viviendas", "Arquitectos"]
+    ],
+    "_nota": "Bloque común de las páginas de este tipo, copiado de la página modelo con la palabra clave cambiada (scripts/paginas-nuevas.mjs, MODELOS).",
+    "textos": {
+      "4fac170": "<p>Un estudio de arquitectura suele necesitar varios tipos de imagen para un mismo proyecto: <strong>exteriores</strong> para la fachada, <strong>interiores</strong> para las estancias principales, una <strong>planta en 3D</strong> para explicar la distribución y, a veces, una vista de noche o un vídeo. Estos son los tipos de render que más se encargan.</p>",
+      "4ff91d2": "<p>El <strong>render de arquitectura</strong> es la herramienta con la que el arquitecto comunica su proyecto. No sustituye a los planos, los completa: los planos dicen cómo se construye y el render enseña cómo se vivirá.</p>",
+      "423d8ef": "<p>En los interiores, el arquitecto define el espacio y la luz, y el render los hace visibles: la altura de un techo, la entrada de sol por un ventanal o la relación entre cocina y salón. El <strong>render de interiores</strong> ayuda al cliente a entender esas decisiones.</p>",
+      "fa515fd": "<p>Un <strong>render para arquitectos online</strong> se encarga a distancia: el estudio envía los planos o el modelo, se comparten las vistas de prueba y se corrigen por correo o en una llamada. No importa dónde esté el estudio ni dónde esté el proyecto.</p>",
+      "4784cc1": "<p>¡Descubre nuestros <strong>servicios de render para arquitectos</strong>! Convertimos tus planos y tus modelos en imágenes para presentar, concursar y vender. Cuéntanos qué necesitas.</p>",
+      "f65357f": "<p>Muchos arquitectos ya tienen el <strong>modelado 3D</strong> hecho en SketchUp, Revit o ArchiCAD. El renderista lo aprovecha, corrige lo que haga falta y añade lo que un modelo de proyecto no suele llevar: mobiliario, vegetación, personas y entorno.</p>",
+      "a5e0ced": "<p>Para el render, los <strong>planos</strong> del arquitecto son la referencia: plantas, alzados y secciones con cotas, y la memoria de materiales. Cuanto más completos estén, más fiel será la imagen al proyecto.</p>",
+      "b0ebaed": "<p>El <strong>home staging virtual</strong> también es útil para arquitectos: una obra terminada pero vacía aparece amueblada en las fotos, lista para el portafolio del estudio o para la venta.</p>",
+      "5d6ab86": "<p>Con <strong>realidad virtual</strong>, el arquitecto puede pasear con su cliente por el proyecto antes de construirlo: entrar por la puerta, recorrer las estancias y comprobar proporciones con unas <strong>gafas VR</strong>.</p>",
+      "d462e04": "<p>Un buen <strong>renderista</strong> para arquitectos entiende de arquitectura: lee planos, respeta las proporciones y sabe que la imagen está al servicio del proyecto, no al revés. Por eso propone, pero el que decide es el arquitecto.</p>",
+      "c386b00": "<p>El <strong>renderizado</strong> es la fase en la que el ordenador calcula la luz y los materiales. Para un estudio, lo importante es que el resultado sea fiel y constante: misma luz y mismo estilo en todas las vistas de un proyecto.</p>",
+      "b616b09": "<p>El <strong>precio de un render para arquitectos</strong> depende de si hay que modelar desde los planos o se parte del modelo del estudio, del número de vistas y del detalle de los interiores. Consulta nuestra tabla de precios para una primera idea.</p>",
+      "745080d": "<p>Un <strong>vídeo render</strong> permite al arquitecto contar el proyecto como un recorrido: la llegada, la entrada, las estancias principales y las vistas. Es muy útil para concursos, presentaciones y redes del estudio.</p>",
+      "a590e45": "<p>Las <strong>empresas de renders</strong> que trabajan para arquitectos colaboran de forma continuada con estudios de todos los tamaños, que les confían la parte visual mientras ellos se centran en proyectar.</p>",
+      "adb20d9": "<p>Nuestros <strong>renders para arquitectos freelance</strong> se adaptan al ritmo de cada estudio: una vista suelta para una reunión, la serie de un concurso o un acuerdo estable para todos sus proyectos.</p>",
+      "d743651": "<p>Si eres arquitecto y quieres hacer tus propios renders, hay <strong>cursos</strong> pensados para ti: cómo sacar imágenes del modelo que ya tienes, cómo componer una vista y cómo iluminar una escena con <strong>V-Ray</strong>, <strong>Enscape</strong> o <strong>Lumion</strong>.</p>",
+      "b1fb390": "<p>¿Buscas un <strong>render studio</strong> que trabaje con tu estudio de arquitectura? Escríbenos y vemos cómo colaborar.</p>",
+      "247ef29": "<p>¿Te hace falta un <strong>render profesional</strong> para una presentación, un concurso o una promoción? Cuéntanos el proyecto y te decimos cómo lo plantearíamos.</p>",
+      "ccf75ba": "<p>Somos <strong>De Arquitectura</strong>, estudio de arquitectura e interiorismo. Hacemos <strong>renders para arquitectos</strong> y estudios, con los <strong>planos</strong> y el modelado 3D que necesite cada proyecto, y entendemos el proyecto porque también proyectamos. En nuestra web publicamos también ideas y noticias sobre <strong>arquitectura</strong>. Trabajamos de forma cercana y resolvemos cualquier duda que tengas. ¡Bienvenido a Dearquitectura.info!</p>",
+      "d2878a4": "<p>Hay muchos tipos de <strong>arquitectos</strong>: de vivienda, de interiores, urbanistas, paisajistas, técnicos o calculistas. Todos necesitan en algún momento enseñar su trabajo con imágenes. Aquí tienes los tipos de arquitectos que existen.</p>",
+      "c6a5f2b": "<p>Entra en nuestra <strong>plataforma de arquitectura</strong>: noticias, proyectos, cursos, libros y servicios. Encontrarás recursos para tu estudio y para presentar mejor tus <strong>proyectos</strong>.</p>",
+      "43bfe28": "<p>¿Quieres que tus proyectos se vean como merecen? Nuestro <strong>estudio de render</strong> prepara las imágenes a partir de tus planos o de tu modelo.</p>",
+      "e0fc9cc": "<p>Como <strong>agencia de diseño</strong>, ayudamos también a los estudios con su imagen: <strong>identidad visual</strong>, <strong>diseño gráfico</strong>, web y presentación de proyectos.</p>",
+      "4201636": "<p>¿Tu cliente va a <strong>construir</strong>? Con un render le enseñas el proyecto antes de empezar la obra.</p>",
+      "341e006": "<p>¿Proyectas una <strong>reforma</strong>? Enséñale al cliente el antes y el después en 3D.</p>",
+      "9b27569": "<p><strong>Diseño arquitectónico</strong> y visualización trabajando juntos: el proyecto se ve mientras se diseña.</p>",
+      "b93eb28": "<p><strong>Interiorismo y decoración</strong> para completar los interiores de tus proyectos con mobiliario y materiales.</p>",
+      "8afacb7": "<p>Conoce las <strong>empresas de arquitectura</strong> y diseño con las que colaboramos: estudios que proyectan viviendas, edificios y espacios públicos y que confían en nosotros para mostrarlos.</p>",
+      "09b4953": "<p>Desde nuestro <strong>despacho de arquitectura</strong> colaboramos con otros arquitectos: visualización, planos, modelado y apoyo en las presentaciones.</p>",
+      "6950824": "<p>¿Eres <strong>renderista</strong> o arquitecto y te gustaría colaborar con estudios? Trabajamos en remoto con profesionales de distintos países. Escríbenos y hablamos.</p>",
+      "f7cb492": "<p>Los <strong>cursos online de arquitectura</strong> ofrecen formación a distancia en dibujo 2D, <strong>modelado 3D</strong>, render, fotografía, vídeo y diseño, para que el estudio amplíe lo que sabe hacer.</p>",
+      "eea5803": "<p>Antes del render, el arquitecto dibuja: <strong>croquis</strong>, bocetos e ilustraciones que también pueden convertirse en imágenes de presentación.</p>",
+      "c803901": "<p>Los <strong>planos</strong> del arquitecto son la base de cualquier render: <strong>plantas</strong> para la distribución, alzados para la fachada y secciones para las alturas. El render los respeta al centímetro.</p>",
+      "fa5de7a": "<p>La <strong>maqueta</strong> sigue siendo muy útil para pensar el volumen. El <strong>render</strong> la completa con lo que la maqueta no da: materiales reales, luz, entorno y vistas desde dentro.</p>",
+      "7faf099": "<p>Un <strong>portafolio de arquitectura</strong> vive de sus imágenes. Los renders permiten incluir proyectos no construidos, concursos y propuestas con la misma calidad que las obras terminadas.</p>",
+      "b08800e": "<p>Explora nuestras <strong>imágenes de arquitectura</strong>: edificios, interiores, planos y paisajes que te darán ideas para presentar tus <strong>proyectos</strong>.</p>",
+      "ed942cc": "<p>Hay <strong>libros de arquitectura</strong> que tratan la representación del proyecto: dibujo, perspectiva, fotografía y visualización. Son una buena base para presentar mejor tu trabajo.</p>",
+      "389e7a0": "<p>Las <strong>revistas de arquitectura</strong> publican proyectos con imágenes muy cuidadas, muchas de ellas renders. Son una buena referencia de cómo se presenta hoy la arquitectura.</p>",
+      "54cb84e": "<p>Los arquitectos modelan sobre todo en <strong>SketchUp</strong>, <strong>Revit</strong>, <strong>ArchiCAD</strong> y <strong>Rhino</strong>. Para el render, <strong>Enscape</strong> y <strong>Twinmotion</strong> se conectan directamente con esos programas, mientras que <strong>V-Ray</strong> y <strong>Corona</strong> dan el máximo realismo.</p>",
+      "a3f94c2": "<p>Explora <strong>proyectos de arquitectura</strong> destacados de todo el mundo: viviendas, museos, hoteles y espacios públicos. Verás cómo los grandes estudios presentan su trabajo.</p>",
+      "aa5d488": "<p>La <strong>inteligencia artificial</strong> ya ayuda a los arquitectos a tantear ideas y ambientes a partir de un boceto o de un texto. Pero no respeta las medidas ni los detalles del proyecto: para presentar un diseño real hace falta un render hecho sobre el modelo 3D.</p>"
+    },
+    "preguntas": {
+      "dc600c2#0": "<p>Un <strong>render para arquitectos</strong> es una imagen fotorrealista de un proyecto de arquitectura, hecha por ordenador a partir de los planos o del modelo del estudio. El proceso tiene cinco fases:</p><ul><li><strong>Modelado 3D</strong>: se parte del modelo del arquitecto o se levanta desde los planos.</li><li><strong>Materiales</strong>: los acabados que indica la memoria del proyecto.</li><li><strong>Iluminación</strong>: luz natural según la orientación real y luz artificial en interiores.</li><li><strong>Renderizado</strong> de las vistas aprobadas por el arquitecto.</li><li><strong>Postproducción</strong>: entorno, personas, color y retoque final.</li></ul>",
+      "3e85001#0": "<p>Para <strong>renders para arquitectos</strong> se trabaja con los programas que ya usa el estudio y con motores de render:</p><ul><li><strong>SketchUp</strong>, <strong>Revit</strong>, <strong>ArchiCAD</strong> y <strong>Rhino</strong>: donde suele estar el modelo del proyecto.</li><li><strong>V-Ray</strong> y <strong>Corona</strong>: máximo realismo en exteriores e interiores.</li><li><strong>Enscape</strong>: conectado con Revit, SketchUp y ArchiCAD para ver el proyecto al momento.</li><li><strong>Lumion</strong> y <strong>Twinmotion</strong>: rápidos para exteriores, entorno y vídeos.</li><li><strong>Unreal Engine</strong>: para recorridos interactivos.</li></ul>",
+      "3e85001#1": "<p>Los <strong>renders</strong> ayudan al arquitecto en todo el proceso:</p><ul><li><strong>Comunicar</strong>: el cliente entiende el proyecto sin saber leer planos.</li><li><strong>Decidir</strong>: se comparan materiales y soluciones antes de cerrar el diseño.</li><li><strong>Competir</strong>: en concursos y propuestas, la imagen marca la diferencia.</li><li><strong>Vender</strong>: promotoras e inmobiliarias necesitan imágenes antes de la obra.</li><li><strong>Mostrar</strong>: el portafolio del estudio crece también con proyectos no construidos.</li></ul>",
+      "3e85001#2": "<p>Un buen proyecto mal presentado puede no convencer. Con un <strong>render para arquitectos</strong>, el cliente ve el proyecto como será, se evitan malentendidos que luego cuestan cambios en obra y el estudio cuenta con imágenes de calidad para presentar, concursar y publicar.</p>",
+      "3e85001#3": "<p>El precio de un <strong>render para arquitectos</strong> depende de si el estudio aporta el modelo 3D o hay que levantarlo desde los planos, del número de vistas, del detalle de los interiores y del entorno. Cada presupuesto se prepara a medida, desde una vista suelta hasta la serie completa de un proyecto.</p>",
+      "3e85001#4": "<p>Hacen falta los <strong>planos</strong> del proyecto (plantas, alzados y secciones) o el <strong>modelo 3D</strong> del estudio, la memoria de materiales y referencias del ambiente que se busca. Si el arquitecto ya tiene claros los puntos de vista, mejor: se trabaja directamente sobre ellos.</p>",
+      "3e85001#5": "<p>Depende del proyecto y de lo que aporte el estudio. Si hay modelo 3D, una vista puede estar en <strong>pocos días</strong>; una serie completa con exteriores, interiores y vídeo, o un proyecto que hay que modelar desde cero, puede requerir <strong>varias semanas</strong>.</p>",
+      "3e85001#6": "<p>Los <strong>tipos de render</strong> que más encargan los arquitectos son:</p><ul><li><strong>Exterior</strong>: el edificio en su entorno, a la altura de los ojos.</li><li><strong>Interior</strong>: las estancias principales con su luz y sus materiales.</li><li><strong>Planta o sección en 3D</strong>: para explicar la distribución.</li><li><strong>Aéreo</strong>: el proyecto en su parcela o en la ciudad.</li><li><strong>Vídeo o 360°</strong>: recorridos para presentaciones y concursos.</li></ul>",
+      "3e85001#7": "<ul><li><strong>Tiempo</strong>: el estudio se centra en proyectar y delega las imágenes.</li><li><strong>Calidad</strong>: imágenes al nivel de las publicaciones de arquitectura.</li><li><strong>Coherencia</strong>: misma luz y mismo estilo en todas las vistas.</li><li><strong>Claridad</strong>: el cliente entiende el proyecto y decide antes.</li><li><strong>Portafolio</strong>: también los proyectos no construidos se pueden enseñar.</li></ul>",
+      "3e85001#8": "<p>Para encargar <strong>renders para arquitectos online</strong>:</p><ul><li><strong>Mira trabajos anteriores</strong> y comprueba que el estilo encaja con tu estudio.</li><li><strong>Concreta las vistas</strong>: exteriores, interiores, plantas en 3D o vídeo.</li><li><strong>Envía la información</strong>: planos o modelo, materiales y referencias.</li><li><strong>Pide un presupuesto claro</strong> que incluya revisiones y postproducción.</li><li><strong>Revisa las pruebas</strong> hasta que las imágenes reflejen tu proyecto.</li></ul><p>Así tienes las imágenes de tu proyecto sin que tu estudio pare de proyectar.</p>"
+    },
+    "_nota_textos": "Textos propios de esta página para el bloque común (19-11-2026, Yama: «sin sacar las palabras claves… lo mismo pero diferente»): mismos títulos, palabras clave y enlaces que la página modelo, texto distinto."
+  }
+}
