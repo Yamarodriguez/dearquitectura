@@ -33,13 +33,18 @@ export function paisDeCiudad(slug, menuPagina, mapa) {
  * - fuera las páginas que no están en Google (sinIndexar): no tiene sentido enlazarlas desde todas partes;
  * - en el menú general de Renders, «Zonas» lleva solo los países (cada país enlaza luego a sus ciudades).
  */
+export const SIN_DESTINO = { interiorismo: '/interiorismo/', 'i.a': '/inteligencia-artificial-arquitectura/' };
+
 export function ajustarMenu(nombre, items, sinIndexar, estilosNuevos = [], rendersNuevos = [], serviciosNuevos = []) {
   const limpiar = (lista, nivel, padre) => lista
     .filter((i) => !sinIndexar.has(slugDe(i.url)))
     .map((i) => {
       const hijos = i.children ?? [];
       const soloPaises = nombre === 'renders' && padre === 'Zonas';
-      return { ...i, children: soloPaises ? [] : limpiar(hijos, nivel + 1, i.label) };
+      // Enlaces finales que en WordPress iban a «#» porque la página aún no existía (20-11-2026):
+      // ahora llevan a la página nueva. «Provincias» y «Zonas» siguen en «#» porque abren un submenú.
+      const destino = (i.url === '#' || /\/#$/.test(i.url ?? '')) && !hijos.length ? SIN_DESTINO[(i.label ?? '').trim().toLowerCase()] : undefined;
+      return { ...i, ...(destino ? { url: destino } : {}), children: soloPaises ? [] : limpiar(hijos, nivel + 1, i.label) };
     });
   const limpio = limpiar(items, 0, null);
   // Estilos nuevos (páginas de src/content/nuevas): al desplegable que ya lista los estilos

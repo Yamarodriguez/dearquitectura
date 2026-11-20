@@ -7,7 +7,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { aplicarErratas, aplicarCambios, sinReferencia } from './erratas.mjs';
-import { quitadosDelMenu } from '../src/lib/paises.mjs';
+import { quitadosDelMenu, SIN_DESTINO } from '../src/lib/paises.mjs';
 
 // Menús ajustados el 18-11-2026 (src/lib/paises.mjs): sin las páginas fuera de Google y, en el
 // de Renders, «Zonas» solo con los países. Esos enlaces no se echan en falta.
@@ -80,7 +80,9 @@ for (const p of Object.values(viva)) {
   if (JSON.stringify(ca) !== JSON.stringify(cb)) dif.push(`${p.url}: formulario distinto (${ca.join(' / ')}) vs (${cb.join(' / ')})`);
   const fi = enOrden(imagenesDe(original), imagenesDe(nuevoHtml)); if (fi) dif.push(`${p.url}: falta imagen ${fi}`);
   const quitados = quitadosDe(p.url);
-  const fm = enOrden(menuDe(original).filter((e) => !quitados.has(e.split(' | ')[0].replace(/^\/|\/$/g, ''))), menuDe(nuevoHtml)); if (fm) dif.push(`${p.url}: menú distinto: falta «${fm}»`);
+  // Enlaces del menú que en WordPress iban a «#» y ahora llevan a su página (aprobado 20-11-2026, SIN_DESTINO)
+  const aprobado = (e) => { const [u, t] = e.split(' | '); return u === '#' && SIN_DESTINO[t] ? `${SIN_DESTINO[t]} | ${t}` : e; };
+  const fm = enOrden(menuDe(original).map(aprobado).filter((e) => !quitados.has(e.split(' | ')[0].replace(/^\/|\/$/g, ''))), menuDe(nuevoHtml)); if (fm) dif.push(`${p.url}: menú distinto: falta «${fm}»`);
   const ma = mapasDe(original), mb = mapasDe(nuevoHtml);
   if (JSON.stringify(ma) !== JSON.stringify(mb)) dif.push(`${p.url}: mapa distinto (${ma}) vs (${mb})`);
   const fe = enOrden(enlacesDe(original), enlacesDe(nuevoHtml)); if (fe) dif.push(`${p.url}: falta enlace ${fe}`);
