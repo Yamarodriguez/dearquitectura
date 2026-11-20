@@ -1,0 +1,4381 @@
+{
+ "slug": "despacho-de-arquitectura-ciudad-de-mexico",
+ "id": "nueva",
+ "title": "Despacho de Arquitectura Ciudad de México",
+ "titulo_seo": "Despacho de arquitectura CDMX: planos, 3D y renders",
+ "url": "https://dearquitectura.info/despacho-de-arquitectura-ciudad-de-mexico/",
+ "nueva": true,
+ "meta_description": "Despacho de arquitectura online para tu obra en Ciudad de México (CDMX): diseño, planos, modelado 3D y renders. Manifestación de construcción, DRO y suelo.",
+ "palabra_clave": "despacho de arquitectura cdmx",
+ "menu": "estudio",
+ "logo": "",
+ "foto_destacada": "/img/2026/11/palacio-bellas-artes-cdmx.jpg",
+ "fecha": "2026-11-20 12:00:00",
+ "modificada": "2026-11-20 12:00:00",
+ "fecha_gmt": "2026-11-20 12:00:00",
+ "modificada_gmt": "2026-11-20 12:00:00",
+ "h1_es_titulo": false,
+ "fondos": [],
+ "blocks": [
+  {
+   "type": "image",
+   "src": "/img/2026/11/palacio-bellas-artes-cdmx.jpg",
+   "alt": "Fachada principal del Palacio de Bellas Artes, en el Centro Histórico de la Ciudad de México, con su cúpula y la explanada de acceso",
+   "size": "large"
+  },
+  {
+   "type": "heading",
+   "tag": "h1",
+   "text": "Despacho de Arquitectura en Ciudad de México"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Diseño, planos y renders para tu obra en la Ciudad de México (CDMX)"
+  },
+  {
+   "type": "text",
+   "html": "<p>¿Vas a <strong>construir o remodelar en la Ciudad de México</strong>? En DE Arquitectura preparamos en línea el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu proyecto, para que lo veas terminado antes de empezar la obra.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Pide presupuesto",
+   "href": "/contacto/",
+   "size": "sm"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "En resumen"
+  },
+  {
+   "type": "text",
+   "html": "<p>Somos un <strong>despacho de arquitectura online</strong> y trabajamos a distancia para obras en la Ciudad de México (CDMX): diseño, planos, modelado 3D y renders. La <strong>manifestación de construcción</strong> se registra en la Plataforma Digital del Gobierno de la Ciudad y la atiende la alcaldía; en las obras tipo B y C la suscribe un <strong>Director Responsable de Obra (DRO)</strong> con registro vigente.</p>"
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Ciudad</th><td>Ciudad de México (CDMX), capital del país, con 16 alcaldías</td></tr><tr><th scope=\"row\">Licencia de obra</th><td>Registro de manifestación de construcción (tipo A, B o C) en la Plataforma Digital, ante la alcaldía</td></tr><tr><th scope=\"row\">Normativa</th><td>Reglamento de Construcciones para el Distrito Federal (2004, con reformas) y sus Normas Técnicas Complementarias</td></tr><tr><th scope=\"row\">Quién firma</th><td>Director Responsable de Obra (DRO) en las obras tipo B y C y, según el caso, Corresponsables</td></tr><tr><th scope=\"row\">Suelo</th><td>Tres zonas geotécnicas: I Lomas, II Transición y III Lacustre</td></tr><tr><th scope=\"row\">Clima</th><td>Templado subhúmedo, con la mayor parte de la lluvia de junio a septiembre</td></tr><tr><th scope=\"row\">Qué hacemos</th><td>Diseño, planos, modelado 3D, renders, video y tour virtual, a distancia</td></tr></tbody></table>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Construir o remodelar en la Ciudad de México, paso a paso"
+  },
+  {
+   "type": "text",
+   "html": "<p>En la CDMX los trámites de obra se presentan en la <strong>Plataforma Digital</strong> del Gobierno de la Ciudad. Así se ordena un proyecto:</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "1. Idea, anteproyecto y planos"
+  },
+  {
+   "type": "text",
+   "html": "<p>Qué quieres construir, cómo es el terreno o la casa y una primera <strong>distribución</strong>. Después vienen los planos arquitectónicos, ajustados al <strong>Reglamento de Construcciones</strong> y a sus Normas Técnicas Complementarias. Es la parte que hacemos desde el despacho, con el modelo 3D y los renders para decidir viendo el resultado.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "2. Los papeles del predio"
+  },
+  {
+   "type": "text",
+   "html": "<p>Para una obra tipo B o C el Reglamento pide, entre otros documentos, la <strong>constancia de alineamiento y número oficial</strong> vigente y el <strong>certificado único de zonificación de uso de suelo</strong>. Conviene tenerlos antes de cerrar el proyecto, porque marcan qué se puede construir en el predio.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "3. Registro de la manifestación de construcción"
+  },
+  {
+   "type": "text",
+   "html": "<p>Se registra en la Plataforma Digital antes de empezar los trabajos; en la Ventanilla Única ayudan a quien acude en persona. La <strong>tipo A</strong> es para una sola vivienda unifamiliar de hasta 120 m² construidos y dos niveles; la <strong>tipo B</strong>, para obras de hasta 5000 m² (10 000 m² si son de vivienda), y la <strong>tipo C</strong>, para las mayores o las que necesitan dictamen de impacto urbano.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "4. Obra y aviso de terminación"
+  },
+  {
+   "type": "text",
+   "html": "<p>Al acabar se presenta el <strong>aviso de terminación de obra</strong>, también en la Plataforma Digital; en las obras tipo B y C sirve para que se autorice el uso y ocupación del inmueble. Antes, los renders y el modelo 3D ayudan a pedir cotizaciones comparables a las constructoras.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Quién firma el proyecto en la Ciudad de México"
+  },
+  {
+   "type": "text",
+   "html": "<p>Para ejercer la arquitectura en la CDMX hacen falta título registrado y <strong>cédula profesional</strong> de la Dirección General de Profesiones. Las manifestaciones tipo B y C las suscribe un <strong>Director Responsable de Obra (DRO)</strong>, con autorización y registro a través del <strong>Instituto para la Seguridad de las Construcciones</strong>, que vigila que el proyecto y la obra cumplan la norma; según el caso, lo acompañan Corresponsables en seguridad estructural, en diseño urbano y arquitectónico o en instalaciones. El gremio se reúne en el Colegio de Arquitectos de la Ciudad de México y la Sociedad de Arquitectos Mexicanos (CAM-SAM). Nosotros preparamos el diseño, los planos, el modelado 3D y los renders, y el proyecto queda listo para que el DRO trabaje con él.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "El suelo de la Ciudad de México: lomas, transición y lago"
+  },
+  {
+   "type": "text",
+   "html": "<p>El Reglamento de Construcciones divide la ciudad en tres <strong>zonas geotécnicas</strong>. La <strong>zona I, Lomas</strong>, tiene rocas o suelos en general firmes, aunque puede haber rellenos sin compactar y antiguas minas de arena. La <strong>zona II, Transición</strong>, alterna capas arenosas con arcilla lacustre y tiene los depósitos firmes a 20 m de profundidad o menos. La <strong>zona III, Lacustre</strong>, está formada por arcillas muy compresibles que, con los rellenos de encima, pueden superar los 50 m de espesor. La zona del predio condiciona la cimentación y el diseño frente a sismos, que resuelven el DRO y el corresponsable en seguridad estructural; el mapa de las Normas Técnicas solo sirve para obras ligeras o medianas, y en las demás hay que explorar el subsuelo.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "El clima de la Ciudad de México y el diseño de tu casa"
+  },
+  {
+   "type": "text",
+   "html": "<p>Según el INEGI, el clima que ocupa más superficie en la Ciudad de México es el <strong>templado subhúmedo con lluvias en verano</strong>. En las estaciones de la CONAGUA de la zona urbana, a más de 2200 m de altitud, la temperatura media anual ronda los 15 a 17 °C: mayo es el mes más cálido, diciembre y enero los más frescos, con alguna helada, y la mayor parte de la lluvia cae de <strong>junio a septiembre</strong>. Por eso conviene abrir las recámaras al sol de invierno, sombrear las ventanas en los meses de calor, prever aleros y un buen desagüe en azoteas y patios, y asegurar la <strong>ventilación cruzada</strong>. Con un render de cada época del año lo compruebas antes de construir.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Arquitectura de la Ciudad de México: tres sitios de la UNESCO"
+  },
+  {
+   "type": "text",
+   "html": "<p>Entre los bienes de Patrimonio Mundial de la UNESCO en la ciudad están el <strong>Centro Histórico y Xochimilco</strong> (1987), con la catedral más grande del continente y edificios públicos de los siglos XIX y XX como el Palacio de Bellas Artes; la <strong>Casa-Taller de Luis Barragán</strong> (2004), construida en 1948, cuya síntesis de lo moderno y lo tradicional ha influido en el diseño de jardines, plazas y paisajes, y el <strong>campus central de Ciudad Universitaria de la UNAM</strong> (2007), levantado entre 1949 y 1952 por más de 60 arquitectos, ingenieros y artistas y uno de los grandes símbolos de la modernidad en América Latina.</p>"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Preguntas frecuentes"
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Dónde se registra la manifestación de construcción en la CDMX?",
+     "html": "<p>En la Plataforma Digital del Gobierno de la Ciudad de México, antes de empezar la obra. La atiende la alcaldía o, cuando le corresponde, la Secretaría de Desarrollo Urbano y Vivienda (SEDUVI). Si vas en persona, en la Ventanilla Única te ayudan a ingresar el trámite.</p>"
+    },
+    {
+     "title": "¿Qué es un DRO y cuándo hace falta?",
+     "html": "<p>El Director Responsable de Obra es un profesional con autorización y registro a través del Instituto para la Seguridad de las Construcciones. Suscribe las manifestaciones tipo B y C y vigila que el proyecto y la obra cumplan el Reglamento; según la obra, trabaja con Corresponsables.</p>"
+    },
+    {
+     "title": "¿Qué normativa deben cumplir los planos?",
+     "html": "<p>El Reglamento de Construcciones para el Distrito Federal, que se aplica en la Ciudad de México con sus reformas, y sus Normas Técnicas Complementarias, además del uso de suelo que marque el certificado de zonificación del predio.</p>"
+    },
+    {
+     "title": "¿Pueden hacer el proyecto de mi casa en la CDMX a distancia?",
+     "html": "<p>Sí. Trabajamos en línea: a partir de tus planos, medidas o fotos armamos el diseño, los planos, el modelo 3D y los renders, y los revisamos contigo en cada paso. La firma y el registro los hace el DRO o el profesional habilitado de la ciudad.</p>"
+    }
+   ]
+  },
+  {
+   "type": "image",
+   "src": "/img/2025/01/Estudio-arquitectura-rosario.jpg",
+   "alt": "Estudio-arquitectura-rosario",
+   "size": "large",
+   "wpid": 11315,
+   "s": 2
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arquitecto.jpg",
+   "alt": "arquitecto",
+   "size": "large",
+   "wpid": 309,
+   "href": "/arquitectos/",
+   "s": 4
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "ARQUITECTOS EN CIUDAD DE MÉXICO",
+   "s": 4
+  },
+  {
+   "type": "text",
+   "text": "En la CDMX, las obras tipo B y C necesitan un Director Responsable de Obra que suscriba la manifestación de construcción ante la alcaldía. Te orientamos sobre lo que pide tu obra y dejamos listo el proyecto gráfico (diseño, planos e imágenes) con el que va a trabajar. ¿Tienes preguntas sobre arquitectos , DRO o corresponsables? Aquí te las contestamos.",
+   "html": "<p>En la CDMX, las obras tipo B y C necesitan un <strong>Director Responsable de Obra</strong> que suscriba la manifestación de construcción ante la alcaldía. Te orientamos sobre lo que pide tu obra y dejamos listo el proyecto gráfico (diseño, planos e imágenes) con el que va a trabajar. ¿Tienes preguntas sobre <strong>arquitectos</strong>, DRO o corresponsables? Aquí te las contestamos.</p>",
+   "s": 4,
+   "texto_propio": true
+  },
+  {
+   "type": "text",
+   "text": "Arquitecto Arquitectos Famosos Arquitectos de interiores Arquitectos Modernos Arquitectos Delineantes Arquitectos Técnicos Arquitectos Diseñadores Arquitectos Renderistas",
+   "html": "<h3><a href=\"https://dearquitectura.info/arquitectos/\"><span style=\"font-size: 18.72px;\">Arquitecto</span></a></h3><h3><a href=\"https://dearquitectura.info/arquitectos-famosos/\"><span style=\"font-size: 18.72px;\">Arquitectos</span><strong> Famosos</strong> </a></h3><h3><a href=\"https://dearquitectura.info/arquitectos-de-interiores/\">Arquitectos de interiores</a></h3><h3><a href=\"https://dearquitectura.info/arquitecto-moderno/\">Arquitectos Modernos</a></h3><h3><a href=\"https://dearquitectura.info/delineante/\">Arquitectos Delineantes </a></h3><h3><a href=\"https://dearquitectura.info/arquitecto-tecnico/\">Arquitectos Técnicos </a></h3><h3><a href=\"https://dearquitectura.info/arquitecto-disenador/\">Arquitectos Diseñadores </a></h3><h3><a href=\"https://dearquitectura.info/renderista/\">Arquitectos Renderistas </a></h3>",
+   "s": 6
+  },
+  {
+   "type": "text",
+   "text": "Arquitectos Urbano Arquitectos Proyectistas Arquitectos Interioristas Arquitectos Paisajistas Arquitectos Calculistas Arquitectos Decoradores Aparejadores",
+   "html": "<h3><a href=\"https://dearquitectura.info/arquitecto-urbano/\">Arquitectos Urbano </a></h3><h3><a href=\"https://dearquitectura.info/proyectista/\">Arquitectos Proyectistas </a></h3><h3><a href=\"https://dearquitectura.info/interiorista/\">Arquitectos Interioristas </a></h3><h3><a href=\"https://dearquitectura.info/paisajista/\">Arquitectos <strong>Paisajistas </strong></a></h3><h3><a href=\"https://dearquitectura.info/calculista/\">Arquitectos Calculistas </a></h3><div><h3><a href=\"https://dearquitectura.info/decorador/\">Arquitectos Decoradores</a></h3><h3><a href=\"https://dearquitectura.info/aparejadores/\">Aparejadores</a></h3></div>",
+   "s": 6
+  },
+  {
+   "type": "text",
+   "text": "Conoce todos los tipos de arquitectos aquí!",
+   "html": "<p>Conoce todos los <strong>tipos de arquitectos</strong> aquí!</p>",
+   "s": 6
+  },
+  {
+   "type": "button",
+   "text": "Arquitecto",
+   "size": "sm",
+   "href": "/arquitectos/",
+   "s": 6
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/plataforma-de-arquitectura.jpg",
+   "alt": "plataforma-de-arquitectura",
+   "size": "large",
+   "wpid": 300,
+   "href": "/plataforma-arquitectura/",
+   "s": 8
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "PLATAFORMA ARQUITECTURA",
+   "s": 8
+  },
+  {
+   "type": "text",
+   "text": "Más allá del despacho, también funcionamos como plataforma de arquitectura , con estilos, software, cursos, libros y proyectos, para que llegues a tu obra en la Ciudad de México sabiendo lo que quieres.",
+   "html": "<p>Más allá del despacho, también funcionamos como <strong>plataforma de arquitectura</strong>, con estilos, software, cursos, libros y proyectos, para que llegues a tu obra en la <strong>Ciudad de México</strong> sabiendo lo que quieres.</p>",
+   "s": 8,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Plataforma",
+   "size": "sm",
+   "href": "/plataforma-arquitectura/",
+   "s": 8
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Estudios-de-arquitectura.jpg",
+   "alt": "Estudios-de-arquitectura",
+   "size": "large",
+   "wpid": 196,
+   "href": "/estudio-de-arquitectura/",
+   "s": 10
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "ESTUDIO DE ARQUITECTURA DE INTERIORES CIUDAD DE MÉXICO",
+   "s": 10
+  },
+  {
+   "type": "text",
+   "text": "¿Tienes un terreno, una casa que quieres crecer o un local por remodelar en la Ciudad de México ? Diseñamos contigo, a distancia, la distribución y los interiores , y te los mostramos en renders antes de escoger un solo acabado. Cuéntanos tu idea y arrancamos.",
+   "html": "<p>¿Tienes un terreno, una casa que quieres crecer o un local por remodelar en la <strong>Ciudad de México</strong>? Diseñamos contigo, a distancia, la distribución y los <strong>interiores</strong>, y te los mostramos en renders antes de escoger un solo acabado. Cuéntanos tu idea y arrancamos.</p>",
+   "s": 10,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Estudio",
+   "size": "sm",
+   "href": "/estudio-de-arquitectura/",
+   "s": 10
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "SERVICIOS DE ARQUITECTURA EN CIUDAD DE MÉXICO",
+   "s": 13
+  },
+  {
+   "type": "text",
+   "text": "¡Descubre nuestros servicios de arquitectura! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.",
+   "html": "<p>¡Descubre nuestros<strong> servicios de arquitectura</strong>! contáctanos para analizar tu idea o proyecto. Estamos aquí para ayudarte.</p>",
+   "s": 13
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Renders 3D",
+   "href": "/renders/",
+   "s": 15
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/renders-arquitectura.jpg",
+   "alt": "renders-arquitectura",
+   "size": "large",
+   "wpid": 247,
+   "href": "/renders/",
+   "s": 15
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Planos",
+   "href": "/planos/",
+   "s": 15
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Arquitectura-Planos.jpg",
+   "alt": "Arquitectura-Planos",
+   "size": "large",
+   "wpid": 251,
+   "href": "/planos/",
+   "s": 15
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Modelado 3D",
+   "href": "/modelado-3d/",
+   "s": 15
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/modelado-3D-arquitectura.jpg",
+   "alt": "modelado-3D-arquitectura",
+   "size": "large",
+   "wpid": 253,
+   "href": "/modelado-3d/",
+   "s": 15
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Infografías",
+   "href": "/infografias/",
+   "s": 15
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/infografias-de-arquitectura.jpg",
+   "alt": "infografías-de-arquitectura",
+   "size": "large",
+   "wpid": 336,
+   "href": "/infografias/",
+   "s": 15
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Home staging",
+   "href": "/home-staging/",
+   "s": 17
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/home-staging-virtual.jpg",
+   "alt": "home-staging-virtual",
+   "size": "large",
+   "wpid": 2404,
+   "href": "/home-staging/",
+   "s": 17
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Catálogos",
+   "href": "/catalogo/",
+   "s": 17
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/catalogos-de-arquitectura.jpg",
+   "alt": "catálogos-de-arquitectura",
+   "size": "large",
+   "wpid": 317,
+   "href": "/catalogo/",
+   "s": 17
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Tour virtual 3D",
+   "href": "/tour-virtual/",
+   "s": 17
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/tour-360-virtual-de-arquitectura.jpg",
+   "alt": "tour-360-virtual-de-arquitectura",
+   "size": "large",
+   "wpid": 318,
+   "href": "/tour-virtual/",
+   "s": 17
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Realidad Virtual",
+   "href": "/realidad-virtual/",
+   "s": 17
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Realidad-virtual-arquitectura.jpg",
+   "alt": "",
+   "size": "large",
+   "wpid": 319,
+   "href": "/realidad-virtual/",
+   "s": 17
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Proyectos",
+   "href": "/proyectos-de-arquitectura/",
+   "s": 17
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Proyecto-de-arquitectura.jpg",
+   "alt": "Proyecto-de-arquitectura",
+   "size": "large",
+   "wpid": 346,
+   "href": "/proyectos-de-arquitectura/",
+   "s": 17
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Construcción",
+   "s": 19
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Construccion-arquitectura.jpg",
+   "alt": "Construcción-arquitectura",
+   "size": "large",
+   "wpid": 694,
+   "href": "/construccion/",
+   "s": 19
+  },
+  {
+   "type": "text",
+   "text": "¿Piensas construir en la CDMX? Ten listo el proyecto y registrada la manifestación antes de contratar la obra.",
+   "html": "<p>¿Piensas <strong>construir</strong> en la CDMX? Ten listo el proyecto y registrada la manifestación antes de contratar la obra.</p>",
+   "s": 19,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Construcción",
+   "size": "sm",
+   "href": "/construccion/",
+   "s": 19
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Reformas",
+   "s": 19
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/reforma.jpg",
+   "alt": "reforma",
+   "size": "large",
+   "wpid": 696,
+   "href": "/reformas/",
+   "s": 19
+  },
+  {
+   "type": "text",
+   "text": "¿Vas a remodelar tu casa en la CDMX? Mira en 3D cómo quedará y cotiza con constructoras sabiendo qué pedir.",
+   "html": "<p>¿Vas a <strong>remodelar tu casa</strong> en la CDMX? Mira en 3D cómo quedará y cotiza con constructoras sabiendo qué pedir.</p>",
+   "s": 19,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Reformas",
+   "size": "sm",
+   "href": "/reformas/",
+   "s": 19
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Diseños Arquitectónicos",
+   "s": 19
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Disenos-arquitectonicos.jpg",
+   "alt": "Diseños-arquitectónicos",
+   "size": "large",
+   "wpid": 685,
+   "href": "/disenos-arquitectonicos/",
+   "s": 19
+  },
+  {
+   "type": "text",
+   "text": "Diseño arquitectónico a la medida de la Ciudad de México: sol de invierno, aleros para las lluvias de verano y ventilación natural.",
+   "html": "<p><strong>Diseño arquitectónico</strong> a la medida de la Ciudad de México: sol de invierno, aleros para las lluvias de verano y ventilación natural.</p>",
+   "s": 19,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Diseños",
+   "size": "sm",
+   "href": "/disenos-arquitectonicos/",
+   "s": 19
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Interiorismo y decoración",
+   "s": 19
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/interiorismo-y-decoracion.jpg",
+   "alt": "interiorismo-y-decoración",
+   "size": "large",
+   "wpid": 687,
+   "href": "/interiorismo/",
+   "s": 19
+  },
+  {
+   "type": "text",
+   "text": "Interiorismo y decoración para departamentos, casas y locales de la CDMX, con renders para escoger colores, pisos y muebles.",
+   "html": "<p><strong>Interiorismo</strong> y decoración para departamentos, casas y locales de la CDMX, con renders para escoger colores, pisos y muebles.</p>",
+   "s": 19,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Interiorismo",
+   "size": "sm",
+   "href": "/interiorismo/",
+   "s": 19
+  },
+  {
+   "type": "button",
+   "text": "Servicios",
+   "size": "sm",
+   "href": "/servicios-de-arquitectura/",
+   "s": 20
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "TIPOS DE ARQUITECTURA Y ESTILOS",
+   "s": 22
+  },
+  {
+   "type": "text",
+   "text": "Descubre los estilos arquitectónicos mas importante de la historia humana",
+   "html": "<p>Descubre los <strong>estilos arquitectónicos</strong> mas importante de la historia humana</p>",
+   "s": 22
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Romana",
+   "href": "/arquitectura-romana/",
+   "s": 24
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arquitectura-roma.jpg",
+   "alt": "arquitectura-roma",
+   "size": "large",
+   "wpid": 619,
+   "href": "/arquitectura-romana/",
+   "s": 24
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Barroca",
+   "href": "/arquitectura-barroca/",
+   "s": 24,
+   "href_original": "/arquitectura-Barroca/",
+   "cambio": "enlace_roto"
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arquitectura-del-barroco.jpg",
+   "alt": "arquitectura-del-barroco",
+   "size": "large",
+   "wpid": 615,
+   "href": "/arquitectura-barroca/",
+   "s": 24,
+   "href_original": "/arquitectura-Barroca/",
+   "cambio": "enlace_roto"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Griega",
+   "href": "/arquitectura-griega/",
+   "s": 24
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Arquitectura-grecia.jpg",
+   "alt": "Arquitectura-grecia",
+   "size": "large",
+   "wpid": 624,
+   "href": "/arquitectura-griega/",
+   "s": 24
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Gotica",
+   "href": "/arquitectura-gotica/",
+   "s": 24
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Gotica-arquitectura.jpg",
+   "alt": "Gótica-arquitectura",
+   "size": "large",
+   "wpid": 626,
+   "href": "/arquitectura-gotica/",
+   "s": 24
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Moderna",
+   "href": "/arquitectura-moderna/",
+   "s": 24
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Moderna-arquitectura.jpg",
+   "alt": "Moderna-arquitectura",
+   "size": "large",
+   "wpid": 630,
+   "href": "/arquitectura-moderna/",
+   "s": 24
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Neoclásica",
+   "href": "/arquitectura-neoclasica/",
+   "s": 24
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/neoclasica-arquitectura.jpg",
+   "alt": "neoclásica-arquitectura",
+   "size": "large",
+   "wpid": 633,
+   "href": "/arquitectura-neoclasica/",
+   "s": 24
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Renacentista",
+   "href": "/arquitectura-renacentista/",
+   "s": 26
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/renacentista-arquitectura.jpg",
+   "alt": "renacentista-arquitectura",
+   "size": "large",
+   "wpid": 638,
+   "href": "/arquitectura-renacentista/",
+   "s": 26
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Maya",
+   "href": "/arquitectura-maya/",
+   "s": 26
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arquitectura-mayas.jpg",
+   "alt": "arquitectura-mayas",
+   "size": "large",
+   "wpid": 632,
+   "href": "/arquitectura-maya/",
+   "s": 26
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Egipcia",
+   "href": "/arquitectura-egipcia/",
+   "s": 26
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arte-y-arquitectura-egipcia.jpg",
+   "alt": "arte-y-arquitectura-egipcia",
+   "size": "large",
+   "wpid": 639,
+   "href": "/arquitectura-egipcia/",
+   "s": 26
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Azteca",
+   "s": 26
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arte-y-arquitectura-azteca.jpg",
+   "alt": "arte-y-arquitectura-azteca",
+   "size": "large",
+   "wpid": 643,
+   "href": "/arquitectura-azteca/",
+   "s": 26
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Incas",
+   "href": "/arquitectura-incaica/",
+   "s": 26
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/arquitectura-incas.jpg",
+   "alt": "arquitectura-incas",
+   "size": "large",
+   "wpid": 646,
+   "href": "/arquitectura-incaica/",
+   "s": 26
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Bioclimática",
+   "href": "/arquitectura-bioclimatica/",
+   "s": 26
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/arquitecturas-bioclimaticas.webp",
+   "alt": "arquitecturas-bioclimaticas",
+   "size": "large",
+   "wpid": 4217,
+   "href": "/arquitectura-bioclimatica/",
+   "s": 26
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Sustentable",
+   "href": "/arquitectura-sustentable/",
+   "s": 28
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/03/sustentable-arquitectura.jpg",
+   "alt": "sustentable-arquitectura",
+   "size": "large",
+   "wpid": 3262,
+   "href": "/arquitectura-sustentable/",
+   "s": 28
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Brutalista",
+   "href": "/arquitectura-brutalista/",
+   "s": 28
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/brutalismo-arquitectura.jpg",
+   "alt": "brutalismo-arquitectura",
+   "size": "large",
+   "wpid": 664,
+   "href": "/arquitectura-brutalista/",
+   "s": 28
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Bizantina",
+   "href": "/arquitectura-bizantina/",
+   "s": 28
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/bizantino-arquitectura.jpg",
+   "alt": "bizantino-arquitectura",
+   "size": "large",
+   "wpid": 666,
+   "href": "/arquitectura-bizantina/",
+   "s": 28
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Mediterránea",
+   "href": "/arquitectura-mediterranea/",
+   "s": 28
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Mediterranea-arquitectura.jpg",
+   "alt": "Mediterránea-arquitectura",
+   "size": "large",
+   "wpid": 962,
+   "href": "/arquitectura-mediterranea/",
+   "s": 28
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Urbana",
+   "href": "/arquitectura-urbana/",
+   "s": 28
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/06/arquitectura-urbanistica.jpg",
+   "alt": "arquitectura-urbanística",
+   "size": "large",
+   "wpid": 5522,
+   "href": "/arquitectura-urbana/",
+   "s": 28
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Industrial",
+   "href": "/arquitectura-industrial/",
+   "s": 28
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/06/arquitectura-industriales.jpg",
+   "alt": "arquitectura-industriales",
+   "size": "large",
+   "wpid": 5523,
+   "href": "/arquitectura-industrial/",
+   "s": 28
+  },
+  {
+   "type": "text",
+   "text": "Conoce todos los tipos y estilos arquitectónicos aquí!",
+   "html": "<p>Conoce todos los <strong>tipos y estilos arquitectónicos</strong> aquí!</p>",
+   "s": 29
+  },
+  {
+   "type": "button",
+   "text": "TIPOS DE ARQUITECTURA",
+   "size": "sm",
+   "href": "/tipos-de-arquitectura/",
+   "s": 29
+  },
+  {
+   "type": "image",
+   "src": "/img/2024/05/Agencia-de-diseno.jpg",
+   "alt": "Agencia-de-diseño",
+   "size": "large",
+   "wpid": 5183,
+   "href": "/agencia-de-diseno/",
+   "s": 31
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "AGENCIA DE DISEÑO DE ARQUITECTURA CIUDAD DE MÉXICO 3D",
+   "s": 31
+  },
+  {
+   "type": "text",
+   "text": "También somos agencia de diseño : logotipo, presentaciones y sitio web para dar a conocer tu proyecto o tu despacho.",
+   "html": "<p>También somos <strong>agencia de diseño</strong>: logotipo, presentaciones y sitio web para dar a conocer tu proyecto o tu despacho.</p>",
+   "s": 31,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Agencia",
+   "size": "sm",
+   "href": "/agencia-de-diseno/",
+   "s": 31
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Dibujo-de-arquitectura.jpg",
+   "alt": "Dibujo-de-arquitectura",
+   "size": "large",
+   "wpid": 228,
+   "href": "/dibujos-de-arquitectura/",
+   "s": 33
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Dibujos de arquitectura",
+   "s": 33
+  },
+  {
+   "type": "text",
+   "text": "Todo arranca con un croquis : dibujos rápidos del predio, la planta y los alzados.",
+   "html": "<p>Todo arranca con un <strong>croquis</strong>: dibujos rápidos del predio, la planta y los alzados.</p>",
+   "s": 33,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Dibujos",
+   "size": "sm",
+   "href": "/dibujos-de-arquitectura/",
+   "s": 33
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Planos-arquitectura.jpg",
+   "alt": "Planos-arquitectura",
+   "size": "large",
+   "wpid": 224,
+   "href": "/planos/",
+   "s": 35
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Planos de Arquitectura Ciudad de México",
+   "s": 35
+  },
+  {
+   "type": "text",
+   "text": "Los planos de una obra en la Ciudad de México —plantas, cortes, fachadas y localización del predio— se ajustan al Reglamento de Construcciones y a sus Normas Técnicas Complementarias. Te los entregamos en archivo digital, listos para el DRO.",
+   "html": "<p>Los <strong>planos</strong> de una obra en la Ciudad de México —plantas, cortes, fachadas y localización del predio— se ajustan al <strong>Reglamento de Construcciones</strong> y a sus Normas Técnicas Complementarias. Te los entregamos en archivo digital, listos para el DRO.</p>",
+   "s": 35,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Planos",
+   "size": "sm",
+   "href": "/planos/",
+   "s": 35
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/renders-de-arquitectura.jpg",
+   "alt": "renders-de-arquitectura",
+   "size": "large",
+   "wpid": 306,
+   "href": "/renders/",
+   "s": 37
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Renders Ciudad de México",
+   "s": 37
+  },
+  {
+   "type": "text",
+   "text": "Un render te enseña tu casa, tu departamento o tu local en la CDMX ya terminado, con su fachada, sus interiores y la luz del día. Además hacemos modelado 3D , recorridos en video y tour virtual.",
+   "html": "<p>Un <strong>render</strong> te enseña tu casa, tu departamento o tu local en la CDMX ya terminado, con su fachada, sus interiores y la luz del día. Además hacemos <strong>modelado 3D</strong>, recorridos en video y tour virtual.</p>",
+   "s": 37,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Renders",
+   "size": "sm",
+   "href": "/renders/",
+   "s": 37
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/despachos-de-arquitectura-1.jpg",
+   "alt": "despachos-de-arquitectura",
+   "size": "large",
+   "wpid": 1694,
+   "href": "/despacho/",
+   "s": 39
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Contáctanos para analizar tu proyecto",
+   "s": 39
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Despacho de Arquitectura Ciudad de México",
+   "s": 39
+  },
+  {
+   "type": "text",
+   "text": "Como despacho de arquitectura en línea, analizamos tu terreno o tu casa, proponemos cómo repartir los espacios y armamos los planos y las vistas de tu obra en la Ciudad de México. Trabajamos el diseño de interiores , la distribución y la viabilidad, todo en línea y con tu visto bueno en cada avance.",
+   "html": "<p>Como <strong>despacho de arquitectura</strong> en línea, analizamos tu terreno o tu casa, proponemos cómo repartir los espacios y armamos los planos y las vistas de tu obra en la Ciudad de México. Trabajamos el <strong>diseño de interiores</strong>, la distribución y la viabilidad, todo en línea y con tu visto bueno en cada avance.</p>",
+   "s": 39,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Despacho",
+   "size": "sm",
+   "href": "/despacho/",
+   "s": 39
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Trabajo-de-arquitectura.jpg",
+   "alt": "Trabajo-de-arquitectura",
+   "size": "large",
+   "wpid": 709,
+   "href": "/trabajos/",
+   "s": 41
+  },
+  {
+   "type": "heading",
+   "tag": "p",
+   "text": "¿Quieres trabajar con nosotros?",
+   "s": 41
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Trabajos Estudio de Arquitectura en Ciudad de México",
+   "s": 41
+  },
+  {
+   "type": "text",
+   "text": "¿Tienes cédula profesional de arquitecto, eres DRO o contratista en la Ciudad de México y quieres colaborar con nosotros? Trabajamos en línea. Mándanos un mensaje.",
+   "html": "<p>¿Tienes <strong>cédula profesional</strong> de arquitecto, eres DRO o contratista en la Ciudad de México y quieres colaborar con nosotros? Trabajamos en línea. Mándanos un mensaje.</p>",
+   "s": 41,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Trabajos",
+   "size": "sm",
+   "href": "/trabajos/",
+   "s": 41
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/maqueta-de-arquitectura.jpg",
+   "alt": "maqueta-de-arquitectura",
+   "size": "large",
+   "wpid": 432,
+   "href": "/maquetas-de-arquitectura/",
+   "s": 43
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Maquetas de Arquitectura",
+   "s": 43
+  },
+  {
+   "type": "text",
+   "text": "Con una maqueta a escala se capta de un vistazo la volumetría de una obra; el render le suma los acabados y la iluminación que tendrá.",
+   "html": "<p>Con una <strong>maqueta</strong> a escala se capta de un vistazo la volumetría de una obra; el render le suma los acabados y la iluminación que tendrá.</p>",
+   "s": 43,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Maquetas",
+   "size": "sm",
+   "href": "/maquetas-de-arquitectura/",
+   "s": 43
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/empresa-de-arquitectura.jpg",
+   "alt": "empresa-de-arquitectura",
+   "size": "large",
+   "wpid": 711,
+   "href": "/empresas/",
+   "s": 45
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Empresas de Arquitectura Ciudad de México",
+   "s": 45
+  },
+  {
+   "type": "text",
+   "text": "Trabajamos con despachos , arquitectos y diseñadores que arman equipos a la medida de cada encargo, desde una casa hasta un edificio de departamentos.",
+   "html": "<p>Trabajamos con <strong>despachos</strong>, arquitectos y diseñadores que arman equipos a la medida de cada encargo, desde una casa hasta un edificio de departamentos.</p>",
+   "s": 45,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Empresa",
+   "size": "sm",
+   "href": "/empresas/",
+   "s": 45
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/portafolios-de-arquitectura.jpg",
+   "alt": "portafolios-de-arquitectura",
+   "size": "large",
+   "wpid": 1809,
+   "href": "/portafolios-arquitectura/",
+   "s": 47,
+   "href_original": "/porfolios-arquitectura/",
+   "cambio": "enlace_roto"
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Portafolios Arquitectura",
+   "s": 47
+  },
+  {
+   "type": "text",
+   "text": "Si ejerces la arquitectura en la CDMX, un portafolio cuidado, con renders y planos, muestra tus proyectos a clientes y concursos, en papel o en línea.",
+   "html": "<p>Si ejerces la arquitectura en la CDMX, un <strong>portafolio</strong> cuidado, con renders y planos, muestra tus proyectos a clientes y concursos, en papel o en línea.</p>",
+   "s": 47,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Portafolios",
+   "size": "sm",
+   "href": "/portafolios-arquitectura/",
+   "s": 47,
+   "href_original": "/porfolios-arquitectura/",
+   "cambio": "enlace_roto"
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/imagenes-de-arquitectura.jpg",
+   "alt": "imágenes-de-arquitectura",
+   "size": "large",
+   "wpid": 2101,
+   "href": "/imagen-de-arquitectura/",
+   "s": 49
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Fotos e Imágenes de arquitectura",
+   "s": 49
+  },
+  {
+   "type": "text",
+   "text": "Inspírate con nuestras imágenes de arquitectura : fachadas, interiores, casas y paisajes urbanos para dar forma a tu proyecto en la Ciudad de México.",
+   "html": "<p>Inspírate con nuestras <strong>imágenes de arquitectura</strong>: fachadas, interiores, casas y paisajes urbanos para dar forma a tu proyecto en la Ciudad de México.</p>",
+   "s": 49,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Imágenes",
+   "size": "sm",
+   "href": "/imagen-de-arquitectura/",
+   "s": 49
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Libros-de-arquitectura.jpg",
+   "alt": "Libros-de-arquitectura",
+   "size": "large",
+   "wpid": 353,
+   "href": "/libros-de-arquitectura/",
+   "s": 51
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Libros",
+   "s": 51
+  },
+  {
+   "type": "text",
+   "text": "Antes de encargar un proyecto vale la pena leer: libros de arquitectura de diseño, construcción e historia, impresos o en formato digital. Aquí tienes nuestra selección.",
+   "html": "<p>Antes de encargar un proyecto vale la pena leer: <strong>libros de arquitectura</strong> de diseño, construcción e historia, impresos o en formato digital. Aquí tienes nuestra selección.</p>",
+   "s": 51,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Libros",
+   "size": "sm",
+   "href": "/libros-de-arquitectura/",
+   "s": 51
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/curso-de-arquitectura.jpg",
+   "alt": "curso-de-arquitectura",
+   "size": "large",
+   "wpid": 355,
+   "href": "/cursos-de-arquitectura/",
+   "s": 53
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Cursos",
+   "s": 53
+  },
+  {
+   "type": "text",
+   "text": "¿Estudias arquitectura en la Ciudad de México o quieres actualizarte? Hay cursos en línea de dibujo, renders, modelado 3D , estructuras e instalaciones. Reunimos una selección para que avances cuando quieras y desde donde estés.",
+   "html": "<p>¿Estudias arquitectura en la Ciudad de México o quieres actualizarte? Hay <strong>cursos en línea</strong> de dibujo, renders, <strong>modelado 3D</strong>, estructuras e instalaciones. Reunimos una selección para que avances cuando quieras y desde donde estés.</p>",
+   "s": 53,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Cursos",
+   "size": "sm",
+   "href": "/cursos-de-arquitectura/",
+   "s": 53
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/revista-de-arquitectura.jpg",
+   "alt": "revista-de-arquitectura",
+   "size": "large",
+   "wpid": 1507,
+   "href": "/revistas-de-arquitectura/",
+   "s": 55
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Revistas",
+   "s": 55
+  },
+  {
+   "type": "text",
+   "text": "Las revistas de arquitectura reúnen obras de México y del resto de América Latina: buenas ideas de patios, terrazas y materiales para el clima templado de la CDMX.",
+   "html": "<p>Las <strong>revistas de arquitectura</strong> reúnen obras de México y del resto de América Latina: buenas ideas de patios, terrazas y materiales para el clima templado de la CDMX.</p>",
+   "s": 55,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Revistas",
+   "size": "sm",
+   "href": "/revistas-de-arquitectura/",
+   "s": 55
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/Programa-de-arquitectura.png",
+   "alt": "Programa-de-arquitectura",
+   "size": "large",
+   "wpid": 800,
+   "href": "/programas-de-arquitectura/",
+   "s": 57
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Programas de Arquitectura",
+   "s": 57
+  },
+  {
+   "type": "text",
+   "text": "AutoCAD y Revit son los programas habituales para los planos, y SketchUp, Lumion o V-Ray para el modelo 3D y los renders. Descubre para qué sirve cada uno.",
+   "html": "<p><strong>AutoCAD</strong> y Revit son los programas habituales para los planos, y SketchUp, Lumion o V-Ray para el modelo 3D y los renders. Descubre para qué sirve cada uno.</p>",
+   "s": 57,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Programas",
+   "size": "sm",
+   "href": "/programas-de-arquitectura/",
+   "s": 57
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/proyectos-de-arquitectura.jpg",
+   "alt": "proyectos-de-arquitectura",
+   "size": "large",
+   "wpid": 431,
+   "href": "/proyectos-de-arquitectura/",
+   "s": 59
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Proyectos de arquitectura Ciudad de México",
+   "s": 59
+  },
+  {
+   "type": "text",
+   "text": "Revisa proyectos de arquitectura de casas, locales y edificios y observa cómo manejan la luz natural, el asoleamiento y el vínculo con la calle. Te servirán de referencia para tu obra en la CDMX.",
+   "html": "<p>Revisa <strong>proyectos de arquitectura</strong> de casas, locales y edificios y observa cómo manejan la luz natural, el asoleamiento y el vínculo con la calle. Te servirán de referencia para tu obra en la CDMX.</p>",
+   "s": 59,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "Proyectos",
+   "size": "sm",
+   "href": "/proyectos-de-arquitectura/",
+   "s": 59
+  },
+  {
+   "type": "image",
+   "src": "/img/2023/12/ia-arquitectura.jpg",
+   "alt": "ia-arquitectura",
+   "size": "large",
+   "wpid": 729,
+   "s": 61
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "Inteligencia artificial (I.A)",
+   "s": 61
+  },
+  {
+   "type": "text",
+   "text": "La inteligencia artificial ya crea imágenes de ambientes a partir de una frase o de una foto. Es útil para buscar ideas, pero no sabe las medidas de tu predio ni lo que pide el Reglamento de Construcciones: el proyecto sigue pidiendo planos y un modelado 3D apegado a la realidad. Te contamos sus ventajas y sus límites.",
+   "html": "<p>La <strong>inteligencia artificial</strong> ya crea imágenes de ambientes a partir de una frase o de una foto. Es útil para buscar ideas, pero no sabe las medidas de tu predio ni lo que pide el Reglamento de Construcciones: el proyecto sigue pidiendo <strong>planos</strong> y un modelado 3D apegado a la realidad. Te contamos sus ventajas y sus límites.</p>",
+   "s": 61,
+   "texto_propio": true
+  },
+  {
+   "type": "button",
+   "text": "IA",
+   "size": "sm",
+   "s": 61,
+   "href": "/programas-de-arquitectura/",
+   "cambio": "boton_sin_destino"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "¿Tienes un proyecto en la Ciudad de México?"
+  },
+  {
+   "type": "text",
+   "html": "<p>Cuéntanos qué quieres construir o remodelar y te decimos cómo podemos ayudarte con el diseño, los planos y las imágenes 3D.</p>"
+  },
+  {
+   "type": "button",
+   "text": "Contacto",
+   "href": "/contacto/",
+   "size": "sm"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Fuentes"
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><a href=\"https://paot.org.mx/centro/leyes-normas-htmls/reglamento-de-construcciones-1028.html\" rel=\"noopener\">Reglamento de Construcciones para el Distrito Federal, texto vigente (PAOT)</a></li><li><a href=\"https://paot.org.mx/centro/reglamentos/df/pdf/2024/08-05-2024.pdf\" rel=\"noopener\">Gaceta Oficial de la Ciudad de México, 8 de mayo de 2024: reforma del Reglamento (Plataforma Digital)</a></li><li><a href=\"https://paot.mx/centro/normas_a/2022/1%20NORMAS%20TECNICAS%20COMPLEMENTARIAS%20PARA%20DISENO%20Y%20CONSTRUCCION%20DE%20CIMENTACIONES.pdf\" rel=\"noopener\">Normas Técnicas Complementarias para Diseño y Construcción de Cimentaciones (Gaceta Oficial, 15-12-2017)</a></li><li><a href=\"https://paot.org.mx/centro/leyes-normas-htmls/ley-del-instituto-591.html\" rel=\"noopener\">Ley del Instituto para la Seguridad de las Construcciones (PAOT)</a></li><li><a href=\"https://www.diputados.gob.mx/LeyesBiblio/pdf/208_190118.pdf\" rel=\"noopener\">Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México (Cámara de Diputados)</a></li><li><a href=\"https://www.inegi.org.mx/contenidos/app/areasgeograficas/resumen/resumen_09.pdf\" rel=\"noopener\">INEGI: información geográfica de la Ciudad de México (clima, temperatura y lluvia, datos de CONAGUA)</a></li><li><a href=\"https://whc.unesco.org/es/list/412\" rel=\"noopener\">UNESCO: Centro histórico de México y Xochimilco</a></li><li><a href=\"https://whc.unesco.org/es/list/1136\" rel=\"noopener\">UNESCO: Casa-Taller de Luis Barragán</a></li><li><a href=\"https://whc.unesco.org/es/list/1250\" rel=\"noopener\">UNESCO: Campus central de la Ciudad Universitaria de la UNAM</a></li><li><a href=\"https://www.archdaily.com/es/tag/camsam\" rel=\"noopener\">ArchDaily: Colegio de Arquitectos de la Ciudad de México y Sociedad de Arquitectos Mexicanos (CAM-SAM)</a></li></ul><p class=\"creditos\">Fotos: Palacio de Bellas Artes (Ciudad de México), <a href=\"https://commons.wikimedia.org/wiki/File:Bellas_Artes_01.jpg\" rel=\"noopener\">Xavier Quetzalcoatl Contreras Castillo</a> (CC BY-SA 3.0), Wikimedia Commons.</p>"
+  }
+ ],
+ "elementor": [
+  {
+   "t": "c",
+   "id": "8f18440",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fila",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "524fc63",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "120eb14",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 0
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "d9c7592",
+     "cls": "e-con-full e-flex e-con e-child nueva-col",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "955b849",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h1",
+       "size": "default",
+       "b": 1
+      },
+      {
+       "t": "w",
+       "id": "7bc6566",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 2
+      },
+      {
+       "t": "w",
+       "id": "8e81c55",
+       "wt": "divider",
+       "cls": "elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "00d6647",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 3
+      },
+      {
+       "t": "w",
+       "id": "aff8721",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "9e07bc6",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-resumen",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "47fa0d1",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "dafa3a3",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 5
+      },
+      {
+       "t": "w",
+       "id": "d8559bb",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 6
+      },
+      {
+       "t": "w",
+       "id": "489e286",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 7
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "74ae409",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "9573380",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "9e0376f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 8
+      },
+      {
+       "t": "w",
+       "id": "03bef87",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 9
+      },
+      {
+       "t": "w",
+       "id": "e9098e4",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 10
+      },
+      {
+       "t": "w",
+       "id": "0dde3d7",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 11
+      },
+      {
+       "t": "w",
+       "id": "9705dc5",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 12
+      },
+      {
+       "t": "w",
+       "id": "87ee0f8",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 13
+      },
+      {
+       "t": "w",
+       "id": "4b5bf48",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 14
+      },
+      {
+       "t": "w",
+       "id": "6f90d5e",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 15
+      },
+      {
+       "t": "w",
+       "id": "db42f07",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 16
+      },
+      {
+       "t": "w",
+       "id": "08e28ef",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 17
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "14e80e9",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "6abca75",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "0035860",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 18
+      },
+      {
+       "t": "w",
+       "id": "6595469",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 19
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "7ffec9e",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "6304965",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "eac9892",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 20
+      },
+      {
+       "t": "w",
+       "id": "7ea3f8f",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 21
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "0df0040",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "93724b5",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "7c406cd",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 22
+      },
+      {
+       "t": "w",
+       "id": "0eb0012",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 23
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "c8509ef",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "301da4a",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "6b2f22c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 24
+      },
+      {
+       "t": "w",
+       "id": "36899da",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 25
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "6210c63",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "beafe6b",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "4b9283f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 26
+      },
+      {
+       "t": "w",
+       "id": "cab990c",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 27
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "04d848b",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "8288a21",
+     "wt": "image",
+     "cls": "elementor-widget elementor-widget-image",
+     "b": 28
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "76217a3",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "8c061e2",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "d912abc",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "ade8f57",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "2efc1cb",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 29
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "c9b3829",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "cebb225",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "28d7be5",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 30
+      },
+      {
+       "t": "w",
+       "id": "fdcc463",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "873698a",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 31
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "1d6a1b5",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "ad0d248",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "040db3b",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "cf5377f",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "3a598ca",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 32
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "4dac1d0",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "94c63bd",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 33
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "361dcdc",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "c36e830",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "c",
+       "id": "b2392bb",
+       "cls": "e-con-full e-flex e-con e-child",
+       "hijos": [
+        {
+         "t": "w",
+         "id": "4f7d069",
+         "wt": "text-editor",
+         "cls": "elementor-widget__width-initial elementor-widget elementor-widget-text-editor",
+         "b": 34
+        },
+        {
+         "t": "w",
+         "id": "5f29e04",
+         "wt": "button",
+         "cls": "elementor-align-center elementor-widget elementor-widget-button",
+         "b": 35
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "068c376",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "af64fbe",
+     "wt": "divider",
+     "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+    },
+    {
+     "t": "w",
+     "id": "306819d",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "3c291f2",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "6f6583b",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "ed830be",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 36
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "90eed53",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "ff3df38",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 37
+      },
+      {
+       "t": "w",
+       "id": "67802e6",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "c6a5f2b",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 38
+      },
+      {
+       "t": "w",
+       "id": "81a74c4",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 39
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "f58cd73",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "36bc802",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "69cc350",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "391b002",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "faa1ab5",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 40
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "5eba6b3",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d3985bd",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 41
+      },
+      {
+       "t": "w",
+       "id": "d06b08c",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "43bfe28",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 42
+      },
+      {
+       "t": "w",
+       "id": "18b42cd",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 43
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "47b4be9",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "07558a6",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "2373e43",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "77f7707",
+     "wt": "divider",
+     "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+    },
+    {
+     "t": "w",
+     "id": "5622ce0",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "845b5a2",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "e65f7dd",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    },
+    {
+     "t": "w",
+     "id": "7ea4bd7",
+     "wt": "heading",
+     "cls": "elementor-widget elementor-widget-heading",
+     "tag": "h2",
+     "size": "default",
+     "b": 44
+    },
+    {
+     "t": "w",
+     "id": "b0090a2",
+     "wt": "text-editor",
+     "cls": "elementor-widget elementor-widget-text-editor",
+     "b": 45
+    },
+    {
+     "t": "w",
+     "id": "595139c",
+     "wt": "divider",
+     "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "8adbf79",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "191d971",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "e26b230",
+   "cls": "e-con-full e-flex e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "24fb731",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "8b42029",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 46
+      },
+      {
+       "t": "w",
+       "id": "ca5d84c",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 47
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "65f3fe4",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "6f6cbb8",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 48
+      },
+      {
+       "t": "w",
+       "id": "4ccc7e8",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 49
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "0dad805",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "535c9c2",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 50
+      },
+      {
+       "t": "w",
+       "id": "f9e0b34",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 51
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "d6626cf",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "f90c83a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 52
+      },
+      {
+       "t": "w",
+       "id": "466182d",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 53
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "84743c7",
+   "cls": "elementor-hidden-mobile e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "bee4940",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "bafef45",
+   "cls": "e-con-full e-flex e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "b5fc61f",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "e8eb77c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 54
+      },
+      {
+       "t": "w",
+       "id": "60968c7",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 55
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "5e489ba",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "4b6ba0e",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 56
+      },
+      {
+       "t": "w",
+       "id": "4cbc38b",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 57
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "d3b895a",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "83535c3",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 58
+      },
+      {
+       "t": "w",
+       "id": "95bdcb8",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 59
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "b704894",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "9e9bd37",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 60
+      },
+      {
+       "t": "w",
+       "id": "b414553",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 61
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "4a6e48c",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "b75b9e9",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 62
+      },
+      {
+       "t": "w",
+       "id": "21bbc5b",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 63
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "62bcc51",
+   "cls": "elementor-hidden-mobile e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "8cdfaa4",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "22d7765",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "abfa752",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "36c3b77",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 64
+      },
+      {
+       "t": "w",
+       "id": "77323bd",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 65
+      },
+      {
+       "t": "w",
+       "id": "d6d3bf2",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 66
+      },
+      {
+       "t": "w",
+       "id": "93d3086",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 67
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "7a02407",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "f229863",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 68
+      },
+      {
+       "t": "w",
+       "id": "697045c",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 69
+      },
+      {
+       "t": "w",
+       "id": "21e6ab7",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 70
+      },
+      {
+       "t": "w",
+       "id": "555cc03",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 71
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "da05275",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "59ff47a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 72
+      },
+      {
+       "t": "w",
+       "id": "9a019e3",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 73
+      },
+      {
+       "t": "w",
+       "id": "d302822",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 74
+      },
+      {
+       "t": "w",
+       "id": "75d0847",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 75
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "ab4a881",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "87cd92b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 76
+      },
+      {
+       "t": "w",
+       "id": "5f4660e",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 77
+      },
+      {
+       "t": "w",
+       "id": "fec78e4",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 78
+      },
+      {
+       "t": "w",
+       "id": "d21526e",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 79
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "bcfa24e",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "7cd49ad",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    },
+    {
+     "t": "w",
+     "id": "b45bc89",
+     "wt": "button",
+     "cls": "elementor-align-center elementor-widget elementor-widget-button",
+     "b": 80
+    },
+    {
+     "t": "w",
+     "id": "3d8a6fc",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "2221265",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "564cb81",
+     "wt": "divider",
+     "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+    },
+    {
+     "t": "w",
+     "id": "ab85d7b",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "ccfc291",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "5f5070c",
+     "wt": "heading",
+     "cls": "elementor-widget elementor-widget-heading",
+     "tag": "h2",
+     "size": "default",
+     "b": 81
+    },
+    {
+     "t": "w",
+     "id": "94ab477",
+     "wt": "text-editor",
+     "cls": "elementor-widget elementor-widget-text-editor",
+     "b": 82
+    },
+    {
+     "t": "w",
+     "id": "03c0cd5",
+     "wt": "divider",
+     "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "700954e",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "d6f6deb",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "efc1bda",
+   "cls": "e-con-full e-flex e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "d3efb6e",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "b9c8dd0",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 83
+      },
+      {
+       "t": "w",
+       "id": "5a077e6",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 84
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "7bf3f33",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d193cfe",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 85
+      },
+      {
+       "t": "w",
+       "id": "ddacd6e",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 86
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "b0ed217",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "19c462e",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 87
+      },
+      {
+       "t": "w",
+       "id": "9ada466",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 88
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "d0c756a",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "f050037",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 89
+      },
+      {
+       "t": "w",
+       "id": "d115a9e",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 90
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "fbf295b",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "65bcbe9",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 91
+      },
+      {
+       "t": "w",
+       "id": "d5030e9",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 92
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "b8eeec1",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "2628b09",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 93
+      },
+      {
+       "t": "w",
+       "id": "89a41e2",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 94
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "12cebce",
+   "cls": "elementor-hidden-mobile e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "02cd595",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "75963e6",
+   "cls": "e-con-full e-flex e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "fb13328",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "0440991",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 95
+      },
+      {
+       "t": "w",
+       "id": "4102cf7",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 96
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "3142d2e",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "25736ca",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 97
+      },
+      {
+       "t": "w",
+       "id": "1a28221",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 98
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "906e0d5",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d59a30b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 99
+      },
+      {
+       "t": "w",
+       "id": "52d9d42",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 100
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "3a2a457",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "7be60c2",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 101
+      },
+      {
+       "t": "w",
+       "id": "7adbca7",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 102
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "afb6c15",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "f8a4f05",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 103
+      },
+      {
+       "t": "w",
+       "id": "0e0afeb",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 104
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "9762b0c",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "55d34d9",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 105
+      },
+      {
+       "t": "w",
+       "id": "f9f7ba7",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 106
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "663a1d6",
+   "cls": "elementor-hidden-mobile e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "aa8e1dd",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "f6b79a2",
+   "cls": "e-con-full e-flex e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "c98a2e4",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "7a67195",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 107
+      },
+      {
+       "t": "w",
+       "id": "e2c3a63",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 108
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "5231f59",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "7fe06f9",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 109
+      },
+      {
+       "t": "w",
+       "id": "4fcc9cc",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 110
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "93825b4",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "a257e2f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 111
+      },
+      {
+       "t": "w",
+       "id": "35c7f80",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 112
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "a0aa306",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "efbdc2f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 113
+      },
+      {
+       "t": "w",
+       "id": "268186d",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 114
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "21e02fd",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "ac679d5",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 115
+      },
+      {
+       "t": "w",
+       "id": "c3e0249",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 116
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "8af8a3c",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "1250f4b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 117
+      },
+      {
+       "t": "w",
+       "id": "85f7743",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 118
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "5b374a9",
+   "cls": "e-con-full e-flex e-con e-child",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "f0a6ce7",
+     "wt": "spacer",
+     "cls": "elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-spacer"
+    },
+    {
+     "t": "w",
+     "id": "81aa9a5",
+     "wt": "text-editor",
+     "cls": "elementor-widget elementor-widget-text-editor",
+     "b": 119
+    },
+    {
+     "t": "w",
+     "id": "26a8f6a",
+     "wt": "button",
+     "cls": "elementor-align-center elementor-widget elementor-widget-button",
+     "b": 120
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "fe9bb5b",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "468f212",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "acb4827",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "920e231",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "4c5e2ee",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 121
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "c32ec43",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "90f1563",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "d8ec7f1",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 122
+      },
+      {
+       "t": "w",
+       "id": "d2c3b93",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "764e04f",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 123
+      },
+      {
+       "t": "w",
+       "id": "0d4f795",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 124
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "3e7cc48",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "1398e0b",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "f45ba7a",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "7cdc1b1",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "73cb19f",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 125
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "a1962d5",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "e60afa6",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "3f18d4f",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 126
+      },
+      {
+       "t": "w",
+       "id": "8af558a",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "eea5803",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 127
+      },
+      {
+       "t": "w",
+       "id": "356e49a",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 128
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "9c2876d",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "ff5fa17",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "db0c095",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "be6c449",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "87af07c",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 129
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "d3a727d",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "67d5266",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "6ffb8fb",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 130
+      },
+      {
+       "t": "w",
+       "id": "ac3c534",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "c803901",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 131
+      },
+      {
+       "t": "w",
+       "id": "4cf70c5",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 132
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "cac3447",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "12408e9",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "6a6346c",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "0c7c286",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d695936",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 133
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "7008815",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "25df510",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "980c3b9",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 134
+      },
+      {
+       "t": "w",
+       "id": "dd28b6c",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "e1acc54",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 135
+      },
+      {
+       "t": "w",
+       "id": "d48361d",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 136
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "68a559d",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "93179bc",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "49705f3",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "66874f5",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "ce08022",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "a9f1ff0",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 137
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "6132c75",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "f374703",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 138
+      },
+      {
+       "t": "w",
+       "id": "a184b03",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 139
+      },
+      {
+       "t": "w",
+       "id": "64b8ec3",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "09b4953",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 140
+      },
+      {
+       "t": "w",
+       "id": "fb52b92",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 141
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "5271bd0",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "4a2d81c",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "7bf7e8d",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "b81a215",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "0f211b9",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 142
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "7391e78",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "87f8d3b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "p",
+       "size": "default",
+       "b": 143
+      },
+      {
+       "t": "w",
+       "id": "f215e5c",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 144
+      },
+      {
+       "t": "w",
+       "id": "b9eebe2",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "6950824",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 145
+      },
+      {
+       "t": "w",
+       "id": "c642531",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 146
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "fa6374e",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "81803d2",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "ea7ad28",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "53b5fa5",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "aa295c2",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 147
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "21142db",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "306a01a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 148
+      },
+      {
+       "t": "w",
+       "id": "1e98a1d",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "fa5de7a",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 149
+      },
+      {
+       "t": "w",
+       "id": "a0bba48",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 150
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "15696c1",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "3a3a5fd",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "988f0b0",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "22c97fd",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "38589f0",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 151
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "490986a",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "49388a7",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "cbe0cb6",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 152
+      },
+      {
+       "t": "w",
+       "id": "c398699",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "e0fc9cc",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 153
+      },
+      {
+       "t": "w",
+       "id": "5e1652f",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 154
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "74b6969",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "343b3ff",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "130c466",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "2983ac8",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "20dad83",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 155
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "9df98d2",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "8c94026",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "5dbfc49",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 156
+      },
+      {
+       "t": "w",
+       "id": "edca027",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "7faf099",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 157
+      },
+      {
+       "t": "w",
+       "id": "b6756a4",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 158
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "3cea4b5",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "02ed9f8",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "55a26ab",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "a418eb6",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "abd31cb",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 159
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "49ee408",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "7d6e7d3",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 160
+      },
+      {
+       "t": "w",
+       "id": "efe5f3b",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "b4f3c04",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 161
+      },
+      {
+       "t": "w",
+       "id": "0026e2b",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 162
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "df29374",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "49d388f",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "bb9e152",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "37dc054",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "d9c876a",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 163
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "39774fa",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "fcf81e3",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "c29422e",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 164
+      },
+      {
+       "t": "w",
+       "id": "80c51e7",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "b08800e",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 165
+      },
+      {
+       "t": "w",
+       "id": "444102e",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 166
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "e66f445",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "33a101a",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "1bb266f",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "f64ff58",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "efbdab9",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "9c2ee6e",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 167
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "921ebdf",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "aedce2d",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 168
+      },
+      {
+       "t": "w",
+       "id": "f390e41",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "d743651",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 169
+      },
+      {
+       "t": "w",
+       "id": "b485072",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 170
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "c756395",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "6fb0434",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "57e4379",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "53346ce",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "dad8d5b",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "3f12e36",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 171
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "8cddc4d",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "a3ea462",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 172
+      },
+      {
+       "t": "w",
+       "id": "9e2b756",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "389e7a0",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 173
+      },
+      {
+       "t": "w",
+       "id": "4f9aebd",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 174
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "01f3bcf",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "99ccc21",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "a5d3609",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "74ce17b",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "8e90feb",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 175
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "6a4daf2",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "907b76e",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "39b8998",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 176
+      },
+      {
+       "t": "w",
+       "id": "f481e0b",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "ab4b62c",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 177
+      },
+      {
+       "t": "w",
+       "id": "a6a5c9f",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 178
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "90768ff",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "673bd18",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "f9a89ad",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "5b78fce",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "4cec21d",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 179
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "228c8c6",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "7ae11da",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 180
+      },
+      {
+       "t": "w",
+       "id": "dd15f50",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "a3f94c2",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 181
+      },
+      {
+       "t": "w",
+       "id": "b0c12f9",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 182
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "7c268cd",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "w",
+     "id": "face106",
+     "wt": "spacer",
+     "cls": "elementor-widget elementor-widget-spacer"
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "4e4d4d8",
+   "cls": "e-flex e-con-boxed e-con e-parent",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "8dc3046",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "9d44e14",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "7f7f5d7",
+       "wt": "image",
+       "cls": "elementor-widget elementor-widget-image",
+       "b": 183
+      }
+     ]
+    },
+    {
+     "t": "c",
+     "id": "a4828ea",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "bd53b4c",
+       "wt": "spacer",
+       "cls": "elementor-widget elementor-widget-spacer"
+      },
+      {
+       "t": "w",
+       "id": "c2b64db",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 184
+      },
+      {
+       "t": "w",
+       "id": "2c6c90a",
+       "wt": "divider",
+       "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      },
+      {
+       "t": "w",
+       "id": "aa5d488",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 185
+      },
+      {
+       "t": "w",
+       "id": "785d81f",
+       "wt": "button",
+       "cls": "elementor-align-center elementor-widget elementor-widget-button",
+       "b": 186
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "9b01e9d",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-cierre",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "4e9fbf7",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "425e00d",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 187
+      },
+      {
+       "t": "w",
+       "id": "d3a940f",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 188
+      },
+      {
+       "t": "w",
+       "id": "afa3940",
+       "wt": "button",
+       "cls": "elementor-widget elementor-widget-button",
+       "b": 189
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "cfd5c4f",
+   "cls": "e-flex e-con-boxed e-con e-parent nueva-fuentes",
+   "hijos": [
+    {
+     "t": "c",
+     "id": "71585eb",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "afed02a",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 190
+      },
+      {
+       "t": "w",
+       "id": "ad40973",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 191
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "modelo_id": "11308"
+}

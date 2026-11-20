@@ -123,3 +123,19 @@ Se enseñan a Yama antes de publicarlas. Si le gustan, se sigue con el resto de 
   - Bloque común copiado de Rosario con la ciudad cambiada y 23 textos propios.
 - **Migas:** Inicio › Estudio › ciudad, en los 12 lugares.
 - **Estado:** rama estudio-lugares, sin subir a main hasta que Yama lo apruebe.
+
+## 7. Segunda tanda (20-11-2026, Yama: «Sí, súbela y sigue»)
+- **Argentina:**
+  - Estudio de arquitectura en Buenos Aires (Teatro Colón; TAD, CPAU, Código de Edificación Ley 6100).
+  - Estudio de arquitectura en Mendoza (Plaza Independencia; Obras Privadas, Ley 5350, zona sísmica 4 del INPRES, ciudad nueva de 1863).
+- **México («despacho de arquitectura»):**
+  - Guadalajara: Hospicio Cabañas; Dirección de Licencias de Construcción, Director Responsable, Código Urbano de Jalisco.
+  - Ciudad de México: Bellas Artes; manifestación de construcción A/B/C, DRO, zonas geotécnicas, tres sitios de la UNESCO.
+  - Monterrey: Faro del Comercio; SEDUSO, DRO, Reglamento para las Construcciones, clima del SMN.
+- **Cómo se hizo:**
+  - Cada página la investigaron y redactaron ayudantes con fuentes oficiales.
+  - Claude revisó los datos y las fuentes: los enlaces responden, salvo las webs que bloquean robots (UNESCO) o tenían el servidor caído (Monterrey).
+  - Se quitaron 9 frases repetidas entre ciudades.
+  - Fotos de Wikimedia Commons con su licencia comprobada: CC0, CC BY y CC BY-SA.
+- **Portada de la sección:** México aparece como país nuevo, y en Argentina se suman Buenos Aires y Mendoza (src/data/estudio-lugares.json).
+- **Comprobaciones:** todo a 0 y comprobación visual a 0.

@@ -11689,6 +11689,24 @@
    1920
   ]
  },
+ "/img/2026/11/faro-del-comercio-monterrey.jpg": {
+  "w": 1280,
+  "h": 960,
+  "ws": [
+   400,
+   800,
+   1280
+  ]
+ },
+ "/img/2026/11/hospicio-cabanas-guadalajara.jpg": {
+  "w": 1280,
+  "h": 720,
+  "ws": [
+   400,
+   800,
+   1280
+  ]
+ },
  "/img/2026/11/manzana-jesuitica-cordoba.jpg": {
   "w": 1280,
   "h": 960,
@@ -11707,6 +11725,15 @@
    1920
   ]
  },
+ "/img/2026/11/palacio-bellas-artes-cdmx.jpg": {
+  "w": 1280,
+  "h": 853,
+  "ws": [
+   400,
+   800,
+   1280
+  ]
+ },
  "/img/2026/11/piramide-de-zoser.jpg": {
   "w": 1920,
   "h": 1280,
@@ -11723,6 +11750,24 @@
    400,
    800,
    1920
+  ]
+ },
+ "/img/2026/11/plaza-independencia-mendoza.jpg": {
+  "w": 1280,
+  "h": 775,
+  "ws": [
+   400,
+   800,
+   1280
+  ]
+ },
+ "/img/2026/11/teatro-colon-buenos-aires.jpg": {
+  "w": 1280,
+  "h": 914,
+  "ws": [
+   400,
+   800,
+   1280
   ]
  },
  "/img/2026/11/templo-de-karnak.jpg": {

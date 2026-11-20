@@ -1,0 +1,115 @@
+{
+  "slug": "estudio-de-arquitectura-mendoza",
+  "tipo": "estudio",
+  "menu": "estudio",
+  "titulo": "Estudio de Arquitectura Mendoza",
+  "h1": "Estudio de Arquitectura en Mendoza",
+  "subtitulo": "Diseño, planos y renders para tu obra en Mendoza (Argentina)",
+  "titulo_seo": "Estudio de arquitectura en Mendoza: planos, 3D y renders",
+  "descripcion": "Estudio de arquitectura online para tu obra en Mendoza (Argentina): diseño, planos, modelado 3D y renders. Permiso de obra, normas sísmicas y clima.",
+  "palabra_clave": "estudio de arquitectura mendoza",
+  "fecha": "2026-11-20 12:00:00",
+  "_nota": "Página de la sección «Estudio de arquitectura» por lugares (20-11-2026, informes/estudio-por-lugar.md), hecha sobre el modelo de Córdoba. Datos de la ciudad comprobados en las fuentes del final. El estudio trabaja online desde Valencia: no se finge una oficina en Mendoza, ni se dice que construya o calcule estructuras.",
+  "foto": {
+    "src": "/img/2026/11/plaza-independencia-mendoza.jpg",
+    "_titulo_commons": "File:Plaza Independencia, la más grande e importante de la Provincia de Mendoza..JPG",
+    "alt": "Fuente y friso de la Plaza Independencia, en el centro de la Ciudad de Mendoza, entre árboles y con un edificio de oficinas al fondo",
+    "credito": { "nombre": "Plaza Independencia de Mendoza", "autor": "Itsmemarttin", "licencia": "CC BY-SA 3.0", "ficha": "https://commons.wikimedia.org/wiki/File:Plaza_Independencia,_la_m%C3%A1s_grande_e_importante_de_la_Provincia_de_Mendoza..JPG" }
+  },
+  "boton": { "texto": "Pide presupuesto", "url": "/contacto/" },
+  "intro": "<p>¿Tienes pensado <strong>construir o reformar en Mendoza</strong>? Desde DE Arquitectura preparamos a distancia el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu casa o tu local, para que lo recorras con la vista antes de poner el primer ladrillo.</p>",
+  "resumen": "Somos un <strong>estudio de arquitectura online</strong> con base en Valencia y trabajamos a distancia para obras en la Ciudad de Mendoza: diseño, planos, modelado 3D y renders. El <strong>permiso de obra</strong> lo da la Dirección de Obras Privadas de la Municipalidad, donde el trámite se puede iniciar en línea, y los arquitectos que firman se matriculan en el <strong>Colegio de Arquitectos de Mendoza</strong>.",
+  "datos": [
+    ["Ciudad", "Mendoza, capital de la provincia de Mendoza (Argentina)"],
+    ["Permiso de obra", "Dirección de Obras Privadas de la Municipalidad de la Ciudad de Mendoza; se inicia en línea (SAYGES) o en persona"],
+    ["Normativa", "Código Urbano y de Edificación de la ciudad (Ordenanza 4234/2026) y reglamentos CIRSOC e INPRES-CIRSOC (Ordenanza 3891/2015)"],
+    ["Colegio profesional", "Colegio de Arquitectos de Mendoza (Ley 5350)"],
+    ["Riesgo sísmico", "Zona 4 del INPRES: peligrosidad sísmica muy elevada"],
+    ["Clima", "Árido (zona bioambiental IVa, templada fría): veranos de hasta 42 °C, heladas en invierno y viento Zonda"],
+    ["Qué hacemos", "Diseño, planos, modelado 3D, renders, vídeo y tour virtual, a distancia"]
+  ],
+  "secciones": [
+    {
+      "h2": "Construir o reformar en Mendoza, paso a paso",
+      "html": "<p>En la Ciudad de Mendoza el permiso de obra se puede iniciar por internet y los planos se entregan en formato digital. Este es el orden de un proyecto:</p>",
+      "sub": [
+        { "h3": "1. Idea, anteproyecto y planos", "html": "<p>Primero, qué necesitas, cómo es el terreno o la casa y una primera <strong>distribución</strong>. Luego, los planos ajustados al <strong>Código Urbano y de Edificación</strong> de la ciudad. Esa parte la hacemos desde el estudio, junto con el modelo 3D y los renders, para que tomes cada decisión viendo el resultado.</p>" },
+        { "h3": "2. Estructura sismorresistente", "html": "<p>Mendoza es zona de <strong>peligrosidad sísmica muy elevada</strong>, y el expediente incluye el <strong>cálculo de estructura</strong> según los reglamentos CIRSOC e INPRES-CIRSOC. Lo hace y lo firma un profesional habilitado; conviene que el diseño y la estructura se piensen juntos desde el principio.</p>" },
+        { "h3": "3. Permiso de obra", "html": "<p>Se tramita en la <strong>Dirección de Obras Privadas</strong> de la Municipalidad: se inicia en línea, desde la web municipal (sistema SAYGES), o en persona. Los planos van en PDF, separados por especialidad —arquitectura, estructura, instalaciones y prevención de incendios—, y se revisan a la vez.</p>" },
+        { "h3": "4. Obra, inspecciones y final", "html": "<p>Con el permiso aprobado se entregan los planos firmados y el <strong>libro de obra</strong>, y durante la construcción hay inspecciones. Al terminar, el director técnico presenta los planos conforme a obra y pide la inspección final. Los renders ayudan a pedir presupuestos a las constructoras sobre una misma idea.</p>" }
+      ]
+    },
+    {
+      "h2": "Quién firma el proyecto en Mendoza",
+      "html": "<p>La <strong>Ley 5350</strong>, de 1988, regula el ejercicio de la arquitectura en la provincia, creó el <strong>Colegio de Arquitectos de Mendoza</strong> y exige la matrícula para ejercer. Al pedir el permiso de obra, la Municipalidad solicita el certificado de habilitación profesional de cada profesional que interviene. Nosotros preparamos el diseño, los planos, el modelado 3D y los renders; el proyecto lo firma y lo presenta un profesional matriculado del lugar, y el cálculo de la estructura queda a cargo de un profesional habilitado.</p>"
+    },
+    {
+      "h2": "Mendoza, zona sísmica: qué cambia en el diseño",
+      "html": "<p>Según el <strong>INPRES</strong> (Instituto Nacional de Prevención Sísmica), el centro y el norte de la provincia, donde está la capital, son <strong>zona 4</strong>, la de peligrosidad sísmica muy elevada. La Ciudad de Mendoza adoptó los reglamentos CIRSOC e <strong>INPRES-CIRSOC 103</strong> con la Ordenanza 3891/2015. Para el diseño, lo práctico es partir de una estructura clara y ordenada y que arquitectura y cálculo avancen a la par; el modelo 3D sirve para revisar muros, columnas y aberturas antes de cerrar los planos.</p>"
+    },
+    {
+      "h2": "El clima de Mendoza y el diseño de tu casa",
+      "html": "<p>Mendoza tiene clima <strong>árido</strong>: en la llanura la temperatura media es de 15 °C, el verano llega a 42 °C, en invierno hay heladas con mínimas de −5 °C y llueve menos de 200 mm al año. Los días suelen ser despejados y, entre el otoño y el comienzo de la primavera, puede soplar el <strong>Zonda</strong>, un viento cálido y seco que baja de la cordillera. La ciudad está en la <strong>zona bioambiental IVa</strong> (templada fría) de la norma IRAM 11603. Por eso conviene proteger del sol las fachadas más expuestas, aprovechar el sol de invierno y la sombra del arbolado, y aislar bien muros y techos. Un render de verano y otro de invierno lo comprueban antes de construir.</p>"
+    },
+    {
+      "h2": "Arquitectura de Mendoza: la ciudad nueva tras el terremoto de 1861",
+      "html": "<p>En 1861 un terremoto destruyó la ciudad. La <strong>ciudad nueva</strong> se diseñó en 1863 con el plano del agrimensor Julio Balloffet: un cuadrado de 8 por 8 manzanas con la <strong>Plaza Independencia</strong>, de 4 hectáreas, en el centro, y cuatro plazas menores en las diagonales: España, Chile, San Martín e Italia. Las calles, de unos 20 metros, y las avenidas, de 30, se arbolaron gracias a las <strong>acequias</strong>, que ya llevaban el agua por la ciudad. En 1896 el francés Charles Thays trazó el parque que hoy es el Parque General San Martín.</p>"
+    }
+  ],
+  "faq": [
+    { "q": "¿Dónde se pide el permiso de obra en la Ciudad de Mendoza?", "a": "En la Dirección de Obras Privadas de la Municipalidad. El trámite se inicia en línea desde la web municipal o en persona, y los planos se entregan en PDF, separados por especialidad." },
+    { "q": "¿Qué colegio de arquitectos corresponde a Mendoza?", "a": "El Colegio de Arquitectos de Mendoza, creado por la Ley provincial 5350 de 1988. Para ejercer como arquitecto en la provincia hay que estar matriculado." },
+    { "q": "¿Qué normas deben cumplir los planos?", "a": "El Código Urbano y de Edificación de la Ciudad de Mendoza, aprobado de nuevo por la Ordenanza 4234 de 2026, y, para la estructura, los reglamentos CIRSOC e INPRES-CIRSOC que adoptó la Ordenanza 3891/2015." },
+    { "q": "¿Por qué importa tanto el sismo al diseñar en Mendoza?", "a": "Porque el centro y el norte de la provincia son zona 4 del INPRES, la de peligrosidad sísmica muy elevada. La estructura la calcula un profesional habilitado y el diseño tiene que pensarse junto con ella." },
+    { "q": "¿Podéis hacer el proyecto de mi casa en Mendoza a distancia?", "a": "Sí. Nos mandas planos, medidas o fotos del terreno o de la vivienda y preparamos el diseño, los planos, el modelo 3D y los renders, que revisamos contigo en cada etapa. La firma y la presentación quedan a cargo de un profesional matriculado en Mendoza." }
+  ],
+  "cierre": {
+    "h2": "¿Tienes un proyecto en Mendoza?",
+    "html": "<p>Escríbenos y cuéntanos qué quieres construir o reformar: te explicamos cómo podemos ayudarte con el diseño, los planos y las imágenes 3D.</p>",
+    "boton": "Contacto"
+  },
+  "fuentes": [
+    { "texto": "Municipalidad de la Ciudad de Mendoza: trámite de Permiso de Obra", "url": "https://ciudaddemendoza.gob.ar/tramites/permiso-de-obra/" },
+    { "texto": "Ordenanza 4234/2026: nuevo Código Urbano y de Edificación de la Ciudad de Mendoza (Boletín Oficial de Mendoza, 04-05-2026)", "url": "https://www.elsol.com.ar/wp-content/uploads/2026/05/pedido_313261_30042026.pdf" },
+    { "texto": "Ordenanza 3891/2015 de la Ciudad de Mendoza: reglamentos CIRSOC e INPRES-CIRSOC", "url": "https://ciudaddemendoza.gob.ar/?p=4544" },
+    { "texto": "Ley 5350 de Mendoza: ejercicio profesional de arquitectos y Colegio de Arquitectos", "url": "https://www.argentina.gob.ar/normativa/provincial/ley-5350-123456789-0abc-defg-053-5000mvorpyel/actualizacion" },
+    { "texto": "Colegio de Arquitectos de Mendoza (CAMZA)", "url": "https://camza.org.ar/que-es-el-camza/" },
+    { "texto": "INPRES: zonificación sísmica y reglamento INPRES-CIRSOC 103", "url": "https://www.argentina.gob.ar/node/344305" },
+    { "texto": "Diario de Cuyo: el INPRES sitúa el centro y el norte de Mendoza en zona 4", "url": "https://www.diariodecuyo.com.ar/sanjuan/La-razon-por-la-que-San-Juan-integra-la-zona-con-mas-temblores-pero-tiene-riesgo-sismico-bajo-20230531-0036.html" },
+    { "texto": "Dirección General de Escuelas de Mendoza: El comportamiento del clima en Mendoza", "url": "https://hportal.mendoza.edu.ar/wp-content/uploads/2023/04/capitulo3_elcomportamiento_del_clima_en_mendoza.pdf" },
+    { "texto": "Gobierno de Mendoza: diferencias entre los vientos Norte y Zonda", "url": "https://www.mendoza.gov.ar/prensa/diferencias-entre-los-vientos-norte-y-zonda-que-afectan-a-mendoza-durante-estos-meses/" },
+    { "texto": "INAHE-CONICET Mendoza (UTN): clima de Mendoza y zona bioambiental IVa", "url": "https://doi.org/10.33414/ajea.1087.2022" },
+    { "texto": "Ciudad de Mendoza: historia de la ciudad", "url": "https://ciudaddemendoza.gob.ar/historia/" },
+    { "texto": "Ciudad de Mendoza: historia de la Plaza Independencia", "url": "https://ciudaddemendoza.gob.ar/plaza-independencia-historia/" }
+  ],
+  "comun": {
+    "tipo": "estudio",
+    "_nota": "Bloque común de las páginas de estudio por lugar, copiado de Estudio de arquitectura Rosario (secciones 3 a 62) con la ciudad cambiada; textos propios de Mendoza para no repetir la plantilla.",
+    "terminos": [["ROSARIO", "MENDOZA"], ["Rosario", "Mendoza"]],
+    "textos": {
+      "6950824": "<p>¿Tienes <strong>matrícula de arquitecto</strong> en Mendoza o trabajas como técnico o maestro mayor de obras? Si quieres colaborar con un estudio online, escríbenos.</p>",
+      "873698a": "<p>En la Ciudad de Mendoza, el expediente de obra lo firma un <strong>profesional habilitado</strong>, que lo lleva a Obras Privadas, y la estructura sismorresistente la calcula otro. Te explicamos qué exige tu caso y te entregamos el diseño, la documentación gráfica y los renders como base de su trabajo. ¿Dudas entre <strong>arquitectos</strong>, técnicos y maestros mayores de obras? Las resolvemos aquí.</p>",
+      "c6a5f2b": "<p>El estudio es parte de una <strong>plataforma de arquitectura</strong>: estilos, cursos, libros, programas y obras para inspirarte. Así llegas a tu proyecto en <strong>Mendoza</strong> con las ideas ordenadas.</p>",
+      "43bfe28": "<p>¿Tienes un terreno, una casa que quieres ampliar o un local por reformar en <strong>Mendoza</strong>? Pensamos contigo los <strong>interiores</strong> y el reparto de los espacios, sin que tengas que desplazarte, y te lo enseñamos en renders antes de elegir materiales o pedir presupuestos. Escríbenos y partimos de tu idea.</p>",
+      "d6d3bf2": "<p>¿Quieres <strong>construir</strong> en Mendoza? Antes de la constructora van el proyecto, el cálculo sismorresistente y el permiso.</p>",
+      "21e6ab7": "<p>¿Piensas <strong>reformar tu casa</strong> en Mendoza? Mírala primero en 3D y compara presupuestos sobre la misma propuesta.</p>",
+      "d302822": "<p><strong>Diseño arquitectónico</strong> para el clima mendocino: sol de invierno, sombra en verano y una estructura pensada para zona sísmica.</p>",
+      "fec78e4": "<p><strong>Interiorismo</strong> y decoración para casas, departamentos y locales de Mendoza, con renders para probar colores, texturas y luz.</p>",
+      "764e04f": "<p>También trabajamos como <strong>agencia de diseño</strong>: logotipo, presentaciones y la web para dar a conocer tu proyecto en Mendoza.</p>",
+      "eea5803": "<p>Todo empieza con un <strong>croquis</strong>: trazos rápidos del terreno, las plantas y las fachadas.</p>",
+      "c803901": "<p>Para el permiso en la Ciudad de Mendoza se entregan <strong>planos</strong> en PDF por especialidad —plantas, cortes, vistas y planimetría— que cumplan el <strong>Código Urbano y de Edificación</strong>. Te los preparamos en formato digital, listos para revisar con el profesional que firma.</p>",
+      "e1acc54": "<p>Los <strong>renders</strong> te dejan ver terminada tu vivienda o tu comercio en Mendoza: el frente, los espacios interiores y cómo entra el sol en cada estación. También preparamos <strong>modelado 3D</strong>, recorridos en vídeo y tours virtuales.</p>",
+      "09b4953": "<p>Desde nuestro <strong>despacho de arquitectura</strong> analizamos el terreno o la vivienda, proponemos cómo repartir los espacios y dibujamos toda la documentación de tu proyecto en Mendoza. Nos encargamos del <strong>diseño de espacios</strong>, de los interiores y de comprobar si la idea es viable, siempre a distancia y con revisiones contigo en cada etapa.</p>",
+      "fa5de7a": "<p>La <strong>maqueta</strong> deja ver el volumen de la obra de un vistazo. El render suma lo que la maqueta no muestra: materiales, sombras y luz real.</p>",
+      "e0fc9cc": "<p>Colaboramos con otros <strong>estudios</strong> y con profesionales del diseño que arman equipos a medida de cada encargo, de una vivienda a un edificio.</p>",
+      "7faf099": "<p>Si ejerces la arquitectura en Mendoza, un <strong>portafolio</strong> cuidado, con planos y renders, ayuda a mostrar tus obras en papel o en internet.</p>",
+      "b4f3c04": "<p>Recorre nuestras <strong>imágenes de arquitectura</strong> —viviendas, interiores, fachadas y ciudades— y encuentra ideas para tu obra en Mendoza.</p>",
+      "b08800e": "<p>Antes de encargar un proyecto vale la pena leer <strong>libros de arquitectura</strong> de diseño, construcción e historia. Reunimos una selección para leer en papel o en pantalla.</p>",
+      "d743651": "<p>Si estudias arquitectura en Mendoza o quieres aprender por tu cuenta, encontrarás <strong>cursos online</strong> de dibujo técnico, <strong>modelado 3D</strong>, renders, estructuras e instalaciones. Te mostramos algunos para avanzar a tu ritmo y sin moverte de casa.</p>",
+      "389e7a0": "<p>En las <strong>revistas de arquitectura</strong> hay obras latinoamericanas que vale la pena mirar: patios, galerías y protecciones solares que sirven de idea para el clima seco de Mendoza.</p>",
+      "ab4b62c": "<p>Los planos suelen dibujarse con <strong>AutoCAD</strong> o Revit, y para el modelo 3D y las imágenes se usan Lumion, V-Ray o SketchUp. Te contamos para qué sirve cada programa.</p>",
+      "a3f94c2": "<p>Mira <strong>proyectos de arquitectura</strong> de casas, comercios y edificios y observa cómo manejan el sol, la sombra y el paso a la vereda arbolada. Son una buena fuente de inspiración para construir en Mendoza.</p>",
+      "aa5d488": "<p>Hoy la <strong>inteligencia artificial</strong> genera imágenes de un espacio con solo describirlo o subir una foto. Es útil para buscar ideas, pero no conoce tu terreno, ni el Código Urbano y de Edificación, ni lo que exige una estructura en zona sísmica: un proyecto real necesita <strong>planos</strong> y un modelo 3D con las medidas de verdad. Conoce lo que aporta y hasta dónde llega.</p>"
+    }
+  }
+}

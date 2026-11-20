@@ -21,7 +21,7 @@ export const GET: APIRoute = () => {
   const grupos: [string, (s: string) => boolean][] = [
     ['Estilos y tipos de arquitectura', (s) => s.startsWith('arquitectura-') && s !== 'arquitectura-elche' || s === 'tipos-de-arquitectura'],
     ['Profesiones: arquitectos y oficios', (s) => /^(arquitect|aparejadores|delineante|renderista|interiorista|paisajista|proyectista|decorador|calculista)/.test(s)],
-    ['Estudio de arquitectura por ciudad', (s) => /^(estudio-de-arquitectura-|valencia$|castellon$|santa-fe$|gandia$|pamplona$|ibiza$|sagunto$|mijas$|san-sebastian-de-los-reyes$|arquitectura-elche$)/.test(s)],
+    ['Estudio de arquitectura por ciudad', (s) => /^(estudio-de-arquitectura-|despacho-de-arquitectura-|valencia$|castellon$|santa-fe$|gandia$|pamplona$|ibiza$|sagunto$|mijas$|san-sebastian-de-los-reyes$|arquitectura-elche$)/.test(s)],
     ['Renders y diseño 3D', (s) => /^render(s)?-/.test(s) && !/^renders-[a-z-]+$/.test(s) || /^(renders|modelado-3d|infografias|tour-virtual|home-staging|realidad-virtual|sofa-render|renderizado|empresa-de-renders|tipos-de-renders|servicios-de-renders|cursos-de-renders)/.test(s)],
   ];
   const usadas = new Set<string>();

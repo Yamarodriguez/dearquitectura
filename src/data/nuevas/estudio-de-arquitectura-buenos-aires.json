@@ -1,0 +1,110 @@
+{
+  "slug": "estudio-de-arquitectura-buenos-aires",
+  "tipo": "estudio",
+  "menu": "estudio",
+  "titulo": "Estudio de Arquitectura Buenos Aires",
+  "h1": "Estudio de Arquitectura en Buenos Aires",
+  "subtitulo": "Diseño, planos y renders para tu obra en la Ciudad de Buenos Aires (Argentina)",
+  "titulo_seo": "Estudio de arquitectura Buenos Aires: planos, 3D y renders",
+  "descripcion": "Estudio de arquitectura online para tu obra en Buenos Aires (CABA): diseño, planos, modelado 3D y renders. Registro de planos en TAD, CPAU y clima.",
+  "palabra_clave": "estudio de arquitectura buenos aires",
+  "fecha": "2026-11-20 12:00:00",
+  "_nota": "Página de la sección «Estudio de arquitectura» por lugares (informes/estudio-por-lugar.md), con la misma estructura que Córdoba. Datos de la ciudad comprobados en las fuentes del final (20-11-2026). El estudio trabaja online desde Valencia: no se finge una oficina en Buenos Aires.",
+  "foto": {
+    "src": "/img/2026/11/teatro-colon-buenos-aires.jpg",
+    "alt": "Fachada principal del Teatro Colón de Buenos Aires, con la bandera argentina en el frontón y un jardín delante",
+    "credito": { "nombre": "Teatro Colón (Buenos Aires)", "autor": "EEJCC", "licencia": "CC0 1.0 (dominio público)", "ficha": "https://commons.wikimedia.org/wiki/File:Fachada_del_Teatro_Col%C3%B3n_en_Buenos_Aires,_Argentina.jpg" },
+    "_titulo_commons": "File:Fachada del Teatro Colón en Buenos Aires, Argentina.jpg"
+  },
+  "boton": { "texto": "Pide presupuesto", "url": "/contacto/" },
+  "intro": "<p>¿Vas a <strong>construir o reformar en Buenos Aires</strong>? En DE Arquitectura preparamos a distancia el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu casa o tu local, para que veas el resultado antes de poner el primer ladrillo.</p>",
+  "resumen": "Somos un <strong>estudio de arquitectura online</strong> y trabajamos a distancia para obras en la Ciudad Autónoma de Buenos Aires: diseño, planos, modelado 3D y renders. Los planos de obra se registran en el Gobierno de la Ciudad por <strong>Trámites a Distancia (TAD)</strong>, y los arquitectos que firman se matriculan en el <strong>Consejo Profesional de Arquitectura y Urbanismo (CPAU)</strong>.",
+  "datos": [
+    ["Ciudad", "Ciudad Autónoma de Buenos Aires (Argentina)"],
+    ["Permiso de obra", "Registro de planos y Permiso de Ejecución de Obra Civil en el Gobierno de la Ciudad (Dirección General de Registro de Obras y Catastro), por Trámites a Distancia (TAD) con usuario miBA"],
+    ["Normativa", "Código de Edificación (Ley 6100) y Código Urbanístico (Ley 6099) de la Ciudad"],
+    ["Consejo profesional", "Consejo Profesional de Arquitectura y Urbanismo, CPAU (Decreto-Ley 6070/58, Ley 14.467)"],
+    ["Clima", "Templado húmedo, sin estación seca y muy influido por el Río de la Plata: veranos cálidos y lluviosos, inviernos frescos"],
+    ["Qué hacemos", "Diseño, planos, modelado 3D, renders, vídeo y tour virtual, a distancia"]
+  ],
+  "secciones": [
+    {
+      "h2": "Construir o reformar en Buenos Aires, paso a paso",
+      "html": "<p>En la Ciudad de Buenos Aires los trámites de obra se hacen en línea, en la plataforma de Trámites a Distancia. Este es el orden habitual de un proyecto:</p>",
+      "sub": [
+        { "h3": "1. Qué permite tu parcela", "html": "<p>Antes de dibujar conviene saber qué se puede construir en el lote. <strong>Ciudad 3D</strong>, la plataforma del Gobierno de la Ciudad, muestra de cada parcela la altura máxima, la capacidad constructiva y los usos admitidos según el <strong>Código Urbanístico</strong>. Por TAD también se puede pedir un Informe Urbanístico, que orienta pero no es vinculante.</p>" },
+        { "h3": "2. Idea, anteproyecto y planos", "html": "<p>Qué quieres construir, cómo repartir los ambientes y, después, los planos que cumplen el <strong>Código de Edificación</strong>. Esa parte la resolvemos nosotros, con el modelo 3D y los renders a la vista para que decidas con seguridad.</p>" },
+        { "h3": "3. Registro de planos y permiso", "html": "<p>El plano de obra civil en <strong>etapa proyecto</strong> se registra por TAD con usuario miBA y la encomienda profesional del proyectista. En viviendas de obra micro, menor o media se admite un <strong>plano único</strong> que incluye las instalaciones, y para viviendas entre medianeras existe además Model BA, el verificador oficial integrado en Autodesk Revit. Con el registro emitido y la boleta pagada, la Ciudad otorga el <strong>Permiso de Ejecución de Obra Civil</strong>.</p>" },
+        { "h3": "4. Obra y conforme a obra", "html": "<p>Al terminar se registra el plano <strong>conforme a obra</strong>, con lo que de verdad se construyó, y una inspección de la Ciudad comprueba que coincide. Durante la obra, el modelo 3D y los renders sirven de referencia para comparar presupuestos y explicar a la constructora lo que se quiere.</p>" }
+      ]
+    },
+    {
+      "h2": "Quién firma el proyecto en Buenos Aires",
+      "html": "<p>En la Ciudad de Buenos Aires la matrícula de los arquitectos la lleva el <strong>Consejo Profesional de Arquitectura y Urbanismo (CPAU)</strong>, que se rige por el <strong>Decreto-Ley 6070/58</strong>, ratificado por la Ley 14.467. Para registrar los planos hace falta la encomienda profesional de quien proyecta, de modo que el proyecto lo firma y lo presenta un profesional matriculado. Nuestro trabajo es entregarle el diseño, los planos, el modelado 3D y los renders listos para que lo tramite.</p>"
+    },
+    {
+      "h2": "El clima de Buenos Aires y el diseño de tu casa",
+      "html": "<p>Buenos Aires tiene un clima <strong>templado húmedo</strong>, sin estación seca y muy influido por el Río de la Plata: veranos cálidos, inviernos frescos y poca diferencia de temperatura entre el día y la noche. Llueve todo el año, en torno a 1.300 mm, y de octubre a abril cae cerca del 70 % de esa lluvia, a veces en <strong>tormentas intensas</strong>. Además, las olas de calor se duplicaron entre 2010 y 2018 respecto de los años noventa. Por eso conviene dar sombra a las fachadas en verano, asegurar la <strong>ventilación cruzada</strong> y prever bien los desagües de cubiertas, terrazas y patios. Un render con la luz de verano y otro con la de invierno permiten comprobarlo antes de la obra.</p>"
+    },
+    {
+      "h2": "Arquitectura de Buenos Aires: el Teatro Colón",
+      "html": "<p>El <strong>Teatro Colón</strong> se inauguró el 25 de mayo de 1908 con la ópera Aida, de Giuseppe Verdi. Es obra de los arquitectos <strong>Francesco Tamburini, Vittorio Meano y Jules Dormal</strong>; su construcción duró casi veinte años, con materiales traídos de Europa, y combina elementos del eclecticismo europeo de fin del siglo XIX y principios del XX. Su sala, con 2.478 localidades, es conocida en todo el mundo por la acústica. Es Monumento Histórico Nacional (Decreto 1259/1989) y se reinauguró en 2010 tras una puesta en valor integral.</p>"
+    }
+  ],
+  "faq": [
+    { "q": "¿Dónde se pide el permiso de obra en Buenos Aires?", "a": "En el Gobierno de la Ciudad, por Trámites a Distancia (TAD) con usuario miBA. Se registra el plano de obra civil en etapa proyecto y, con el registro emitido y el pago hecho, se otorga el Permiso de Ejecución de Obra Civil." },
+    { "q": "¿Qué consejo profesional matricula a los arquitectos en Buenos Aires?", "a": "El Consejo Profesional de Arquitectura y Urbanismo (CPAU), que se rige por el Decreto-Ley 6070/58, ratificado por la Ley 14.467. En él se matriculan los arquitectos que ejercen en la Ciudad." },
+    { "q": "¿Qué normativa deben cumplir los planos?", "a": "El Código de Edificación de la Ciudad (Ley 6100), vigente desde 2019, y el Código Urbanístico (Ley 6099), que fija qué se puede construir y qué usos se admiten en cada parcela." },
+    { "q": "¿Pueden hacer el proyecto de mi casa en Buenos Aires a distancia?", "a": "Sí. Trabajamos online: a partir de tus planos, medidas o fotos preparamos el diseño, los planos, el modelo 3D y los renders, y los repasamos contigo en cada etapa." }
+  ],
+  "cierre": {
+    "h2": "¿Tienes un proyecto en Buenos Aires?",
+    "html": "<p>Escríbenos con lo que tienes en mente —una casa nueva, una reforma o un local— y vemos juntos qué diseño, planos e imágenes 3D necesita.</p>",
+    "boton": "Contacto"
+  },
+  "fuentes": [
+    { "texto": "Gobierno de la Ciudad de Buenos Aires: Registro de plano de obra civil, etapa proyecto (TAD)", "url": "https://buenosaires.gob.ar/tramites/registro-de-plano-de-obra-civil-etapa-proyecto" },
+    { "texto": "Gobierno de la Ciudad de Buenos Aires: Registro etapa proyecto con Model BA", "url": "https://buenosaires.gob.ar/tramites/registro-etapa-proyecto-model-ba" },
+    { "texto": "Gobierno de la Ciudad de Buenos Aires: Registro de plano de obra civil, conforme a obra", "url": "https://buenosaires.gob.ar/tramites/registro-de-plano-de-obra-civil-conforme-de-obra" },
+    { "texto": "Gobierno de la Ciudad de Buenos Aires: Informe Urbanístico", "url": "https://buenosaires.gob.ar/tramites/informe-urbanistico" },
+    { "texto": "Gobierno de la Ciudad de Buenos Aires: Ciudad 3D", "url": "https://buenosaires.gob.ar/gcaba_historico/noticias/ciudad-3d-suma-nuevas-herramientas-para-seguir-impulsando-el-desarrollo" },
+    { "texto": "Boletín Oficial de la Ciudad: Ley 6100, Código de Edificación", "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/446783" },
+    { "texto": "Boletín Oficial de la Ciudad: Ley 6099, Código Urbanístico", "url": "https://boletinoficial.buenosaires.gob.ar/normativaba/norma/446782" },
+    { "texto": "CPAU: solicitud de matrícula de arquitectura (Decreto-Ley 6070/58, Ley 14.467)", "url": "https://static.cpau.org/.newsite/herramientas/formularios_utiles/matriculacion/arquitectura_web.pdf" },
+    { "texto": "CPAU, MEPAU A-110: instrumentos que reglamentan el ejercicio profesional", "url": "https://mepau.cpau.org/Media/Default/pdf/anexos/A-110.pdf" },
+    { "texto": "Gobierno de la Ciudad de Buenos Aires: El clima en la Ciudad", "url": "https://buenosaires.gob.ar/adaptacion/el-clima-en-la-ciudad" },
+    { "texto": "C. A. Nadale (Gobierno de la Ciudad): Mapa de lluvias del ámbito metropolitano de Buenos Aires (INA)", "url": "https://www.ina.gob.ar/ifrh-2014/Eje3/3.30.pdf" },
+    { "texto": "Argentina.gob.ar: Teatro Colón, 116 años de historia", "url": "https://www.argentina.gob.ar/noticias/teatro-colon-116-anos-de-historia" },
+    { "texto": "Turismo Buenos Aires: Teatro Colón", "url": "https://turismo.buenosaires.gob.ar/es/atractivo/teatro-colon" }
+  ],
+  "comun": {
+    "tipo": "estudio",
+    "_nota": "Bloque común de las páginas de estudio por lugar, copiado de Estudio de arquitectura Rosario (secciones 3 a 62) con la ciudad cambiada; textos propios de Buenos Aires para no repetir la plantilla.",
+    "terminos": [["ROSARIO", "BUENOS AIRES"], ["Rosario", "Buenos Aires"]],
+    "textos": {
+      "6950824": "<p>¿Eres <strong>arquitecto</strong> en Buenos Aires, maestro mayor de obras o constructor? Podemos sumar diseño, planos y renders a tus proyectos, siempre a distancia. Hablemos.</p>",
+      "873698a": "<p>En la Ciudad de Buenos Aires, registrar los planos exige la encomienda de un <strong>profesional matriculado</strong>. Te orientamos sobre lo que pide tu obra y dejamos preparados el diseño, los planos y las imágenes con los que va a trabajar. ¿No tienes claro qué hace un <strong>arquitecto</strong>, un aparejador o un técnico? Aquí te lo contamos.</p>",
+      "c6a5f2b": "<p>Más allá del estudio, somos una <strong>plataforma de arquitectura</strong> con estilos, programas, cursos, libros y proyectos, para que llegues a tu obra en <strong>Buenos Aires</strong> sabiendo lo que quieres.</p>",
+      "43bfe28": "<p>¿Una casa por reformar, un departamento que redistribuir o un local en <strong>Buenos Aires</strong>? Diseñamos contigo el <strong>interior</strong> y el reparto de los ambientes a distancia, y te lo mostramos en renders antes de elegir materiales. Cuéntanos tu idea y la trabajamos juntos.</p>",
+      "d6d3bf2": "<p>¿Vas a <strong>construir</strong> en Buenos Aires? Primero, qué permite tu parcela y el registro de planos; luego, la obra.</p>",
+      "21e6ab7": "<p>¿Vas a <strong>reformar tu casa</strong> en Buenos Aires? Mírala antes en 3D y compara presupuestos sobre la misma propuesta.</p>",
+      "d302822": "<p><strong>Diseño arquitectónico</strong> pensado para el clima porteño: sombra en verano, ventilación cruzada y buenos desagües para las lluvias fuertes.</p>",
+      "fec78e4": "<p><strong>Interiorismo</strong> y decoración para casas, departamentos y locales de Buenos Aires, con renders para decidir colores, luz y materiales.</p>",
+      "764e04f": "<p>Como <strong>agencia de diseño</strong> también cuidamos cómo se presenta tu proyecto: identidad visual, láminas de presentación y la web para darlo a conocer.</p>",
+      "eea5803": "<p>Todo empieza con un <strong>croquis</strong>: trazos rápidos de la parcela, la planta y la fachada.</p>",
+      "c803901": "<p>Los <strong>planos</strong> que se registran en la Ciudad —plantas, cortes, fachadas e instalaciones, que en una vivienda pueden ir en un plano único— tienen que cumplir el <strong>Código de Edificación</strong>. Los dibujamos y te los entregamos en digital.</p>",
+      "e1acc54": "<p>Con los <strong>renders</strong> recorres tu casa o tu local de Buenos Aires antes de construirlo: la fachada, los ambientes y la luz de cada hora. Sumamos <strong>modelado 3D</strong>, vídeo y tour virtual.</p>",
+      "09b4953": "<p>Desde nuestro <strong>despacho de arquitectura</strong> analizamos la parcela o la vivienda, planteamos el reparto de los ambientes y armamos la documentación gráfica de tu proyecto en Buenos Aires. Trabajamos el <strong>diseño de espacios</strong>, el interiorismo y la viabilidad de la idea, a distancia y contigo en cada decisión.</p>",
+      "fa5de7a": "<p>La <strong>maqueta</strong> deja ver de un vistazo el volumen y la relación con los edificios vecinos. El render completa esa lectura con texturas, colores y sombras reales.</p>",
+      "e0fc9cc": "<p>Trabajamos junto a <strong>estudios</strong>, arquitectos y diseñadores que arman el equipo que pide cada encargo, de una reforma a un edificio entre medianeras.</p>",
+      "7faf099": "<p>Si ejerces la arquitectura en Buenos Aires, un <strong>portafolio</strong> cuidado, con planos y renders, ayuda a que tus clientes entiendan tu trabajo, en papel o en la web.</p>",
+      "b4f3c04": "<p>Inspírate con nuestras <strong>imágenes de arquitectura</strong>: viviendas, interiores, fachadas y ciudades que pueden dar ideas a tu proyecto en Buenos Aires.</p>",
+      "b08800e": "<p>Antes de encargar una obra ayuda leer sobre proyecto, construcción e historia. Reunimos <strong>libros de arquitectura</strong> recomendados, impresos y digitales.</p>",
+      "d743651": "<p>¿Estudias arquitectura en Buenos Aires o quieres aprender por tu cuenta? Hay <strong>cursos online</strong> de dibujo técnico, <strong>modelado 3D</strong>, renders, estructuras e instalaciones. Te mostramos una selección para avanzar a tu ritmo sin salir de casa.</p>",
+      "389e7a0": "<p>En las <strong>revistas de arquitectura</strong> aparecen casas y edificios de toda Latinoamérica: ideas de patios, terrazas y protección solar que encajan con el clima húmedo de Buenos Aires.</p>",
+      "ab4b62c": "<p>Para los planos se usan <strong>AutoCAD</strong> o Revit; para el modelo y los renders, SketchUp, V-Ray o Lumion. Te contamos para qué sirve cada programa.</p>",
+      "a3f94c2": "<p>Mira <strong>proyectos de arquitectura</strong> de viviendas, locales y edificios y observa cómo resuelven la luz, la ventilación y el frente a la calle. Te servirán de punto de partida para tu obra en Buenos Aires.</p>",
+      "aa5d488": "<p>La <strong>inteligencia artificial</strong> ya crea imágenes de ambientes a partir de una frase o una foto. Es útil para buscar ideas, pero no sabe las medidas de tu parcela ni lo que exige el Código de Edificación: un proyecto real sigue necesitando <strong>planos</strong> y un modelo 3D fiel. Te contamos qué aporta y dónde se queda corta.</p>"
+    }
+  }
+}

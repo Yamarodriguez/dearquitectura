@@ -1296,7 +1296,7 @@
   },
   {
    "type": "text",
-   "html": "<p>Trabajamos a distancia para cualquier ciudad. Estas tienen página propia; en <strong>Rosario</strong> y <strong>Córdoba</strong> encontrarás además dónde se pide el permiso de obra, qué colegio profesional corresponde, el clima y su arquitectura.</p>",
+   "html": "<p>Trabajamos a distancia para cualquier ciudad. Estas tienen página propia. Las de Argentina y México explican además dónde se pide el permiso de obra, qué colegio profesional corresponde, el clima y su arquitectura (Santa Fe, de momento, no).</p>",
    "anadido": true
   },
   {
@@ -1307,7 +1307,18 @@
   },
   {
    "type": "text",
-   "html": "<ul class=\"lista-lugares\"><li><a href=\"/estudio-de-arquitectura-rosario/\" title=\"Estudio de arquitectura en Rosario\">Rosario</a></li><li><a href=\"/santa-fe/\" title=\"Estudio de arquitectura en Santa Fe\">Santa Fe</a></li><li><a href=\"/estudio-de-arquitectura-cordoba/\" title=\"Estudio de arquitectura en Córdoba\">Córdoba</a></li></ul>",
+   "html": "<ul class=\"lista-lugares\"><li><a href=\"/estudio-de-arquitectura-rosario/\" title=\"Estudio de arquitectura en Rosario\">Rosario</a></li><li><a href=\"/santa-fe/\" title=\"Estudio de arquitectura en Santa Fe\">Santa Fe</a></li><li><a href=\"/estudio-de-arquitectura-cordoba/\" title=\"Estudio de arquitectura en Córdoba\">Córdoba</a></li><li><a href=\"/estudio-de-arquitectura-buenos-aires/\" title=\"Estudio de arquitectura en Buenos Aires\">Buenos Aires</a></li><li><a href=\"/estudio-de-arquitectura-mendoza/\" title=\"Estudio de arquitectura en Mendoza\">Mendoza</a></li></ul>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h3",
+   "text": "México",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<ul class=\"lista-lugares\"><li><a href=\"/despacho-de-arquitectura-ciudad-de-mexico/\" title=\"Despacho de arquitectura en Ciudad de México\">Ciudad de México</a></li><li><a href=\"/despacho-de-arquitectura-guadalajara/\" title=\"Despacho de arquitectura en Guadalajara\">Guadalajara</a></li><li><a href=\"/despacho-de-arquitectura-monterrey/\" title=\"Despacho de arquitectura en Monterrey\">Monterrey</a></li></ul>",
    "anadido": true
   },
   {
@@ -1601,13 +1612,13 @@
   },
   {
    "t": "c",
-   "id": "xde3081",
+   "id": "xf72a14",
    "cls": "e-flex e-con-boxed e-con e-parent anadido estudio-lugares",
    "anadido": true,
    "hijos": [
     {
      "t": "c",
-     "id": "xb2e3f3",
+     "id": "x1bf05c",
      "cls": "e-con-full e-flex e-con e-child",
      "hijos": [
       {
@@ -1657,6 +1668,22 @@
        "wt": "text-editor",
        "cls": "elementor-widget elementor-widget-text-editor",
        "b": 181
+      },
+      {
+       "t": "w",
+       "id": "xde3081",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h3",
+       "size": "default",
+       "b": 182
+      },
+      {
+       "t": "w",
+       "id": "xb2e3f3",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 183
       }
      ]
     }
@@ -1664,31 +1691,31 @@
   },
   {
    "t": "c",
-   "id": "xef306c",
+   "id": "x737c32",
    "cls": "e-flex e-con-boxed e-con e-parent anadido",
    "anadido": true,
    "hijos": [
     {
      "t": "c",
-     "id": "xc7eb12",
+     "id": "xa26ddc",
      "cls": "e-con-full e-flex e-con e-child",
      "hijos": [
       {
        "t": "w",
-       "id": "xf72a14",
+       "id": "xef306c",
        "wt": "heading",
        "cls": "elementor-widget elementor-widget-heading",
        "tag": "h2",
        "size": "default",
-       "b": 182
+       "b": 184
       },
       {
        "t": "w",
-       "id": "x1bf05c",
+       "id": "xc7eb12",
        "wt": "toggle",
        "cls": "elementor-widget elementor-widget-toggle",
        "tag": "div",
-       "b": 183
+       "b": 185
       }
      ]
     }

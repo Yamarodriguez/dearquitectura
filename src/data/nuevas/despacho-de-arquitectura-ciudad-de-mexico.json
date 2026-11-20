@@ -1,0 +1,112 @@
+{
+  "slug": "despacho-de-arquitectura-ciudad-de-mexico",
+  "tipo": "estudio",
+  "menu": "estudio",
+  "titulo": "Despacho de Arquitectura Ciudad de México",
+  "h1": "Despacho de Arquitectura en Ciudad de México",
+  "subtitulo": "Diseño, planos y renders para tu obra en la Ciudad de México (CDMX)",
+  "titulo_seo": "Despacho de arquitectura CDMX: planos, 3D y renders",
+  "descripcion": "Despacho de arquitectura online para tu obra en Ciudad de México (CDMX): diseño, planos, modelado 3D y renders. Manifestación de construcción, DRO y suelo.",
+  "palabra_clave": "despacho de arquitectura cdmx",
+  "fecha": "2026-11-20 12:00:00",
+  "_nota": "Página de la sección «Estudio de arquitectura» por lugares (20-11-2026, informes/estudio-por-lugar.md). En México se dice «despacho de arquitectura». Datos de la ciudad comprobados en las fuentes del final. El estudio trabaja online desde Valencia: no se finge una oficina en la Ciudad de México.",
+  "foto": {
+    "src": "/img/2026/11/palacio-bellas-artes-cdmx.jpg",
+    "alt": "Fachada principal del Palacio de Bellas Artes, en el Centro Histórico de la Ciudad de México, con su cúpula y la explanada de acceso",
+    "credito": { "nombre": "Palacio de Bellas Artes (Ciudad de México)", "autor": "Xavier Quetzalcoatl Contreras Castillo", "licencia": "CC BY-SA 3.0", "ficha": "https://commons.wikimedia.org/wiki/File:Bellas_Artes_01.jpg" },
+    "_titulo_commons": "File:Bellas Artes 01.jpg"
+  },
+  "boton": { "texto": "Pide presupuesto", "url": "/contacto/" },
+  "intro": "<p>¿Vas a <strong>construir o remodelar en la Ciudad de México</strong>? En DE Arquitectura preparamos en línea el <strong>diseño</strong>, los <strong>planos</strong>, el modelado 3D y los <strong>renders</strong> de tu proyecto, para que lo veas terminado antes de empezar la obra.</p>",
+  "resumen": "Somos un <strong>despacho de arquitectura online</strong> y trabajamos a distancia para obras en la Ciudad de México (CDMX): diseño, planos, modelado 3D y renders. La <strong>manifestación de construcción</strong> se registra en la Plataforma Digital del Gobierno de la Ciudad y la atiende la alcaldía; en las obras tipo B y C la suscribe un <strong>Director Responsable de Obra (DRO)</strong> con registro vigente.",
+  "datos": [
+    ["Ciudad", "Ciudad de México (CDMX), capital del país, con 16 alcaldías"],
+    ["Licencia de obra", "Registro de manifestación de construcción (tipo A, B o C) en la Plataforma Digital, ante la alcaldía"],
+    ["Normativa", "Reglamento de Construcciones para el Distrito Federal (2004, con reformas) y sus Normas Técnicas Complementarias"],
+    ["Quién firma", "Director Responsable de Obra (DRO) en las obras tipo B y C y, según el caso, Corresponsables"],
+    ["Suelo", "Tres zonas geotécnicas: I Lomas, II Transición y III Lacustre"],
+    ["Clima", "Templado subhúmedo, con la mayor parte de la lluvia de junio a septiembre"],
+    ["Qué hacemos", "Diseño, planos, modelado 3D, renders, video y tour virtual, a distancia"]
+  ],
+  "secciones": [
+    {
+      "h2": "Construir o remodelar en la Ciudad de México, paso a paso",
+      "html": "<p>En la CDMX los trámites de obra se presentan en la <strong>Plataforma Digital</strong> del Gobierno de la Ciudad. Así se ordena un proyecto:</p>",
+      "sub": [
+        { "h3": "1. Idea, anteproyecto y planos", "html": "<p>Qué quieres construir, cómo es el terreno o la casa y una primera <strong>distribución</strong>. Después vienen los planos arquitectónicos, ajustados al <strong>Reglamento de Construcciones</strong> y a sus Normas Técnicas Complementarias. Es la parte que hacemos desde el despacho, con el modelo 3D y los renders para decidir viendo el resultado.</p>" },
+        { "h3": "2. Los papeles del predio", "html": "<p>Para una obra tipo B o C el Reglamento pide, entre otros documentos, la <strong>constancia de alineamiento y número oficial</strong> vigente y el <strong>certificado único de zonificación de uso de suelo</strong>. Conviene tenerlos antes de cerrar el proyecto, porque marcan qué se puede construir en el predio.</p>" },
+        { "h3": "3. Registro de la manifestación de construcción", "html": "<p>Se registra en la Plataforma Digital antes de empezar los trabajos; en la Ventanilla Única ayudan a quien acude en persona. La <strong>tipo A</strong> es para una sola vivienda unifamiliar de hasta 120 m² construidos y dos niveles; la <strong>tipo B</strong>, para obras de hasta 5000 m² (10 000 m² si son de vivienda), y la <strong>tipo C</strong>, para las mayores o las que necesitan dictamen de impacto urbano.</p>" },
+        { "h3": "4. Obra y aviso de terminación", "html": "<p>Al acabar se presenta el <strong>aviso de terminación de obra</strong>, también en la Plataforma Digital; en las obras tipo B y C sirve para que se autorice el uso y ocupación del inmueble. Antes, los renders y el modelo 3D ayudan a pedir cotizaciones comparables a las constructoras.</p>" }
+      ]
+    },
+    {
+      "h2": "Quién firma el proyecto en la Ciudad de México",
+      "html": "<p>Para ejercer la arquitectura en la CDMX hacen falta título registrado y <strong>cédula profesional</strong> de la Dirección General de Profesiones. Las manifestaciones tipo B y C las suscribe un <strong>Director Responsable de Obra (DRO)</strong>, con autorización y registro a través del <strong>Instituto para la Seguridad de las Construcciones</strong>, que vigila que el proyecto y la obra cumplan la norma; según el caso, lo acompañan Corresponsables en seguridad estructural, en diseño urbano y arquitectónico o en instalaciones. El gremio se reúne en el Colegio de Arquitectos de la Ciudad de México y la Sociedad de Arquitectos Mexicanos (CAM-SAM). Nosotros preparamos el diseño, los planos, el modelado 3D y los renders, y el proyecto queda listo para que el DRO trabaje con él.</p>"
+    },
+    {
+      "h2": "El suelo de la Ciudad de México: lomas, transición y lago",
+      "html": "<p>El Reglamento de Construcciones divide la ciudad en tres <strong>zonas geotécnicas</strong>. La <strong>zona I, Lomas</strong>, tiene rocas o suelos en general firmes, aunque puede haber rellenos sin compactar y antiguas minas de arena. La <strong>zona II, Transición</strong>, alterna capas arenosas con arcilla lacustre y tiene los depósitos firmes a 20 m de profundidad o menos. La <strong>zona III, Lacustre</strong>, está formada por arcillas muy compresibles que, con los rellenos de encima, pueden superar los 50 m de espesor. La zona del predio condiciona la cimentación y el diseño frente a sismos, que resuelven el DRO y el corresponsable en seguridad estructural; el mapa de las Normas Técnicas solo sirve para obras ligeras o medianas, y en las demás hay que explorar el subsuelo.</p>"
+    },
+    {
+      "h2": "El clima de la Ciudad de México y el diseño de tu casa",
+      "html": "<p>Según el INEGI, el clima que ocupa más superficie en la Ciudad de México es el <strong>templado subhúmedo con lluvias en verano</strong>. En las estaciones de la CONAGUA de la zona urbana, a más de 2200 m de altitud, la temperatura media anual ronda los 15 a 17 °C: mayo es el mes más cálido, diciembre y enero los más frescos, con alguna helada, y la mayor parte de la lluvia cae de <strong>junio a septiembre</strong>. Por eso conviene abrir las recámaras al sol de invierno, sombrear las ventanas en los meses de calor, prever aleros y un buen desagüe en azoteas y patios, y asegurar la <strong>ventilación cruzada</strong>. Con un render de cada época del año lo compruebas antes de construir.</p>"
+    },
+    {
+      "h2": "Arquitectura de la Ciudad de México: tres sitios de la UNESCO",
+      "html": "<p>Entre los bienes de Patrimonio Mundial de la UNESCO en la ciudad están el <strong>Centro Histórico y Xochimilco</strong> (1987), con la catedral más grande del continente y edificios públicos de los siglos XIX y XX como el Palacio de Bellas Artes; la <strong>Casa-Taller de Luis Barragán</strong> (2004), construida en 1948, cuya síntesis de lo moderno y lo tradicional ha influido en el diseño de jardines, plazas y paisajes, y el <strong>campus central de Ciudad Universitaria de la UNAM</strong> (2007), levantado entre 1949 y 1952 por más de 60 arquitectos, ingenieros y artistas y uno de los grandes símbolos de la modernidad en América Latina.</p>"
+    }
+  ],
+  "faq": [
+    { "q": "¿Dónde se registra la manifestación de construcción en la CDMX?", "a": "En la Plataforma Digital del Gobierno de la Ciudad de México, antes de empezar la obra. La atiende la alcaldía o, cuando le corresponde, la Secretaría de Desarrollo Urbano y Vivienda (SEDUVI). Si vas en persona, en la Ventanilla Única te ayudan a ingresar el trámite." },
+    { "q": "¿Qué es un DRO y cuándo hace falta?", "a": "El Director Responsable de Obra es un profesional con autorización y registro a través del Instituto para la Seguridad de las Construcciones. Suscribe las manifestaciones tipo B y C y vigila que el proyecto y la obra cumplan el Reglamento; según la obra, trabaja con Corresponsables." },
+    { "q": "¿Qué normativa deben cumplir los planos?", "a": "El Reglamento de Construcciones para el Distrito Federal, que se aplica en la Ciudad de México con sus reformas, y sus Normas Técnicas Complementarias, además del uso de suelo que marque el certificado de zonificación del predio." },
+    { "q": "¿Pueden hacer el proyecto de mi casa en la CDMX a distancia?", "a": "Sí. Trabajamos en línea: a partir de tus planos, medidas o fotos armamos el diseño, los planos, el modelo 3D y los renders, y los revisamos contigo en cada paso. La firma y el registro los hace el DRO o el profesional habilitado de la ciudad." }
+  ],
+  "cierre": {
+    "h2": "¿Tienes un proyecto en la Ciudad de México?",
+    "html": "<p>Cuéntanos qué quieres construir o remodelar y te decimos cómo podemos ayudarte con el diseño, los planos y las imágenes 3D.</p>",
+    "boton": "Contacto"
+  },
+  "fuentes": [
+    { "texto": "Reglamento de Construcciones para el Distrito Federal, texto vigente (PAOT)", "url": "https://paot.org.mx/centro/leyes-normas-htmls/reglamento-de-construcciones-1028.html" },
+    { "texto": "Gaceta Oficial de la Ciudad de México, 8 de mayo de 2024: reforma del Reglamento (Plataforma Digital)", "url": "https://paot.org.mx/centro/reglamentos/df/pdf/2024/08-05-2024.pdf" },
+    { "texto": "Normas Técnicas Complementarias para Diseño y Construcción de Cimentaciones (Gaceta Oficial, 15-12-2017)", "url": "https://paot.mx/centro/normas_a/2022/1%20NORMAS%20TECNICAS%20COMPLEMENTARIAS%20PARA%20DISENO%20Y%20CONSTRUCCION%20DE%20CIMENTACIONES.pdf" },
+    { "texto": "Ley del Instituto para la Seguridad de las Construcciones (PAOT)", "url": "https://paot.org.mx/centro/leyes-normas-htmls/ley-del-instituto-591.html" },
+    { "texto": "Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México (Cámara de Diputados)", "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/208_190118.pdf" },
+    { "texto": "INEGI: información geográfica de la Ciudad de México (clima, temperatura y lluvia, datos de CONAGUA)", "url": "https://www.inegi.org.mx/contenidos/app/areasgeograficas/resumen/resumen_09.pdf" },
+    { "texto": "UNESCO: Centro histórico de México y Xochimilco", "url": "https://whc.unesco.org/es/list/412" },
+    { "texto": "UNESCO: Casa-Taller de Luis Barragán", "url": "https://whc.unesco.org/es/list/1136" },
+    { "texto": "UNESCO: Campus central de la Ciudad Universitaria de la UNAM", "url": "https://whc.unesco.org/es/list/1250" },
+    { "texto": "ArchDaily: Colegio de Arquitectos de la Ciudad de México y Sociedad de Arquitectos Mexicanos (CAM-SAM)", "url": "https://www.archdaily.com/es/tag/camsam" }
+  ],
+  "comun": {
+    "tipo": "estudio",
+    "_nota": "Bloque común de las páginas de estudio por lugar, copiado de Estudio de arquitectura Rosario con la ciudad cambiada; textos propios de la Ciudad de México, con vocabulario de México, para no repetir la plantilla.",
+    "terminos": [["ROSARIO", "CIUDAD DE MÉXICO"], ["Rosario", "Ciudad de México"]],
+    "textos": {
+      "6950824": "<p>¿Tienes <strong>cédula profesional</strong> de arquitecto, eres DRO o contratista en la Ciudad de México y quieres colaborar con nosotros? Trabajamos en línea. Mándanos un mensaje.</p>",
+      "873698a": "<p>En la CDMX, las obras tipo B y C necesitan un <strong>Director Responsable de Obra</strong> que suscriba la manifestación de construcción ante la alcaldía. Te orientamos sobre lo que pide tu obra y dejamos listo el proyecto gráfico (diseño, planos e imágenes) con el que va a trabajar. ¿Tienes preguntas sobre <strong>arquitectos</strong>, DRO o corresponsables? Aquí te las contestamos.</p>",
+      "c6a5f2b": "<p>Más allá del despacho, también funcionamos como <strong>plataforma de arquitectura</strong>, con estilos, software, cursos, libros y proyectos, para que llegues a tu obra en la <strong>Ciudad de México</strong> sabiendo lo que quieres.</p>",
+      "43bfe28": "<p>¿Tienes un terreno, una casa que quieres crecer o un local por remodelar en la <strong>Ciudad de México</strong>? Diseñamos contigo, a distancia, la distribución y los <strong>interiores</strong>, y te los mostramos en renders antes de escoger un solo acabado. Cuéntanos tu idea y arrancamos.</p>",
+      "d6d3bf2": "<p>¿Piensas <strong>construir</strong> en la CDMX? Ten listo el proyecto y registrada la manifestación antes de contratar la obra.</p>",
+      "21e6ab7": "<p>¿Vas a <strong>remodelar tu casa</strong> en la CDMX? Mira en 3D cómo quedará y cotiza con constructoras sabiendo qué pedir.</p>",
+      "d302822": "<p><strong>Diseño arquitectónico</strong> a la medida de la Ciudad de México: sol de invierno, aleros para las lluvias de verano y ventilación natural.</p>",
+      "fec78e4": "<p><strong>Interiorismo</strong> y decoración para departamentos, casas y locales de la CDMX, con renders para escoger colores, pisos y muebles.</p>",
+      "764e04f": "<p>También somos <strong>agencia de diseño</strong>: logotipo, presentaciones y sitio web para dar a conocer tu proyecto o tu despacho.</p>",
+      "eea5803": "<p>Todo arranca con un <strong>croquis</strong>: dibujos rápidos del predio, la planta y los alzados.</p>",
+      "c803901": "<p>Los <strong>planos</strong> de una obra en la Ciudad de México —plantas, cortes, fachadas y localización del predio— se ajustan al <strong>Reglamento de Construcciones</strong> y a sus Normas Técnicas Complementarias. Te los entregamos en archivo digital, listos para el DRO.</p>",
+      "e1acc54": "<p>Un <strong>render</strong> te enseña tu casa, tu departamento o tu local en la CDMX ya terminado, con su fachada, sus interiores y la luz del día. Además hacemos <strong>modelado 3D</strong>, recorridos en video y tour virtual.</p>",
+      "09b4953": "<p>Como <strong>despacho de arquitectura</strong> en línea, analizamos tu terreno o tu casa, proponemos cómo repartir los espacios y armamos los planos y las vistas de tu obra en la Ciudad de México. Trabajamos el <strong>diseño de interiores</strong>, la distribución y la viabilidad, todo en línea y con tu visto bueno en cada avance.</p>",
+      "fa5de7a": "<p>Con una <strong>maqueta</strong> a escala se capta de un vistazo la volumetría de una obra; el render le suma los acabados y la iluminación que tendrá.</p>",
+      "e0fc9cc": "<p>Trabajamos con <strong>despachos</strong>, arquitectos y diseñadores que arman equipos a la medida de cada encargo, desde una casa hasta un edificio de departamentos.</p>",
+      "7faf099": "<p>Si ejerces la arquitectura en la CDMX, un <strong>portafolio</strong> cuidado, con renders y planos, muestra tus proyectos a clientes y concursos, en papel o en línea.</p>",
+      "b4f3c04": "<p>Inspírate con nuestras <strong>imágenes de arquitectura</strong>: fachadas, interiores, casas y paisajes urbanos para dar forma a tu proyecto en la Ciudad de México.</p>",
+      "b08800e": "<p>Antes de encargar un proyecto vale la pena leer: <strong>libros de arquitectura</strong> de diseño, construcción e historia, impresos o en formato digital. Aquí tienes nuestra selección.</p>",
+      "d743651": "<p>¿Estudias arquitectura en la Ciudad de México o quieres actualizarte? Hay <strong>cursos en línea</strong> de dibujo, renders, <strong>modelado 3D</strong>, estructuras e instalaciones. Reunimos una selección para que avances cuando quieras y desde donde estés.</p>",
+      "389e7a0": "<p>Las <strong>revistas de arquitectura</strong> reúnen obras de México y del resto de América Latina: buenas ideas de patios, terrazas y materiales para el clima templado de la CDMX.</p>",
+      "ab4b62c": "<p><strong>AutoCAD</strong> y Revit son los programas habituales para los planos, y SketchUp, Lumion o V-Ray para el modelo 3D y los renders. Descubre para qué sirve cada uno.</p>",
+      "a3f94c2": "<p>Revisa <strong>proyectos de arquitectura</strong> de casas, locales y edificios y observa cómo manejan la luz natural, el asoleamiento y el vínculo con la calle. Te servirán de referencia para tu obra en la CDMX.</p>",
+      "aa5d488": "<p>La <strong>inteligencia artificial</strong> ya crea imágenes de ambientes a partir de una frase o de una foto. Es útil para buscar ideas, pero no sabe las medidas de tu predio ni lo que pide el Reglamento de Construcciones: el proyecto sigue pidiendo <strong>planos</strong> y un modelado 3D apegado a la realidad. Te contamos sus ventajas y sus límites.</p>"
+    }
+  }
+}

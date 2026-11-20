@@ -52,7 +52,7 @@ for (const f of fs.existsSync(ORIGEN) ? fs.readdirSync(ORIGEN).filter((x) => x.e
     const hijos = [h('h2', d.lugares.h2), ...(d.lugares.html ? [t(d.lugares.html)] : [])];
     for (const pais of LUGARES.paises) {
       hijos.push(h('h3', pais.nombre));
-      hijos.push(t(`<ul class="lista-lugares">${pais.lugares.map((l) => `<li><a href="${l.url}" title="${l.nombre}">${l.nombre.replace(/^Estudio de arquitectura en /, '')}</a></li>`).join('')}</ul>`));
+      hijos.push(t(`<ul class="lista-lugares">${pais.lugares.map((l) => `<li><a href="${l.url}" title="${l.nombre}">${l.nombre.replace(/^(Estudio|Despacho) de arquitectura en /, '')}</a></li>`).join('')}</ul>`));
     }
     nuevas.push(seccion(hijos, ' estudio-lugares'));
   }
