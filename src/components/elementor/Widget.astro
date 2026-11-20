@@ -12,6 +12,8 @@ interface Props { n: any; b?: any; prioridad?: boolean }
 const { n, b, prioridad = false } = Astro.props as Props;
 const clase = `elementor-element elementor-element-${n.id} ${n.cls}`;
 const enlace = b?.href ? enlaceInterno(b.href) : '';
+// Tarjeta de la propia página (p. ej. «Egipcia» en Arquitectura egipcia): se marca como «estás aquí»
+const actual = enlace && enlace === Astro.url.pathname ? 'page' : undefined;
 const Tag = n.tag && /^(h[1-6]|p|div|span)$/.test(n.tag) ? n.tag : 'div';
 const panorama = b?.type === 'text' ? (b.text || '').trim().match(/^\[panorama id=(\d+)\]$/)?.[1] : undefined;
 const yt = (u = '') => u.match(/(?:youtu\.be\/|v=|embed\/|shorts\/)([\w-]{11})/)?.[1];
@@ -25,13 +27,13 @@ const fotosGaleria = (b?.images ?? []).filter((g: any) => (medidas as Record<str
   <div class="elementor-widget-container">
     {n.wt === 'heading' && b && (
       enlace
-        ? <Tag class={`elementor-heading-title elementor-size-${n.size || 'default'}`}><a href={enlace} set:html={htmlTitular(b.html || b.text)} /></Tag>
+        ? <Tag class={`elementor-heading-title elementor-size-${n.size || 'default'}`}><a href={enlace} aria-current={actual} set:html={htmlTitular(b.html || b.text)} /></Tag>
         : <Tag class={`elementor-heading-title elementor-size-${n.size || 'default'}`} set:html={htmlTitular(b.html || b.text)} />
     )}
     {n.wt === 'text-editor' && b && !b.oculto && (panorama ? <Panorama id={panorama} /> : <Fragment set:html={htmlElementor(b.html)} />)}
     {n.wt === 'image' && b && (
       enlace
-        ? <a href={enlace}><Foto src={b.src} alt={b.alt} class={claseFoto(b)} sizes="(max-width: 1024px) 100vw, 1024px" prioridad={prioridad} /></a>
+        ? <a href={enlace} aria-current={actual}><Foto src={b.src} alt={b.alt} class={claseFoto(b)} sizes="(max-width: 1024px) 100vw, 1024px" prioridad={prioridad} /></a>
         : <Foto src={b.src} alt={b.alt} class={claseFoto(b)} sizes="(max-width: 1024px) 100vw, 1024px" prioridad={prioridad} />
     )}
     {n.wt === 'button' && b && (

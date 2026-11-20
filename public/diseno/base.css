@@ -568,3 +568,14 @@ body { background: var(--fuera); }
 .pie h2 { font-family: var(--mono); font-weight: 600; font-size: 12px; letter-spacing: .14em; color: #8e979f; }
 .pie a { color: #d5dadf; }
 .pie .legal .contenedor { font-family: var(--mono); font-size: 12.5px; color: #8e979f; }
+
+/* Tarjetas estrechas con nombre largo («Renacentista», «Mediterránea»): letra algo menor y sin flecha, para que el nombre quepa entero (20-11-2026). Toda la tarjeta sigue siendo el enlace. */
+:is(.e-con, .e-con-inner) > .e-con:not(.e-parent):not(:has(> .elementor-widget-heading h1)):is(.con-texto, :has(> .elementor-widget-image):has(> .elementor-widget-heading):has(> .elementor-widget-image a, > .elementor-widget-heading a)) > .elementor-widget-heading { container-type: inline-size; }
+@container (max-width: 112px) {
+  .elementor-widget-heading .elementor-widget-container::after { display: none; }
+  .elementor-widget-heading .elementor-heading-title { font-size: 15px !important; }
+}
+/* Móvil: las tarjetas de solo foto y nombre (rejilla de estilos y de servicios) de dos en dos, no una por fila a media anchura (20-11-2026) */
+@media (max-width: 767px) {
+  :is(.e-con, .e-con-inner) > .e-con:not(.e-parent):not(:has(> .elementor-widget-heading h1)):is(.con-texto, :has(> .elementor-widget-image):has(> .elementor-widget-heading):has(> .elementor-widget-image a, > .elementor-widget-heading a)):not(:has(> .elementor-widget-text-editor)):not(:has(> .elementor-widget-button)) { width: calc(50% - 7px) !important; max-width: calc(50% - 7px); flex: 0 0 auto; }
+}

@@ -158,5 +158,34 @@
       "renders-villarreal",
       "renders-zamora"
     ]
+  },
+  "tarjetas_sin_enlace": {
+    "descripcion": "Tarjetas (título H3 + foto) que en WordPress no llevaban a ninguna página: se enlazan por su título a la página de ese estilo o servicio. Pedido por Yama el 20-11-2026 («arreglar en todas las páginas esto»). La tarjeta de la propia página también se enlaza (así todas se ven igual) y se marca como «estás aquí» (aria-current).",
+    "fecha": "2026-11-20",
+    "por_titulo": {
+      "Barroca": "/arquitectura-barroca/",
+      "Gotica": "/arquitectura-gotica/",
+      "Renacentista": "/arquitectura-renacentista/",
+      "Egipcia": "/arquitectura-egipcia/",
+      "Azteca": "/arquitectura-azteca/",
+      "Brutalista": "/arquitectura-brutalista/",
+      "Bizantina": "/arquitectura-bizantina/",
+      "Neoclásica": "/arquitectura-neoclasica/",
+      "Maya": "/arquitectura-maya/",
+      "Bioclimiatica": "/arquitectura-bioclimatica/",
+      "Griega": "/arquitectura-griega/",
+      "Moderna": "/arquitectura-moderna/",
+      "Incas": "/arquitectura-incaica/",
+      "Mediterránea": "/arquitectura-mediterranea/",
+      "Romana": "/arquitectura-romana/",
+      "Renders 3D": "/renders/",
+      "Modelado 3D": "/modelado-3d/",
+      "Infografias": "/infografias/",
+      "Tour virtual 3D": "/tour-virtual/",
+      "Realidad Virtual": "/realidad-virtual/",
+      "Proyectos": "/proyectos-de-arquitectura/",
+      "Catálogos": "/catalogo/",
+      "Planos": "/planos/"
+    }
   }
 }

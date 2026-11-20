@@ -382,7 +382,9 @@
    "type": "heading",
    "tag": "h3",
    "text": "Renders 3D",
-   "s": 27
+   "s": 27,
+   "href": "/renders/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -390,13 +392,17 @@
    "alt": "renders-arquitectura",
    "size": "large",
    "wpid": 247,
-   "s": 27
+   "s": 27,
+   "href": "/renders/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Planos",
-   "s": 27
+   "s": 27,
+   "href": "/planos/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -404,13 +410,17 @@
    "alt": "Arquitectura-Planos",
    "size": "large",
    "wpid": 251,
-   "s": 27
+   "s": 27,
+   "href": "/planos/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Modelado 3D",
-   "s": 27
+   "s": 27,
+   "href": "/modelado-3d/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -418,13 +428,17 @@
    "alt": "modelado-3D-arquitectura",
    "size": "large",
    "wpid": 253,
-   "s": 27
+   "s": 27,
+   "href": "/modelado-3d/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Infografias",
-   "s": 27
+   "s": 27,
+   "href": "/infografias/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -432,13 +446,17 @@
    "alt": "infografías-de-arquitectura",
    "size": "large",
    "wpid": 336,
-   "s": 27
+   "s": 27,
+   "href": "/infografias/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Catálogos",
-   "s": 29
+   "s": 29,
+   "href": "/catalogo/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -446,13 +464,17 @@
    "alt": "catálogos-de-arquitectura",
    "size": "large",
    "wpid": 317,
-   "s": 29
+   "s": 29,
+   "href": "/catalogo/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Tour virtual 3D",
-   "s": 29
+   "s": 29,
+   "href": "/tour-virtual/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -460,13 +482,17 @@
    "alt": "tour-360-virtual-de-arquitectura",
    "size": "large",
    "wpid": 318,
-   "s": 29
+   "s": 29,
+   "href": "/tour-virtual/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Realidad Virtual",
-   "s": 29
+   "s": 29,
+   "href": "/realidad-virtual/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -474,13 +500,17 @@
    "alt": "",
    "size": "large",
    "wpid": 319,
-   "s": 29
+   "s": 29,
+   "href": "/realidad-virtual/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Proyectos",
-   "s": 29
+   "s": 29,
+   "href": "/proyectos-de-arquitectura/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -488,7 +518,9 @@
    "alt": "Proyecto-de-arquitectura",
    "size": "large",
    "wpid": 346,
-   "s": 29
+   "s": 29,
+   "href": "/proyectos-de-arquitectura/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
@@ -625,7 +657,9 @@
    "type": "heading",
    "tag": "h3",
    "text": "Romana",
-   "s": 36
+   "s": 36,
+   "href": "/arquitectura-romana/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -633,13 +667,17 @@
    "alt": "arquitectura-roma",
    "size": "large",
    "wpid": 619,
-   "s": 36
+   "s": 36,
+   "href": "/arquitectura-romana/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Barroca",
-   "s": 36
+   "s": 36,
+   "href": "/arquitectura-barroca/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -647,13 +685,17 @@
    "alt": "arquitectura-del-barroco",
    "size": "large",
    "wpid": 615,
-   "s": 36
+   "s": 36,
+   "href": "/arquitectura-barroca/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Griega",
-   "s": 36
+   "s": 36,
+   "href": "/arquitectura-griega/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -661,13 +703,17 @@
    "alt": "Arquitectura-grecia",
    "size": "large",
    "wpid": 624,
-   "s": 36
+   "s": 36,
+   "href": "/arquitectura-griega/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Gotica",
-   "s": 36
+   "s": 36,
+   "href": "/arquitectura-gotica/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -675,13 +721,17 @@
    "alt": "Gótica-arquitectura",
    "size": "large",
    "wpid": 626,
-   "s": 36
+   "s": 36,
+   "href": "/arquitectura-gotica/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Moderna",
-   "s": 36
+   "s": 36,
+   "href": "/arquitectura-moderna/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -689,13 +739,17 @@
    "alt": "Moderna-arquitectura",
    "size": "large",
    "wpid": 630,
-   "s": 36
+   "s": 36,
+   "href": "/arquitectura-moderna/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Neoclásica",
-   "s": 36
+   "s": 36,
+   "href": "/arquitectura-neoclasica/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -703,13 +757,17 @@
    "alt": "neoclásica-arquitectura",
    "size": "large",
    "wpid": 633,
-   "s": 36
+   "s": 36,
+   "href": "/arquitectura-neoclasica/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Renacentista",
-   "s": 38
+   "s": 38,
+   "href": "/arquitectura-renacentista/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -717,13 +775,17 @@
    "alt": "renacentista-arquitectura",
    "size": "large",
    "wpid": 638,
-   "s": 38
+   "s": 38,
+   "href": "/arquitectura-renacentista/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Maya",
-   "s": 38
+   "s": 38,
+   "href": "/arquitectura-maya/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -731,13 +793,17 @@
    "alt": "arquitectura-mayas",
    "size": "large",
    "wpid": 632,
-   "s": 38
+   "s": 38,
+   "href": "/arquitectura-maya/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Egipcia",
-   "s": 38
+   "s": 38,
+   "href": "/arquitectura-egipcia/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -745,13 +811,17 @@
    "alt": "arte-y-arquitectura-egipcia",
    "size": "large",
    "wpid": 639,
-   "s": 38
+   "s": 38,
+   "href": "/arquitectura-egipcia/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Azteca",
-   "s": 38
+   "s": 38,
+   "href": "/arquitectura-azteca/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -759,13 +829,17 @@
    "alt": "arte-y-arquitectura-azteca",
    "size": "large",
    "wpid": 643,
-   "s": 38
+   "s": 38,
+   "href": "/arquitectura-azteca/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Incas",
-   "s": 38
+   "s": 38,
+   "href": "/arquitectura-incaica/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -773,13 +847,17 @@
    "alt": "arquitectura-incas",
    "size": "large",
    "wpid": 646,
-   "s": 38
+   "s": 38,
+   "href": "/arquitectura-incaica/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Bioclimiatica",
-   "s": 38
+   "s": 38,
+   "href": "/arquitectura-bioclimatica/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -787,13 +865,17 @@
    "alt": "",
    "size": "large",
    "wpid": 651,
-   "s": 38
+   "s": 38,
+   "href": "/arquitectura-bioclimatica/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Brutalista",
-   "s": 40
+   "s": 40,
+   "href": "/arquitectura-brutalista/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -801,13 +883,17 @@
    "alt": "brutalismo-arquitectura",
    "size": "large",
    "wpid": 664,
-   "s": 40
+   "s": 40,
+   "href": "/arquitectura-brutalista/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Bizantina",
-   "s": 40
+   "s": 40,
+   "href": "/arquitectura-bizantina/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -815,13 +901,17 @@
    "alt": "bizantino-arquitectura",
    "size": "large",
    "wpid": 666,
-   "s": 40
+   "s": 40,
+   "href": "/arquitectura-bizantina/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Mediterránea",
-   "s": 40
+   "s": 40,
+   "href": "/arquitectura-mediterranea/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -829,7 +919,9 @@
    "alt": "Mediterránea-arquitectura",
    "size": "large",
    "wpid": 962,
-   "s": 40
+   "s": 40,
+   "href": "/arquitectura-mediterranea/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "text",

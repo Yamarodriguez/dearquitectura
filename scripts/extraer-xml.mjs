@@ -68,6 +68,30 @@ const aplicarCambios = (slug, lista) => {
   });
 };
 
+// Tarjetas sin enlace (pedido por Yama el 20-11-2026: «arreglar en todas las páginas esto»):
+// en la rejilla «Otros tipos de arquitectura y estilos» y en la de servicios, muchas tarjetas
+// (título H3 + foto) no llevaban a ningún sitio en WordPress. Se enlazan, por su título, a la
+// página de ese estilo o servicio, igual que las tarjetas que ya tenían enlace.
+const tarjetas = CAMBIOS?.tarjetas_sin_enlace?.por_titulo ?? {};
+const enlazarTarjetas = (slug, blocks, arbol) => {
+  const walk = (n) => {
+    if (n.t !== 'c') return;
+    const hs = n.hijos ?? [];
+    const h = hs.find((x) => x.wt === 'heading' && blocks[x.b]?.tag === 'h3');
+    const im = hs.find((x) => x.wt === 'image');
+    if (h && im && hs.length <= 3) {
+      const bh = blocks[h.b], bi = blocks[im.b];
+      const destino = tarjetas[(bh.text || '').trim()];
+      if (destino && !bh.href && !bi.href) {
+        bh.href = destino; bi.href = destino; bh.cambio = bi.cambio = 'tarjeta_sin_enlace';
+      }
+    }
+    hs.forEach(walk);
+  };
+  arbol.forEach(walk);
+  return blocks;
+};
+
 const outDir = 'src/content/pages';
 fs.rmSync(outDir, { recursive: true, force: true });
 fs.mkdirSync(outDir, { recursive: true });
@@ -223,7 +247,7 @@ for (const it of items) {
     ficha = { imagen: foto(meta._bsf_service_image || ''), tipo: ent(meta._bsf_service_type), proveedor: ent(meta._bsf_service_provider || ''), area: ent(meta._bsf_service_area || ''), descripcion: ent(meta._bsf_service_desc || '') };
     if (ficha.imagen) fotos.add(ficha.imagen);
   } else if (meta._bsf_post_type && meta._bsf_post_type !== '0') resumen_otros[meta._bsf_post_type] = (resumen_otros[meta._bsf_post_type] || 0) + 1;
-  const pag = { ...base, h1_es_titulo: !h1, fondos, ...(ficha ? { resumen: ficha } : {}), blocks: aplicarCambios(slug, blocks), elementor };
+  const pag = { ...base, h1_es_titulo: !h1, fondos, ...(ficha ? { resumen: ficha } : {}), blocks: enlazarTarjetas(slug, aplicarCambios(slug, blocks), elementor), elementor };
   fs.writeFileSync(path.join(outDir, slug + '.json'), JSON.stringify(pag, null, 1) + '\n');
   estructura[slug] = { title, url, headings: blocks.filter((b) => b.type === 'heading').map((b) => ({ tag: b.tag, text: b.text })) };
   contenido[slug] = { title, url, blocks };

@@ -315,7 +315,9 @@
    "type": "heading",
    "tag": "h3",
    "text": "Barroca",
-   "s": 20
+   "s": 20,
+   "href": "/arquitectura-barroca/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -323,7 +325,9 @@
    "alt": "arquitectura-del-barroco",
    "size": "large",
    "wpid": 615,
-   "s": 20
+   "s": 20,
+   "href": "/arquitectura-barroca/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
@@ -345,7 +349,9 @@
    "type": "heading",
    "tag": "h3",
    "text": "Gotica",
-   "s": 20
+   "s": 20,
+   "href": "/arquitectura-gotica/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -353,7 +359,9 @@
    "alt": "Gótica-arquitectura",
    "size": "large",
    "wpid": 626,
-   "s": 20
+   "s": 20,
+   "href": "/arquitectura-gotica/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
@@ -391,7 +399,9 @@
    "type": "heading",
    "tag": "h3",
    "text": "Renacentista",
-   "s": 22
+   "s": 22,
+   "href": "/arquitectura-renacentista/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -399,7 +409,9 @@
    "alt": "renacentista-arquitectura",
    "size": "large",
    "wpid": 638,
-   "s": 22
+   "s": 22,
+   "href": "/arquitectura-renacentista/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
@@ -421,7 +433,9 @@
    "type": "heading",
    "tag": "h3",
    "text": "Egipcia",
-   "s": 22
+   "s": 22,
+   "href": "/arquitectura-egipcia/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -429,13 +443,17 @@
    "alt": "arte-y-arquitectura-egipcia",
    "size": "large",
    "wpid": 639,
-   "s": 22
+   "s": 22,
+   "href": "/arquitectura-egipcia/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
    "tag": "h3",
    "text": "Azteca",
-   "s": 22
+   "s": 22,
+   "href": "/arquitectura-azteca/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -443,7 +461,9 @@
    "alt": "arte-y-arquitectura-azteca",
    "size": "large",
    "wpid": 643,
-   "s": 22
+   "s": 22,
+   "href": "/arquitectura-azteca/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
@@ -481,7 +501,9 @@
    "type": "heading",
    "tag": "h3",
    "text": "Brutalista",
-   "s": 24
+   "s": 24,
+   "href": "/arquitectura-brutalista/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "image",
@@ -489,7 +511,9 @@
    "alt": "brutalismo-arquitectura",
    "size": "large",
    "wpid": 664,
-   "s": 24
+   "s": 24,
+   "href": "/arquitectura-brutalista/",
+   "cambio": "tarjeta_sin_enlace"
   },
   {
    "type": "heading",
