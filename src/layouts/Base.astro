@@ -59,8 +59,8 @@ const jsonld = JSON.stringify({ '@context': 'https://schema.org', '@graph': graf
     {/* Modo de consentimiento de Google (20-11-2026): en Europa (EEE, Reino Unido y Suiza) las cookies de
         Analytics y anuncios esperan a que el lector acepte en el mensaje de privacidad de Google (AdSense →
         Privacidad y mensajes), como pide la ley. En Latinoamérica y el resto, igual que en la web vieja. */}
-    {site.analytics.ga4 && <script is:inline set:html={`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500,region:['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE','IS','LI','NO','GB','CH']});gtag('js',new Date());gtag('config','${site.analytics.ga4}');`} />}
     {site.analytics.ga4 && <script async src={`https://www.googletagmanager.com/gtag/js?id=${site.analytics.ga4}`}></script>}
+    {site.analytics.ga4 && <script is:inline set:html={`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500,region:['AT','BE','BG','HR','CY','CZ','DK','EE','FI','FR','DE','GR','HU','IE','IT','LV','LT','LU','MT','NL','PL','PT','RO','SK','SI','ES','SE','IS','LI','NO','GB','CH']});gtag('js',new Date());gtag('config','${site.analytics.ga4}');`} />}
     <title>{title}</title>
     {description && <meta name="description" content={description} />}
     <link rel="canonical" href={canonical} />

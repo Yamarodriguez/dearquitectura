@@ -13,7 +13,7 @@ publicados hoy (consultados en internet, no en el panel de OVH).
 0. Análisis final hecho el 20-11-2026: informes/analisis-final.md (lista para migrar; verificación de Bing puesta, mapa con fechas y fotos, consentimiento de Google para Europa).
 1. Yama conecta Netlify. Claude pasa `comprobar:web` a la dirección netlify.app, ya con redirecciones.
 2. Prueba real del formulario (Fase 5).
-3. **Yama**: en Search Console, mirar con qué método está verificada la propiedad (Configuración → Verificación de la propiedad). Si es «Archivo HTML», pasar el nombre del archivo a Claude. Lo más seguro: crear también una propiedad de dominio verificada con un TXT en OVH (no toca el correo).
+3. Search Console: verificado con Google Analytics (Yama, 20-11-2026). La etiqueta G-SWJY3P4YRP va al principio de la cabecera y se activa con el interruptor: no hay que hacer nada. Opcional: propiedad de dominio con un TXT en OVH (no toca el correo).
 4. Mensaje de privacidad de Google para Europa: ya sale en la web viva (visto el 16-11-2026); comprobar que sale también en la nueva al activar AdSense.
 
 ## El día

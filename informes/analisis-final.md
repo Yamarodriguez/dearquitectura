@@ -27,7 +27,7 @@ Quedan tres cosas que tiene que hacer Yama (apartado 8) y una mejora importante 
 | HTTPS | Netlify pone el candado y obliga a usarlo (HSTS) | Bien |
 | ads.txt | Igual que el de la web viva | Bien |
 | Verificación de Bing | La web viva tenía el código `msvalidate.01` y la nueva no: se habría perdido. Ya está puesto | Arreglado hoy |
-| Verificación de Google | No está ni en la cabecera ni en los DNS de la web viva. Seguramente es por Analytics (que se mantiene) o por un archivo | **Yama lo mira** (apartado 8) |
+| Verificación de Google | Yama confirmó el 20-11-2026 que Search Console está verificado con **Google Analytics**. La web nueva lleva la misma etiqueta (G-SWJY3P4YRP) al principio de la cabecera, en el orden estándar de Google, y se mantiene en cuanto se enciende el interruptor | Bien |
 
 ## 2. Cada página, una a una (las 258 indexables)
 - **Título, descripción, canónica, idioma, vista de móvil:** en todas.
@@ -81,10 +81,7 @@ Quedan tres cosas que tiene que hacer Yama (apartado 8) y una mejora importante 
 
 ## 8. Lo que tiene que hacer Yama
 **Antes del día:**
-1. **Search Console → Configuración → Verificación de la propiedad.** Mirar con qué método está verificada.
-   - **Analytics o Tag Manager:** no hay que hacer nada.
-   - **Archivo HTML** (googleXXXX.html): pasarle el nombre del archivo a Claude, que lo pone en la web nueva.
-   - **Lo más seguro:** crear además una propiedad de **dominio**, verificada con un registro TXT en OVH. No toca el correo.
+1. **Search Console:** hecho. Está verificado con Google Analytics (Yama, 20-11-2026), así que no hay que hacer nada. Opcional y más seguro a largo plazo: crear además una propiedad de **dominio**, verificada con un registro TXT en OVH. No toca el correo.
 2. **Formulario de contacto (Fase 5):** en Netlify, Forms → «Enable form detection» y una notificación a arquitectura@dearquitectura.info. Después Claude hace una prueba de envío, con permiso de Yama.
 
 **El día:**
