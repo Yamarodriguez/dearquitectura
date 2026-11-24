@@ -61,3 +61,9 @@ publicados hoy (consultados en internet, no en el panel de OVH).
 
 - **La copia dearquitectura.netlify.app sigue abierta.** Al encender Google hay que activar su redirección al dominio en netlify.toml.
 - **Sin comprobar:** si Google ya ha quitado páginas, y el envío real del formulario.
+
+## Google encendido (24-11-2026, Yama: «Sí, enciéndelo»)
+- **En main y publicado:** `indexar: true`, GA4, AdSense y la redirección 301 de dearquitectura.netlify.app al dominio.
+- **Comprobado en vivo:** `comprobar:web` a 0 fallos; las 276 páginas del mapa dan 200, sin noindex, con su canónica y con GA4; robots.txt anuncia el mapa. En local hay 91 páginas cerradas, las previstas.
+- **Pendiente de Yama:** los registros del correo en Netlify (siguen sin MX), enviar el mapa en Search Console e importar en Bing, probar el correo y el formulario.
+- **Sin comprobar:** el mensaje de privacidad de Google para Europa en la web publicada y si Google llegó a quitar páginas entre el 22 y el 24.
