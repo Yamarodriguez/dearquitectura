@@ -15,14 +15,13 @@
   [headers.values]
     Cache-Control = "public, max-age=2592000"
 
-# --- Fase 7 (día del cambio de DNS): descomentar para que la copia de pruebas en
-# netlify.app redirija al dominio y Google no la vea como duplicada. Antes de ese día
-# NO: mandaría a la web vieja de WordPress.
-# [[redirects]]
-#   from = "https://NOMBRE-DEL-SITIO.netlify.app/*"
-#   to = "https://dearquitectura.info/:splat"
-#   status = 301
-#   force = true
+# --- La copia en netlify.app redirige al dominio para que Google no la vea como duplicada
+# (activado el 24-11-2026, con el dominio ya publicado).
+[[redirects]]
+  from = "https://dearquitectura.netlify.app/*"
+  to = "https://dearquitectura.info/:splat"
+  status = 301
+  force = true
 
 # --- Direcciones de la web antigua en WordPress ---
 # Las fotos tenían la ruta /wp-content/uploads/AAAA/MM/foto.jpg y ahora están en /img/AAAA/MM/.

@@ -22,16 +22,16 @@
     "_origen": "Los mismos datos que en contenedoresmaritimos; Yama dio el visto bueno el 14-11-2026 («haz lo que recomiendas»)."
   },
   "analytics": {
-    "ga4": "",
-    "adsense": "",
+    "ga4": "G-SWJY3P4YRP",
+    "adsense": "ca-pub-7333712322602518",
     "confirmados": {
       "ga4": "G-SWJY3P4YRP",
       "adsense": "ca-pub-7333712322602518"
     },
-    "_pendiente": "Confirmados por Yama el 14-11-2026. Se activan en la Fase 7 (al lanzar): pasar los de «confirmados» a ga4 y adsense. Antes, Yama activa en AdSense el mensaje de privacidad de Google para Europa (Privacidad y mensajes)."
+    "_pendiente": "Confirmados por Yama el 14-11-2026. Activados el 24-11-2026 (Yama: «Sí, enciéndelo»). El mensaje de privacidad de Google para Europa lo tiene Yama en AdSense (Privacidad y mensajes)."
   },
-  "indexar": false,
-  "_indexar": "false hasta la Fase 7: mientras se prepara, ninguna página sale en Google.",
+  "indexar": true,
+  "_indexar": "Encendido el 24-11-2026 (Yama: «Sí, enciéndelo»), con el dominio ya en Netlify. En false, ninguna página sale en Google.",
   "_nota": "El correo es el que la web viva enseña en la barra superior. Lo vacío está pendiente de Yama; no se inventa nada.",
   "bing": "1175EEAE881C3E0C1777F93E6C166E6D",
   "_bing": "Código de verificación de Bing Webmaster (msvalidate.01) que la web viva de WordPress tiene en su cabecera (visto el 20-11-2026). Se mantiene para no perder la verificación al cambiar de web."
