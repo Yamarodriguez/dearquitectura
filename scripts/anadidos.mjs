@@ -56,8 +56,9 @@ for (const f of fs.existsSync(ORIGEN) ? fs.readdirSync(ORIGEN).filter((x) => x.e
     }
     nuevas.push(seccion(hijos, ' estudio-lugares'));
   }
-  if (d.faq?.length) nuevas.push(seccion([h('h2', d.faq_titulo || 'Preguntas frecuentes'), w('toggle', { tag: 'div', b: b({ type: 'toggle', items: d.faq.map((x) => ({ title: x.q, html: `<p>${x.a}</p>` })) }) })]));
-  if (d.fuentes?.length) nuevas.push(seccion([h('h2', 'Fuentes'), t(`<ul>${d.fuentes.map((x) => `<li><a href="${x.url}" rel="noopener">${x.texto}</a></li>`).join('')}</ul>`)], ' nueva-fuentes'));
+  const abajo = d.faq_despues_de !== undefined ? [] : nuevas; // preguntas y fuentes, más abajo (24-11-2026)
+  if (d.faq?.length) abajo.push(seccion([h('h2', d.faq_titulo || 'Preguntas frecuentes'), w('toggle', { tag: 'div', b: b({ type: 'toggle', items: d.faq.map((x) => ({ title: x.q, html: `<p>${x.a}</p>` })) }) })]));
+  if (d.fuentes?.length) abajo.push(seccion([h('h2', 'Fuentes'), t(`<ul>${d.fuentes.map((x) => `<li><a href="${x.url}" rel="noopener">${x.texto}</a></li>`).join('')}</ul>`)], ' nueva-fuentes'));
   // Fila de tarjetas como las de WordPress (título h3 y foto, los dos con enlace), p. ej. tipos de
   // render nuevos en las páginas índice (20-11-2026)
   if (d.tarjetas?.length) {
@@ -74,6 +75,7 @@ for (const f of fs.existsSync(ORIGEN) ? fs.readdirSync(ORIGEN).filter((x) => x.e
   }
 
   const pos = d.despues_de ?? 2;
+  if (abajo !== nuevas) p.elementor.splice(d.faq_despues_de, 0, ...abajo); // primero la de más abajo, para no mover los números
   p.elementor.splice(pos, 0, ...nuevas);
   p.anadidos = true;
   if (d.fecha) p.modificada = p.modificada_gmt = `${d.fecha} 12:00:00`;

@@ -1,0 +1,90 @@
+{
+  "slug": "arquitectura-incaica",
+  "_nota": "Respuesta corta, datos, características, obras, preguntas y fuentes (parte D del análisis y plan de enlaces del 24-11-2026; Yama: «Sí, prepáralos»). Se añade a la página de WordPress sin quitar nada. Cada dato está leído en las fuentes del final; lo que las fuentes contradecían no se puso.",
+  "fecha": "2026-11-24",
+  "despues_de": 1,
+  "faq_despues_de": 14,
+  "resumen_titulo": "La arquitectura inca en resumen",
+  "resumen": "La <strong>arquitectura inca</strong> es la del imperio incaico, en los Andes, desde el gobierno de <strong>Pachacútec</strong> (1438) hasta la conquista española (1533). Se reconoce por sus muros de <strong>piedra encajada sin mortero</strong>, sus puertas y ventanas en forma de <strong>trapecio</strong> y su adaptación a la montaña. Sus obras más conocidas son <strong>Machu Picchu</strong>, Sacsayhuamán y el Coricancha.",
+  "datos": [
+    [
+      "Época",
+      "1438–1533, de Pachacútec a la conquista española"
+    ],
+    [
+      "Lugar",
+      "Los Andes; centro en Cusco (Perú). Sus caminos cruzan Perú, Ecuador, Bolivia, Colombia, Chile y Argentina"
+    ],
+    [
+      "Materiales",
+      "Caliza, granito y andesita; adobe, sobre todo en la costa; madera y paja de ichu en los techos"
+    ],
+    [
+      "Rasgos",
+      "Piedra tallada sin mortero en los edificios principales, muros algo inclinados y vanos trapezoidales"
+    ],
+    [
+      "Obras clave",
+      "Machu Picchu, Sacsayhuamán, Ollantaytambo, Coricancha y la red de caminos Qhapaq Ñan"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "Características de la arquitectura inca",
+      "html": "<ul><li><strong>Piedra encajada sin mortero:</strong> los bloques se tallaban con tanta precisión que entre ellos no cabe un alfiler. Era la técnica de los edificios importantes; la mayoría se hacía con piedra sin labrar y adobe.</li><li><strong>Forma de trapecio:</strong> puertas, ventanas y hornacinas son más anchas abajo que arriba.</li><li><strong>Muros inclinados:</strong> las paredes suelen inclinarse un poco hacia dentro, lo que da estabilidad frente a los terremotos.</li><li><strong>Techos de madera y paja</strong> de ichu.</li><li><strong>Andenes o terrazas</strong> para cultivar en las laderas y sujetar el terreno.</li><li><strong>Edificios con función clara:</strong> la <strong>kancha</strong> (varios edificios alrededor de un patio), la <strong>kallanka</strong> (una gran sala alargada), el <strong>ushnu</strong> (plataforma para las ceremonias), la <strong>colca</strong> (almacén de alimentos) y el <strong>tambo</strong> (posada de los caminos).</li></ul><p>Otras dos grandes arquitecturas de la América prehispánica son la <a href=\"/arquitectura-maya/\">arquitectura maya</a> y la <a href=\"/arquitectura-azteca/\">arquitectura azteca</a>, que desarrollaron las pirámides escalonadas.</p>"
+    },
+    {
+      "h2": "Construcciones de los incas: ejemplos",
+      "html": "<table class=\"tabla-obras\"><thead><tr><th scope=\"col\">Obra</th><th scope=\"col\">Época</th><th scope=\"col\">Por qué es importante</th></tr></thead><tbody><tr><th scope=\"row\">Machu Picchu (Perú)</th><td>Hacia el siglo XV; la fecha exacta se discute</td><td>Ciudad de montaña a unos 2.430 m de altura; Patrimonio de la Humanidad desde 1983</td></tr><tr><th scope=\"row\">Sacsayhuamán (Cusco)</th><td>Siglos XV y XVI</td><td>Tres murallas escalonadas con bloques de hasta 9 m de alto</td></tr><tr><th scope=\"row\">Ollantaytambo (Valle Sagrado)</th><td>Época inca</td><td>Grandes monolitos del Templo del Sol y terrazas</td></tr><tr><th scope=\"row\">Coricancha (Cusco)</th><td>Época inca</td><td>El templo más importante del imperio, dedicado al Sol; sobre él se construyó el convento de Santo Domingo</td></tr><tr><th scope=\"row\">Moray (Perú)</th><td>Época inca</td><td>Andenes, posiblemente un centro de investigación agrícola</td></tr><tr><th scope=\"row\">Qhapaq Ñan</th><td>Época inca</td><td>Red de caminos de más de 30.000 km por seis países; Patrimonio de la Humanidad desde 2014</td></tr></tbody></table>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Cómo unían las piedras los incas?",
+      "a": "En los edificios importantes tallaban cada bloque hasta que encajaba con los de al lado, sin mortero. Trabajaban con herramientas de piedra, bronce y cobre, y movían los bloques con cuerdas, maderos y rampas de tierra."
+    },
+    {
+      "q": "¿Por qué las construcciones incas resisten los terremotos?",
+      "a": "Porque los muros están un poco inclinados hacia dentro y las piedras encajan con mucha precisión, lo que les da estabilidad. Los muros incas del Coricancha, en Cusco, aguantaron los terremotos de 1650, 1749 y 1950."
+    },
+    {
+      "q": "¿Qué tipos de construcciones hicieron los incas?",
+      "a": "Kanchas (edificios alrededor de un patio), kallankas (grandes salas), ushnus (plataformas ceremoniales), colcas (almacenes), tambos (posadas), templos, terrazas de cultivo y una red de caminos, el Qhapaq Ñan."
+    }
+  ],
+  "fuentes": [
+    {
+      "texto": "Arquitectura incaica — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Arquitectura_incaica"
+    },
+    {
+      "texto": "Inca architecture — Wikipedia (en inglés)",
+      "url": "https://en.wikipedia.org/wiki/Inca_architecture"
+    },
+    {
+      "texto": "Machu Picchu — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Machu_Picchu"
+    },
+    {
+      "texto": "Sacsayhuamán — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Sacsayhuam%C3%A1n"
+    },
+    {
+      "texto": "Ollantaytambo — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Ollantaytambo"
+    },
+    {
+      "texto": "Coricancha — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Coricancha"
+    },
+    {
+      "texto": "Moray — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Moray_(Per%C3%BA)"
+    },
+    {
+      "texto": "Red vial del Tahuantinsuyo — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Red_vial_del_Tahuantinsuyo"
+    }
+  ],
+  "faq_titulo": "Más preguntas sobre la arquitectura inca"
+}

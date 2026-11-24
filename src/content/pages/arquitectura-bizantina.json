@@ -11,9 +11,9 @@
  "logo": "",
  "foto_destacada": "/img/2024/05/Arquitectura-bizantina.jpg",
  "fecha": "2024-05-19 15:40:43",
- "modificada": "2024-06-11 09:59:20",
+ "modificada": "2026-11-24 12:00:00",
  "fecha_gmt": "2024-05-19 15:40:43",
- "modificada_gmt": "2024-06-11 09:59:20",
+ "modificada_gmt": "2026-11-24 12:00:00",
  "h1_es_titulo": false,
  "fondos": [],
  "blocks": [
@@ -1400,6 +1400,79 @@
    "s": 69,
    "href": "/programas-de-arquitectura/",
    "cambio": "boton_sin_destino"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "La arquitectura bizantina en resumen",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>La <strong>arquitectura bizantina</strong> es la del Imperio romano de Oriente, desde la fundación de <strong>Constantinopla</strong> (330) hasta su caída (1453). Se reconoce por la <strong>cúpula sobre pechinas</strong>, la planta de <strong>cruz griega</strong> y los <strong>mosaicos</strong> con fondo dorado. Su obra maestra es <strong>Santa Sofía</strong>, en Estambul, construida entre 532 y 537.</p>",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Época</th><td>330–1453, de la fundación de Constantinopla a su caída</td></tr><tr><th scope=\"row\">Lugar</th><td>Imperio romano de Oriente: Constantinopla (hoy Estambul), Grecia e Italia (Rávena), con influencia en Venecia y Kiev</td></tr><tr><th scope=\"row\">Materiales</th><td>Ladrillo, piedra y mortero; placas de mármol y mosaicos en el interior</td></tr><tr><th scope=\"row\">Rasgos</th><td>Cúpula sobre pechinas, cruz griega, mosaicos dorados, capiteles calados e iconostasio</td></tr><tr><th scope=\"row\">Obras clave</th><td>Santa Sofía, San Vital de Rávena, San Marcos de Venecia, Santa Sofía de Kiev y Osios Loukás</td></tr></tbody></table>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Características de la arquitectura bizantina",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><strong>Cúpula sobre pechinas:</strong> permite poner una cúpula redonda sobre una base cuadrada. También se usaron trompas, como en el monasterio de Dafni.</li><li><strong>Plantas:</strong> basílicas en los primeros siglos, edificios centrados y, sobre todo desde el siglo IX, la <strong>cruz griega inscrita</strong> en un cuadrado.</li><li><strong>Herencia romana:</strong> mantiene los arcos, las bóvedas y las cúpulas de la <a href=\"/arquitectura-romana/\">arquitectura romana</a>.</li><li><strong>Mosaicos con fondo dorado</strong> y paredes forradas de placas de mármol en los interiores más ricos.</li><li><strong>Capiteles calados</strong>, algunos con forma de cesta.</li><li><strong>Luz:</strong> en Santa Sofía, 40 ventanas se abren en la cúpula.</li><li><strong>Iconostasio:</strong> un muro con imágenes separa el santuario del resto de la iglesia.</li></ul><p>Se suele dividir en tres épocas: primitiva (527–843), intermedia (843–1204) y tardía (1204–1453). Más tarde inspiró las mezquitas otomanas, las iglesias rusas y el estilo neobizantino. Para ver de dónde viene, lee también sobre la <a href=\"/arquitectura-griega/\">arquitectura griega</a>; y, para comparar, sobre la <a href=\"/arquitectura-gotica/\">arquitectura gótica</a>.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Obras de la arquitectura bizantina: ejemplos",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"tabla-obras\"><thead><tr><th scope=\"col\">Obra</th><th scope=\"col\">Época</th><th scope=\"col\">Por qué es importante</th></tr></thead><tbody><tr><th scope=\"row\">Santa Sofía (Estambul)</th><td>532–537</td><td>De Antemio de Tralles e Isidoro de Mileto, para Justiniano; unos 55 m de altura. La cúpula se rehízo y la iglesia se reabrió en 562</td></tr><tr><th scope=\"row\">San Vital (Rávena, Italia)</th><td>Consagrada en 547</td><td>Planta octogonal y mosaicos de Justiniano y Teodora</td></tr><tr><th scope=\"row\">San Marcos (Venecia)</th><td>Empezada hacia 1063</td><td>Cinco cúpulas, según el modelo de los Santos Apóstoles de Constantinopla</td></tr><tr><th scope=\"row\">Santa Sofía (Kiev)</th><td>Siglo XI</td><td>Influencia bizantina en la Rus de Kiev; Patrimonio de la Humanidad desde 1990</td></tr><tr><th scope=\"row\">Osios Loukás (Grecia)</th><td>Siglo XI</td><td>Monasterio con iglesia de cruz inscrita; Patrimonio de la Humanidad desde 1990</td></tr><tr><th scope=\"row\">San Salvador de Cora (Estambul)</th><td>Siglo XIV</td><td>Mosaicos y frescos encargados por Teodoro Metoquita</td></tr></tbody></table>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Más preguntas sobre la arquitectura bizantina",
+   "anadido": true
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Qué elementos arquitectónicos emplearon los bizantinos?",
+     "html": "<p>La cúpula sobre pechinas, los arcos y bóvedas heredados de Roma, la planta de cruz griega, los capiteles calados, los mosaicos con fondo dorado y el iconostasio.</p>"
+    },
+    {
+     "title": "¿Quiénes fueron los arquitectos bizantinos más conocidos?",
+     "html": "<p>Antemio de Tralles e Isidoro de Mileto, que construyeron Santa Sofía de Constantinopla entre 532 y 537 para el emperador Justiniano.</p>"
+    },
+    {
+     "title": "¿En qué se diferencia la arquitectura bizantina de la romana?",
+     "html": "<p>Parte de ella y conserva sus arcos, bóvedas y cúpulas. Lo propio de la bizantina es la cúpula sobre pechinas, que cubre una base cuadrada, la planta de cruz griega y los interiores con mosaicos de fondo dorado.</p>"
+    }
+   ],
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Fuentes",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><a href=\"https://es.wikipedia.org/wiki/Arquitectura_bizantina\" rel=\"noopener\">Arquitectura bizantina — Wikipedia</a></li><li><a href=\"https://en.wikipedia.org/wiki/Byzantine_architecture\" rel=\"noopener\">Byzantine architecture — Wikipedia (en inglés)</a></li><li><a href=\"https://es.wikipedia.org/wiki/Santa_Sof%C3%ADa\" rel=\"noopener\">Santa Sofía — Wikipedia</a></li><li><a href=\"https://en.wikipedia.org/wiki/Hagia_Sophia\" rel=\"noopener\">Hagia Sophia — Wikipedia (en inglés)</a></li><li><a href=\"https://en.wikipedia.org/wiki/Basilica_of_San_Vitale\" rel=\"noopener\">Basilica of San Vitale — Wikipedia (en inglés)</a></li><li><a href=\"https://en.wikipedia.org/wiki/St_Mark%27s_Basilica\" rel=\"noopener\">St Mark’s Basilica — Wikipedia (en inglés)</a></li><li><a href=\"https://es.wikipedia.org/wiki/Catedral_de_Santa_Sof%C3%ADa_de_Kiev\" rel=\"noopener\">Catedral de Santa Sofía de Kiev — Wikipedia</a></li><li><a href=\"https://es.wikipedia.org/wiki/Monasterio_de_Ossios_Loukas\" rel=\"noopener\">Monasterio de Osios Loukás — Wikipedia</a></li><li><a href=\"https://en.wikipedia.org/wiki/The_Chora\" rel=\"noopener\">The Chora — Wikipedia (en inglés)</a></li></ul>",
+   "anadido": true
   }
  ],
  "elementor": [
@@ -1463,6 +1536,106 @@
        "wt": "text-editor",
        "cls": "elementor-widget elementor-widget-text-editor",
        "b": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "x5143e3",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido nueva-resumen",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "x6f985f",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x81b0f1",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 186
+      },
+      {
+       "t": "w",
+       "id": "x4eb6c3",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 187
+      },
+      {
+       "t": "w",
+       "id": "x12b574",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 188
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "x3f2e71",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "x03c358",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "xb20ad7",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 189
+      },
+      {
+       "t": "w",
+       "id": "xe01dea",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 190
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "xb768b7",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "xc2ef90",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "xb24f93",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 191
+      },
+      {
+       "t": "w",
+       "id": "x2315a2",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 192
       }
      ]
     }
@@ -1817,6 +1990,69 @@
      "wt": "text-editor",
      "cls": "elementor-widget elementor-widget-text-editor",
      "b": 28
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "xa31760",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "xe83422",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "xe1d6b6",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 193
+      },
+      {
+       "t": "w",
+       "id": "x2a92b3",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 194
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "xc9d8b1",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido nueva-fuentes",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "xd14d5a",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x74cb05",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 195
+      },
+      {
+       "t": "w",
+       "id": "x9027eb",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 196
+      }
+     ]
     }
    ]
   },
@@ -4365,5 +4601,7 @@
     }
    ]
   }
- ]
+ ],
+ "bloques_wordpress": 186,
+ "anadidos": true
 }

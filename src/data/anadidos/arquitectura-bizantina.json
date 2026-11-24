@@ -1,0 +1,94 @@
+{
+  "slug": "arquitectura-bizantina",
+  "_nota": "Respuesta corta, datos, características, obras, preguntas y fuentes (parte D del análisis y plan de enlaces del 24-11-2026; Yama: «Sí, prepáralos»). Se añade a la página de WordPress sin quitar nada. Cada dato está leído en las fuentes del final; lo que las fuentes contradecían no se puso.",
+  "fecha": "2026-11-24",
+  "despues_de": 1,
+  "faq_despues_de": 13,
+  "resumen_titulo": "La arquitectura bizantina en resumen",
+  "resumen": "La <strong>arquitectura bizantina</strong> es la del Imperio romano de Oriente, desde la fundación de <strong>Constantinopla</strong> (330) hasta su caída (1453). Se reconoce por la <strong>cúpula sobre pechinas</strong>, la planta de <strong>cruz griega</strong> y los <strong>mosaicos</strong> con fondo dorado. Su obra maestra es <strong>Santa Sofía</strong>, en Estambul, construida entre 532 y 537.",
+  "datos": [
+    [
+      "Época",
+      "330–1453, de la fundación de Constantinopla a su caída"
+    ],
+    [
+      "Lugar",
+      "Imperio romano de Oriente: Constantinopla (hoy Estambul), Grecia e Italia (Rávena), con influencia en Venecia y Kiev"
+    ],
+    [
+      "Materiales",
+      "Ladrillo, piedra y mortero; placas de mármol y mosaicos en el interior"
+    ],
+    [
+      "Rasgos",
+      "Cúpula sobre pechinas, cruz griega, mosaicos dorados, capiteles calados e iconostasio"
+    ],
+    [
+      "Obras clave",
+      "Santa Sofía, San Vital de Rávena, San Marcos de Venecia, Santa Sofía de Kiev y Osios Loukás"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "Características de la arquitectura bizantina",
+      "html": "<ul><li><strong>Cúpula sobre pechinas:</strong> permite poner una cúpula redonda sobre una base cuadrada. También se usaron trompas, como en el monasterio de Dafni.</li><li><strong>Plantas:</strong> basílicas en los primeros siglos, edificios centrados y, sobre todo desde el siglo IX, la <strong>cruz griega inscrita</strong> en un cuadrado.</li><li><strong>Herencia romana:</strong> mantiene los arcos, las bóvedas y las cúpulas de la <a href=\"/arquitectura-romana/\">arquitectura romana</a>.</li><li><strong>Mosaicos con fondo dorado</strong> y paredes forradas de placas de mármol en los interiores más ricos.</li><li><strong>Capiteles calados</strong>, algunos con forma de cesta.</li><li><strong>Luz:</strong> en Santa Sofía, 40 ventanas se abren en la cúpula.</li><li><strong>Iconostasio:</strong> un muro con imágenes separa el santuario del resto de la iglesia.</li></ul><p>Se suele dividir en tres épocas: primitiva (527–843), intermedia (843–1204) y tardía (1204–1453). Más tarde inspiró las mezquitas otomanas, las iglesias rusas y el estilo neobizantino. Para ver de dónde viene, lee también sobre la <a href=\"/arquitectura-griega/\">arquitectura griega</a>; y, para comparar, sobre la <a href=\"/arquitectura-gotica/\">arquitectura gótica</a>.</p>"
+    },
+    {
+      "h2": "Obras de la arquitectura bizantina: ejemplos",
+      "html": "<table class=\"tabla-obras\"><thead><tr><th scope=\"col\">Obra</th><th scope=\"col\">Época</th><th scope=\"col\">Por qué es importante</th></tr></thead><tbody><tr><th scope=\"row\">Santa Sofía (Estambul)</th><td>532–537</td><td>De Antemio de Tralles e Isidoro de Mileto, para Justiniano; unos 55 m de altura. La cúpula se rehízo y la iglesia se reabrió en 562</td></tr><tr><th scope=\"row\">San Vital (Rávena, Italia)</th><td>Consagrada en 547</td><td>Planta octogonal y mosaicos de Justiniano y Teodora</td></tr><tr><th scope=\"row\">San Marcos (Venecia)</th><td>Empezada hacia 1063</td><td>Cinco cúpulas, según el modelo de los Santos Apóstoles de Constantinopla</td></tr><tr><th scope=\"row\">Santa Sofía (Kiev)</th><td>Siglo XI</td><td>Influencia bizantina en la Rus de Kiev; Patrimonio de la Humanidad desde 1990</td></tr><tr><th scope=\"row\">Osios Loukás (Grecia)</th><td>Siglo XI</td><td>Monasterio con iglesia de cruz inscrita; Patrimonio de la Humanidad desde 1990</td></tr><tr><th scope=\"row\">San Salvador de Cora (Estambul)</th><td>Siglo XIV</td><td>Mosaicos y frescos encargados por Teodoro Metoquita</td></tr></tbody></table>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Qué elementos arquitectónicos emplearon los bizantinos?",
+      "a": "La cúpula sobre pechinas, los arcos y bóvedas heredados de Roma, la planta de cruz griega, los capiteles calados, los mosaicos con fondo dorado y el iconostasio."
+    },
+    {
+      "q": "¿Quiénes fueron los arquitectos bizantinos más conocidos?",
+      "a": "Antemio de Tralles e Isidoro de Mileto, que construyeron Santa Sofía de Constantinopla entre 532 y 537 para el emperador Justiniano."
+    },
+    {
+      "q": "¿En qué se diferencia la arquitectura bizantina de la romana?",
+      "a": "Parte de ella y conserva sus arcos, bóvedas y cúpulas. Lo propio de la bizantina es la cúpula sobre pechinas, que cubre una base cuadrada, la planta de cruz griega y los interiores con mosaicos de fondo dorado."
+    }
+  ],
+  "fuentes": [
+    {
+      "texto": "Arquitectura bizantina — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Arquitectura_bizantina"
+    },
+    {
+      "texto": "Byzantine architecture — Wikipedia (en inglés)",
+      "url": "https://en.wikipedia.org/wiki/Byzantine_architecture"
+    },
+    {
+      "texto": "Santa Sofía — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Santa_Sof%C3%ADa"
+    },
+    {
+      "texto": "Hagia Sophia — Wikipedia (en inglés)",
+      "url": "https://en.wikipedia.org/wiki/Hagia_Sophia"
+    },
+    {
+      "texto": "Basilica of San Vitale — Wikipedia (en inglés)",
+      "url": "https://en.wikipedia.org/wiki/Basilica_of_San_Vitale"
+    },
+    {
+      "texto": "St Mark’s Basilica — Wikipedia (en inglés)",
+      "url": "https://en.wikipedia.org/wiki/St_Mark%27s_Basilica"
+    },
+    {
+      "texto": "Catedral de Santa Sofía de Kiev — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Catedral_de_Santa_Sof%C3%ADa_de_Kiev"
+    },
+    {
+      "texto": "Monasterio de Osios Loukás — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Monasterio_de_Ossios_Loukas"
+    },
+    {
+      "texto": "The Chora — Wikipedia (en inglés)",
+      "url": "https://en.wikipedia.org/wiki/The_Chora"
+    }
+  ],
+  "faq_titulo": "Más preguntas sobre la arquitectura bizantina"
+}

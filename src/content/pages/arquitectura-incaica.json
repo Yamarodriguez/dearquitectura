@@ -11,9 +11,9 @@
  "logo": "",
  "foto_destacada": "/img/2024/03/arquitectura-incaica.jpg",
  "fecha": "2024-03-21 20:01:18",
- "modificada": "2024-05-25 15:48:54",
+ "modificada": "2026-11-24 12:00:00",
  "fecha_gmt": "2024-03-21 20:01:18",
- "modificada_gmt": "2024-05-25 15:48:54",
+ "modificada_gmt": "2026-11-24 12:00:00",
  "h1_es_titulo": false,
  "fondos": [],
  "blocks": [
@@ -1387,6 +1387,79 @@
    "s": 69,
    "href": "/programas-de-arquitectura/",
    "cambio": "boton_sin_destino"
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "La arquitectura inca en resumen",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<p>La <strong>arquitectura inca</strong> es la del imperio incaico, en los Andes, desde el gobierno de <strong>Pachacútec</strong> (1438) hasta la conquista española (1533). Se reconoce por sus muros de <strong>piedra encajada sin mortero</strong>, sus puertas y ventanas en forma de <strong>trapecio</strong> y su adaptación a la montaña. Sus obras más conocidas son <strong>Machu Picchu</strong>, Sacsayhuamán y el Coricancha.</p>",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"datos-clave\"><tbody><tr><th scope=\"row\">Época</th><td>1438–1533, de Pachacútec a la conquista española</td></tr><tr><th scope=\"row\">Lugar</th><td>Los Andes; centro en Cusco (Perú). Sus caminos cruzan Perú, Ecuador, Bolivia, Colombia, Chile y Argentina</td></tr><tr><th scope=\"row\">Materiales</th><td>Caliza, granito y andesita; adobe, sobre todo en la costa; madera y paja de ichu en los techos</td></tr><tr><th scope=\"row\">Rasgos</th><td>Piedra tallada sin mortero en los edificios principales, muros algo inclinados y vanos trapezoidales</td></tr><tr><th scope=\"row\">Obras clave</th><td>Machu Picchu, Sacsayhuamán, Ollantaytambo, Coricancha y la red de caminos Qhapaq Ñan</td></tr></tbody></table>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Características de la arquitectura inca",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><strong>Piedra encajada sin mortero:</strong> los bloques se tallaban con tanta precisión que entre ellos no cabe un alfiler. Era la técnica de los edificios importantes; la mayoría se hacía con piedra sin labrar y adobe.</li><li><strong>Forma de trapecio:</strong> puertas, ventanas y hornacinas son más anchas abajo que arriba.</li><li><strong>Muros inclinados:</strong> las paredes suelen inclinarse un poco hacia dentro, lo que da estabilidad frente a los terremotos.</li><li><strong>Techos de madera y paja</strong> de ichu.</li><li><strong>Andenes o terrazas</strong> para cultivar en las laderas y sujetar el terreno.</li><li><strong>Edificios con función clara:</strong> la <strong>kancha</strong> (varios edificios alrededor de un patio), la <strong>kallanka</strong> (una gran sala alargada), el <strong>ushnu</strong> (plataforma para las ceremonias), la <strong>colca</strong> (almacén de alimentos) y el <strong>tambo</strong> (posada de los caminos).</li></ul><p>Otras dos grandes arquitecturas de la América prehispánica son la <a href=\"/arquitectura-maya/\">arquitectura maya</a> y la <a href=\"/arquitectura-azteca/\">arquitectura azteca</a>, que desarrollaron las pirámides escalonadas.</p>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Construcciones de los incas: ejemplos",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<table class=\"tabla-obras\"><thead><tr><th scope=\"col\">Obra</th><th scope=\"col\">Época</th><th scope=\"col\">Por qué es importante</th></tr></thead><tbody><tr><th scope=\"row\">Machu Picchu (Perú)</th><td>Hacia el siglo XV; la fecha exacta se discute</td><td>Ciudad de montaña a unos 2.430 m de altura; Patrimonio de la Humanidad desde 1983</td></tr><tr><th scope=\"row\">Sacsayhuamán (Cusco)</th><td>Siglos XV y XVI</td><td>Tres murallas escalonadas con bloques de hasta 9 m de alto</td></tr><tr><th scope=\"row\">Ollantaytambo (Valle Sagrado)</th><td>Época inca</td><td>Grandes monolitos del Templo del Sol y terrazas</td></tr><tr><th scope=\"row\">Coricancha (Cusco)</th><td>Época inca</td><td>El templo más importante del imperio, dedicado al Sol; sobre él se construyó el convento de Santo Domingo</td></tr><tr><th scope=\"row\">Moray (Perú)</th><td>Época inca</td><td>Andenes, posiblemente un centro de investigación agrícola</td></tr><tr><th scope=\"row\">Qhapaq Ñan</th><td>Época inca</td><td>Red de caminos de más de 30.000 km por seis países; Patrimonio de la Humanidad desde 2014</td></tr></tbody></table>",
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Más preguntas sobre la arquitectura inca",
+   "anadido": true
+  },
+  {
+   "type": "toggle",
+   "items": [
+    {
+     "title": "¿Cómo unían las piedras los incas?",
+     "html": "<p>En los edificios importantes tallaban cada bloque hasta que encajaba con los de al lado, sin mortero. Trabajaban con herramientas de piedra, bronce y cobre, y movían los bloques con cuerdas, maderos y rampas de tierra.</p>"
+    },
+    {
+     "title": "¿Por qué las construcciones incas resisten los terremotos?",
+     "html": "<p>Porque los muros están un poco inclinados hacia dentro y las piedras encajan con mucha precisión, lo que les da estabilidad. Los muros incas del Coricancha, en Cusco, aguantaron los terremotos de 1650, 1749 y 1950.</p>"
+    },
+    {
+     "title": "¿Qué tipos de construcciones hicieron los incas?",
+     "html": "<p>Kanchas (edificios alrededor de un patio), kallankas (grandes salas), ushnus (plataformas ceremoniales), colcas (almacenes), tambos (posadas), templos, terrazas de cultivo y una red de caminos, el Qhapaq Ñan.</p>"
+    }
+   ],
+   "anadido": true
+  },
+  {
+   "type": "heading",
+   "tag": "h2",
+   "text": "Fuentes",
+   "anadido": true
+  },
+  {
+   "type": "text",
+   "html": "<ul><li><a href=\"https://es.wikipedia.org/wiki/Arquitectura_incaica\" rel=\"noopener\">Arquitectura incaica — Wikipedia</a></li><li><a href=\"https://en.wikipedia.org/wiki/Inca_architecture\" rel=\"noopener\">Inca architecture — Wikipedia (en inglés)</a></li><li><a href=\"https://es.wikipedia.org/wiki/Machu_Picchu\" rel=\"noopener\">Machu Picchu — Wikipedia</a></li><li><a href=\"https://es.wikipedia.org/wiki/Sacsayhuam%C3%A1n\" rel=\"noopener\">Sacsayhuamán — Wikipedia</a></li><li><a href=\"https://es.wikipedia.org/wiki/Ollantaytambo\" rel=\"noopener\">Ollantaytambo — Wikipedia</a></li><li><a href=\"https://es.wikipedia.org/wiki/Coricancha\" rel=\"noopener\">Coricancha — Wikipedia</a></li><li><a href=\"https://es.wikipedia.org/wiki/Moray_(Per%C3%BA)\" rel=\"noopener\">Moray — Wikipedia</a></li><li><a href=\"https://es.wikipedia.org/wiki/Red_vial_del_Tahuantinsuyo\" rel=\"noopener\">Red vial del Tahuantinsuyo — Wikipedia</a></li></ul>",
+   "anadido": true
   }
  ],
  "elementor": [
@@ -1443,6 +1516,106 @@
        "id": "d6a2998",
        "wt": "divider",
        "cls": "elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "x34d2c6",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido nueva-resumen",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "xd9c7de",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x2b2c52",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 183
+      },
+      {
+       "t": "w",
+       "id": "x52970e",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 184
+      },
+      {
+       "t": "w",
+       "id": "x1b6937",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 185
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "x896ac6",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "x077920",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "xb6815b",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 186
+      },
+      {
+       "t": "w",
+       "id": "xbf9308",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 187
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "x69eafd",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "x82e536",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x84b0d2",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 188
+      },
+      {
+       "t": "w",
+       "id": "xd86ad9",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 189
       }
      ]
     }
@@ -1853,6 +2026,69 @@
      "wt": "video",
      "cls": "elementor-widget elementor-widget-video",
      "b": 29
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "xb60538",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "x86cd4c",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "xd339a9",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 190
+      },
+      {
+       "t": "w",
+       "id": "xf5380a",
+       "wt": "toggle",
+       "cls": "elementor-widget elementor-widget-toggle",
+       "tag": "div",
+       "b": 191
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "c",
+   "id": "xf3d7c7",
+   "cls": "e-flex e-con-boxed e-con e-parent anadido nueva-fuentes",
+   "anadido": true,
+   "hijos": [
+    {
+     "t": "c",
+     "id": "x8ac1f0",
+     "cls": "e-con-full e-flex e-con e-child",
+     "hijos": [
+      {
+       "t": "w",
+       "id": "x4c9383",
+       "wt": "heading",
+       "cls": "elementor-widget elementor-widget-heading",
+       "tag": "h2",
+       "size": "default",
+       "b": 192
+      },
+      {
+       "t": "w",
+       "id": "xa0898c",
+       "wt": "text-editor",
+       "cls": "elementor-widget elementor-widget-text-editor",
+       "b": 193
+      }
+     ]
     }
    ]
   },
@@ -4344,5 +4580,7 @@
     }
    ]
   }
- ]
+ ],
+ "bloques_wordpress": 183,
+ "anadidos": true
 }

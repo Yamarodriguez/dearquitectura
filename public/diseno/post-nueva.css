@@ -35,3 +35,18 @@
   .tabla-precios { font-size: 14.5px; }
   .tabla-precios td:last-child { white-space: normal; }
 }
+
+/* Tabla de obras de los estilos (24-11-2026) */
+.tabla-obras { margin-top: 8px; }
+.tabla-obras thead th { background: var(--tinta); color: #fff; font-weight: 700; padding: .75em .9em; text-align: left; }
+.tabla-obras tbody th { width: 30%; text-align: left; color: var(--tinta); font-weight: 700; }
+.tabla-obras tbody th, .tabla-obras td { padding: .7em .9em; }
+.tabla-obras td:nth-child(2) { width: 22%; }
+.tabla-obras tbody tr:nth-child(even) { background: var(--piedra); }
+@media (max-width: 640px) {
+  .tabla-obras, .tabla-obras tbody, .tabla-obras tr, .tabla-obras tbody th, .tabla-obras td { display: block; width: auto !important; }
+  .tabla-obras thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .tabla-obras tbody tr { padding: .8em .9em; }
+  .tabla-obras tbody th, .tabla-obras td { padding: .1em 0; border: 0; }
+  .tabla-obras td:nth-child(2) { color: var(--acento); font-weight: 600; font-size: 14.5px; }
+}

@@ -1,0 +1,98 @@
+{
+  "slug": "arquitectura-maya",
+  "_nota": "Respuesta corta, datos, características, obras, preguntas y fuentes (parte D del análisis y plan de enlaces del 24-11-2026; Yama: «Sí, prepáralos»). Se añade a la página de WordPress sin quitar nada. Cada dato está leído en las fuentes del final; lo que las fuentes contradecían no se puso.",
+  "fecha": "2026-11-24",
+  "despues_de": 1,
+  "faq_despues_de": 22,
+  "resumen_titulo": "La arquitectura maya, explicada en breve",
+  "resumen": "La <strong>arquitectura maya</strong> es la que levantó la civilización maya en el sureste de México y Centroamérica. Su esplendor fue el periodo <strong>Clásico</strong> (250–900). Se reconoce por las <strong>pirámides escalonadas</strong> con un templo en lo alto, el <strong>arco falso</strong> y la piedra caliza cubierta de <strong>estuco</strong> pintado. Sus grandes ciudades son <strong>Tikal</strong>, Palenque, Uxmal y Chichén Itzá.",
+  "datos": [
+    [
+      "Época",
+      "Del Preclásico a la conquista española (siglo XVI); esplendor en el Clásico, 250–900"
+    ],
+    [
+      "Lugar",
+      "Sureste de México, Guatemala, Belice, oeste de Honduras y El Salvador"
+    ],
+    [
+      "Materiales",
+      "Piedra caliza, cal, estuco pintado de colores vivos y madera"
+    ],
+    [
+      "Rasgos",
+      "Pirámides escalonadas, cresterías, arco falso, plazas, calzadas blancas y juegos de pelota"
+    ],
+    [
+      "Obras clave",
+      "Templos I y IV de Tikal, Templo de las Inscripciones, El Castillo de Chichén Itzá, Pirámide del Adivino y Copán"
+    ]
+  ],
+  "secciones": [
+    {
+      "h2": "Características de la arquitectura maya",
+      "html": "<ul><li><strong>Pirámides escalonadas:</strong> el santuario va arriba, al final de una escalinata, y a menudo lleva una <strong>crestería</strong> que lo hace más alto.</li><li><strong>Arco falso:</strong> las piedras de los dos lados avanzan poco a poco hasta juntarse. Los mayas no usaron el arco de medio punto.</li><li><strong>Caliza y estuco:</strong> la caliza quemada y molida servía de mortero, y los edificios se pintaban de rojo, amarillo, verde y azul.</li><li><strong>Sin herramientas de metal:</strong> todo se labró sin ellas.</li><li><strong>Orientación astronómica:</strong> los ejes de las ciudades y los templos seguían el movimiento de los astros.</li><li><strong>Plazas, sacbés y juegos de pelota:</strong> un sacbé («camino blanco») es una calzada que unía plazas y edificios.</li></ul><p>Cada región tuvo su estilo: <strong>Petén</strong> (las pirámides más altas, de escaleras muy empinadas), <strong>Puuc</strong> (mosaicos de piedra y máscaras de Chaac en las fachadas), <strong>Chenes</strong> (puertas en forma de máscara) y <strong>Río Bec</strong> (torres gemelas simuladas). Compárala con la <a href=\"/arquitectura-azteca/\">arquitectura azteca</a> y con la <a href=\"/arquitectura-incaica/\">arquitectura inca</a>.</p>"
+    },
+    {
+      "h2": "Principales construcciones de los mayas",
+      "html": "<table class=\"tabla-obras\"><thead><tr><th scope=\"col\">Obra</th><th scope=\"col\">Época</th><th scope=\"col\">Por qué es importante</th></tr></thead><tbody><tr><th scope=\"row\">Templo I de Tikal (Guatemala)</th><td>Hacia 732</td><td>Templo funerario de Jasaw Chan K’awiil I; su tumba se encontró en 1962</td></tr><tr><th scope=\"row\">Templo IV de Tikal (Guatemala)</th><td>Hacia 741</td><td>Unos 65 m desde la plataforma hasta la crestería</td></tr><tr><th scope=\"row\">Templo de las Inscripciones, Palenque (México)</th><td>Siglo VII</td><td>Guarda la tumba del rey Pakal, hallada por Alberto Ruz en 1952</td></tr><tr><th scope=\"row\">El Castillo o Templo de Kukulcán, Chichén Itzá (México)</th><td>Fase principal de la ciudad: 900–1200</td><td>Nueve niveles y 365 escalones, contando la plataforma; en los equinoccios la luz dibuja una serpiente</td></tr><tr><th scope=\"row\">Pirámide del Adivino, Uxmal (México)</th><td>Siglos VI a X</td><td>El único templo maya conocido de planta ovalada; tiene cinco construcciones de épocas distintas</td></tr><tr><th scope=\"row\">Estructura II de Calakmul (México)</th><td>Época maya</td><td>Unos 55 m de altura; Calakmul es Patrimonio de la Humanidad desde 2002</td></tr><tr><th scope=\"row\">Escalinata de los Jeroglíficos, Copán (Honduras)</th><td>Época maya</td><td>El texto maya más largo que se conoce, con unos 2.200 glifos</td></tr></tbody></table>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "¿Qué es el arco falso maya?",
+      "a": "Es una forma de cubrir un espacio sin arco verdadero: las hiladas de piedra de los dos lados avanzan poco a poco hasta tocarse arriba. No lleva dovelas ni clave, como el arco de medio punto."
+    },
+    {
+      "q": "¿Cuáles son las principales construcciones de los mayas?",
+      "a": "Pirámides con templos, palacios, juegos de pelota, plazas y calzadas o sacbés. Entre las más conocidas están los templos de Tikal, el Templo de las Inscripciones de Palenque, El Castillo de Chichén Itzá y la Pirámide del Adivino de Uxmal."
+    },
+    {
+      "q": "¿Por qué El Castillo de Chichén Itzá tiene 365 escalones?",
+      "a": "Tiene cuatro escalinatas de 91 escalones, que suman 364; con la plataforma de arriba son 365, como los días del año."
+    }
+  ],
+  "fuentes": [
+    {
+      "texto": "Arquitectura maya — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Arquitectura_maya"
+    },
+    {
+      "texto": "Maya architecture — Wikipedia (en inglés)",
+      "url": "https://en.wikipedia.org/wiki/Maya_architecture"
+    },
+    {
+      "texto": "Templo de Kukulcán — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Templo_de_Kukulc%C3%A1n"
+    },
+    {
+      "texto": "Zona Arqueológica de Chichén Itzá — INAH",
+      "url": "https://www.inah.gob.mx/zonas/146-zona-arqueologica-de-chichen-itza"
+    },
+    {
+      "texto": "Templo de las Inscripciones — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Templo_de_las_Inscripciones"
+    },
+    {
+      "texto": "Tikal Temple I — Wikipedia (en inglés)",
+      "url": "https://en.wikipedia.org/wiki/Tikal_Temple_I"
+    },
+    {
+      "texto": "Tikal Temple IV — Wikipedia (en inglés)",
+      "url": "https://en.wikipedia.org/wiki/Tikal_Temple_IV"
+    },
+    {
+      "texto": "Uxmal — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Uxmal"
+    },
+    {
+      "texto": "Calakmul — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Calakmul"
+    },
+    {
+      "texto": "Copán — Wikipedia",
+      "url": "https://es.wikipedia.org/wiki/Cop%C3%A1n_(sitio_arqueol%C3%B3gico)"
+    }
+  ],
+  "faq_titulo": "Más preguntas sobre la arquitectura maya"
+}
