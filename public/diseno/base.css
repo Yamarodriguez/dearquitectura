@@ -590,3 +590,18 @@ body { background: var(--fuera); }
 /* Filas de tarjetas añadidas (scripts/anadidos.mjs, 20-11-2026): no tienen colocación de Elementor
    (va por id), así que se ponen en fila como las de WordPress */
 .elementor > .e-con.anadido:has(> .e-con.con-texto) { --flex-direction: row; flex-direction: row !important; padding-top: 0; }
+
+/* Tabla de obras de los estilos (24-11-2026) */
+.elementor .tabla-obras { margin-top: 8px; }
+.elementor .tabla-obras thead th { background: var(--tinta); color: #fff; font-weight: 700; padding: .75em .9em; text-align: left; }
+.elementor .tabla-obras tbody th { width: 30%; text-align: left; color: var(--tinta); font-weight: 700; }
+.elementor .tabla-obras tbody th, .elementor .tabla-obras td { padding: .7em .9em; }
+.elementor .tabla-obras td:nth-child(2) { width: 22%; }
+.elementor .tabla-obras tbody tr:nth-child(even) { background: var(--piedra); }
+@media (max-width: 767px) {
+  .elementor .tabla-obras, .elementor .tabla-obras tbody, .elementor .tabla-obras tr, .elementor .tabla-obras tbody th, .elementor .tabla-obras td { display: block; width: auto !important; }
+  .elementor .tabla-obras thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); }
+  .elementor .tabla-obras tbody tr { padding: .8em .9em; }
+  .elementor .tabla-obras tbody th, .elementor .tabla-obras td { padding: .1em 0; border: 0; }
+  .elementor .tabla-obras td:nth-child(2) { color: var(--acento); font-weight: 600; font-size: 14.5px; }
+}
