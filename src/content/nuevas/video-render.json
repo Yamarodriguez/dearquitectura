@@ -967,7 +967,7 @@
   {
    "type": "text",
    "text": "El precio de un vídeo render se calcula según la duración, los espacios que recorre y el nivel de acabado. Mira nuestra tabla orientativa de precios de renders para calcular por dónde andaría tu animación.",
-   "html": "<p>El <strong>precio de un vídeo render</strong> se calcula según la duración, los espacios que recorre y el nivel de acabado. Mira nuestra tabla orientativa de precios de renders para calcular por dónde andaría tu animación.</p>",
+   "html": "<p>El <strong>precio de un vídeo render</strong> se calcula según la duración, los espacios que recorre y el nivel de acabado. Mira nuestra <a href=\"/precio-render/\">tabla orientativa de precios de renders</a> para calcular por dónde andaría tu animación.</p>",
    "s": 55,
    "texto_propio": true
   },

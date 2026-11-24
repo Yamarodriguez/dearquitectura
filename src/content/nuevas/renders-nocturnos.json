@@ -957,7 +957,7 @@
   {
    "type": "text",
    "text": "El precio de un render nocturno varía con el número de puntos de luz , con el entorno que haya que modelar y con las vistas que se pidan. Consulta nuestra tabla de precios para una primera idea.",
-   "html": "<p>El <strong>precio de un render nocturno</strong> varía con el número de <strong>puntos de luz</strong>, con el entorno que haya que modelar y con las vistas que se pidan. Consulta nuestra tabla de precios para una primera idea.</p>",
+   "html": "<p>El <strong>precio de un render nocturno</strong> varía con el número de <strong>puntos de luz</strong>, con el entorno que haya que modelar y con las vistas que se pidan. Consulta nuestra <a href=\"/precio-render/\">tabla de precios</a> para una primera idea.</p>",
    "s": 55,
    "texto_propio": true
   },

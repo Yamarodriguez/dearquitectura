@@ -975,7 +975,7 @@
   {
    "type": "text",
    "text": "El precio de un render de hotel depende del número de estancias distintas que haya que modelar, del detalle del interiorismo y de las vistas que se pidan. Consulta nuestra tabla de precios para una primera idea.",
-   "html": "<p>El <strong>precio de un render de hotel</strong> depende del número de estancias distintas que haya que modelar, del detalle del interiorismo y de las vistas que se pidan. Consulta nuestra tabla de precios para una primera idea.</p>",
+   "html": "<p>El <strong>precio de un render de hotel</strong> depende del número de estancias distintas que haya que modelar, del detalle del interiorismo y de las vistas que se pidan. Consulta nuestra <a href=\"/precio-render/\">tabla de precios</a> para una primera idea.</p>",
    "s": 55,
    "texto_propio": true
   },

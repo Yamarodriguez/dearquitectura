@@ -957,7 +957,7 @@
   {
    "type": "text",
    "text": "El precio de un render de logo depende de la complejidad de la marca, de los acabados elegidos y de si va sobre un fondo o colocada en una fachada . Consulta la tabla de precios para orientarte.",
-   "html": "<p>El <strong>precio de un render de logo</strong> depende de la complejidad de la marca, de los <strong>acabados</strong> elegidos y de si va sobre un fondo o colocada en una <strong>fachada</strong>. Consulta la tabla de precios para orientarte.</p>",
+   "html": "<p>El <strong>precio de un render de logo</strong> depende de la complejidad de la marca, de los <strong>acabados</strong> elegidos y de si va sobre un fondo o colocada en una <strong>fachada</strong>. Consulta la <a href=\"/precio-render/\">tabla de precios</a> para orientarte.</p>",
    "s": 55,
    "texto_propio": true
   },

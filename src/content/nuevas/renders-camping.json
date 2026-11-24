@@ -957,7 +957,7 @@
   {
    "type": "text",
    "text": "El precio de un render de camping depende de la superficie del recinto, del número de tipos de alojamiento y de las vistas que se pidan, aéreas o a la altura de los ojos. Consulta nuestra tabla de precios para una primera idea.",
-   "html": "<p>El <strong>precio de un render de camping</strong> depende de la superficie del recinto, del número de tipos de alojamiento y de las vistas que se pidan, aéreas o a la altura de los ojos. Consulta nuestra tabla de precios para una primera idea.</p>",
+   "html": "<p>El <strong>precio de un render de camping</strong> depende de la superficie del recinto, del número de tipos de alojamiento y de las vistas que se pidan, aéreas o a la altura de los ojos. Consulta nuestra <a href=\"/precio-render/\">tabla de precios</a> para una primera idea.</p>",
    "s": 55,
    "texto_propio": true
   },

@@ -979,7 +979,7 @@
   {
    "type": "text",
    "text": "Para un local, el precio del render cambia según la superficie, el mobiliario a medida y el número de vistas. Echa un vistazo a la tabla de precios y calcula una aproximación antes de pedir presupuesto.",
-   "html": "<p>Para un local, el <strong>precio del render</strong> cambia según la superficie, el mobiliario a medida y el número de vistas. Echa un vistazo a la <strong>tabla de precios</strong> y calcula una aproximación antes de pedir presupuesto.</p>",
+   "html": "<p>Para un local, el <strong>precio del render</strong> cambia según la superficie, el mobiliario a medida y el número de vistas. Echa un vistazo a la <a href=\"/precio-render/\">tabla de precios</a> y calcula una aproximación antes de pedir presupuesto.</p>",
    "s": 55,
    "texto_propio": true
   },

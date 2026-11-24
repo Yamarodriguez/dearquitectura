@@ -217,3 +217,24 @@ Yama: «hazme el interlinking, analizarlo en profundidad y decirme si está bien
 | 9 | Respuesta corta, datos y enlaces dentro del texto en los estilos antiguos (parte D) | Añade texto | El más alto |
 
 **Objetivo:** que cada página con visitas reciba al menos 5 enlaces propios desde el texto o desde bloques de su mismo tema, que ninguna esté a más de dos clics y que haya menos de 250 enlaces por página.
+
+## Hecho: puntos 1 a 6 (24-11-2026, Yama: «Sí, hazlos»)
+Ningún texto de WordPress cambia. Son bloques al final de la página (`Relacionadas.astro`, con los datos en `relacionadas.json` y `estudio-lugares.json`), una entrada de menú y 11 enlaces en textos nuestros.
+1. **Estudio ↔ renders:** cada página de estudio enlaza a otras ciudades, a los renders de su ciudad y país y a precios; los renders de esa ciudad o país enlazan de vuelta. Córdoba y Guadalajara solo enlazan al país, porque sus páginas de renders son las de España.
+2. **«Renders por país y ciudad»** en la portada, en Renders y en Precios.
+3. **Precios:** en el menú Servicios de los renders, en los tipos de render, en los países, en las páginas de estudio y en el texto de los 11 tipos de render nuevos.
+4. **«Estilos parecidos»** antes de «Otros estilos».
+5. **Ciudades:** cada una enlaza a su país, a 4 de las más vistas y a las 5 siguientes de la lista. Los países enlazan a las ciudades que no estaban en su texto.
+6. **«Para seguir»:** de cada estilo y de cada profesión a páginas donde sigue el tema. Los estilos históricos llevan a Tour virtual y Maquetas, sin forzar.
+
+| | Antes | Ahora |
+|---|---|---|
+| Páginas a tres clics de la portada | 39 | 3 |
+| Páginas que solo se alcanzaban por el menú | 16 | 0 |
+| Estudio por ciudad (las 14 nuevas): enlaces del contenido que reciben | 1 | de 5 a 11 |
+| Precios: páginas que la enlazan en bloques de su tema | 0 | 88 |
+| Precios: enlaces dentro del texto | 0 | 11 |
+| Enlaces rotos | 0 | 0 |
+| Enlaces por página (mediana) | 489 | 493 |
+
+**Lo que no baja con esto:** los enlaces por página, la fuerza de las profesiones (viene de la plantilla repetida) y los estilos antiguos sin enlaces en el texto. Eso son los puntos 7, 8 y 9, que esperan a Yama.

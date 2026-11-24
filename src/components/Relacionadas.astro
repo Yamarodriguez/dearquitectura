@@ -4,36 +4,90 @@ import relacionadas from '../data/relacionadas.json';
 import articulos from '../data/articulos.json';
 import menus from '../data/menus.json';
 import popularidad from '../data/popularidad.json';
+import lugares from '../data/estudio-lugares.json';
 import { mapaPaises, paisDeCiudad } from '../lib/paises.mjs';
 import { sinIndexar } from '../lib/indexar';
 
 interface Props { slug: string; menu?: string }
 const { slug, menu } = Astro.props as Props;
 import { paginas } from '../lib/paginas';
+type Enlace = { url: string; nombre: string };
 const porSlug = new Map(paginas.map((p: any) => [p.slug, p]));
-const bloques: { titulo: string; enlaces: { url: string; nombre: string }[] }[] = [];
-const enlace = (s: string) => { const p: any = porSlug.get(s); return p ? { url: new URL(p.url).pathname, nombre: p.title } : null; };
+const bloques: { titulo: string; enlaces: Enlace[] }[] = [];
+const enlace = (s: string, nombre?: string): Enlace | null => { const p: any = porSlug.get(s); return p ? { url: new URL(p.url).pathname, nombre: nombre ?? p.title } : null; };
+const poner = (titulo: string, lista: (Enlace | null)[]) => {
+  const vistos = new Set<string>();
+  const enlaces = lista.filter((e): e is Enlace => !!e && e.url !== `/${slug}/` && !vistos.has(e.url) && !!vistos.add(e.url));
+  if (enlaces.length) bloques.push({ titulo, enlaces });
+};
+// Las n siguientes de la lista, dando la vuelta al final: así cada página recibe enlaces de otras n
+const siguientes = (lista: string[], n: number) => { const i = lista.indexOf(slug); return Array.from({ length: Math.min(n, lista.length - 1) }, (_, k) => lista[(i + 1 + k) % lista.length]); };
+const enGoogle = (s: string) => porSlug.has(s) && !sinIndexar.has(s);
+const visitas = (s: string) => { const v = (popularidad.paginas as Record<string, { clics: number; impresiones: number }>)[s]; return v ? v.clics * 1000 + v.impresiones : 0; };
+const masVistas = (l: string[]) => [...l].sort((a, b) => visitas(b) - visitas(a));
+const aSlug = (u: string) => u.replace(/\//g, '');
+
+// Estilos parecidos y puente a otras páginas (24-11-2026)
+const parientes = (relacionadas.parientes as Record<string, string[]>)[slug] ?? [];
+poner('Estilos parecidos', parientes.map((s) => enlace(s)));
+poner('Para seguir', ((relacionadas.puentes as Record<string, string[][]>)[slug] ?? []).map(([s, n]) => enlace(s, n)));
+if (articulos.renders.includes(slug)) poner('Antes de encargar tu render', relacionadas.precios.map(([s, n]) => enlace(s, n)));
 for (const g of relacionadas.grupos) {
   const lista = (articulos as Record<string, any>)[g.de] as string[];
-  if (lista?.includes(slug)) bloques.push({ titulo: g.titulo, enlaces: lista.filter((s) => s !== slug).map(enlace).filter(Boolean) as any });
+  if (lista?.includes(slug)) poner(g.titulo, lista.filter((s) => !parientes.includes(s)).map((s) => enlace(s)));
 }
-// Renders por país (18-11-2026): cada ciudad enlaza a su país y a las ciudades más visitadas
-// de ese país; cada país, a los demás países. Solo páginas que están en Google.
+
+// Renders por país (18-11-2026): cada ciudad enlaza a su país, a las más visitadas de ese país y a
+// las que le siguen en la lista; cada país, a otros países y a sus ciudades que no están ya en su
+// texto. Solo páginas que están en Google.
 const mapa = mapaPaises(menus);
 const { paises, paisDe } = mapa;
-const visitas = (s: string) => { const v = (popularidad.paginas as Record<string, { clics: number; impresiones: number }>)[s]; return v ? v.clics * 1000 + v.impresiones : 0; };
-const enGoogle = (s: string) => porSlug.has(s) && !sinIndexar.has(s);
-const paisDeEsta = paises.some((p: any) => p.slug === slug) ? undefined : paisDeCiudad(slug, menu, mapa);
+const listaPaises: string[] = paises.map((p: any) => p.slug).filter(enGoogle).sort();
+const ciudadesDe = (pais: string) => Object.entries(paisDe as Record<string, string>).filter(([c, p]) => p === pais && enGoogle(c)).map(([c]) => c).sort();
+const esPais = paises.some((p: any) => p.slug === slug);
+const paisDeEsta = esPais ? undefined : paisDeCiudad(slug, menu, mapa);
 const nombrePais = (p: string) => paises.find((x: any) => x.slug === p)?.nombre ?? p;
 if (paisDeEsta) {
-  const hermanas = Object.entries(paisDe as Record<string, string>).filter(([c, p]) => p === paisDeEsta && c !== slug && enGoogle(c)).map(([c]) => c).sort((a, b) => visitas(b) - visitas(a)).slice(0, 8);
-  bloques.push({ titulo: `Renders en ${nombrePais(paisDeEsta)}`, enlaces: [paisDeEsta, ...hermanas].map(enlace).filter(Boolean) as any });
-} else if (paises.some((p: any) => p.slug === slug)) {
-  const otros = paises.map((p: any) => p.slug).filter((p: string) => p !== slug && enGoogle(p)).sort((a: string, b: string) => visitas(b) - visitas(a)).slice(0, 12);
-  bloques.push({ titulo: 'Renders en otros países', enlaces: otros.map(enlace).filter(Boolean) as any });
+  const ciudades = ciudadesDe(paisDeEsta);
+  const top = masVistas(ciudades.filter((c) => c !== slug)).slice(0, 4);
+  const resto = siguientes(ciudades.includes(slug) ? ciudades : [slug, ...ciudades], ciudades.length).filter((c) => !top.includes(c)).slice(0, 5);
+  poner(`Renders en ${nombrePais(paisDeEsta)}`, [paisDeEsta, ...top, ...resto].map((s) => enlace(s)));
+} else if (esPais) {
+  const propio = JSON.stringify(porSlug.get(slug)?.blocks ?? []);
+  poner(`Más ciudades: renders en ${nombrePais(slug)}`, ciudadesDe(slug).filter((c) => !propio.includes(`/${c}/`)).map((s) => enlace(s)));
+  const top = masVistas(listaPaises.filter((p) => p !== slug)).slice(0, 8);
+  const resto = siguientes(listaPaises, listaPaises.length).filter((p) => !top.includes(p)).slice(0, 4);
+  poner('Renders en otros países', [...top, ...resto].map((s) => enlace(s)));
 }
+
+// Estudio de arquitectura por lugares y renders de la misma ciudad o país, en los dos sentidos (24-11-2026)
+for (const pais of lugares.paises as any[]) {
+  const aqui = pais.lugares.find((l: any) => aSlug(l.url) === slug);
+  if (aqui) {
+    const hermanas = pais.lugares.map((l: any) => aSlug(l.url));
+    const nombreDe = (s: string) => (lugares.paises as any[]).flatMap((p) => p.lugares).find((l: any) => aSlug(l.url) === s)?.nombre;
+    const cerca = siguientes(hermanas, 5);
+    // Si el país tiene pocas ciudades, se completa con las que siguen en la lista de Latinoamérica
+    const america = (lugares.paises as any[]).filter((p) => p.nombre !== 'España').flatMap((p) => p.lugares.map((l: any) => aSlug(l.url)));
+    const lejos = pais.nombre === 'España' ? [] : siguientes(america, america.length).filter((s) => !cerca.includes(s)).slice(0, Math.max(0, 6 - cerca.length));
+    poner('Estudio de arquitectura en otras ciudades', [...cerca, ...lejos].map((s) => enlace(s, nombreDe(s))));
+    const dondeRenders = [aqui.renders, pais.renders].filter((s: string) => s && enGoogle(s));
+    poner(`Renders en ${aqui.nombre.split(' en ').pop()}`, [...dondeRenders.map((s: string) => enlace(s)), enlace('precio-render')]);
+  }
+  const deLaCiudad = pais.lugares.filter((l: any) => l.renders === slug);
+  const suyos = pais.renders === slug ? pais.lugares : deLaCiudad;
+  if (suyos.length) poner(`Estudio de arquitectura en ${pais.renders === slug ? pais.nombre : suyos[0].nombre.split(' en ').pop()}`, suyos.map((l: any) => enlace(aSlug(l.url), l.nombre)));
+}
+
+// Los países y ciudades que más visitas traen, a un clic de la portada, de Renders y de Precios (24-11-2026)
+if (relacionadas.portadas.includes(slug)) {
+  const ciudades = Object.keys(paisDe).filter(enGoogle);
+  poner('Renders por país y ciudad', [...masVistas(listaPaises).slice(0, 16), 'renders-espana', ...masVistas(ciudades).slice(0, 10)].map((s) => enlace(s)));
+}
+if (esPais) poner('Antes de encargar tu render', [enlace('precio-render'), enlace('tipos-de-renders')]);
+
 const extra = (relacionadas.extra as Record<string, { titulo: string; paginas: string[] }>)[slug];
-if (extra) bloques.push({ titulo: extra.titulo, enlaces: extra.paginas.map(enlace).filter(Boolean) as any });
+if (extra) poner(extra.titulo, extra.paginas.map((s) => enlace(s)));
 ---
 {bloques.map((b) => (
   <nav class="relacionadas" aria-label={b.titulo}>

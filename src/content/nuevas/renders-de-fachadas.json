@@ -979,7 +979,7 @@
   {
    "type": "text",
    "text": "El precio del render de una fachada varía con el tamaño del edificio, el nivel de detalle y el número de variantes de acabado. Mira la tabla de precios para orientarte.",
-   "html": "<p>El <strong>precio del render de una fachada</strong> varía con el tamaño del edificio, el nivel de detalle y el número de variantes de acabado. Mira la <strong>tabla de precios</strong> para orientarte.</p>",
+   "html": "<p>El <strong>precio del render de una fachada</strong> varía con el tamaño del edificio, el nivel de detalle y el número de variantes de acabado. Mira la <a href=\"/precio-render/\">tabla de precios</a> para orientarte.</p>",
    "s": 55,
    "texto_propio": true
   },

@@ -975,7 +975,7 @@
   {
    "type": "text",
    "text": "El precio de un render para arquitectos depende de si hay que modelar desde los planos o se parte del modelo del estudio, del número de vistas y del detalle de los interiores. Consulta nuestra tabla de precios para una primera idea.",
-   "html": "<p>El <strong>precio de un render para arquitectos</strong> depende de si hay que modelar desde los planos o se parte del modelo del estudio, del número de vistas y del detalle de los interiores. Consulta nuestra tabla de precios para una primera idea.</p>",
+   "html": "<p>El <strong>precio de un render para arquitectos</strong> depende de si hay que modelar desde los planos o se parte del modelo del estudio, del número de vistas y del detalle de los interiores. Consulta nuestra <a href=\"/precio-render/\">tabla de precios</a> para una primera idea.</p>",
    "s": 55,
    "texto_propio": true
   },

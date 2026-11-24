@@ -957,7 +957,7 @@
   {
    "type": "text",
    "text": "El precio de un render de cafetería varía con la superficie del local, el número de vistas y el detalle de la decoración. Revisa la tabla de precios de renders y pide después tu presupuesto.",
-   "html": "<p>El <strong>precio de un render de cafetería</strong> varía con la superficie del local, el número de vistas y el detalle de la decoración. Revisa la tabla de precios de renders y pide después tu presupuesto.</p>",
+   "html": "<p>El <strong>precio de un render de cafetería</strong> varía con la superficie del local, el número de vistas y el detalle de la decoración. Revisa la <a href=\"/precio-render/\">tabla de precios de renders</a> y pide después tu presupuesto.</p>",
    "s": 55,
    "texto_propio": true
   },

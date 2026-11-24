@@ -1,5 +1,5 @@
 {
-  "_nota": "Lugares de la sección «Estudio de arquitectura» (20-11-2026, informes/estudio-por-lugar.md). La portada de la sección (/estudio-de-arquitectura/) los lista por país y cada lugar lleva las migas Inicio › Estudio › lugar. Para añadir un lugar: su página y una línea aquí.",
+  "_nota": "Lugares de la sección «Estudio de arquitectura» (20-11-2026, informes/estudio-por-lugar.md). La portada de la sección (/estudio-de-arquitectura/) los lista por país y cada lugar lleva las migas Inicio › Estudio › lugar. Para añadir un lugar: su página y una línea aquí. «renders»: página de renders del mismo país o ciudad, para enlazarlas entre sí (24-11-2026). Córdoba y Guadalajara no llevan ciudad: sus páginas de renders son las de España.",
   "seccion": {
     "nombre": "Estudio",
     "url": "/estudio-de-arquitectura/"
@@ -10,11 +10,13 @@
       "lugares": [
         {
           "nombre": "Estudio de arquitectura en Rosario",
-          "url": "/estudio-de-arquitectura-rosario/"
+          "url": "/estudio-de-arquitectura-rosario/",
+          "renders": "renders-rosario"
         },
         {
           "nombre": "Estudio de arquitectura en Santa Fe",
-          "url": "/santa-fe/"
+          "url": "/santa-fe/",
+          "renders": "renders-santa-fe"
         },
         {
           "nombre": "Estudio de arquitectura en Córdoba",
@@ -22,20 +24,24 @@
         },
         {
           "nombre": "Estudio de arquitectura en Buenos Aires",
-          "url": "/estudio-de-arquitectura-buenos-aires/"
+          "url": "/estudio-de-arquitectura-buenos-aires/",
+          "renders": "renders-buenos-aires"
         },
         {
           "nombre": "Estudio de arquitectura en Mendoza",
-          "url": "/estudio-de-arquitectura-mendoza/"
+          "url": "/estudio-de-arquitectura-mendoza/",
+          "renders": "renders-mendoza"
         }
-      ]
+      ],
+      "renders": "renders-argentina"
     },
     {
       "nombre": "México",
       "lugares": [
         {
           "nombre": "Despacho de arquitectura en Ciudad de México",
-          "url": "/despacho-de-arquitectura-ciudad-de-mexico/"
+          "url": "/despacho-de-arquitectura-ciudad-de-mexico/",
+          "renders": "renders-cdmx-ciudad-de-mexico"
         },
         {
           "nombre": "Despacho de arquitectura en Guadalajara",
@@ -43,26 +49,32 @@
         },
         {
           "nombre": "Despacho de arquitectura en Monterrey",
-          "url": "/despacho-de-arquitectura-monterrey/"
+          "url": "/despacho-de-arquitectura-monterrey/",
+          "renders": "renders-monterrey"
         }
-      ]
+      ],
+      "renders": "renders-mexico"
     },
     {
       "nombre": "Colombia",
       "lugares": [
         {
           "nombre": "Estudio de arquitectura en Bogotá",
-          "url": "/estudio-de-arquitectura-bogota/"
+          "url": "/estudio-de-arquitectura-bogota/",
+          "renders": "renders-bogota"
         },
         {
           "nombre": "Estudio de arquitectura en Medellín",
-          "url": "/estudio-de-arquitectura-medellin/"
+          "url": "/estudio-de-arquitectura-medellin/",
+          "renders": "renders-medellin"
         },
         {
           "nombre": "Estudio de arquitectura en Barranquilla",
-          "url": "/estudio-de-arquitectura-barranquilla/"
+          "url": "/estudio-de-arquitectura-barranquilla/",
+          "renders": "renders-barranquilla"
         }
-      ]
+      ],
+      "renders": "renders-colombia"
     },
     {
       "nombre": "Perú",
@@ -75,7 +87,8 @@
           "nombre": "Estudio de arquitectura en Arequipa",
           "url": "/estudio-de-arquitectura-arequipa/"
         }
-      ]
+      ],
+      "renders": "render-peru"
     },
     {
       "nombre": "Uruguay",
@@ -84,7 +97,8 @@
           "nombre": "Estudio de arquitectura en Montevideo",
           "url": "/estudio-de-arquitectura-montevideo/"
         }
-      ]
+      ],
+      "renders": "renders-uruguay"
     },
     {
       "nombre": "Paraguay",
@@ -93,7 +107,8 @@
           "nombre": "Estudio de arquitectura en Asunción",
           "url": "/estudio-de-arquitectura-asuncion/"
         }
-      ]
+      ],
+      "renders": "renders-paraguay"
     },
     {
       "nombre": "Guatemala",
@@ -102,34 +117,41 @@
           "nombre": "Estudio de arquitectura en Ciudad de Guatemala",
           "url": "/estudio-de-arquitectura-guatemala/"
         }
-      ]
+      ],
+      "renders": "renders-guatemala"
     },
     {
       "nombre": "España",
       "lugares": [
         {
           "nombre": "Estudio de arquitectura en Valencia",
-          "url": "/valencia/"
+          "url": "/valencia/",
+          "renders": "renders-valencia"
         },
         {
           "nombre": "Estudio de arquitectura en Castellón",
-          "url": "/castellon/"
+          "url": "/castellon/",
+          "renders": "renders-castellon"
         },
         {
           "nombre": "Estudio de arquitectura en Gandía",
-          "url": "/gandia/"
+          "url": "/gandia/",
+          "renders": "renders-gandia"
         },
         {
           "nombre": "Estudio de arquitectura en Sagunto",
-          "url": "/sagunto/"
+          "url": "/sagunto/",
+          "renders": "renders-sagunto"
         },
         {
           "nombre": "Estudio de arquitectura en Elche",
-          "url": "/arquitectura-elche/"
+          "url": "/arquitectura-elche/",
+          "renders": "renders-elche"
         },
         {
           "nombre": "Estudio de arquitectura en Ibiza",
-          "url": "/ibiza/"
+          "url": "/ibiza/",
+          "renders": "renders-ibiza"
         },
         {
           "nombre": "Estudio de arquitectura en Ávila",
@@ -137,13 +159,16 @@
         },
         {
           "nombre": "Estudio de arquitectura en Toledo",
-          "url": "/estudio-de-arquitectura-toledo/"
+          "url": "/estudio-de-arquitectura-toledo/",
+          "renders": "renders-toledo"
         },
         {
           "nombre": "Estudio de arquitectura en Pamplona",
-          "url": "/pamplona/"
+          "url": "/pamplona/",
+          "renders": "renders-pamplona"
         }
-      ]
+      ],
+      "renders": "renders-espana"
     }
   ]
 }

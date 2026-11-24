@@ -987,7 +987,7 @@
   {
    "type": "text",
    "text": "El precio de un render exterior depende sobre todo del tamaño del edificio, del entorno que haya que modelar (jardín, calle, paisaje) y del número de vistas. Consulta la tabla de precios de renders para tener una aproximación.",
-   "html": "<p>El <strong>precio de un render exterior</strong> depende sobre todo del tamaño del edificio, del entorno que haya que modelar (jardín, calle, paisaje) y del número de vistas. Consulta la tabla de precios de renders para tener una aproximación.</p>",
+   "html": "<p>El <strong>precio de un render exterior</strong> depende sobre todo del tamaño del edificio, del entorno que haya que modelar (jardín, calle, paisaje) y del número de vistas. Consulta la <a href=\"/precio-render/\">tabla de precios de renders</a> para tener una aproximación.</p>",
    "s": 55,
    "texto_propio": true
   },

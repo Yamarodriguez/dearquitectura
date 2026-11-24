@@ -961,7 +961,7 @@
   {
    "type": "text",
    "text": "El precio de un render de producto depende de lo complejo que sea el objeto, de cuántas variantes de color o acabado hagan falta y de si va sobre fondo blanco o en un ambiente. Consulta la tabla de precios para orientarte.",
-   "html": "<p>El <strong>precio de un render de producto</strong> depende de lo complejo que sea el objeto, de cuántas <strong>variantes</strong> de color o acabado hagan falta y de si va sobre fondo blanco o en un ambiente. Consulta la tabla de precios para orientarte.</p>",
+   "html": "<p>El <strong>precio de un render de producto</strong> depende de lo complejo que sea el objeto, de cuántas <strong>variantes</strong> de color o acabado hagan falta y de si va sobre fondo blanco o en un ambiente. Consulta la <a href=\"/precio-render/\">tabla de precios</a> para orientarte.</p>",
    "s": 55,
    "texto_propio": true
   },

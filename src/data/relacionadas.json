@@ -59,5 +59,457 @@
         "inteligencia-artificial-arquitectura"
       ]
     }
-  }
+  },
+  "_nota_24_11_2026": "Revisión de enlaces (informes/estudio-interlinking.md; Yama: «Sí, hazlos»). «parientes»: estilos emparentados, que van primero y salen del bloque «Otros estilos». «puentes»: de cada estilo o profesión a 1–3 páginas donde sigue el tema. «precios»: se pone en los tipos de render. «portadas»: páginas con el bloque «Renders por país y ciudad» (los que más clics traen, de popularidad.json). Los lugares del estudio y sus renders salen de estudio-lugares.json.",
+  "parientes": {
+    "arquitectura-griega": [
+      "arquitectura-romana",
+      "arquitectura-neoclasica",
+      "arquitectura-bizantina",
+      "arquitectura-egipcia"
+    ],
+    "arquitectura-romana": [
+      "arquitectura-griega",
+      "arquitectura-bizantina",
+      "arquitectura-renacentista",
+      "arquitectura-neoclasica"
+    ],
+    "arquitectura-bizantina": [
+      "arquitectura-romana",
+      "arquitectura-griega",
+      "arquitectura-gotica"
+    ],
+    "arquitectura-gotica": [
+      "arquitectura-bizantina",
+      "arquitectura-renacentista",
+      "arquitectura-romana"
+    ],
+    "arquitectura-renacentista": [
+      "arquitectura-barroca",
+      "arquitectura-gotica",
+      "arquitectura-romana",
+      "arquitectura-griega"
+    ],
+    "arquitectura-barroca": [
+      "arquitectura-renacentista",
+      "arquitectura-neoclasica"
+    ],
+    "arquitectura-neoclasica": [
+      "arquitectura-griega",
+      "arquitectura-romana",
+      "arquitectura-barroca"
+    ],
+    "arquitectura-incaica": [
+      "arquitectura-maya",
+      "arquitectura-azteca"
+    ],
+    "arquitectura-maya": [
+      "arquitectura-azteca",
+      "arquitectura-incaica"
+    ],
+    "arquitectura-azteca": [
+      "arquitectura-maya",
+      "arquitectura-incaica"
+    ],
+    "arquitectura-egipcia": [
+      "arquitectura-griega",
+      "arquitectura-maya"
+    ],
+    "arquitectura-moderna": [
+      "arquitectura-brutalista",
+      "arquitectura-industrial",
+      "arquitectura-urbana"
+    ],
+    "arquitectura-brutalista": [
+      "arquitectura-moderna",
+      "arquitectura-industrial",
+      "arquitectura-urbana"
+    ],
+    "arquitectura-industrial": [
+      "arquitectura-moderna",
+      "arquitectura-brutalista",
+      "arquitectura-urbana"
+    ],
+    "arquitectura-urbana": [
+      "arquitectura-moderna",
+      "arquitectura-brutalista",
+      "arquitectura-industrial"
+    ],
+    "arquitectura-bioclimatica": [
+      "arquitectura-sustentable",
+      "arquitectura-mediterranea"
+    ],
+    "arquitectura-sustentable": [
+      "arquitectura-bioclimatica",
+      "arquitectura-mediterranea"
+    ],
+    "arquitectura-mediterranea": [
+      "arquitectura-bioclimatica",
+      "arquitectura-sustentable",
+      "arquitectura-romana"
+    ]
+  },
+  "puentes": {
+    "arquitectura-griega": [
+      [
+        "tour-virtual",
+        "Recorrer un edificio en un tour virtual"
+      ],
+      [
+        "maquetas-de-arquitectura",
+        "Maquetas de arquitectura"
+      ]
+    ],
+    "arquitectura-romana": [
+      [
+        "tour-virtual",
+        "Recorrer un edificio en un tour virtual"
+      ],
+      [
+        "maquetas-de-arquitectura",
+        "Maquetas de arquitectura"
+      ]
+    ],
+    "arquitectura-bizantina": [
+      [
+        "tour-virtual",
+        "Recorrer un edificio en un tour virtual"
+      ],
+      [
+        "maquetas-de-arquitectura",
+        "Maquetas de arquitectura"
+      ]
+    ],
+    "arquitectura-gotica": [
+      [
+        "tour-virtual",
+        "Recorrer un edificio en un tour virtual"
+      ],
+      [
+        "maquetas-de-arquitectura",
+        "Maquetas de arquitectura"
+      ]
+    ],
+    "arquitectura-renacentista": [
+      [
+        "tour-virtual",
+        "Recorrer un edificio en un tour virtual"
+      ],
+      [
+        "maquetas-de-arquitectura",
+        "Maquetas de arquitectura"
+      ]
+    ],
+    "arquitectura-barroca": [
+      [
+        "tour-virtual",
+        "Recorrer un edificio en un tour virtual"
+      ],
+      [
+        "maquetas-de-arquitectura",
+        "Maquetas de arquitectura"
+      ]
+    ],
+    "arquitectura-neoclasica": [
+      [
+        "tour-virtual",
+        "Recorrer un edificio en un tour virtual"
+      ],
+      [
+        "maquetas-de-arquitectura",
+        "Maquetas de arquitectura"
+      ]
+    ],
+    "arquitectura-incaica": [
+      [
+        "tour-virtual",
+        "Recorrer un edificio en un tour virtual"
+      ],
+      [
+        "maquetas-de-arquitectura",
+        "Maquetas de arquitectura"
+      ]
+    ],
+    "arquitectura-maya": [
+      [
+        "tour-virtual",
+        "Recorrer un edificio en un tour virtual"
+      ],
+      [
+        "maquetas-de-arquitectura",
+        "Maquetas de arquitectura"
+      ]
+    ],
+    "arquitectura-azteca": [
+      [
+        "tour-virtual",
+        "Recorrer un edificio en un tour virtual"
+      ],
+      [
+        "maquetas-de-arquitectura",
+        "Maquetas de arquitectura"
+      ]
+    ],
+    "arquitectura-egipcia": [
+      [
+        "tour-virtual",
+        "Recorrer un edificio en un tour virtual"
+      ],
+      [
+        "maquetas-de-arquitectura",
+        "Maquetas de arquitectura"
+      ]
+    ],
+    "arquitectura-mediterranea": [
+      [
+        "render-casa",
+        "Ver tu casa en un render"
+      ],
+      [
+        "renders-exteriores",
+        "Renders de exteriores"
+      ]
+    ],
+    "arquitectura-moderna": [
+      [
+        "render-casa",
+        "Ver tu casa en un render"
+      ],
+      [
+        "arquitecto-moderno",
+        "Arquitecto moderno"
+      ]
+    ],
+    "arquitectura-brutalista": [
+      [
+        "renders-edificios",
+        "Renders de edificios"
+      ],
+      [
+        "renders-de-fachadas",
+        "Renders de fachadas"
+      ]
+    ],
+    "arquitectura-industrial": [
+      [
+        "renders-oficinas",
+        "Renders de oficinas"
+      ],
+      [
+        "renders-locales-comerciales",
+        "Renders de locales comerciales"
+      ]
+    ],
+    "arquitectura-urbana": [
+      [
+        "renders-edificios",
+        "Renders de edificios"
+      ],
+      [
+        "renders-de-parques",
+        "Renders de parques"
+      ],
+      [
+        "arquitecto-urbano",
+        "Arquitecto urbano"
+      ]
+    ],
+    "arquitectura-bioclimatica": [
+      [
+        "disenos-arquitectonicos",
+        "Diseños arquitectónicos"
+      ],
+      [
+        "render-casa",
+        "Ver tu casa en un render"
+      ]
+    ],
+    "arquitectura-sustentable": [
+      [
+        "disenos-arquitectonicos",
+        "Diseños arquitectónicos"
+      ],
+      [
+        "construccion",
+        "Construcción"
+      ]
+    ],
+    "arquitectos": [
+      [
+        "estudio-de-arquitectura",
+        "Estudio de arquitectura"
+      ],
+      [
+        "proyectos-de-arquitectura",
+        "Proyectos de arquitectura"
+      ]
+    ],
+    "arquitectos-famosos": [
+      [
+        "tipos-de-arquitectura",
+        "Tipos de arquitectura"
+      ],
+      [
+        "proyectos-de-arquitectura",
+        "Proyectos de arquitectura"
+      ]
+    ],
+    "arquitecto-disenador": [
+      [
+        "disenos-arquitectonicos",
+        "Diseños arquitectónicos"
+      ],
+      [
+        "renders-arquitectura",
+        "Renders de arquitectura"
+      ]
+    ],
+    "arquitecto-moderno": [
+      [
+        "arquitectura-moderna",
+        "Arquitectura moderna"
+      ],
+      [
+        "render-casa",
+        "Render de casas"
+      ]
+    ],
+    "arquitecto-tecnico": [
+      [
+        "construccion",
+        "Construcción"
+      ],
+      [
+        "reformas",
+        "Reformas"
+      ]
+    ],
+    "arquitecto-urbano": [
+      [
+        "arquitectura-urbana",
+        "Arquitectura urbana"
+      ],
+      [
+        "renders-edificios",
+        "Renders de edificios"
+      ]
+    ],
+    "arquitectos-de-interiores": [
+      [
+        "interiorismo",
+        "Interiorismo"
+      ],
+      [
+        "renders-interiores",
+        "Renders de interiores"
+      ]
+    ],
+    "aparejadores": [
+      [
+        "reformas",
+        "Reformas"
+      ],
+      [
+        "construccion",
+        "Construcción"
+      ]
+    ],
+    "delineante": [
+      [
+        "planos",
+        "Planos de arquitectura"
+      ],
+      [
+        "modelado-3d",
+        "Modelado 3D"
+      ]
+    ],
+    "calculista": [
+      [
+        "planos",
+        "Planos de arquitectura"
+      ],
+      [
+        "construccion",
+        "Construcción"
+      ]
+    ],
+    "decorador": [
+      [
+        "renders-interiores",
+        "Renders de interiores"
+      ],
+      [
+        "home-staging",
+        "Home staging virtual"
+      ]
+    ],
+    "interiorista": [
+      [
+        "interiorismo",
+        "Interiorismo"
+      ],
+      [
+        "renders-interiores",
+        "Renders de interiores"
+      ],
+      [
+        "home-staging",
+        "Home staging virtual"
+      ]
+    ],
+    "paisajista": [
+      [
+        "renders-de-parques",
+        "Renders de parques"
+      ],
+      [
+        "renders-exteriores",
+        "Renders de exteriores"
+      ]
+    ],
+    "proyectista": [
+      [
+        "planos",
+        "Planos de arquitectura"
+      ],
+      [
+        "proyectos-de-arquitectura",
+        "Proyectos de arquitectura"
+      ]
+    ],
+    "renderista": [
+      [
+        "renders",
+        "Renders"
+      ],
+      [
+        "renders-arquitectura",
+        "Renders de arquitectura"
+      ],
+      [
+        "precio-render",
+        "¿Cuánto cuesta un render?"
+      ]
+    ]
+  },
+  "precios": [
+    [
+      "precio-render",
+      "¿Cuánto cuesta un render?"
+    ],
+    [
+      "planos",
+      "Planos para tu render"
+    ],
+    [
+      "modelado-3d",
+      "Modelado 3D"
+    ]
+  ],
+  "portadas": [
+    "index",
+    "renders",
+    "precio-render"
+  ]
 }

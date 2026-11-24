@@ -35,7 +35,7 @@ export function paisDeCiudad(slug, menuPagina, mapa) {
  */
 export const SIN_DESTINO = { interiorismo: '/interiorismo/', 'i.a': '/inteligencia-artificial-arquitectura/' };
 
-export function ajustarMenu(nombre, items, sinIndexar, estilosNuevos = [], rendersNuevos = [], serviciosNuevos = []) {
+export function ajustarMenu(nombre, items, sinIndexar, estilosNuevos = [], rendersNuevos = [], serviciosNuevos = [], preciosNuevos = []) {
   const limpiar = (lista, nivel, padre) => lista
     .filter((i) => !sinIndexar.has(slugDe(i.url)))
     .map((i) => {
@@ -50,7 +50,8 @@ export function ajustarMenu(nombre, items, sinIndexar, estilosNuevos = [], rende
   // Estilos nuevos (páginas de src/content/nuevas): al desplegable que ya lista los estilos
   // (Tipos o Arquitectura), detrás de los que hay, si no están ya.
   // Igual con los tipos de render nuevos, en el desplegable que ya lista los tipos de render.
-  for (const [marca, nuevos] of [['arquitectura-romana', estilosNuevos], ['renders-piscinas', rendersNuevos], ['maquetas-de-arquitectura', serviciosNuevos]]) {
+  // Y la página de precios, en el Servicios de los menús de renders (24-11-2026).
+  for (const [marca, nuevos] of [['arquitectura-romana', estilosNuevos], ['renders-piscinas', rendersNuevos], ['maquetas-de-arquitectura', serviciosNuevos], ['renderizado', preciosNuevos]]) {
     if (!nuevos.length) continue;
     const poner = (lista) => lista.forEach((i) => {
       const h = i.children ?? [];
