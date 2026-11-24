@@ -238,3 +238,10 @@ Ningún texto de WordPress cambia. Son bloques al final de la página (`Relacion
 | Enlaces por página (mediana) | 489 | 493 |
 
 **Lo que no baja con esto:** los enlaces por página, la fuerza de las profesiones (viene de la plantilla repetida) y los estilos antiguos sin enlaces en el texto. Eso son los puntos 7, 8 y 9, que esperan a Yama.
+
+## Hecho: punto 9 en inca, maya y bizantina (24-11-2026, Yama: «Sí, publícalos»)
+- **Qué se añade** (src/data/anadidos/arquitectura-incaica, -maya y -bizantina.json; no se toca el texto de WordPress): respuesta corta, datos clave, características con enlaces a los estilos parientes, tabla de obras, 3 preguntas y fuentes. Las preguntas y las fuentes van más abajo (`faq_despues_de`, nuevo en scripts/anadidos.mjs).
+- **Fuentes:** Wikipedia en español e inglés e INAH. UNESCO, Britannica, World History, Smarthistory y el Met no se pudieron leer y no se citan.
+- **Dos datos leídos solo en el resumen de la página:** los 2.200 glifos de Copán y los capiteles calados.
+- **Diferencias con el texto original, que no se toca:** inicio de la arquitectura inca (siglo XIII en el original; 1438, época imperial, en lo añadido) y fechas de San Marcos de Venecia.
+- **Faltan** los demás estilos antiguos.
