@@ -154,3 +154,66 @@ Solo estudio, sin cambios en la web. Guardado en `informes/estudio-interlinking.
 | Enlaces a las páginas sin indexar | 34.407 | 79 (los del texto original) |
 
 - **Lógica:** `src/lib/paises.mjs`. La comprobación de contenido acepta los enlaces que se quitan del menú. `npm run todo` y `todo:visual`, a 0.
+
+---
+
+# Revisión a fondo (24-11-2026)
+
+Yama: «hazme el interlinking, analizarlo en profundidad y decirme si está bien, y luego cómo seguimos».
+
+**Estado:** solo análisis. No se ha cambiado ningún enlace.
+
+**Datos:** los 188.222 enlaces de la web construida (368 páginas, 276 para Google), cruzados con Search Console (16 meses, exportado el 14-11-2026). La «fuerza» de cada página es un cálculo propio que imita cómo reparte Google el valor de los enlaces: sirve para comparar páginas, no es un dato de Google.
+
+## Veredicto: la base está bien, el reparto no
+| Punto | Estado | Detalle |
+|---|---|---|
+| Enlaces rotos | Bien | 0 |
+| Enlaces que dan un rodeo (redirección) | Bien | 0 |
+| Páginas a las que no se llega | Bien | 0 de 276 |
+| Clics desde la portada | Regular | 114 a un clic, 122 a dos y 39 a tres |
+| Enlaces por página (mediana) | Mal | 489, con 134 del menú repetidos en el del móvil |
+| Enlaces propios dentro del texto | **Mal** | Media de 1,6 por página; la mitad de las páginas no tiene ninguno |
+| Páginas que no reciben ninguno de esos enlaces | **Mal** | 90 de 276, entre ellas bizantina y urbana |
+| Reparto de la fuerza | **Mal** | Va a las profesiones y no a lo que trae visitas |
+| Unión entre secciones | **Mal** | Estudio por ciudad y renders por ciudad no se enlazan |
+| Textos de los enlaces | Regular | Palabras sueltas y fotos con guiones |
+
+## Los fallos, por importancia
+1. **La fuerza va a las páginas que menos visitas traen.** Las 15 profesiones ocupan casi todos los primeros puestos. Toda la sección trae 27 clics en 16 meses, pero la plantilla la enlaza desde unas 270 páginas.
+
+| Página | Clics en 16 meses | Puesto en fuerza (de 368) |
+|---|---|---|
+| Renders Guatemala / Paraguay / Uruguay | 86 / 82 / 76 | 142 / 141 / 137 |
+| Renders Barranquilla | 60 | 312 |
+| Renders Medellín | 57 | 310 |
+| Renders Cali | 55 | 311 |
+| Renders Quito | 32 | 315 |
+
+2. **Las 14 páginas nuevas de estudio por ciudad reciben un solo enlace** dentro del contenido, el de la portada de la sección. No están en ningún menú, no se enlazan entre sí y no enlazan a los renders de su ciudad ni reciben enlaces de ellos. Rosario y Santa Fe sí están en menús.
+3. **/precio-render/ no recibe ningún enlace dentro del texto.** Todos (183 páginas de las que van en Google) son el botón «Precios». No está en el menú. La página sí enlaza bien hacia fuera (20 enlaces).
+4. **39 páginas están a tres clics**, entre ellas Barranquilla, Medellín, Cali, Quito, Puebla, Monterrey y CDMX. Son de las ciudades que mejor funcionan.
+5. **16 ciudades solo se alcanzan por el menú:** 15 de España (Alcoy, Benidorm, Castelldefels, El Ejido, Gandía, Granollers, Irún, Lorca, Manresa, Motril, Orihuela, Paterna, Pinto, Torrevieja, Vilanova) y Francia. El bloque «Renders en <país>» solo enseña las 8 más visitadas.
+6. **Los estilos casi no se enlazan en el texto:** 15 enlaces, casi todos desde los 5 nuevos. El bloque «Otros estilos» pone los 17 iguales, sin decir cuáles son parientes.
+7. **Ningún estilo enlaza a un servicio desde su texto propio.** Los que traen las visitas no llevan al negocio.
+8. **Detalles:**
+   - El botón «IA» lleva a Programas de arquitectura en 88 páginas, y debería llevar a Inteligencia artificial.
+   - 23.359 fotos con enlace tienen textos con guiones («arquitectura-incas») y 403 no tienen texto.
+   - «Haz clic aquí» sale 58 veces para ir a Contacto.
+   - 79 enlaces van a ciudades que no están en Google (en Renders, Renders España y Renders Argentina).
+   - El mismo destino se repite casi dos veces en cada página (foto y título).
+
+## Qué hacer (en este orden)
+| # | Cambio | Toca texto de WordPress | Impacto |
+|---|---|---|---|
+| 1 | Unir estudio ↔ renders de la misma ciudad y del país, y cada estudio con los de su país | No | Alto |
+| 2 | Bloque «Renders por país y ciudad» en la portada y en Renders, con los que más visitas traen: Barranquilla, Medellín, Cali y Quito pasan a dos clics | No | Alto |
+| 3 | /precio-render/ en el menú de Renders y enlazada en el texto de los tipos de render nuevos y en los bloques de países | No | Alto |
+| 4 | «Estilos parecidos»: 4 o 5 parientes primero (griega → romana, neoclásica, bizantina…) | No | Medio-alto |
+| 5 | Todas las ciudades de Google enlazadas desde su país, y las ciudades vecinas rotando en vez de siempre las mismas 8 | No | Medio |
+| 6 | Puente de cada estilo a 1 o 2 servicios que encajen (mediterránea → Render de casas) | No: bloque añadido | Alto |
+| 7 | Botón «IA», textos de las fotos y menú del móvil sin duplicar enlaces | El botón y los textos de foto, sí | Medio |
+| 8 | Quitar el bloque repetido de las páginas que no son de sección (parte C del análisis) | Sí | El más alto, junto con el 9 |
+| 9 | Respuesta corta, datos y enlaces dentro del texto en los estilos antiguos (parte D) | Añade texto | El más alto |
+
+**Objetivo:** que cada página con visitas reciba al menos 5 enlaces propios desde el texto o desde bloques de su mismo tema, que ninguna esté a más de dos clics y que haya menos de 250 enlaces por página.

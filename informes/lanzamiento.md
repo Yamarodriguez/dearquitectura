@@ -42,3 +42,22 @@ publicados hoy (consultados en internet, no en el panel de OVH).
 
 ## Fase 8 (a las dos semanas)
 `npm run comprobar:web -- https://dearquitectura.info` y Search Console: clics de las páginas con tráfico (bizantina, incaica, urbana, maya, renders-guatemala, -paraguay, -uruguay), antes y después.
+
+## URGENTE: estado real visto el 24-11-2026
+- **El dominio ya apunta a Netlify** (cambio en el registro del 22-11-2026) y la web nueva está publicada. `comprobar:web` da 0 fallos: 317 páginas y 297 fotos que Google conoce, 276 del mapa y 8 redirecciones.
+- **El interruptor sigue apagado** (`indexar: false`). Todas las páginas miradas en vivo llevan `noindex, follow`, robots.txt no anuncia el mapa y no están GA4 ni AdSense. Cuando Google pase, puede sacar la web de los resultados. Sin la etiqueta GA4, Search Console también puede perder la verificación.
+- **El correo no tiene registros.** Los DNS no se quedaron en OVH (D4): ahora son los de Netlify (dns1 a dns4.p04.nsone.net), y ahí no hay MX ni SPF. Los correos a arquitectura@dearquitectura.info no tienen adónde llegar. La zona de OVH sigue guardada.
+- **Registros que faltan en Netlify** (Domain management → DNS → Add record), copiados de la zona de OVH. Los MX, el SPF y el SRV se han consultado hoy; los CNAME salen de la lista del 15-11-2026, porque hoy OVH no ha contestado a esa consulta:
+
+| Tipo | Nombre | Valor | Prioridad |
+|---|---|---|---|
+| MX | @ | mx1.mail.ovh.net | 1 |
+| MX | @ | mx2.mail.ovh.net | 5 |
+| MX | @ | mx3.mail.ovh.net | 100 |
+| TXT | @ | v=spf1 include:mx.ovh.com ~all | |
+| CNAME | mail, smtp, imap, pop3 (uno por cada uno) | ssl0.ovh.net | |
+| CNAME | autodiscover, autoconfig (uno por cada uno) | mailconfig.ovh.net | |
+| SRV | _autodiscover._tcp | mailconfig.ovh.net, puerto 443 | 0 |
+
+- **La copia dearquitectura.netlify.app sigue abierta.** Al encender Google hay que activar su redirección al dominio en netlify.toml.
+- **Sin comprobar:** si Google ya ha quitado páginas, y el envío real del formulario.
